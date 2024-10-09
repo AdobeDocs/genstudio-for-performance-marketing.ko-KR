@@ -3,9 +3,9 @@ title: 성과 마케팅을 위한 Adobe GenStudio의 브랜드 유효성 검사
 description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: f9bfd6d7429f1f24947c398ec73b4b350a7e828f
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -65,19 +65,22 @@ _브랜드 유효성 검사_ 패널에서 표시되는 지침을 필터링할 �
 
 **생성된 콘텐츠 변형에 대한 브랜드 정렬을 개선하려면**:
 
-1. 개별 변형에 대한 **[!UICONTROL [!DNL Brand]지침 확인]** 아이콘을 클릭합니다.
+1. 개별 변형에 대한 **[!UICONTROL [!DNL Brand]지침 확인]** 아이콘을 클릭합니다. [!DNL Brand] 지침 검사는 변형에 대한 브랜드 정렬의 백분율을 보여 줍니다.
 
    브랜드 유효성 검사를 충족하거나 더 많은 주의가 필요한 브랜드 가이드라인 수에 대한 요약을 참조하십시오.
 
 1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 상단 메뉴 막대의 _브랜드 유효성 검사_ 아이콘을 클릭하여 _브랜드 유효성 검사_ 패널을 열려면 **[!UICONTROL 검토]** _또는_&#x200B;을(를) 클릭하십시오.
 
-   주의가 필요한 모든 섹션 및 브랜드 지침을 살펴보십시오. <!-- The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas. -->
+   주의가 필요한 모든 섹션 및 브랜드 지침을 살펴보십시오.
 
    >[!NOTE]
    >
    > _브랜드 유효성 검사 패널_&#x200B;에 언급된 _브랜드 음성_ 지침은 개별 섹션이 아닌 전체 변형에 적용됩니다. 전체 콘텐츠 변형은 제안된 개선 사항을 위해 강조 표시됩니다.
 
-1. 수동으로 변형 섹션을 수정하여 브랜드에 가장 강력한 정렬을 구현합니다.
+1. **[!UICONTROL 다음]** 및 **[!UICONTROL 이전]** 단추를 사용하여 주의가 필요한 각 지침을 클릭합니다.
+
+1. 각 지침에 대해 언급된 추론을 사용하여 브랜드에 가장 강한 정렬을 달성하기 위해 변형 섹션의 수정 사항을 알립니다.
+
 
 1. 필요한 수정 사항을 적용한 후 **[!UICONTROL 다시 확인]**&#x200B;을 클릭하여 변경 사항을 다시 확인하고 확인하여 브랜드 ID와 보다 긴밀하게 일치하는지 확인하십시오.
 
