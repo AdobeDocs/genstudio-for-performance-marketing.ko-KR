@@ -3,7 +3,7 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -28,9 +28,11 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 오른쪽의 갤러리 위에 있는 **[!UICONTROL 위치]** 목록을 사용하면 연결된 Adobe Experience Manager(AEM) [!DNL Assets Content Hub] 리포지토리에서 선택할 수 있습니다. AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
+[!DNL AEM Assets Content Hub] 리포지토리를 GenStudio for Performance Marketing에 추가하는 방법에 대한 지침은 [AEM 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
+
 AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 [시스템 메타데이터](asset-details.md#system-metadata)를 사용하여 `GenStudio assets` 저장소에 저장됩니다.
 
-[!DNL AEM Assets Content Hub] 리포지토리를 GenStudio for Performance Marketing에 추가하는 방법에 대한 지침은 [AEM 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
+{{note-aem-assets}}
 
 ## Assets 관리
 
