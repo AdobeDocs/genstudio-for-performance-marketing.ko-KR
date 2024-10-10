@@ -16,63 +16,34 @@ ht-degree: 0%
 # Adobe GenStudio 아카데미 {#genstudio-academy}
 
 <table>
-
 <tr>
-
   <td>
-
     <a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5">
-
       <img alt="Adobe GenStudio 아카데미 등록" src="/help/assets/card-create-assets.png" />
-
     </a>
-
     <div>
-
       <a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5">
-
     등록
-
     </a>
-
     </div>
-
     <p>
-
     Adobe GenStudio 아카데미를 <em>처음 사용하시겠습니까? 지금 등록하고 학습을 시작합니다!</em>
-
     <p>
-
   </td>
-
   <td>
-
     <a href="https://genstudioacademy.adobelearningmanager.com/">
-
     <img alt="Adobe GenStudio 아카데미에 로그인" src="/help/assets/card-manage-content.png" />
-
     </a>
-
     <div>
-
     <a href="https://genstudioacademy.adobelearningmanager.com/">
-
     로그인
-
     </a>
-
     </div>
-
     <p>
-
     <em>Adobe GenStudio 학원에 계정이 이미 있으십니까? 로그인하고 학습을 시작합니다!</em>
-
     </p>
-
   </td>
-
 </tr>
-
 </table>
 
 
