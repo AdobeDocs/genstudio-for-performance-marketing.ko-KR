@@ -4,12 +4,11 @@ description: 성능 마케팅을 위해 Adobe GenStudio에서 이메일 경험�
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 30cd73ba1beb582ea4ac73eca7e17715f9aafc66
+source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -43,13 +42,12 @@ ht-degree: 0%
 
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
-1. 콘텐츠 생성에 영향을 미치려면 **[!UICONTROL 콘텐츠 선택]**&#x200B;을 클릭하여 *및* 경험에 사용할 콘텐츠를 추가합니다.
-   * [!DNL Content] 저장소에서 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭합니다. 하나 이상의 이미지를 필터링하고 선택합니다.
+1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
+   * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
 
      연결된 [!DNL AEM Assets Content Hub] 저장소의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 저장소를 선택하십시오. 하나 이상의 이미지를 필터링하고 선택합니다.
 
-   * 하나 이상의 새 자산을 업로드하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하고 파일을 찾은 다음 사용할 자산을 선택하십시오. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수 있습니다. 을(를) 클릭하여 원하는 이미지를 선택합니다.
-   * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
+   * 또는 자산을 **[!UICONTROL 콘텐츠에서 선택]** 섹션으로 끌어다 놓아 하나 이상의 새 자산을 업로드하십시오.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 >[!NOTE]
@@ -124,7 +122,7 @@ ht-degree: 0%
 
 생성된 이메일을 현재 및 향후에 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
-1. **새 전자 메일 환경을 게시하려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL Publish]**&#x200B;을 클릭하세요.
+1. **새 전자 메일 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL Publish]**&#x200B;을 클릭하세요.
 1. **새 전자 메일 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭하세요.
    1. CSV 및 이미지 또는 HTML 전용 형식을 선택하고 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 

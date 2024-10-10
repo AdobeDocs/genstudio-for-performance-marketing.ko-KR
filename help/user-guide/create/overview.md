@@ -3,9 +3,9 @@ title: 성능 마케팅을 위한 GenStudio 개요 [!DNL Create]
 description: 성과 마케팅을 위한 Adobe GenStudio [!DNL Create]에서 생성 AI를 사용하여 성과가 좋은 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: 7c1ea8d2738da39521f3ec26d69982ef64b2576e
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '559'
 ht-degree: 1%
 
 ---
@@ -18,46 +18,78 @@ GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능�
 
 * [전자 메일](email-experiences.md)
 * [메타 광고](meta-experiences.md)
-<!-- * Social media images and ads
-* Display ads -->
+* [광고 표시](display-ad-experiences.md)
 
 [지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 강력한 기능과 함께 [!DNL Create]을(를) 통해 효과적인 브랜드 중심 마케팅 콘텐츠를 만들 수 있습니다.
 
 ## [!DNL Create] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="새 콘텐츠 만들기" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>전자 메일 환경 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <!-- <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/content/overview.md">
+
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/content/overview.md">
+
          <strong>Re-use existing content</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../create/generate-variants.md">
+
       <img alt="Generate variants of approved content" src="../../assets/icons/icon-template.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="../create/generate-variants.md">
+
          <strong>Generate variants of approved content</strong>
+
          </a>
+
       </div>
+
    </td> -->
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
