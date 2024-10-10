@@ -3,7 +3,7 @@ title: 성능 마케팅을 위한 GenStudio 개요 [!DNL Create]
 description: 성과 마케팅을 위한 Adobe GenStudio [!DNL Create]에서 생성 AI를 사용하여 성과가 좋은 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 7c1ea8d2738da39521f3ec26d69982ef64b2576e
+source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
@@ -141,7 +141,3 @@ GenStudio for Performance Marketing은 브랜드 ID의 다양한 측면에 대�
 GenStudio for Performance Marketing을 사용하면 [개별 변형의 섹션을 포괄적으로 제어할 수 있습니다](/help/user-guide/create/manage-variants.md).
 
 단일 변형의 섹션을 수정하고, 개별 섹션의 콘텐츠를 다시 생성하고, 제안된 편집 내용을 사용하여 메시지, 에셋 크기 조정 등을 캔버스 내에서 모두 개선할 수 있습니다.
-
-<!-- ### Anatomy of an email experience
-
-## Prerequisites for using Create -->
