@@ -3,7 +3,7 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
+source-git-commit: 600d4a37be22bd057074b4dd3773b75f0273a567
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -36,7 +36,7 @@ AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타�
 
 ## Assets 관리
 
-[!UICONTROL 콘텐츠]에서 성능 마케터는 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 리포지토리와 AEM 리포지토리를 모두 활용함으로써 사용자는 다양한 마케팅 캠페인에 맞게 에셋을 잘 구성하고 액세스할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
+[!UICONTROL 콘텐츠]에서 성과 마케팅은 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 리포지토리와 AEM 리포지토리를 모두 활용함으로써 사용자는 다양한 마케팅 캠페인에 맞게 에셋을 잘 구성하고 액세스할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
 
 ### 에셋 추가
 
@@ -66,7 +66,7 @@ AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타�
 
 1. 새로 업로드한 자산을 보려면 캔버스 하단의 _사용 가능한 새 자산_ 알림에서 **[!UICONTROL 새로 고침]**&#x200B;을 클릭하세요.
 
-<!-- 
+<!--
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 

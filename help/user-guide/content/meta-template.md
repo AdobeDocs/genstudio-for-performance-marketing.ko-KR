@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing용 사용자 지정 메�
 level: Intermediate
 feature: Templates, Content
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%

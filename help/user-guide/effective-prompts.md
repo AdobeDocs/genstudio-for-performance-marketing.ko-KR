@@ -3,7 +3,7 @@ title: 유효한 프롬프트 작성
 description: Adobe GenStudio for Performance Marketing에 대한 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -39,13 +39,13 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## 프롬프트 기준
 
-GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)에서는 프롬프트 영역에서 **[!UICONTROL 프롬프트 기준]**([_매개 변수_](/help/user-guide/create/overview.md#parameters) 및 프롬프트)을 사용하여 선택을 통해 세부 정보를 추가하여 AI 해석을 개선할 수 있습니다.
+GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)에서는 프롬프트 서랍에서 **[!UICONTROL 프롬프트 기준]**([_매개 변수_](/help/user-guide/create/overview.md#parameters) 및 프롬프트)을 사용하여 선택을 통해 세부 정보를 추가하여 AI 해석을 개선할 수 있습니다.
 
 [이메일](/help/user-guide/create/email-experiences.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 [지침](/help/user-guide/guidelines/overview.md) 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [메타데이터](/help/user-guide/create/create-meta-ad.md)의 경우 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
 
 >[!NOTE]
 >
->프롬프트 영역의 _매개 변수_&#x200B;에 지침이 추가된 경우 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 콘텐츠 생성에서 해당 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 활용합니다.
+>프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 콘텐츠 생성에서 해당 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 활용합니다.
 
 ### 지침
 

@@ -4,7 +4,7 @@ description: 새 브랜드 정렬 마케팅 콘텐츠를 생성하도록 GenStud
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Adobe GenStudio for Performance Marketing은 브랜드 정체성을 반영하고
 
 **편집자**&#x200B;에게 GenStudio for Performance Marketing [!DNL Brands], [!DNL Campaigns] 및 [!DNL Content] 자산을 만드는 데 필요한 핵심 권한이 있습니다. 자신이 만든 에셋을 편집하고 삭제할 수도 있습니다. GenStudio for Performance Marketing은 수백 개의 컨텐츠를 빠르게 만들 수 있도록 지원합니다. 이러한 사용자는 특정 마케팅 캠페인의 요구 사항을 충족하도록 승인된 콘텐츠의 개별 조각을 오케스트레이션하는 콘텐츠 섹션 또는 전체 경험을 생성할 수 있습니다.
 
-편집자는 _확인_&#x200B;을 통해 GenStudio for Performance Marketing 생성 AI 기술과 상호 작용합니다. 캔버스의 프롬프트 영역은 특정 캠페인 지침의 컨텍스트에 프롬프트를 배치하는 도구를 제공합니다. 따라서 생성된 콘텐츠의 품질과 성공은 조직이 업로드한 브랜드 지침의 품질과 프롬프트의 특수성에 따라 부분적으로 달라집니다.
+편집자는 _확인_&#x200B;을 통해 GenStudio for Performance Marketing 생성 AI 기술과 상호 작용합니다. 캔버스의 프롬프트 서랍에서는 특정 캠페인 지침의 컨텍스트에 프롬프트를 배치할 수 있는 도구를 제공합니다. 따라서 생성된 콘텐츠의 품질과 성공은 조직이 업로드한 브랜드 지침의 품질과 프롬프트의 특수성에 따라 부분적으로 달라집니다.
 
 [유효한 프롬프트 쓰기](effective-prompts.md)를 참조하십시오.
 

@@ -1,11 +1,11 @@
 ---
 title: 디스플레이 광고 경험 만들기
-description: 성능 마케터용 Adobe [!DNL GenStudio] 에서 디스플레이 광고 경험을 만드는 방법을 알아봅니다.
+description: 성과 마케팅을 위해  [!DNL GenStudio]  Adobe에서 디스플레이 광고 경험을 만드는 방법을 알아봅니다.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
+source-git-commit: 9fc0ad86b99ca61a73b46fd8febfcf66b2975d75
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -33,14 +33,14 @@ ht-degree: 0%
 
 ## 매개 변수 추가
 
-프롬프트 영역에서 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 대체되며 디스플레이 광고 경험을 생성하기 위한 필수 준비 단계입니다.
+프롬프트 창에 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 대체되며 디스플레이 광고 경험을 생성하기 위한 필수 준비 단계입니다.
 
 **매개 변수 및 자산을 추가하려면**:
 
-1. _매개 변수_ 아이콘을 클릭하여 프롬프트 영역을 확장합니다.
+1. 프롬프트 창을 확장하려면 _매개 변수_ 아이콘을 클릭하십시오.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
-   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케터를 위한 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
+   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. *및* 경험에서 사용할 콘텐츠를 추가하여 콘텐츠 생성에 영향을 미치려면 다음을 수행하십시오.
    * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
@@ -50,7 +50,7 @@ ht-degree: 0%
    * 또는 자산을 **[!UICONTROL 콘텐츠에서 선택]** 섹션으로 끌어다 놓아 하나 이상의 새 자산을 업로드하십시오.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
-매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 영역을 축소합니다.
+매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 서랍을 축소합니다.
 
 ## 프롬프트 입력
 

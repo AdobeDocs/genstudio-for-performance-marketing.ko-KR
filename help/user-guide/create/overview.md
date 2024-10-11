@@ -3,7 +3,7 @@ title: 성능 마케팅을 위한 GenStudio 개요 [!DNL Create]
 description: 성과 마케팅을 위한 Adobe GenStudio [!DNL Create]에서 생성 AI를 사용하여 성과가 좋은 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
@@ -25,42 +25,75 @@ GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능�
 ## [!DNL Create] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="새 콘텐츠 만들기" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>전자 메일 환경 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <!-- <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/content/overview.md">
+
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/content/overview.md">
+
          <strong>Re-use existing content</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../create/generate-variants.md">
+
       <img alt="Generate variants of approved content" src="../../assets/icons/icon-template.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="../create/generate-variants.md">
+
          <strong>Generate variants of approved content</strong>
+
          </a>
+
       </div>
+
    </td> -->
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content.
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] 기능
@@ -75,7 +108,7 @@ _에서 제작할 채널을 선택한 후 오늘 제작할 내용을 선택하�
 
 ### 매개변수
 
-프롬프트 영역에서 [!DNL Brands], [!DNL Products], [!DNL Personas](지침) 및 [!DNL Content](자산)과 같은 _매개 변수_&#x200B;를 추가하여 생성된 경험을 형성할 수 있습니다.
+프롬프트 서랍에서 [!DNL Brands], [!DNL Products], [!DNL Personas](지침) 및 [!DNL Content](자산)과 같은 _매개 변수_&#x200B;을(를) 추가하여 생성된 경험을 형성할 수 있습니다.
 
 이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적합한 온브랜드 콘텐츠 생성을 크게 향상시키므로 성능 마케팅을 위해 GenStudio에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
 
@@ -85,7 +118,7 @@ _매개 변수_&#x200B;에서 업로드되거나 추가된 콘텐츠(이미지 �
 
 [유효한 프롬프트를 만드는 중](/help/user-guide/effective-prompts.md)은(는) [!DNL Create]의 생성 프로세스에 중요한 부분입니다.
 
-AI 생성 콘텐츠를 만들려면 프롬프트 영역에 생성하려는 컨텍스트 또는 경험을 설명하는 [설명 프롬프트](/help/user-guide/effective-prompts.md), [지침](/help/user-guide/guidelines/overview.md) 및 [_매개 변수_](#parameters)&#x200B;를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
+AI 생성 콘텐츠를 만들려면 프롬프트 창에 생성하려는 컨텍스트 또는 경험을 설명하는 [설명 프롬프트](/help/user-guide/effective-prompts.md), [지침](/help/user-guide/guidelines/overview.md) 및 [_매개 변수_](#parameters)&#x200B;를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
 
 ### 브랜드 유효성 검사
 

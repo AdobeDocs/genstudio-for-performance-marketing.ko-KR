@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing 캠페인
 description: 중앙 집중식 캠페인 계획 및 Campaign 개요 작성에 대해 알아봅니다.
 feature: Campaigns, Campaign Brief, Content
 exl-id: bbf66552-5a42-48d4-9bcd-944cf643e513
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
