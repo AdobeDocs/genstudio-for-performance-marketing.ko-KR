@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 9ff0e14af49d8759c8384c67e61832d205fa6e90
 workflow-type: tm+mt
 source-wordcount: '1538'
 ht-degree: 0%
@@ -163,8 +163,7 @@ _[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어
 
 * 기존 제품을 수정하고 검토하려면 [!DNL Products] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 * [!DNL Products] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 제품을 **삭제**&#x200B;합니다.
-* 
-   * [!DNL Products] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택하여 제품을 **이름 바꾸기**&#x200B;합니다.
+* [!DNL Products] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택하여 제품을 **이름 바꾸기**&#x200B;합니다.
 
 ## [!DNL Personas] 추가
 
