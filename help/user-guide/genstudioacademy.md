@@ -1,54 +1,157 @@
 ---
 title: GenStudio 아카데미
 description: Adobe GenStudio 아카데미를 통해 콘텐츠 공급망 기술 향상
-doc-type: Catalog
 recommendations: disable, exclude
-hidefromtoc: true
 index: false
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+hidefromtoc: true
+source-git-commit: 91ad365ba7096a770d57f2de5d5c65e24ec32e4e
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-
-# Adobe GenStudio 아카데미 {#genstudio-academy}
+# GenStudio 아카데미
 
 <table>
-<tr>
-  <td>
-    <a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5">
-      <img alt="Adobe GenStudio 아카데미 등록" src="/help/assets/card-create-assets.png" />
-    </a>
-    <div>
-      <a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5">
-    등록
-    </a>
-    </div>
-    <p>
-    Adobe GenStudio 아카데미를 <em>처음 사용하시겠습니까? 지금 등록하고 학습을 시작합니다!</em>
-    <p>
+
+ <tr style= "border: 0;">
+
+  <td> <strong style= "font-size: 2em">일반 AI 지식을 향상시킵니다.  </strong><p>크리에이티브 및 마케팅 워크플로우를 변환하기 위한 생성 AI 기술을 기본으로 제공합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">등록</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">로그인</span></a></td>
+
+  <td><img src="../assets/elevate-your-generative-ai-knowledge.png"></td>
+
+ </tr>
+
+</table>
+
+<table>
+
+ <tr style= "border: 0;">
+
+  <td align="center">
+
+    <strong style= "font-size: 2em">GenStudio Academy를 사용하는 기본 생성 AI입니다.</strong><p>생성 AI를 크리에이티브 및 마케팅 워크플로우에 통합하기 위한 필수 스킬을 언제 어디서나 완전히 무료로 연마하십시오.
+
   </td>
-  <td>
-    <a href="https://genstudioacademy.adobelearningmanager.com/">
-    <img alt="Adobe GenStudio 아카데미에 로그인" src="/help/assets/card-manage-content.png" />
-    </a>
-    <div>
-    <a href="https://genstudioacademy.adobelearningmanager.com/">
-    로그인
-    </a>
-    </div>
-    <p>
-    <em>Adobe GenStudio 학원에 계정이 이미 있으십니까? 로그인하고 학습을 시작합니다!</em>
-    </p>
-  </td>
-</tr>
+
+ </tr>
+
+</table>
+
+>[!BEGINSHADEBOX]
+
+<table>
+
+ <tr style= "border: 0;">
+
+  <td><img src="../assets/generative-ai-for-marketing-simplified.png"></td>
+
+  <td align="center"> 마케팅용 <strong style= "font-size: 2em">생성 AI. 간소화되었습니다.</strong><p> GenStudio Academy는 복잡한 생성 AI 작업을 브랜드 가이드라인 변환처럼 따라하기 쉬운 과정으로 변환합니다. 다운로드 가능한 안내서와 동영상을 통해 학습자들은 한 번에 하나의 개념인 생성 AI를 마스터할 수 있다.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">지금 탐색</span></a></td>
+
+ </tr>
+
+</table>
+
+>[!ENDSHADEBOX]
+
+<table>
+
+ <tr style= "border: 0;">
+
+  <td align="center"> <strong style= "font-size: 2em">학습 수준. 무한한 기회가 잠금 해제되었습니다.</strong><p>GenStudio Academy의 숙달 수준을 사용하면 LLM에 대해 학습하거나, 신속한 생성 작업을 마스터하거나, AI 도구가 작동하는 것을 보는 등 생성 AI 기술을 향상시키는 콘텐츠를 쉽게 찾을 수 있습니다. GenStudio 아카데미는 모두를 위한 무언가가 있다.</td>
+
+  <td><img src="../assets/levels-of-learning.png"></td>
+
+ </tr>
+
 </table>
 
 
-## Adobe GenStudio 아카데미 개요
+<table>
 
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
+ <tr style= "border: 0;colspan: 3;">
 
-Adobe GenStudio 아카데미는 Adobe GenStudio에 대한 학습을 향상시키는 직관적인 방법입니다. 곧 출시될 Adobe GenStudio은 마케터가 크로스 채널 캠페인에서 제공하는 데 필요한 주요 도구를 수집하는 직관적인 제품입니다. 생성 AI를 기반으로 구축된 이 솔루션은 모든 팀 구성원이 실시간 콘텐츠 성능 통찰력을 기반으로 에셋을 빠르게 찾고 생성하고, 변형을 만들고, 경험을 최적화할 수 있도록 합니다. 소규모 비즈니스에서 대기업까지 사용하도록 제작되었으며 마케터 또는 에이전시가 사용하도록 설계되었습니다. GenStudio을 사용하면 고객에게 고부가가치 경험을 전달하는 것이 더 쉬워지지 않습니다.
+  <td colspan="3"> <strong style= "font-size: 2em;">준비 중</strong></td>
+
+ </tr> 
+
+ <tr style= "border: 0;colspan: 3;"> 
+
+   <td align="Center">
+
+      <img src="../assets/tips-and-tricks.png">
+
+      <div>
+
+      <strong>팁과 트릭 </strong>
+
+      </div>
+
+      <p>
+
+      GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다.
+
+      </p>
+
+   </td>
+
+   <td align="Center">
+
+      <img src="../assets/social-learning.png">
+
+      <div>
+
+      <strong>소셜 학습</strong>
+
+      </div>
+
+      <p>
+
+      동료로부터 배우고 지식을 조직 전체에서 쉽게 공유할 수 있습니다.
+
+      </p>
+
+   </td>
+
+   <td align="Center">
+
+      <img src="../assets/expert-courses.png">
+
+      <div>
+
+      <strong>전문가 과정</strong>
+
+      </div>
+
+      <p>
+
+      마케팅에서 전문가 수준의 AI 기술을 활용하는 고급 교육 과정입니다.
+
+      </p>
+
+   </td>
+
+ </tr>
+
+</table>
+
+>[!BEGINSHADEBOX]
+
+<table>
+
+    <tr></tr>
+
+ <tr style= "border: 0;">
+
+ <td><img src="../assets/put-your-learnings-into-practice.png"></td>
+
+  <td> <strong style= "font-size: 2em">학습을 연습하세요.</strong><p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
+
+ </tr>
+
+    <tr></tr>
+
+</table>
+
+>[!ENDSHADEBOX]
