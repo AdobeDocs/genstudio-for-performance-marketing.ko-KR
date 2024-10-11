@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing 개념
 description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 4d2a7b72132e7bdba314c9f7c83eed327c579c46
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -34,44 +34,85 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketing은 콘텐츠 공급망을 마케터를 위해 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketing은 라이프사이클의 각 단계에서 Adobe 기술을 활용합니다.
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-       <img alt="달력" src="../assets/csc-workflow-planning.png" width="100">
-    </td>
+
     <td>
+
+       <p><strong>워크플로 및 계획</strong></p>
+
+    </td>
+
+    <td>
+
         <p>아이디어를 브레인스토밍하고, 지침을 정의하고, 콘텐츠를 중심으로 전략을 구축하여 대상자를 참여시킵니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="브러시 및 캔버스" src="../assets/csc-creation-production.png" width="100">
-    </td>
+
     <td>
+
+        <p><strong>제작 및 프로덕션</strong></p>
+
+    </td>
+
+    <td>
+
         <p>플랜을 기반으로 콘텐츠를 생성합니다. 실시간으로 공동 작업하고, 피드백을 받고, 편집하고, 콘텐츠를 승인합니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="이미지 등" src="../assets/csc-content-mgmt.png" width="100">
-    </td>
+
     <td>
+
+        <p><strong>콘텐츠 관리</strong></p>
+
+    </td>
+
+    <td>
+
         <p>중앙 집중식 저장소에서 크리에이티브 자산을 저장, 공유 및 찾습니다. 성능을 기반으로 콘텐츠를 재사용하고 활성화할 수 있습니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="종이 비행기" src="../assets/csc-delivery-activation.png" width="100">
-    </td>
+
     <td>
+
+        <p><strong>게재 및 활성화</strong></p>
+
+    </td>
+
+    <td>
+
         <p>콘텐츠를 활성화하고 여러 마케팅 채널에 게시할 수 있습니다.</P>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="차트" src="../assets/csc-reporting-insights.png" width="100">
-    </td>
+
     <td>
-        <p>자산 성능 최적화를 위한 데이터를 수집하고 통찰력을 도출합니다.</p>
+
+        <p><strong>보고 및 통찰력</strong></p>
+
     </td>
+
+    <td>
+
+        <p>자산 성능 최적화를 위한 데이터를 수집하고 통찰력을 도출합니다.</p>
+
+    </td>
+
 </tr>
+
 </table>
