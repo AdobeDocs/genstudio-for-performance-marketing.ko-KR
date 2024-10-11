@@ -4,9 +4,9 @@ description: Adobe GenStudio 아카데미를 통해 콘텐츠 공급망 기술 �
 recommendations: disable, exclude
 index: false
 hidefromtoc: true
-source-git-commit: 91ad365ba7096a770d57f2de5d5c65e24ec32e4e
+source-git-commit: ef6bf8c691748844a25957de284c4f8e7dbc5e25
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -70,69 +70,61 @@ ht-degree: 0%
 
 <table>
 
- <tr style= "border: 0;colspan: 3;">
+    <tr style="border: 0;">
 
-  <td colspan="3"> <strong style= "font-size: 2em;">준비 중</strong></td>
+        <td colspan="3">
 
- </tr> 
+            <strong style="font-size: 2em;">준비 중</strong>
 
- <tr style= "border: 0;colspan: 3;"> 
+        </td>
 
-   <td align="Center">
+    </tr>
 
-      <img src="../assets/tips-and-tricks.png">
+    <tr style="border: 0;">
 
-      <div>
+        <td align="center">
 
-      <strong>팁과 트릭 </strong>
+            <img src="../assets/tips-and-tricks.png" alt="팁과 트릭">
 
-      </div>
+            <div>
 
-      <p>
+                <strong>팁 및 요령</strong>
 
-      GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다.
+            </div>
 
-      </p>
+            <p>GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다.</p>
 
-   </td>
+        </td>
 
-   <td align="Center">
+        <td align="center">
 
-      <img src="../assets/social-learning.png">
+            <img src="../assets/social-learning.png" alt="소셜 학습">
 
-      <div>
+            <div>
 
-      <strong>소셜 학습</strong>
+                <strong>소셜 학습</strong>
 
-      </div>
+            </div>
 
-      <p>
+            <p>동료로부터 배우고 지식을 조직 전체에서 쉽게 공유할 수 있습니다.</p>
 
-      동료로부터 배우고 지식을 조직 전체에서 쉽게 공유할 수 있습니다.
+        </td>
 
-      </p>
+        <td align="center">
 
-   </td>
+            <img src="../assets/expert-courses.png" alt="전문가 교육 과정">
 
-   <td align="Center">
+            <div>
 
-      <img src="../assets/expert-courses.png">
+                <strong>전문가 과정</strong>
 
-      <div>
+            </div>
 
-      <strong>전문가 과정</strong>
+            <p>마케팅에서 전문가 수준의 AI 기술을 활용하는 고급 교육 과정입니다.</p>
 
-      </div>
+        </td>
 
-      <p>
-
-      마케팅에서 전문가 수준의 AI 기술을 활용하는 고급 교육 과정입니다.
-
-      </p>
-
-   </td>
-
- </tr>
+    </tr>
 
 </table>
 
@@ -142,13 +134,33 @@ ht-degree: 0%
 
     <tr></tr>
 
- <tr style= "border: 0;">
+    <tr style="border: 0;">
 
- <td><img src="../assets/put-your-learnings-into-practice.png"></td>
+        <td>
 
-  <td> <strong style= "font-size: 2em">학습을 연습하세요.</strong><p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
+            <img src="../assets/put-your-learnings-into-practice.png" alt="학습 내용을 실천해 보십시오.">
 
- </tr>
+        </td>
+
+        <td>
+
+            <strong style="font-size: 3em">학습을 연습하세요.</strong>
+
+            <p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.</p>
+
+            <p>
+
+                <a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM">
+
+                    <span class="spectrum-Button-label has-no-wrap">이동</span>
+
+                </a>
+
+            </p>
+
+        </td>
+
+    </tr>
 
     <tr></tr>
 
