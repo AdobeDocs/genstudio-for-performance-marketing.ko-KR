@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 9ff0e14af49d8759c8384c67e61832d205fa6e90
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
 source-wordcount: '1538'
 ht-degree: 0%
@@ -185,7 +185,7 @@ _[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어
 
 1. **[!UICONTROL 사용자 추가]** 단추를 선택하고 **PDF 업로드**&#x200B;를 선택합니다.
 1. **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
-1. 사용자 추가 팝업에서 사용자 문서를 첨부하거나 드래그합니다(_A).
+1. _사용자 추가_ 팝업에서 사용자 문서를 첨부하거나 드래그합니다.
 
    최대 500MG을 조합하여 최대 5개의 PDF 파일을 첨부할 수 있습니다.
 

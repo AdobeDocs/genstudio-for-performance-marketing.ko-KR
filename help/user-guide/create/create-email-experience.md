@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->전자 메일 템플릿에 여러 개의 섹션이 있는 경우 _여러 섹션 전자 메일_&#x200B;의 각 전자 메일 섹션에 대해 [!DNL Products] 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다.
+>전자 메일 템플릿에 여러 개의 섹션이 있는 경우 _여러 섹션 전자 메일_&#x200B;의 각 전자 메일 섹션에 대해 [!DNL Products] 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다. [!DNL Content]의 여러 섹션 이메일에만 시각적 자산을 추가할 수 있습니다. 로컬 소스에서 자산을 드래그 앤 드롭하거나 업로드할 수 없습니다.
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 창을 축소할 수 있습니다.
 
