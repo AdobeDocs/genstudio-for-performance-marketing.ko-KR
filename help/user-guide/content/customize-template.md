@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 94a3b4c764e29b84fc07620994913c528ffe0cdd
+source-git-commit: 61a939ae81eb5ff61d741bb1092e9e4c82119f7e
 workflow-type: tm+mt
-source-wordcount: '1032'
+source-wordcount: '1043'
 ht-degree: 0%
 
 ---
@@ -47,10 +47,7 @@ GenStudio for Performance Marketing은 다음 템플릿에서 특정 필드를 �
 
 - **전자 메일 템플릿**&#x200B;에서는 `subject` 필드를 식별할 필요가 없습니다.
 - **메타 광고 템플릿**&#x200B;에서는 `headline`, `body` 및 `CTA` 필드를 식별할 필요가 없습니다.
-
-<!--
-- **Display Ads template** does not require you to identify the `CTA` field
--->
+- **디스플레이 광고 템플릿**&#x200B;에서는 `CTA` 필드를 식별할 필요가 없습니다.
 
 >[!WARNING]
 >

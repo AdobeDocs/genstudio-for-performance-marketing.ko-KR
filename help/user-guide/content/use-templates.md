@@ -3,9 +3,9 @@ title: 템플릿 작업
 description: 템플릿을 효율적으로 사용하여 Adobe GenStudio for Performance Marketing에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 3a361134a0b56a2973399e38e62f4ab345a3dbc8
+source-git-commit: 61a939ae81eb5ff61d741bb1092e9e4c82119f7e
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '684'
 ht-degree: 1%
 
 ---
@@ -114,7 +114,7 @@ GenStudio for Performance Marketing용 템플릿을 준비할 때 [템플릿 사
    템플릿 이름 및 채널 유형은 필수입니다. 추가 요구 사항은 다음과 같습니다.
 
    - **Meta**: 종횡비가 필요합니다.
-   <!-- - **Display ads**: requires Dimensions -->
+   - **광고 표시**: Dimension 필요
 
 1. 검색 및 필터링에서 템플릿 식별을 개선하기 위해 가능한 한 많은 세부 정보를 추가합니다.
 
