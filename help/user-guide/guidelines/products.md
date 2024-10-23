@@ -3,9 +3,9 @@ title: 성능 마케팅을 위한 GenStudio [!DNL Products]
 description: GenStudio for Performance Marketing [!DNL Products] 제품의 모든 측면(이미지, 설명, 가치 제안)을 통합하여 제품 강점을 강조하고 제품 메시징의 일관성을 유지하는 관련 콘텐츠를 만듭니다.
 feature: Products Service, Guidelines
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 GenStudio for Performance Marketing의 [!DNL Products]은(는) 제품 사양, 장점 및 차별화 요소를 깊이 있게 이해하여 효과적인 콘텐츠를 생성합니다.
 
 [!DNL Products]은(는) 이미지, 설명 및 값 제안 등 특정 제품의 모든 요소를 포함하여 일관된 브랜드 표현을 만듭니다. Adobe의 고급 AI 기술인 GenStudio for Performance Marketing 지침([[!DNL Brands], [!DNL Products] 및 [!DNL Personas]](/help/user-guide/guidelines/overview.md))을 활용하는 Performance Marketing은 함께 작동하여 제품의 강점을 보여주고 모든 메시지에서 일관성을 보장하는 매력적인 콘텐츠를 생성합니다.
-
-성능 마케팅을 위한 GenStudio의 ![[!DNL Products] 지침](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **제품을 보거나 수정하려면**:
 
@@ -29,6 +27,8 @@ GenStudio for Performance Marketing의 [!DNL Products]은(는) 제품 사양, �
 ## [!DNL Products] 지침
 
 개별 제품 지침은 GenStudio for Performance Marketing에 제품에 대한 명확한 그림을 제공합니다.
+
+![제품 지침](/help/assets/products.png){width="600" zoomable="yes"}
 
 이 지침은 각 지침 범주 및 관련 예제를 자세히 설명합니다. 예들은 생성된 콘텐츠의 출력을 형성하는 샘플 입력들이다. 이를 사용하여 [!DNL Products] 지침을 알려 주십시오.
 

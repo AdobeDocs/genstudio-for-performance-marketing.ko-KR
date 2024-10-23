@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
+source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '996'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,14 @@ ht-degree: 0%
 1. 프롬프트 창을 확장하려면 _매개 변수_ 아이콘을 클릭하십시오.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
+   ![사용자 선택](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
    * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
+
+     ![시각적 콘텐츠 선택](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
      연결된 [!DNL AEM Assets Content Hub] 저장소의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 저장소를 선택하십시오. 하나 이상의 이미지를 필터링하고 선택합니다.
 
@@ -51,8 +55,8 @@ ht-degree: 0%
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 >[!NOTE]
->
 >전자 메일 템플릿에 여러 개의 섹션이 있는 경우 _여러 섹션 전자 메일_&#x200B;의 각 전자 메일 섹션에 대해 [!DNL Products] 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다. [!DNL Content]의 여러 섹션 이메일에만 시각적 자산을 추가할 수 있습니다. 로컬 소스에서 자산을 드래그 앤 드롭하거나 업로드할 수 없습니다.
+>![각 전자 메일 섹션](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}에 대한 콘텐츠 및 매개 변수 추가
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 창을 축소할 수 있습니다.
 
@@ -98,9 +102,15 @@ ht-degree: 0%
 **브랜드 정렬을 확인하려면**:
 
 1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
+
+   ![브랜드 지침 확인](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+
 1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
 
 1. 각 이메일을 전환하여 생성된 콘텐츠를 보다 브랜드 맞춤형으로 개선하는 방법을 살펴보십시오.
+
+   ![브랜드 유효성 검사 패널](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
+
 1. [전자 메일을 수동으로 수정](#revise-generated-emails)하여 전자 메일이 브랜드와 긴밀하게 정렬되도록 합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.

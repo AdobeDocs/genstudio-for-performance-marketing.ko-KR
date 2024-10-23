@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
+source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
 workflow-type: tm+mt
-source-wordcount: '1538'
+source-wordcount: '1543'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,10 @@ GenStudio for Performance Marketing은 Adobe의 생성 AI 기술을 사용하여
    다양한 선택적 지침 및 이미지를 채워 브랜드를 구축할 수 있습니다.
 
 1. _정보_ 섹션에서 브랜드에 대한 정보를 추가하십시오.
-1. [_브랜드 음성 지침_](brands.md#brand-voice-guidelines)&#x200B;을 입력하십시오.
+1. [_[!DNL Brand]개의 음성 지침을 입력하십시오&#x200B;_](brands.md#brand-voice-guidelines).
+
+   ![[!DNL Brand] 음성 지침 추가 ](/help/assets/brand-voice-add.png){width="650" zoomable="yes"}
+
 1. 적용 가능한 각 채널에 대해 [_채널 지침_](brands.md#channel-guidelines)&#x200B;을 입력하십시오.
 1. [_이미지 지침_](brands.md#image-guidelines)&#x200B;을 입력하십시오. 이미지 지침 섹션에서 각 카테고리를 확장하여 모든 지침을 확인합니다.
 
@@ -101,7 +104,9 @@ _[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭�
 
 왼쪽 탐색 영역에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다. _[!DNL Products]_패널에서&#x200B;**제품 추가**를 선택합니다.
 
-콘텐츠를 만들 때 개별 제품 포커스 영역을 지정하기 위해 성능 마케팅용 GenStudio에 [!DNL Products]을(를) 추가할 수 있습니다. <!-- Add Rename, display, reposition functionality -->
+![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} 추가
+
+콘텐츠를 만들 때 개별 제품 포커스 영역을 지정하기 위해 성능 마케팅용 GenStudio에 [!DNL Products]을(를) 추가할 수 있습니다.
 
 [[!DNL Products]](products.md)을(를) 참조하십시오.
 
@@ -212,7 +217,10 @@ _[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어
 
    다양한 선택적 지침 및 이미지를 채워 담당자를 구축할 수 있습니다.
 
-1. _설명_ 섹션에 브랜드에 대한 정보를 추가하십시오.
+1. _설명_ 섹션에 [!DNL Persona]에 대한 정보를 추가하십시오.
+
+   ![[!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"} 추가
+
 1. **[!UICONTROL 새 사용자 이름]**&#x200B;을(를) 클릭하고 [!DNL Persona]의 이름을 입력하십시오.
 1. _설명_&#x200B;을(를) 클릭하고 이 [!DNL Persona]에 대한 설명을 입력하십시오.
 1. _메시징 환경 설정_&#x200B;을 클릭하고 [!DNL Persona]에 대한 메시징 세부 정보를 입력하십시오.

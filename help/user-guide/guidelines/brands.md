@@ -3,9 +3,9 @@ title: 성능 마케팅을 위한 GenStudio [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 자산(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드에 맞게 조정된 콘텐츠를 만들 수 있도록 알려 줍니다.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '802'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ GenStudio for Performance Marketing은 브랜드의 풍부한 브랜드 정보�
 ## [!DNL Brands] 지침
 
 지침은 성과 마케팅을 위한 GenStudio에 브랜드별 접근 방식, 톤, 시각적 느낌 등에 대한 명확한 그림을 제공합니다.
+
+![브랜드 지침](/help/assets/brands.png){width="600" zoomable="yes"}
 
 다음 지침 섹션에서는 각 지침 카테고리, 예제 지침 및 잠재적 결과에 대해 자세히 설명합니다. 지침 예는 결과 출력의 형태를 지정하는 샘플 입력(아래 결과 예)이며, 이를 사용하여 고유한 브랜드 지침을 제공합니다.
 

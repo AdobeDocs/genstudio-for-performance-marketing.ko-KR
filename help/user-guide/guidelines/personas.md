@@ -3,9 +3,9 @@ title: 성능 마케팅을 위한 GenStudio [!DNL Personas]
 description: GenStudio for Performance Marketing [!DNL Personas] 은(는) 고객 세그먼트의 관심사, 문제점, 환경 설정 및 행동 특성을 캡처하는 진정한 의미입니다.
 feature: Personas Service, Guidelines
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 [!DNL Personas]은(는) 정보, 관심사, 불만 사항, 환경 설정 및 행동 특성을 포함하여 고객 세그먼트에 대한 실제 묘사를 제공합니다.
 
 GenStudio for Performance Marketing은 가이드라인—[[!DNL Brands], [!DNL Products] 및 [!DNL Personas]](overview.md) 및 Adobe의 생성 AI 기술을 활용하여 대상 고객을 위한 개인화된 마케팅 콘텐츠를 선별합니다&#x200B;.
-
-성능 마케팅을 위한 GenStudio의 ![[!DNL Personas] 지침](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **담당자를 보거나 수정하려면**:
 
@@ -29,6 +27,8 @@ GenStudio for Performance Marketing은 가이드라인—[[!DNL Brands], [!DNL P
 ## [!DNL Personas] 지침
 
 개별 성향 가이드라인은 성과 마케팅용 GenStudio에 [!DNL Personas]에 대한 명확한 그림을 제공합니다.
+
+![성향 지침](/help/assets/personas.png){width="600" zoomable="yes"}
 
 이 지침은 각 지침 범주 및 관련 예제를 자세히 설명합니다. 예들은 생성된 콘텐츠의 출력을 형성하는 샘플 입력들이다. [!DNL Personas] 지침을 알리기 위해 사용하세요.
 

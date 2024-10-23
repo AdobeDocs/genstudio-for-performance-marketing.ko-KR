@@ -2,9 +2,9 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 5e92233248c555a3b0a59bd4dbb0935e4c8cfb1f
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1155'
 ht-degree: 0%
 
 ---
@@ -44,13 +44,16 @@ GenStudio for Performance Marketing에는 _[!UICONTROL 제안된 편집 내용]_
 
 예를 들어, 한 메타 광고 변형의 헤드라인 섹션을 다시 생성하여 _[!UICONTROL 권장 편집]_ 옵션—_[!UICONTROL 구문 변경]_, _[!UICONTROL 단축]_ 또는 _[!UICONTROL 길이]_&#x200B;를 사용하여 특정 배경 자산과 어떻게 보이는지 확인하고 새 프롬프트를 입력할 수 있습니다.
 
+![섹션 다시 생성](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
+
 **개별 변형 섹션을 다시 생성하려면**:
 
 1. 변형 세트를 생성한 후 변형에서 편집 가능한 텍스트를 한 번 클릭합니다.
-1. (_선택 사항_) 다시 생성된 콘텐츠의 포커스를 변경하려면 새 프롬프트를 입력하십시오.
 1. _[!UICONTROL 권장 편집]_ 옵션 선택—_[!UICONTROL 구문 변경]_, _[!UICONTROL 단축]_ 또는 _[!UICONTROL 길이]_.
-1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
-1. 결과를 다시 생성하려면 _결과_ 옆에 있는 다시 생성 아이콘을 클릭합니다.
+   * 사용 가능한 옵션을 선택하고 **[!UICONTROL 바꾸기]**&#x200B;를 클릭합니다.
+1. (_선택 사항_) _2}프롬프트로 생성]을 선택하고 새 프롬프트를 입력하여 다시 생성된 콘텐츠의 포커스를 변경합니다.[!UICONTROL 
+   * **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
+1. 결과를 다시 생성하여 더 많은 옵션을 보려면 _결과_ 옆에 있는 다시 생성 아이콘을 클릭합니다.
 1. 표시되는 _결과_&#x200B;에서 원하는 옵션을 선택하고 **[!UICONTROL 바꾸기]**&#x200B;를 클릭합니다.
 
    변형이 수정된 텍스트로 업데이트되었습니다.
@@ -151,6 +154,8 @@ GenStudio for Performance Marketing에는 _[!UICONTROL 제안된 편집 내용]_
 ## 생성 피드백
 
 콘텐츠 생성 프로세스를 개선하기 위해 생성된 브랜드 정렬 에셋의 품질에 대한 피드백을 제출할 수 있습니다. 결과가 고품질인지 또는 저품질인지를 표시하면 GenStudio for Performance Marketing의 전체 콘텐츠 품질과 사용자 안전을 강화하는 데 도움이 됩니다.
+
+![콘텐츠 생성에 대한 피드백 제출](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
 
 생성 피드백은 수집된 변형 세트가 아니라 개별 변형에 적용할 수 있습니다.
 

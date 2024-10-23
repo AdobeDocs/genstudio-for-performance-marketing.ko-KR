@@ -3,9 +3,9 @@ title: 성과 마케팅을 위한 Adobe GenStudio의 브랜드 유효성 검사
 description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ GenStudio for Performance Marketing은 다음을 포함한 다양한 측면에�
 * 다양한 채널 플랫폼을 위한 지침 복사
 * AI 생성 콘텐츠의 성별, 민족성, 인종, 장애 상태 및 연령과 관련된 윤리적 고려 사항
 
-## 브랜드 지침 확인
+## [!DNL Brand] 지침 확인
 
-캔버스에서 각 변형 옆에 있는 _브랜드 지침 확인_ 아이콘을 통해 생성된 각 콘텐츠 변형에 대한 브랜드 유효성 검사 정보 요약에 액세스할 수 있습니다.
+캔버스에서 각 변형 옆에 있는 _[!DNL Brand]지침 확인_ 아이콘을 통해 생성된 각 콘텐츠 변형에 대한 브랜드 유효성 검사 정보 요약에 액세스할 수 있습니다.
 
-_브랜드 지침 확인_&#x200B;은(는) [브랜드](brands.md)을(를) 준수하는 비율을 표시합니다. 백분율은 유효성 검사를 통과한 [지침](overview.md)의 수와 테스트한 지침의 수로 계산됩니다.
+_[!DNL Brand]지침 검사_&#x200B;에는 [브랜드](brands.md)에 대한 준수 비율이 표시됩니다. 백분율은 유효성 검사를 통과한 [지침](overview.md)의 수와 테스트한 지침의 수로 계산됩니다.
+
+![[!DNL Brand] 지침 확인](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
 
 브랜드를 준수하는 지침 수와 검토가 필요한 지침 수를 보려면 아이콘을 클릭합니다.
 
@@ -33,6 +35,8 @@ _브랜드 지침 확인_&#x200B;은(는) [브랜드](brands.md)을(를) 준수�
 ## 브랜드 유효성 검사 패널
 
 변형에 대한 _브랜드 지침 확인_ 아이콘의 상단 메뉴 모음 _또는_&#x200B;에서 클릭하면 캔버스 오른쪽에 _브랜드 유효성 검사_ 패널이 열립니다. 이 패널은 자세한 브랜드 유효성 검사 정보를 제공하며 각 변형 섹션에 대한 개선 기회를 제공합니다.
+
+![[!DNL Brand] 유효성 검사 패널](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
 
 _브랜드 유효성 검사_ 패널에 다음에 대한 정보가 표시됩니다.
 

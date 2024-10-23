@@ -3,7 +3,7 @@ title: ' [!DNL Brands], [!DNL Products] 및 [!DNL Personas] 개요'
 description: 성과 마케팅을 위해 GenStudio에  [!DNL Brands], [!DNL Products], and [!DNL Personas] 을(를) 추가하여 브랜드 표현의 모든 측면을 포함하는 포괄적인 브랜드 프로필을 만듭니다.
 feature: Guidelines, Brands Service, Personas Service, Products Service
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%

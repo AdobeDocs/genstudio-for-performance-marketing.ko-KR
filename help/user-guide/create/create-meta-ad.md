@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: bd24c4e25df1210dd6ff2b7f17f999963133294a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1030'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,14 @@ ht-degree: 0%
 1. 프롬프트 창을 확장하려면 _매개 변수_ 아이콘을 클릭하십시오.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
+   ![사용자 선택](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
    * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
+
+     ![시각적 콘텐츠 선택](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
      연결된 [!DNL AEM Assets Content Hub] 저장소의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 저장소를 선택하십시오. 하나 이상의 이미지를 필터링하고 선택합니다.
 
@@ -102,6 +106,8 @@ ht-degree: 0%
 1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
 1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
 
+   ![브랜드 유효성 검사 패널](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
+
 1. 각 광고를 전환하여 생성된 콘텐츠를 브랜드 맞춤형으로 개선하는 방법을 확인합니다.
 1. [수동으로 광고를 수정](#revise-generated-meta-ads)하여 브랜드에 맞게 광고를 조정할 수 있습니다.
 
@@ -114,6 +120,9 @@ ht-degree: 0%
 **검토 및 승인을 얻으려면**:
 
 1. [승인 요청을 시작](/help/user-guide/approvals/request-review.md)하여 [초안 메타 광고 경험에 대한 승인](/help/user-guide/approvals/approve-content.md)을 요청하세요.
+
+   ![검토 및 승인을 위해 초안 보내기](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
+
 1. 검토 프로세스 중에 [검토자를 제거하거나 추가](/help/user-guide/approvals/review-and-edit.md#manage-approvals)합니다.
 1. [검토할 콘텐츠에 액세스](/help/user-guide/approvals/review-and-edit.md#access-content-for-review)하고 수정 요청을 봅니다.
 1. 리뷰 댓글별로 초안을 편집하고 [메타 광고 경험을 게시합니다](#publish-and-export-experience).

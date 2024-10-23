@@ -5,9 +5,9 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 94a3b4c764e29b84fc07620994913c528ffe0cdd
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '849'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,8 @@ ht-degree: 0%
 ## 프롬프트 입력
 
 지침을 선택한 후 자연어를 사용하여 프롬프트를 만들고 새 디스플레이 광고 경험을 위한 콘텐츠를 생성합니다. 생성된 디스플레이 광고 경험의 품질을 향상시키려면 세부적이고 설명적인 프롬프트를 작성하는 것이 중요합니다.
+
+![프롬프트 입력](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
 프롬프트 작성에 대한 자세한 내용은 [유효한 프롬프트 작성](/help/user-guide/effective-prompts.md)을 참조하십시오.
 
@@ -115,6 +117,11 @@ When revising and preparing email experiences, you can toggle between previews f
 생성된 디스플레이 광고를 현재 및 향후 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
 1. **새 디스플레이 광고 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL Publish]**&#x200B;을 클릭하세요.
+   1. _[!UICONTROL [!DNL Campaigns]]_을(를) 선택하고 필요한 경우_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_를 추가하십시오.
+   1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
+
+      ![디스플레이 광고 Publish](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+
 1. **새 디스플레이 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
    1. 형식을 선택하고(JPG 전용) **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 
