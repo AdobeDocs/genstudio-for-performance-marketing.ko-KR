@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing의 이메일 경험에 �
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: cb700de090d6a2f6a6c75afcf8a4ba118ded9527
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -53,3 +53,9 @@ Content creators and marketers can produce brand-consistent email experiences in
 1. 헤드라인, 이메일 본문(단일 섹션 이메일용) 및 콜 투 액션
 1. 후속 섹션의 이메일 본문(다중 섹션 이메일의 경우)
 1. 브랜드 유효성 검사 프로세스가 발생하고 각 변형에 대해 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;가 채워집니다.
+
+## 문자 수
+
+이메일 변형 세트를 생성하면 각 이메일 섹션에 표시되는 문자 수를 볼 수 있습니다. 생성된 섹션(예: 제목 줄이나 본문)을 마우스로 가리키거나 클릭하면 해당 섹션에 대한 섹션 이름 및 문자 수가 표시됩니다.
+
+![문자 수](/help/assets/character-count.png){width="500" zoomable="yes"}
