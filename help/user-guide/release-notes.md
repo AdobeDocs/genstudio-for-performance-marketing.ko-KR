@@ -2,10 +2,10 @@
 title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
-source-git-commit: c3e6e5f4213074b4093591ac06e8341c9d46c212
+source-git-commit: ea897aaf6069aa70ef73baf961f56e485eeb383e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '369'
+ht-degree: 5%
 
 ---
 
@@ -13,7 +13,25 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
 
-## 2024.10.14 일반 가용성 릴리스 {#latest}
+## 2024.10.31  {#latest}
+
+### 새로운 기능
+
+* 이제 **[!DNL Content]** 검색 필터가 색상 태그로 검색을 지원합니다.  <!-- GS-5501 -->
+
+* 이제 **[!DNL Create]** 캔버스에 전자 메일 조각의 문자 수가 표시됩니다. <!-- GS-5819 -->
+
+### 수정 사항
+
+* 누락된 화면 판독기 레이블이 모바일 및 데스크톱 `view` 요소에 추가되었습니다. <!-- GS-5624 4729 -->
+
+* **[!DNL Create]** 캔버스 전자 메일 제목 줄 및 사전 머리글 텍스트 영역의 높이가 이제 동적입니다. <!-- GS-6258 -->
+
+* 이메일 테두리 관련 레이아웃 문제가 해결되었습니다. <!-- GS-6631 -->
+
+* 이제 키보드 포커스가 **[!DNL Content]** **[!UICONTROL 삭제]** 단추에서 예상대로 작동합니다. 이전에는 키보드로 이 단추에 도달하거나 조작할 수 없었습니다.  <!-- GS-4065 -->
+
+## 2024.10.14 일반 가용성 릴리스
 
 이 릴리스에서는 마케팅 캠페인의 계획, 개발 및 분석을 가속화하는 생성 AI 기반 애플리케이션인 Adobe GenStudio for Performance Marketing을 소개합니다. GenStudio for Performance Marketing은 마케팅 팀이 광고, 이메일 및 캠페인에 대한 온브랜드, 다중 채널 콘텐츠를 만들 수 있는 기능을 제공하는 동시에 콘텐츠 성능을 최적화하는 실시간 통찰력을 제공합니다.
 
