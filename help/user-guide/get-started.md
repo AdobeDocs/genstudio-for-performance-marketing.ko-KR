@@ -6,7 +6,7 @@ feature: Prompt, Brands Service, Personas Service, Products Service, Generative 
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 source-git-commit: 6454090c9fffb4b288b615680597b80e5b71a89c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
