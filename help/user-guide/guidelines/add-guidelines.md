@@ -1,24 +1,24 @@
 ---
-title: 성과 마케팅을 위한 Adobe GenStudio에 지침 추가
-description: 성과 마케팅을 위한 Adobe GenStudio에서 지침—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 추가하는 방법을 알아봅니다.
+title: Adobe GenStudio for Performance Marketing에 지침 추가
+description: Adobe GenStudio for Performance Marketing에서 지침—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 추가하는 방법을 알아봅니다.
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
+source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
 workflow-type: tm+mt
-source-wordcount: '1543'
+source-wordcount: '1651'
 ht-degree: 0%
 
 ---
 
 # 지침 추가
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)은(는) AI 생성 콘텐츠가 브랜드 ID에 맞게 사용자 지정되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 성과 마케팅을 위한 GenStudio의 사용자 정의 지침입니다.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)은(는) AI 생성 콘텐츠가 브랜드 ID에 맞게 사용자 지정되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 GenStudio for Performance Marketing의 사용자 정의 지침입니다.
 
 [지침 개요](/help/user-guide/guidelines/overview.md)를 참조하세요.
 
-성과 마케팅을 위해 GenStudio에 지침을 추가하는 것은 작성 프로세스의 중요한 단계입니다. 가이드라인은 사용자 정의 프롬프트 및 Adobe 생성 AI 기술과 함께 콘텐츠 작성 프로세스를 알려 효과적인 자산을 제작합니다.
+GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프로세스의 중요한 단계입니다. 가이드라인은 사용자 정의 프롬프트 및 Adobe 생성 AI 기술과 함께 콘텐츠 작성 프로세스를 알려 효과적인 자산을 제작합니다.
 
 ## [!DNL Brands] 추가
 
@@ -72,31 +72,46 @@ GenStudio for Performance Marketing은 Adobe의 생성 AI 기술을 사용하여
 
 만든 [!DNL Brands]을(를) 보려면 _Brand_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Brands]_홈으로 다시 이동합니다.
 
-정보에 액세스할 수 있도록 하기 위해 브랜드를 [게시](#publish-brand)할 필요가 없습니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 성과 마케팅을 위해 GenStudio의 브랜드 정보를 사용하려면 이를 게시해야 합니다.
+정보에 액세스할 수 있도록 하기 위해 브랜드를 [게시](#publish-brand)할 필요가 없습니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketing의 브랜드 정보를 사용하려면 해당 정보를 게시해야 합니다.
 
 ### Publish 브랜드
 
 브랜드를 게시하기 전에 _브랜드 음성 지침_, _채널 지침_, _이미지 지침_ 및 _로고_ 섹션을 클릭하여 채워진 모든 정보를 검토하십시오. 필요에 따라 브랜드 지침을 변경합니다.
 
-**브랜드를 게시하려면**:
+**브랜드 지침 초안을 게시하려면**:
 
+1. 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭합니다.
+
+   현재 게시된 모든 브랜드에 대해 _게시됨_ 배지가 표시됩니다.
+
+1. 게시되지 않은 브랜드를 열려면 클릭하십시오. 브랜드가 게시되지 않은 경우 **[!UICONTROL Publish]** 단추가 표시됩니다.
+1. _Publish 브랜드_ 팝업에서 게시된 브랜드를 보고 사용할 수 있는 액세스 권한이 있는 사용자를 확인합니다.
 1. **[!UICONTROL 게시]**&#x200B;를 선택합니다.
+1. 표시되는 _Publish 브랜드_ 팝업에서 **[!UICONTROL Publish]**&#x200B;을(를) 선택합니다.
 
-   _Publish 브랜드_ 팝업에서 게시된 브랜드에 대한 액세스 권한(보기 및 사용 권한)이 있는 사용자를 확인합니다.
+   팝업에 의해 브랜드가 게시됩니다.—&quot;이제 새 브랜드가 준비되었습니다.&quot;
 
-1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
+1. 팝업을 종료하려면 **[!UICONTROL 완료]**&#x200B;를 클릭하세요.
 
-브랜드가 게시되면 브랜드를 사용할 준비가 되었음을 확인하는 배너가 나타납니다. &quot;*게시된 브랜드는 사용할 수 있음*&quot;.
+브랜드에 녹색 점과 &quot;게시됨&quot;이 표시되고 **[!UICONTROL Publish]** 단추가 표시됩니다.
+
+**게시된 브랜드를 게시 취소하려면**&#x200B;을(를) 클릭하고 **[!UICONTROL Publish]**&#x200B;을(를) 클릭하십시오.
 
 게시된 브랜드는 이제 _[!DNL Create]_또는_[!DNL Content]_&#x200B;에서 사용할 수 있습니다.
 
 ### [!DNL Brands] 관리
 
-_[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭하여 편집하거나 검토하거나 [!DNL Brands] 작업 메뉴의 목록에서&#x200B;**이름 바꾸기**또는&#x200B;**브랜드를 삭제**할 수 있습니다.
+_[!DNL Brands]_홈에서 이미 만든 브랜드를 클릭하여 관리하거나 게시할 수 있습니다.
 
-* 브랜드 타일을 클릭하여 브랜드를 엽니다.
-* 기존 담당자의 이름을 변경하려면 [!DNL Brands] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택하십시오.
-* 브랜드를 삭제하려면 [!DNL Brands] 작업 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하십시오.
+**브랜드를 보거나 수정하려면**:
+
+1. 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭합니다.
+1. 브랜드의 개요 정보를 보려면 를 클릭하여 정의된 브랜드를 엽니다.
+1. 개별 세부 정보를 보거나 브랜드 지침을 수정하려면 맨 위에서 [**[!UICONTROL 브랜드 음성 지침]**](#brand-voice-guidelines), [**[!UICONTROL 채널 지침]**](#channel-guidelines), **[!UICONTROL 이미지 지침]** 또는 **[!UICONTROL 로고]**&#x200B;를 클릭하십시오.
+1. 기존 브랜드의 이름을 바꾸려면 [!DNL Brands] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택합니다.
+1. 브랜드를 삭제하려면 [!DNL Brands] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하십시오.
+
+브랜드 가이드라인 문서(최대 3개의 PDF 또는 DOC 파일)를 GenStudio for Performance Marketing에 업로드하여 자동으로 브랜드를 생성할 수 있습니다.
 
 ## [!DNL Products] 추가
 
@@ -106,7 +121,7 @@ _[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭�
 
 ![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} 추가
 
-콘텐츠를 만들 때 개별 제품 포커스 영역을 지정하기 위해 성능 마케팅용 GenStudio에 [!DNL Products]을(를) 추가할 수 있습니다.
+콘텐츠를 만들 때 GenStudio for Performance Marketing에서 [!DNL Products]을(를) 추가하여 개별 제품 포커스 영역을 지정할 수 있습니다.
 
 [[!DNL Products]](products.md)을(를) 참조하십시오.
 
@@ -176,7 +191,7 @@ _[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어
 
 왼쪽 탐색 영역에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다. _[!DNL Personas]_패널에서&#x200B;**사용자 추가**를 선택합니다.
 
-만든 콘텐츠를 이상적인 대상자에게 타깃팅하는 데 도움이 되도록 성과 마케팅용 GenStudio에서 [!DNL Persona]을(를) 추가할 수 있습니다.
+GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상적인 대상자에게 타깃팅할 수 있습니다.
 
 [[!DNL Personas]](personas.md)을(를) 참조하십시오.
 

@@ -1,32 +1,36 @@
 ---
-title: 성능 마케팅을 위한 GenStudio [!DNL Brands]
-description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 자산(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드에 맞게 조정된 콘텐츠를 만들 수 있도록 알려 줍니다.
+title: GenStudio for Performance Marketing [!DNL Brands]
+description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 에셋(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드 중심의 콘텐츠 생성을 알리는 역할을 합니다.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
+source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
 workflow-type: tm+mt
 source-wordcount: '802'
 ht-degree: 0%
 
 ---
 
-# 성능 마케팅 [!DNL Brands]용 GenStudio
+# GenStudio for Performance Marketing [!DNL Brands]
 
 브랜드는 조직, 제품, 서비스 또는 개념을 다른 브랜드와 구별합니다. 브랜드의 일부 측면이 로고와 같이 객관적인 반면, 다른 측면은 목소리 톤과 같이 주관적인 것입니다.
 
 GenStudio for Performance Marketing은 브랜드의 풍부한 브랜드 정보를 사용하여 [!DNL Product] 및 [!DNL Persona] 정보와 파트너 관계를 맺고 포괄적인 브랜드 정체성을 구축합니다. 이 브랜드 정체성은 Adobe의 생성 AI 기술을 사용하여 온브랜드 콘텐츠 생성을 알리는 데 사용됩니다.
 
-**브랜드를 보거나 수정하려면**:
+## [!DNL Brands] 관리
 
-1. 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭합니다.
-1. 브랜드의 개요 정보를 보려면 를 클릭하여 정의된 브랜드를 엽니다.
-1. 개별 세부 정보를 보거나 브랜드를 수정하려면 맨 위에서 [**[!UICONTROL 브랜드 음성 지침]**](#brand-voice-guidelines), [**[!UICONTROL 채널 지침]**](#channel-guidelines), **[!UICONTROL 이미지 지침]** 또는 **[!UICONTROL 로고]**&#x200B;를 클릭하십시오.
+GenStudio for Performance Marketing에 브랜드 지침을 추가한 후 [관리](/help/user-guide/guidelines/add-guidelines.md#manage-brands)하고 [게시](/help/user-guide/guidelines/add-guidelines.md#publish-brand)할 수 있습니다. 게시를 통해 팀이 에셋 생성에 사용할 수 있습니다.
 
-브랜드 가이드라인 문서(최대 3개의 PDF 또는 DOC 파일)를 성과 마케팅을 위해 GenStudio에 업로드하여 브랜드를 자동으로 생성할 수 있습니다. 성과 마케팅을 위해 GenStudio에 브랜드를 추가하고, 수정하고, 게시하는 방법 등을 알아보려면 [지침 추가](add-guidelines.md)를 참조하십시오.
+[!DNL Brands]은(는) _초안_ 또는 _게시됨_ 상태일 수 있습니다. 새 [!DNL brands]이(가) _초안_(으)로 시작됩니다.
+
+팀에서 에셋을 생성할 수 있도록 하려면 [!DNL brand]을(를) 게시해야 합니다.
+
+게시된 [!DNL brands]을(를) 편집할 수 있으며 변경 사항은 즉시 사용할 수 있습니다. 게시된 [!DNL brands]만 콘텐츠를 만들고 유효성을 검사하는 데 사용할 수 있습니다.
+
+삭제된 [!DNL brands]은(는) 30일 동안 보관되며 해당 기간 내에 복구할 수 있습니다.
 
 ## [!DNL Brands] 지침
 
-지침은 성과 마케팅을 위한 GenStudio에 브랜드별 접근 방식, 톤, 시각적 느낌 등에 대한 명확한 그림을 제공합니다.
+지침은 GenStudio for Performance Marketing에 브랜드별 접근 방식, 톤, 시각적 느낌 등에 대한 명확한 그림을 제공합니다.
 
 ![브랜드 지침](/help/assets/brands.png){width="600" zoomable="yes"}
 
@@ -84,6 +88,6 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ## 브랜드 유효성 검사
 
-성과 마케팅을 위한 GenStudio에서 브랜드 유효성 검사는 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]의 생성 AI 기능과 함께 중요한 역할을 합니다. 모든 콘텐츠가 브랜드 정체성과 일관성을 유지하도록 합니다.
+GenStudio for Performance Marketing에서 브랜드 유효성 검사는 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]의 생성 AI 기능과 함께 중요한 역할을 합니다. 모든 콘텐츠가 브랜드 정체성과 일관성을 유지하도록 합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
