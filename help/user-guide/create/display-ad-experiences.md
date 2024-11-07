@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing의 디스플레이 광고
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
+source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '84'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 1%
 Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하여 [성공적인 디스플레이 광고 경험 만들기](/help/user-guide/create/create-display-ad.md)를 간소화할 수 있습니다.
 
 [!DNL Create]은(는) [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [브랜드 일관된 디스플레이 광고 경험을 만들 수 있도록 최신 마케터를 지원합니다](/help/user-guide/create/create-display-ad.md).
+
+메타 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다.
 
 디스플레이 광고 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 

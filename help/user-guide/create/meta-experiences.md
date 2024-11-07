@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing의 메타 경험에 대�
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하여 [영향력이 큰 메타 경험 만들기](/help/user-guide/create/create-meta-ad.md)를 간소화할 수 있습니다.
 
 [!DNL Create]을(를) 사용하면 콘텐츠 작성자가 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [메타 광고 경험을 빠르게 만들기](/help/user-guide/create/create-meta-ad.md)할 수 있습니다.
+
+메타 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다.
 
 이메일 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 

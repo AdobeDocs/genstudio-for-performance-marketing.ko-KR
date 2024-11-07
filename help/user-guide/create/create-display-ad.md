@@ -5,7 +5,7 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
+source-git-commit: 5cd6abba1f56c9a2875c7e7dc5b94a353fc5e78e
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 1. 프롬프트 창을 확장하려면 _매개 변수_ 아이콘을 클릭하십시오.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
-   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
+   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. *및* 경험에서 사용할 콘텐츠를 추가하여 콘텐츠 생성에 영향을 미치려면 다음을 수행하십시오.
    * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
@@ -65,7 +65,7 @@ ht-degree: 0%
 1. _&quot;생성할 경험 설명&quot;_ 프롬프트 상자에 프롬프트를 입력하십시오.
 1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
 
-기본적으로 프롬프트, 지침 및 추가한 컨텐츠를 기반으로 한 변형이 생성되고 캔버스에 표시됩니다.
+기본적으로 프롬프트, 지침 및 추가한 컨텐츠에 의해 유발되는 네 가지 변형이 생성되어 캔버스에 표시됩니다.
 
 ## 생성된 디스플레이 광고 수정
 
