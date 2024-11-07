@@ -5,9 +5,9 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 5cd6abba1f56c9a2875c7e7dc5b94a353fc5e78e
+source-git-commit: 885900eb259246c2d86a07791a1b7070e0dbf12a
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '875'
 ht-degree: 0%
 
 ---
@@ -124,5 +124,7 @@ When revising and preparing email experiences, you can toggle between previews f
 
 1. **새 디스플레이 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
    1. 형식을 선택하고(JPG 전용) **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
+
+      내보낸 HTML은 템플릿 또는 `div` 컨테이너와 같은 미리 정의된 웹 속성 내에 있어야 합니다. 이렇게 설정된 치수가 없으면 독립적으로 볼 때 이미지가 왜곡되어 표시될 수 있습니다.
 
 [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)을(를) 참조하십시오.
