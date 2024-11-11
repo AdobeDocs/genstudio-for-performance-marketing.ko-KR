@@ -4,9 +4,9 @@ description: 채널 계정을 연결하여 Adobe GenStudio for Performance Marke
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 7b3ecc1964df3d5a3fdc5c32b1e5c80f29133560
+source-git-commit: 310a6ea3b64e223222e0664750547be1812b8ef6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing은 13개월 동안 채널 데이터를 유�
 
 **GenStudio for Performance Marketing에서 메타 광고 계정을 연결하려면**:
 
-1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 채널 계정 연결]**을 클릭합니다.
+1. _[!DNL Insights]_에서 배너의&#x200B;**[!UICONTROL 채널 계정 연결]**을 클릭하거나 오른쪽 상단의&#x200B;**[!UICONTROL 계정 추가]**단추(더하기 기호가 있는 사용자 모양)를 클릭합니다.
 
    facebook에 로그인하라는 메시지가 표시될 수 있습니다. Facebook은 현재 사용 가능한 유일한 옵션입니다.
 
