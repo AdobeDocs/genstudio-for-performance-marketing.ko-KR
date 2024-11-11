@@ -4,10 +4,10 @@ breadcrumb-title: 사용 안내서
 user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 살펴봅니다. 빠르게 브랜드 자산을 만들고, 변형을 생성하고, 경험을 최적화하는 방법을 알아보십시오.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: 3e9a2a4f42ba79389691705c571bf6bbd0b990c5
+source-git-commit: 8ebcd5e9c721bd825faf48233d372ff420a6c2df
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 24%
 
 ---
 
@@ -20,6 +20,7 @@ ht-degree: 0%
 + 소개 {#intro}
    + [개념](concepts.md)
    + [제품 프로비저닝](product-provisioning.md)
+   + [구성 [!DNL Brand] 권한](configure-brand-permissions.md)
    + [사용자 역할](user-roles.md)
    + [유효 프롬프트](effective-prompts.md)
 + 지침 {#guidelines}

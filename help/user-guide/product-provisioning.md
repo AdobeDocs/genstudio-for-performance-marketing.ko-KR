@@ -3,16 +3,17 @@ title: Adobe GenStudio for Performance Marketing 프로비저닝
 description: GenStudio for Performance Marketing 제품 프로비저닝에 대해 알아봅니다.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 3e9a2a4f42ba79389691705c571bf6bbd0b990c5
+exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
+source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudio for Performance Marketing 프로비저닝
 
-제품 프로비저닝은 조직의 GenStudio for Performance Marketing 인스턴스에 대한 1회 설정입니다. Adobe 시스템 관리자가 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)에서 이러한 초기 프로비저닝 작업을 수행합니다. Adobe 시스템 관리자는 Admin Console에서 GenStudio 제품 프로필에 액세스하고 사용자에게 사용 가능한 제품 라이선스를 할당할 수 있습니다.
+Adobe 시스템 관리자가 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)에서 초기 프로비저닝 작업을 수행합니다. Adobe 시스템 관리자는 Admin Console에서 GenStudio 제품 프로필에 액세스하고 사용자에게 사용 가능한 제품 라이선스를 할당할 수 있습니다.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: GenStudio for Performance Marketing을 시작하여 새로운 브�
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 6454090c9fffb4b288b615680597b80e5b71a89c
+source-git-commit: 3c391753ebd0d19ad7dcb17870915eeccc55cc05
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ GenStudio for Performance Marketing은 브랜드 및 시장에 대한 정보를 
 
 * 중복을 피하십시오. 지시문을 여러 번 반복하고 싶을 수 있지만 지침의 중복성은 기본 LLM을 캡처하고 브랜드 지침을 구현하는 데 도움이 되지 않습니다.
 
-* 컨텐츠를 생성하는 동안 LLM에서 제외할 요소를 식별합니다(예: 텍스트의 느낌표)
+* 컨텐츠를 생성하는 동안 LLM에서 제외할 요소를 식별합니다(예: 텍스트의 느낌표).
 
 GenStudio for Performance Marketing에 정보를 수동으로 입력할 때 지침 문서를 업로드하거나 참조할 수 있습니다. 이 정보를 업로드하거나 입력하는 방법은 [지침 추가](./guidelines/overview.md)를 참조하십시오.
 
@@ -49,16 +49,28 @@ GenStudio for Performance Marketing에 정보를 수동으로 입력할 때 지�
 
 GenStudio 시스템 관리자는 조직의 특정 브랜드 요구 사항을 수동으로 입력하거나 업로드하여 제품의 기본 생성 AI 프레임워크를 준비할 수 있습니다. 조직의 브랜드 지침을 설정하는 것은 일회성 작업이지만 조직의 변동성, 성장 및 변화하는 시장 상황에 따라 이 지침을 수정하고 강화할 수 있습니다.
 
-### 2단계: 템플릿 업로드
+## 2단계: GenStudio [!DNL Brands]에 대한 Adobe Admin Console 프로젝트 설정
+
+공동 작업자가 [!DNL Brands]을(를) 편집하거나 만들려면 시스템 관리자가 추가 설정 작업을 완료해야 합니다. Adobe 시스템 관리자는 Adobe Admin Console에서 다음 작업을 수행합니다.
+
+* [!DNL Brands] 권한을 편집하고 만들어야 하는 모든 사용자를 포함하는 새 사용자 그룹을 만드십시오.
+
+* Adobe Admin Console에서 새 프로젝트를 만듭니다.
+
+[브랜드 권한 할당](configure-brand-permissions.md)을 참조하세요.
+
+### 3단계: 템플릿 업로드
 
 템플릿은 콘텐츠 작성 시간을 단축합니다. 템플릿에는 머리글과 바닥글과 같은 승인된 기능이 포함되어 있으며 특정 채널에 최적화되어 있습니다. 시스템 관리자는 일반적으로 조직의 템플릿을 업로드하고 관리합니다. 콘텐츠 편집자는 템플릿을 사용하여 조직 브랜드의 정해진 경계 내에서 콘텐츠 작성 프로세스를 바로 시작할 수 있습니다.
 
-템플릿 사용자 지정 및 업로드에 대한 지침은 [템플릿 작업](./content/use-templates.md)을 참조하십시오.
+[템플릿 작업](./content/use-templates.md)을 참조하세요.
 
-### 3단계: 승인된 에셋 업로드
+### 4단계: 승인된 에셋 업로드
 
-[!DNL Content]의 승인된 에셋은 모든 GenStudio for Performance Marketing 편집자가 사용할 수 있습니다. [!DNL Content]을(를) 콘텐츠 편집기에서 새 경험이나 자산을 만드는 데 사용할 자산으로 채울 수 있습니다. 자산 업로드 및 관리에 대한 지침은 [승인된 자산 업로드](./content/manage-assets.md)를 참조하십시오.
+[!DNL Content]의 승인된 에셋은 모든 GenStudio for Performance Marketing 편집자가 사용할 수 있습니다. [!DNL Content]을(를) 콘텐츠 편집기에서 새 경험이나 자산을 만드는 데 사용할 자산으로 채울 수 있습니다.
 
-### 4단계: 메타(Facebook) 계정에 연결
+[승인된 에셋 업로드](./content/manage-assets.md)를 참조하십시오.
+
+### 5단계: 메타(Facebook) 계정에 연결
 
 GenStudio for Performance Marketing과 조직의 소셜 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받을 수 있습니다. [[!DNL Insights]](./insights/overview.md)은(는) 채널 파생 데이터를 분석하는 도구를 제공합니다. [메타(Facebook) 계정에 연결](./insights/connect-channel.md#meta-ads-connect)을 참조하십시오.
