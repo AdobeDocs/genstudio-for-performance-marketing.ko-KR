@@ -4,9 +4,9 @@ description: GenStudio for Performance Marketing 제품 프로비저닝에 대�
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
+source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Adobe 시스템 관리자가 [Adobe Admin Console](https://helpx.adobe.com/enter
 >[!NOTE]
 >
 >Adobe 시스템 관리자만 Adobe Admin Console 액세스가 필요한 지원 작업을 구현할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>새 제품 프로필을 추가하거나 기존 제품 프로필을 편집 또는 삭제하지 마십시오. 기본 제품 프로필을 변경하면 GenStudio for Performance Marketing 배포가 심각하게 중단될 수 있습니다.
 
 ## 1단계: Adobe Admin Console에서 제품 프로필에 액세스
 

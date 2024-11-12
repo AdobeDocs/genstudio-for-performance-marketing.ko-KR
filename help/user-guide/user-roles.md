@@ -4,9 +4,9 @@ description: GenStudio for Performance Marketing 사용자 역할 및 권한에 
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
+source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1115'
 ht-degree: 1%
 
 ---
@@ -32,6 +32,10 @@ _엔터프라이즈 및 팀 관리 가이드_&#x200B;에서 [관리 역할](http
 ## 권한 부여
 
 _자격_&#x200B;은(는) 특정 작업을 수행하고 보호된 리소스에 액세스할 수 있는 권한을 부여합니다. 권한 또는 권한은 제품 프로필 내의 사용자 역할에 정의되며 사용자는 해당 역할에 할당될 때 이러한 권한을 받습니다.
+
+>[!IMPORTANT]
+>
+>새 제품 프로필을 추가하거나 기존 제품 프로필을 편집 또는 삭제하지 마십시오. 기본 제품 프로필을 변경하면 GenStudio for Performance Marketing 배포가 심각하게 중단될 수 있습니다.
 
 ## 사용자 역할
 
