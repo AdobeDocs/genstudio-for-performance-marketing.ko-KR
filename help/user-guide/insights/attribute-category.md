@@ -3,9 +3,11 @@ title: 속성 범주
 description: GenStudio for Performance Marketing에 사용되는 속성 카테고리에 대해 알아봅니다.
 feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
-source-git-commit: 3b5fc55595f766db0327b6aefb0e29c3896e00c0
+last-substanial-update: 2024-11-11T00:00:00Z
+exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
+source-git-commit: 13b5e63afffc5a88d6d8c98fddac6d2d85f6e862
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -14,7 +16,7 @@ ht-degree: 1%
 
 속성 카테고리는 공통적인 특성을 공유하는 관련 속성을 구성하는 분류 그룹입니다. 이러한 범주는 컨텍스트를 확대하고 애플리케이션 및 사용을 촉진하여 특정 속성을 보다 효율적으로 검색, 식별 및 이해하는 데 도움이 됩니다.
 
-GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 이미지, 비디오 및 텍스트를 학습하고 신뢰도 수준에 따라 [!UICONTROL 에셋 특성]을 적용합니다. _신뢰도_&#x200B;는 AI가 예측 또는 분류에 할당할 확률을 나타냅니다. 머신러닝의 맥락에서 분류가 맞다는 것이 AI가 얼마나 &#39;확신&#39;했는지 측정하는 일종의 채점이라고 할 수 있다. 신뢰 점수가 높을수록 확실성이 더 큰 것을 의미한다. 예를 들어, 이미지를 분석할 때 AI가 몇 가지 기능을 식별하고 기능이 정확하다고 얼마나 확신하는지를 나타내는 점수를 각 기능에 할당할 수 있습니다. 에셋의 속성 목록은 완전하지 않습니다. 다양한 기능 세트를 포함하는 Assets은 식별된 가장 지배적인 3가지 기능과 같이 신뢰도 임계값으로 제한될 수 있습니다.
+GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 이미지, 비디오 및 텍스트를 학습하고 정확도 확률에 따라 [!UICONTROL 자산 속성]을 적용합니다. 에셋의 속성 목록은 완전하지 않습니다. 풍부한 기능 세트를 포함하는 Assets은 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다.
 
 ## 이미지 기능
 
