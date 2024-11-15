@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: edd27a6151cb81213ee27813beb4ecee835a1229
+source-git-commit: a2c2a39a8ed69a36c7126312ac42f6e02dd0598e
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,19 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 ## Express에서 편집
 
 Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직접 이미지 에셋(JPG 또는 PNG)을 편집할 수 있습니다. _[!UICONTROL Adobe Express 제공]_ 캔버스는 GenStudio 응용 프로그램을 종료하지 않고도 이미지를 개선할 수 있는 편리한 기능을 제공합니다. 배경을 쉽게 제거하고, 생성 채우기를 적용하고, 효과를 조정하고, 이미지를 자를 수 있습니다.
+
+>[!BEGINSHADEBOX]
+
+[!DNL Edit in Adobe Express] 기능을 사용하여 이미지를 개선하기 위한 기준:
+
+- 지원되는 MIME 형식에는 `image/png` 및 `image/jpeg`이(가) 포함됩니다.
+- 최소 이미지 크기는 50x50픽셀입니다
+- 최대 이미지 크기는 8000x8000픽셀입니다
+- 최대 크기는 40MB(40,000,000바이트)입니다.
+
+>[!ENDSHADEBOX]
+
+**Express로 자산을 편집하려면**:
 
 1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
@@ -91,7 +104,7 @@ Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직�
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)이(가) 사용을 위해 GenStudio for Performance Marketing에 추가됨 |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)이(가) 사용을 위해 GenStudio for Performance Marketing에 추가됨 |
 | 채널 | 이메일 및 메타 광고와 같이 에셋이 사용되는 GenStudio for Performance Marketing의 콘텐츠 유형 |
-| 일정 | 에셋이 사용된 기간(예: 분기, 시즌, 연도 등) 예: `Winter 2023` |
+| 일정 | 분기, 시즌, 연도 등과 같이 자산이 사용되는 일정. 예: `Winter 2023` |
 | 지역 | 자산이 사용되는 지역. 예: `North America`, `APAC`, `Italy` |
 | 언어 | 에셋이 사용되는 언어입니다. 예: `Spanish` |
 | 키워드 | 자산 특성 및 용도를 추가로 식별하기 위해 사용되는 키워드 |
