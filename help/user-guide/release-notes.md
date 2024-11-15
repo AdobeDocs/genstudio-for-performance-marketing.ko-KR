@@ -2,10 +2,11 @@
 title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
-source-git-commit: b502e0a558cbc26c70d813938734a2f6f230dc8e
+exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
+source-git-commit: 958ad60d1d9a88e0dd4cba0decf8da8bc398d542
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 3%
+source-wordcount: '817'
+ht-degree: 2%
 
 ---
 
@@ -13,9 +14,35 @@ ht-degree: 3%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
 
-## 2024.11.07 {#latest}
+## 2024.11.14 {#latest}
 
-### 수정 사항
+### 새로운 기능
+
+리치 미디어 템플릿에 대한 지원을 추가하여 고객이 자체 관리 콘텐츠 채널을 통해 이미 게시된 자산을 재사용할 수 있도록 합니다. <!-- GS-6107 -->
+
+### 수정 사항 및 개선 사항
+
+* 초기 콘텐츠를 생성하는 데 사용되는 브라우저 이외의 브라우저에서 크기를 조정하면 이제 예상대로 초안이 로드됩니다. <!-- GS-7204 -->
+
+* 이제 내보낸 HTML에 모든 문자가 올바르게 표시됩니다. <!-- GS-7246 -->
+
+* [!DNL Content] _경험_ **[!UICONTROL 내보내기]** 팝업의 단추가 더 이상 특정 언어로 잘리지 않습니다. <!-- GS-6873 -->
+
+* 50x50 크기의 템플릿으로 만든 디스플레이 광고를 이제 예상 이미지 크기로 내보냅니다. 이전에는 내보낸 PNG 파일을 예상 크기의 두 배로 내보냈습니다. <!-- GS-7192 -->
+
+* 디스플레이 광고 크기가 조정되었을 때 발생한 템플릿 오류가 이제 해결되었습니다. <!-- GS-7322 -->
+
+### 로컬라이제이션
+
+이 릴리스에는 다음을 포함하여 UI 전체의 현지화에 대한 개선 사항이 포함됩니다.
+
+* 이제 [!DNL Content] _자산 업로드_ 팝업의 모든 문자열이 올바르게 현지화되었습니다. <!-- GS-6872 6770 -->
+* [!DNL Content] _Assets_ 보기 **[!UICONTROL 검색]** 필드의 모든 도구 설명이 지역화되었습니다. <!-- GS-6879 -->
+* [!DNL Create] 캔버스에서 전자 메일 변형의 기존 이미지를 바꿀 때 _콘텐츠에서 선택_ 보기가 현지화되었습니다. <!-- GS-6906 -->
+
+## 2024.11.07
+
+### 수정 사항 및 개선 사항
 
 * 사용자가 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭한 다음 업로드가 완료되기 전에 작업을 취소하면 _저장 진행 중_ 회전기가 더 이상 표시되지 않습니다. <!-- GS-6780 -->
 
@@ -31,7 +58,7 @@ ht-degree: 3%
 
 * 이제 사용자는 키보드만으로 모든 메타데이터 템플릿 대화형 요소를 제어할 수 있습니다. <!-- GS-4066 -->
 
-* 광고 템플릿을 표시하기 위해 템플릿 이미지 필드에서 이미지 차원 추출을 추가했습니다. 이제 전체 템플릿이 아닌 실제 이미지 차원에 대해 스마트 자르기 요청이 전송됩니다. <!-- GS-6926 -->
+* 디스플레이 광고 템플릿에 템플릿 이미지 필드의 이미지 차원 추출을 추가했습니다. 이제 전체 템플릿이 아닌 실제 이미지 차원에 대해 스마트 자르기 요청이 전송됩니다. <!-- GS-6926 -->
 
 * 생성된 이메일 및 메타 광고에서 `Zoom to fit to screen` 문자열을 지역화했습니다. <!-- GS-5063 -->
 
@@ -65,7 +92,7 @@ ht-degree: 3%
 
 * 이제 **[!DNL Create]** 캔버스에 전자 메일 조각의 문자 수가 표시됩니다. <!-- GS-5819 -->
 
-### 수정 사항
+### 수정 사항 및 개선 사항
 
 * 누락된 화면 판독기 레이블이 모바일 및 데스크톱 `view` 요소에 추가되었습니다. <!-- GS-5624 4729 -->
 
@@ -101,4 +128,4 @@ GenStudio for Performance Marketing은 Adobe Express 및 Adobe AEM Assets을 포
 
 * [Adobe GenStudio for Performance Marketing 사용 안내서](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
 
-* 창작 과정에서 생성 AI 기술을 사용하기 위한 Adobe의 온라인 학습 플랫폼인 [Adobe GenStudio 아카데미](genstudioacademy.md). [GenStudio 아카데미에 등록](http://adobe.ly/genstudioacademyregistration).
+* 창작 과정에서 생성 AI 기술을 사용하기 위한 Adobe의 온라인 학습 플랫폼인 [Adobe GenStudio 아카데미](https://learningmanager.adobe.com/genstudioacademy).
