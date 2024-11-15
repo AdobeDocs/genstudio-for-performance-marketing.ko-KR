@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing 개념
 description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
+source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,9 +25,9 @@ GenStudio for Performance Marketing을 사용하여 다음과 같은 작업을 �
 
 GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘텐츠 생성 프로세스를 가속화하고 고품질의 콘텐츠 생성을 보장합니다. 크리에이티브 에셋의 라이프사이클이 반복되면 타겟 대상자에게 반향을 불러일으키는 정확도와 브랜드 중심 콘텐츠가 점점 더 많아집니다.
 
-먼저 강력한 브랜드 가이드라인 기능을 통해 GenStudio for Performance Marketing을 조직의 브랜드, 고객 담당자 및 제품 설명에 대해 효과적으로 교육합니다.
+먼저 강력한 브랜드 가이드라인 기능을 통해 GenStudio for Performance Marketing을 조직의 브랜드, 고객 담당자 및 제품 설명에 대해 효과적으로 교육합니다. 이러한 지침을 준비하고 업로드하는 방법에 대해 알아보려면 [지침 개요](../user-guide/guidelines/overview.md)를 참조하세요.
 
-이러한 지침을 준비하고 업로드하는 방법에 대해 알아보려면 [지침 개요](../user-guide/guidelines/overview.md)를 참조하세요.
+{{in-academy}}
 
 ## 데이터 거버넌스
 

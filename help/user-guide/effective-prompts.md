@@ -3,10 +3,10 @@ title: 유효한 프롬프트 작성
 description: 성과 마케팅을 위한 Adobe GenStudio에서 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '758'
+ht-degree: 2%
 
 ---
 
@@ -107,3 +107,5 @@ Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they ca
 - 정기적으로 지침을 검토하고 조정합니다.
 - 반복 및 세분화.
 - 실험을 통해 배우십시오.
+
+{{in-academy}}

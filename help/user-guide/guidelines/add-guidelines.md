@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
+source-git-commit: b644a69fd63c8b1deaf42736659dfe9b3b6bd8ab
 workflow-type: tm+mt
 source-wordcount: '1651'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 
 GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프로세스의 중요한 단계입니다. 가이드라인은 사용자 정의 프롬프트 및 Adobe 생성 AI 기술과 함께 콘텐츠 작성 프로세스를 알려 효과적인 자산을 제작합니다.
 
+{{in-academy}}
+
 ## [!DNL Brands] 추가
 
 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-a-brand) 또는 [수동으로 브랜드 만들기](#manually-add-brand)하십시오. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]까지 활성화하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
@@ -27,6 +29,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 왼쪽 탐색 영역에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_패널에서&#x200B;**브랜드 추가**를 선택합니다.
 
 >[!TIP]
+>
 >각 브랜드는 계층적인 관계 없이 독립적으로 운영됩니다. 상위 브랜드에서 하위 브랜드를 만들려면 만들기 프로세스 중에 상위 브랜드의 정보를 포함하십시오.
 
 ### 브랜드 업로드
