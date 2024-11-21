@@ -2,10 +2,11 @@
 title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
+last-substanial-update: 2024-11-14T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 958ad60d1d9a88e0dd4cba0decf8da8bc398d542
+source-git-commit: 720b23061d7e56a9b1e712d7787158c6a1bb771c
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '791'
 ht-degree: 2%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 2%
 
 * [!DNL Content] _경험_ **[!UICONTROL 내보내기]** 팝업의 단추가 더 이상 특정 언어로 잘리지 않습니다. <!-- GS-6873 -->
 
-* 50x50 크기의 템플릿으로 만든 디스플레이 광고를 이제 예상 이미지 크기로 내보냅니다. 이전에는 내보낸 PNG 파일을 예상 크기의 두 배로 내보냈습니다. <!-- GS-7192 -->
+* 50x50 크기의 템플릿으로 만든 디스플레이 광고를 이제 예상 이미지 크기로 내보냅니다. 이전에는 PNG 파일을 예상 차원의 두 배로 내보냈습니다. <!-- GS-7192 -->
 
 * 디스플레이 광고 크기가 조정되었을 때 발생한 템플릿 오류가 이제 해결되었습니다. <!-- GS-7322 -->
 
@@ -40,7 +41,9 @@ ht-degree: 2%
 * [!DNL Content] _Assets_ 보기 **[!UICONTROL 검색]** 필드의 모든 도구 설명이 지역화되었습니다. <!-- GS-6879 -->
 * [!DNL Create] 캔버스에서 전자 메일 변형의 기존 이미지를 바꿀 때 _콘텐츠에서 선택_ 보기가 현지화되었습니다. <!-- GS-6906 -->
 
-## 2024.11.07
+## 이전 릴리스 노트
+
++++2024.11.07 릴리스 정보
 
 ### 수정 사항 및 개선 사항
 
@@ -84,7 +87,9 @@ ht-degree: 2%
 
 * 메타데이터 이미지를 크기 조정한 후 재생성해도 더 이상 오류가 발생하지 않습니다. 이전에는 재생성 전에 이미지 크기를 조정하면 채널 메타데이터가 `meta`에서 `facebook`(으)로 변경되었습니다. <!-- GS-7042 -->
 
-## 2024.10.31
++++
+
++++2024.10.31 릴리스 정보
 
 ### 새로운 기능
 
@@ -122,10 +127,4 @@ ht-degree: 2%
 
 GenStudio for Performance Marketing은 Adobe Express 및 Adobe AEM Assets을 포함한 다른 Adobe Experience Cloud 제품과 통합됩니다.
 
-### 추가 정보
-
-다음 유용한 리소스를 참조하십시오.
-
-* [Adobe GenStudio for Performance Marketing 사용 안내서](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
-
-* 창작 과정에서 생성 AI 기술을 사용하기 위한 Adobe의 온라인 학습 플랫폼인 [Adobe GenStudio 아카데미](https://learningmanager.adobe.com/genstudioacademy).
++++
