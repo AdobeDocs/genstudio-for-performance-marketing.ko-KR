@@ -3,9 +3,10 @@ title: ' [!DNL Brand] 권한 할당'
 description: GenStudio for Performance Marketing [!DNL Brand] 작성자 및 편집자에 대한 권한을 할당하는 방법에 대해 알아봅니다.
 level: Intermediate
 feature: Brands Service, Generative AI
-source-git-commit: 3c391753ebd0d19ad7dcb17870915eeccc55cc05
+exl-id: fc33ecd3-4403-4045-87af-012a0377226c
+source-git-commit: baa225419ba5e851f28d41f829971027655e103e
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '699'
 ht-degree: 1%
 
 ---
@@ -34,7 +35,7 @@ _Enterprise 및 Teams 관리 가이드_&#x200B;에서 [사용자 그룹 관리](
 
 ## 2단계: 사용자 그룹에 GenStudio 시스템 관리자 프로필 할당
 
-새 사용자 그룹을 만들고 사용자를 추가하면 **Adobe GenStudio 시스템 관리자** 프로필을 이 그룹에 할당할 수 있습니다. 할당된 프로필에 연결된 권한을 통해 이 그룹의 모든 사용자에게 GenStudio [!DNL Brands] 권한(브랜드 만들기, 업데이트 및 삭제)을 제공합니다.
+새 사용자 그룹을 만들고 사용자를 추가하면 **Adobe GenStudio 시스템 관리자** 프로필을 이 그룹에 할당할 수 있습니다. 할당된 프로필에 연결된 자격 부여를 통해 이 그룹의 모든 사용자에게 GenStudio [!DNL Brands] 권한(브랜드 만들기, 업데이트 및 삭제)을 제공합니다.
 
 **사용자 그룹에 프로필을 할당하려면**:
 
@@ -54,7 +55,25 @@ _Enterprise 및 Teams 관리 가이드_&#x200B;에서 [사용자 그룹 관리](
 
 _엔터프라이즈 및 팀 관리 가이드_&#x200B;에서 [사용자 그룹에 제품 프로필 할당](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)을 참조하세요.
 
-## 3단계: [!DNL Brands] 프로젝트 만들기
+## 3단계: 사용자 그룹에 사용자 추가
+
+[!DNL Brands]을(를) 만들고 편집하고 게시할 수 있는 권한을 사용자에게 할당하려면 해당 권한을 새로 만든 사용자 그룹에 추가하십시오.
+
+>[!NOTE]
+>
+>그룹을 프로젝트에 추가하기 전에 이 사용자 그룹에 사용자를 한 명 이상 추가해야 합니다.
+
+**사용자 그룹에 사용자를 추가하려면**:
+
+1. _Admin Console_&#x200B;에서 **[!UICONTROL 사용자]** > **[!UICONTROL 사용자 그룹]**(으)로 이동합니다.
+
+1. 이전에 생성한 사용자 그룹의 이름을 선택합니다. _이 사용자 그룹에 사용자 추가_ 팝업이 열립니다.
+
+1. 사용자 이름 또는 이메일 주소로 새 사용자 또는 기존 사용자를 추가합니다. 기존 사용자의 이름 또는 이메일 주소를 입력하면 이 IMS 조직에 속하는 알려진 사용자에 대해 일치하는 이름으로 이 필드가 자동으로 채워집니다. _Enterprise 및 Teams 관리 가이드_&#x200B;의 [사용자 그룹 관리](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)에서 사용자 그룹 관리에 대해 알아봅니다.
+
+그룹에 추가되면 Adobe GenStudio 시스템 관리자의 [!DNL Brand] 만들기, 편집 및 게시 권한이 사용자에게 부여됩니다. 또한 사용자는 Adobe GenStudio for Performance Marketing [!DNL Brands] 프로젝트를 편집하기 위한 자동 전자 메일 초대를 받습니다.
+
+## 4단계: [!DNL Brands] 프로젝트 만들기
 
 _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 있는 저장소 위치를 제공합니다(이 경우 자산 [!DNL Brands]개).
 
@@ -66,13 +85,13 @@ _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 �
 
 1. **[!UICONTROL 프로젝트 만들기]**&#x200B;를 클릭합니다. _새 프로젝트_ 팝업이 열립니다.
 
-1. 프로젝트 이름 필드에 `Adobe GenStudio Brands`을(를) 입력합니다. 여기에 표시된 대로 이 프로젝트 이름을 정확히 입력하십시오. 공백은 포함하지 않거나 글자 상자를 변경하지 마십시오.
+1. 프로젝트 이름 필드에 `Adobe GenStudio Brands`을(를) 입력하십시오. 여기에 표시된 대로 이 프로젝트 이름을 정확히 입력하십시오. 공백은 포함하지 않거나 글자 상자를 변경하지 마십시오.
 
 1. Click **[!UICONTROL Create]**. _프로젝트에 초대_ 팝업이 열립니다.
 
 _Enterprise 및 Teams 관리 가이드_&#x200B;에서 [프로젝트 관리](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html)를 참조하십시오.
 
-## 4단계: 사용자 그룹을 프로젝트에 초대
+## 5단계: 사용자 그룹을 프로젝트에 초대
 
 이제 방금 만든 사용자 그룹을 `Adobe GenStudio [!DNL Brands]` 프로젝트에 추가할 준비가 되었습니다.
 
@@ -83,17 +102,3 @@ _Enterprise 및 Teams 관리 가이드_&#x200B;에서 [프로젝트 관리](http
 1. **편집 가능** 권한 옵션을 선택합니다.
 
 1. **[!UICONTROL 초대]**&#x200B;를 클릭합니다.
-
-## 5단계: 사용자 그룹에 사용자 추가
-
-[!DNL Brands]을(를) 만들고 편집하고 게시할 수 있는 권한을 사용자에게 할당하려면 해당 권한을 새로 만든 사용자 그룹에 추가하십시오.
-
-**사용자 그룹에 사용자를 추가하려면**:
-
-1. _Admin Console_&#x200B;에서 **[!UICONTROL 사용자]** > **[!UICONTROL 사용자 그룹]**(으)로 이동합니다.
-
-1. 이전에 생성한 사용자 그룹의 이름을 선택합니다. _이 사용자 그룹에 사용자 추가_ 팝업이 열립니다.
-
-1. 사용자 이름 또는 이메일 주소로 새 사용자 또는 기존 사용자를 추가합니다. _Enterprise 및 Teams 관리 가이드_&#x200B;의 [사용자 그룹 관리](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)에서 사용자 그룹 관리에 대해 알아봅니다.
-
-그룹에 추가되면 Adobe GenStudio 시스템 관리자의 [!DNL Brand] 만들기, 편집 및 게시 권한이 사용자에게 부여됩니다. 또한 사용자는 Adobe GenStudio for Performance Marketing [!DNL Brands] 프로젝트를 편집하기 위한 자동 전자 메일 초대를 받습니다.
