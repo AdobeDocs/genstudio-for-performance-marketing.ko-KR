@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing 개요 [!DNL Content]
 description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋을 찾고, 편집하고, 재사용하고, 공유하는 방법에 대해 알아봅니다.
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 1%
@@ -17,58 +17,111 @@ GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승�
 ## [!DNL Content] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md#search">
+
          <img alt="돋보기" src="../../assets/icons/icon-search.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md#search">
+
          <strong>콘텐츠 찾기</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md">
+
          <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md">
+
          <strong>에셋 추가</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/customize-template.md">
+
          <img alt="자산의 번개" src="../../assets/icons/icon-template.png">
+
       </a>
+
       <p>
+
          <a href="../content/customize-template.md">
+
          <strong>템플릿 사용자 지정</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/use-templates.md">
+
          <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate.png">
+
       </a>
+
       <p>
+
          <a href="../content/use-templates.md#upload-a-template">
+
          <strong>템플릿 업로드</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/asset-details.md#edit-in-express">
+
          <img alt="Adobe Express에서 편집" src="../../assets/icons/icon-editExpress.png">
+
       </a>
+
       <p>
+
          <a href="../content/asset-details.md#edit-in-express">
+
          <strong>Adobe Express에서 에셋 편집</strong>
+
          </a>
+
       </p>
+
    </td>
+
 </tr>
+
 </table>
 
 ## [!DNL Content] 기능

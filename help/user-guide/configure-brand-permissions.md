@@ -4,9 +4,9 @@ description: GenStudio for Performance Marketing [!DNL Brand] 작성자 및 편�
 level: Intermediate
 feature: Brands Service, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: baa225419ba5e851f28d41f829971027655e103e
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '700'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 �
 
 1. **[!UICONTROL 프로젝트 만들기]**&#x200B;를 클릭합니다. _새 프로젝트_ 팝업이 열립니다.
 
-1. 프로젝트 이름 필드에 `Adobe GenStudio Brands`을(를) 입력하십시오. 여기에 표시된 대로 이 프로젝트 이름을 정확히 입력하십시오. 공백은 포함하지 않거나 글자 상자를 변경하지 마십시오.
+1. 프로젝트 이름 필드에 `Adobe GenStudio Brands`을(를) 입력하십시오. 여기에 표시된 대로 이 프로젝트 이름을 정확히 입력하십시오. 공백은 추가하지 말고 문자를 바꾸지 마십시오.
 
 1. Click **[!UICONTROL Create]**. _프로젝트에 초대_ 팝업이 열립니다.
 

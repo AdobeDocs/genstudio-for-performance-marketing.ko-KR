@@ -4,7 +4,7 @@ description: GenStudio for Performance Marketing 제품 프로비저닝에 대�
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -65,4 +65,4 @@ GenStudio for Performance Marketing 사용자 역할 할당에 대한 지침은 
 
 * [여러 사용자/일괄 CSV 업로드 관리](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
 
-조직의 GenStudio for Performance Marketing에 사용자를 온보딩하면 Genstudio 시스템 관리자가 [조직의 브랜드 및 미디어 지침을 설정](get-started.md)할 수 있습니다.
+조직의 GenStudio for Performance Marketing에 사용자를 온보딩하면 GenStudio 시스템 관리자가 [조직의 브랜드 및 미디어 지침을 설정](get-started.md)할 수 있습니다.

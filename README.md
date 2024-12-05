@@ -1,8 +1,8 @@
 ---
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 36%
+source-wordcount: '311'
+ht-degree: 35%
 
 ---
 # GenStudio for Performance Marketing 설명서
@@ -38,7 +38,7 @@ Adobe 제품 팀의 테크니컬 라이터, 프로그램 관리자 또는 개발
 이 저장소의 모든 문서는 GitHub 버전의 Markdown을 사용합니다. 마크다운에 익숙하지 않은 경우 다음을 참조하십시오.
 
 - [Markdown 기본 사항](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [인쇄 가능 Markdown 치트시트](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [인쇄 가능한 Markdown 치트 시트](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## 레이블
 
