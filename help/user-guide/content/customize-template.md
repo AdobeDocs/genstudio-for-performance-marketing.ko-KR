@@ -4,18 +4,25 @@ description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: f95848546abc2decbb5ac52491307977820ce503
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 템플릿 사용자 정의
 
-_Handlebars_ 템플릿 언어를 사용하여 Adobe GenStudio for Performance Marketing에 대한 HTML 템플릿을 조정하십시오. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은 _Handlebars 언어 안내서_&#x200B;의 [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)을(를) 참조하십시오.
+생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 콘텐츠 자리 표시자를 추가하고, 미리 보기에서 불필요한 요소를 숨기고, 정적 콘텐츠로 연결되는 링크를 관리하는 방법을 설명합니다. 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
+다음 몇 섹션에서는 _Handlebars_ 템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 조정하는 방법을 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. [내용 [!DNL Handlebars]을(를) 참조하십시오._Handlebars 언어 안내서_&#x200B;의 ](https://handlebarsjs.com/guide/#what-is-handlebars)에서 서식 파일을 준비하는 방법을 알아봅니다.
+
+
+템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
+
+>[!TIP]
+>
+>더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있도록 [접근성 지침](accessibility-for-templates.md) 및 [모범 사례](/help/user-guide/content/best-practices-for-templates.md)를 따르십시오.
 
 ## 콘텐츠 자리 표시자
 
@@ -34,14 +41,14 @@ GenStudio for Performance Marketing은 템플릿 내의 특정 [요소](use-temp
 다음 표에는 템플릿으로의 채우기에 대해 GenStudio for Performance Marketing에서 인식하는 필드 이름이 나열되어 있습니다. [!DNL Handlebars] 구문을 사용하여 이 필드 이름을 템플릿에 추가하십시오. 여기서 콘텐츠를 생성하는 GenStudio for Performance Marketing이 필요합니다.
 
 | 필드 | 역할 | 채널 템플릿 |
-| -------------- | ---------------------- | ------------------------------ |
-| `pre_header` | 사전 머리글 | 이메일 |
-| `headline` | 제목 | 전자 메일 <br>메타 광고 |
-| `body` | 본문 복사 | 전자 메일 <br>메타 광고 |
-| `cta` | 클릭 유도 문안 | 전자 메일 <br>메타 광고 |
-| `on_image_text` | 이미지 텍스트에서 | 메타 광고 |
-| `image` | 이미지 | 전자 메일 <br>메타 광고 |
-| `brand_logo` | 선택한 브랜드의 로고<br>권장 사용 방법은 [브랜드 로고 필드 이름](#brand-logo-field-name)을 참조하세요. | 이메일<br>메타데이터 |
+| ------------------ | ---------------------- | -------------------------------- |
+| `{{pre_header}}` | 사전 머리글 | 이메일 |
+| `{{headline}}` | 제목 | 이메일 <br>메타 광고 <br>디스플레이 광고 |
+| `{{body}}` | 본문 복사 | 이메일 <br>메타 광고 <br>디스플레이 광고 |
+| `{{cta}}` | 클릭 유도 문안 | 이메일 <br>메타 광고 <br>디스플레이 광고 |
+| `{{on_image_text}}` | 이미지 텍스트에서 | 메타 광고 |
+| `{{image}}` | 이미지 - 콘텐츠에서 선택 | 이메일 <br>메타 광고 <br>디스플레이 광고 |
+| `{{brand_logo}}` | 선택한 브랜드의 로고<br>권장 사용 방법은 [브랜드 로고 필드 이름](#brand-logo-field-name)을 참조하세요. | 이메일<br>메타데이터 |
 
 GenStudio for Performance Marketing은 다음 템플릿에서 특정 필드를 자동으로 채웁니다.
 
@@ -93,23 +100,27 @@ GenStudio for Performance Marketing에 템플릿을 업로드할 때에는 20개
 
 _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio for Performance Marketing에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
-필드 이름에 선택한 접두사를 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 예를 들어 강조 표시된 영역에 나타나는 컨텐츠를 강조표시할 수 있습니다.
+필드 이름에 선택한 접두사를 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 밑줄(`_`) 뒤에 필드 이름(`headline`, `body`, `image` 또는 `cta`)을 사용하십시오. 예를 들어 다음 헤드라인 및 본문은 `pod1` 섹션에 속합니다.
 
 - `pod1_headline`
 - `pod1_body`
 
-각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다. 위의 예에서 `pod1` 섹션은 하나의 `pod1_headline` 필드만 사용할 수 있습니다.
+각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다. 위의 예에서 `pod1` 섹션은 하나의 `pod1_headline` 필드만 사용할 수 있습니다. 이 규칙 때문에 섹션을 중첩할 수 없습니다.
 
-템플릿에는 최대 3개의 섹션이 포함될 수 있습니다.
+이메일 템플릿에는 최대 3개의 섹션이 포함될 수 있습니다. 예를 들어 다음 목록에는 세 개의 헤드라인 및 본문 섹션이 있습니다.
 
-- `headline`
-- `body`
+- `pre-header`
 - `pod1_headline`
 - `pod1_body`
 - `pod2_headline`
 - `pod2_body`
+- `pod3_headline`
+- `pod3_body`
+- `cta`
 
 GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
+
+전자 메일의 각 섹션에 대해 다양한 콘텐츠를 생성하는 프롬프트를 만드는 방법을 알아보려면 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 참조하십시오.
 
 ## 템플릿 미리 보기
 
@@ -117,7 +128,7 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
 
 이메일 템플릿에 대한 미리 보기 예:
 
-![미리 보기 필드가 검색됨](../../assets/template-detected-fields.png){width="650"}
+![미리 보기 필드가 검색됨](/help/assets/template-detected-fields.png){width="650"}
 
 ### 컨트롤 미리 보기
 

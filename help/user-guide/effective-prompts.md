@@ -3,10 +3,10 @@ title: 유효한 프롬프트 작성
 description: 성과 마케팅을 위한 Adobe GenStudio에서 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
+source-git-commit: 79430c3279529c4871141489e409240852e1f4fc
 workflow-type: tm+mt
-source-wordcount: '758'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -57,9 +57,9 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 
 ### 구조화된 프롬프트
 
-여러 섹션 전자 메일의 경우 [전자 메일](/help/user-guide/create/email-experiences.md)의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/content/email-template.md#multi-section-emails)을(를) 직접 참조해야 합니다.
+여러 섹션 이메일의 경우 이메일의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/content/customize-template.md#sections-or-groups)을(를) 직접 참조해야 합니다.
 
-예를 들어, GenStudio for Performance Marketing에 이메일의 첫 번째 섹션에서 새 제품을 홍보하는 콘텐츠를 생성하고 두 번째 이메일 섹션에서 제품의 비용 절감 이점을 자세히 설명하는 콘텐츠를 생성하도록 지시할 수 있습니다.
+예를 들어 첫 번째 섹션에서 새 제품을 홍보하고 두 번째 섹션에서 비용 절감 혜택을 자세히 설명하는 이메일 콘텐츠를 생성하도록 GenStudio for Performance Marketing에 지시할 수 있습니다.
 
 구조화된 프롬프트는 다음과 같습니다.
 
@@ -72,7 +72,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
   예를 들어 템플릿에서 `moduleA` 또는 `Group-3`을(를) 섹션 이름으로 사용하는 경우 프롬프트에서 해당 섹션 이름을 참조할 수 있습니다.
 
 - 권장되는 규칙/구조를 따르십시오. 프롬프트 구조가 제공된 형식을 준수하지 않는 경우 프롬프트는 *모두* 이메일 섹션에 적용되며 여전히 콘텐츠 생성을 용이하게 합니다.
-- 섹션 이름을 전자 메일 템플릿에 정의된 [대로 사용](/help/user-guide/content/email-template.md#code-an-email-template)합니다. 프롬프트 참조는 이메일 템플릿에 코딩된 섹션 이름과 일치해야 합니다.
+- 이메일 템플릿에 정의된 섹션 이름을 사용합니다. 프롬프트 참조는 이메일 템플릿에 코딩된 섹션 이름과 일치해야 합니다.
 - 대/소문자를 구분하지 마십시오. 예를 들어 전자 메일 템플릿과 구조화된 프롬프트에서 `Pod` 또는 `pod`을(를) 사용할 수 있습니다.
 - 먼저 일반 사용자 프롬프트를 참조한 다음 섹션별 지시문을 참조하십시오.
 - 콜론, 하이픈, 쉼표 또는 기타 구분(`,:;#$!~|@=-%&*^_`)을 섹션 이름 참조와 지시문을 구분하여 사용하십시오. 예를 들어 다음 명령을 섹션별 프롬프트 지시문으로 사용할 수 있습니다. `Pod1; Describe how to easily edit text and swap images.`
@@ -91,7 +91,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-[전자 메일 템플릿 준비](/help/user-guide/content/email-template.md#code-an-email-template)를 참조하세요.
+[템플릿 사용 모범 사례](/help/user-guide/content/best-practices-for-templates.md)를 참조하세요.
 
 ## 다시 시도
 

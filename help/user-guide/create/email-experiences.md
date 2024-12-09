@@ -4,13 +4,13 @@ description: Adobe GenStudio for Performance Marketing의 이메일 경험에 �
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
+exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
+source-git-commit: 333d40a733f5417ea182d7708bef38907dfd5722
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 이메일 경험
 
@@ -39,7 +39,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 이메일 경험은 여러 섹션을 포함할 수 있으므로 브랜드 및 목표에 맞게 전체 맞춤화를 구현할 수 있습니다. [각 섹션의 시각적 자산을 선택 [!DNL Products] 하고](/help/user-guide/create/create-email-experience.md#add-parameters)한 다음 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 사용하여 고유한 콘텐츠를 만듭니다. 각 섹션은 하나의 시각적 자산을 지원합니다.
 
-다중 섹션 템플릿을 만드는 방법을 알아보려면 [전자 메일 템플릿 준비](/help/user-guide/content/email-template.md)를 참조하세요.
+다중 섹션 템플릿을 만드는 방법은 [섹션을 사용하여 템플릿 사용자 지정](/help/user-guide/content/customize-template.md#sections-or-groups)을 참조하세요.
 
 ## 점진적 로드
 

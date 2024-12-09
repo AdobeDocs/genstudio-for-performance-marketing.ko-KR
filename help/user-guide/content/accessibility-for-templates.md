@@ -3,9 +3,9 @@ title: 액세스 가능한 템플릿 만들기
 description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 Adobe GenStudio for Performance Marketing의 템플릿을 작성합니다.
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: fee67ba0d9781cf16ac909eddf385bd3d60ac97b
+source-git-commit: cc1d750a8a520c793b1b605747c091f8a5f5e1a2
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ GenStudio for Performance Marketing에서 다양한 경험을 위해 콘텐츠�
 <img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
 ```
 
-![아이디어, 책, 큰 연필 들고 있는 남자, 컴퓨터 콜라주](../../assets/card-create-assets.png){width="400"}
+![아이디어, 책, 큰 연필 들고 있는 남자, 컴퓨터 콜라주](/help/assets/card-create-assets.png){width="400"}
 
 ## 글꼴
 

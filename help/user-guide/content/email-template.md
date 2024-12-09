@@ -2,11 +2,12 @@
 title: Adobe GenStudio for Performance Marketing용 이메일 템플릿 준비
 description: Adobe GenStudio for Performance Marketing용 사용자 지정 이메일 템플릿을 구축하는 방법을 알아봅니다.
 level: Intermediate
+hidefromtoc: true
 feature: Templates, Content
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: cf6e0679999614a4d14d224c9a8dce0b66f50262
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

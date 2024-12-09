@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,9 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 1. 자산 보기에서 오른쪽의 _[!UICONTROL 세부 정보]_ 섹션을 검토합니다.
 
-   >[!TIP]
-   >
-   >_[!UICONTROL 세부 정보]_ 섹션이 표시되지 않으면 **[!UICONTROL 정보]**(i) 아이콘을 클릭합니다.
+1. _[!UICONTROL 세부 정보]_ 섹션이 표시되지 않으면 **[!UICONTROL 정보]**(i) 아이콘을 클릭합니다.
 
-에셋 세부 사항에는 생성 또는 업로드 프로세스 중에 적용된 메타데이터가 포함됩니다. 에셋 메타데이터 유형에는 [시스템 메타데이터](#system-metadata) 및 [사용자 정의 메타데이터](#user-defined-metadata)가 포함됩니다.
+에셋 세부 사항에는 만들기 또는 업로드 프로세스 중에 적용된 메타데이터가 포함됩니다. 에셋 메타데이터 유형에는 [시스템 메타데이터](#system-metadata) 및 [사용자 정의 메타데이터](#user-defined-metadata)가 포함됩니다.
 
 다음 이미지 에셋에는 파일 유형, 크기 및 기타 특성, 사용자 정의 키워드 1개 및 AI가 감지한 특성과 색상을 설명하는 시스템 메타데이터가 포함되어 있습니다.
 
@@ -38,9 +36,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 ## 시스템 메타데이터
 
-일부 에셋 메타데이터는 에셋이 업로드될 때 자동으로 수집됩니다. 기본 시스템 메타데이터는 편집할 수 없습니다.
-
-에셋에 대해 저장되고 캡처되는 기본 메타데이터에는 파일 이름, 차원, 소스 등이 포함됩니다.
+파일 유형, 크기, 차원, 소스 등과 같은 에셋이 업로드되면 일부 에셋 메타데이터가 자동으로 수집됩니다. 파일 이름을 제외하고 기본 시스템 메타데이터를 편집할 수 없습니다.
 
 ### 생성된 태그
 
