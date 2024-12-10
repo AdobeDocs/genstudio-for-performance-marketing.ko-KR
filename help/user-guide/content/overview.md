@@ -17,111 +17,58 @@ GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승�
 ## [!DNL Content] 사용 사례
 
 <table style="table-layout:fixed">
-
 <tr style="border: 0;">
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/manage-assets.md#search">
-
          <img alt="돋보기" src="../../assets/icons/icon-search.png">
-
       </a>
-
       <p>
-
          <a href="../content/manage-assets.md#search">
-
          <strong>콘텐츠 찾기</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/manage-assets.md">
-
          <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.png">
-
       </a>
-
       <p>
-
          <a href="../content/manage-assets.md">
-
          <strong>에셋 추가</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/asset-details.md#edit-in-express">
-
          <img alt="Adobe Express에서 편집" src="../../assets/icons/icon-editExpress.png">
-
       </a>
-
       <p>
-
          <a href="../content/asset-details.md#edit-in-express">
-
          <strong>Adobe Express에서 에셋 편집</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/customize-template.md">
-
          <img alt="자산의 번개" src="../../assets/icons/icon-template.png">
-
       </a>
-
       <p>
-
          <a href="../content/customize-template.md">
-
          <strong>템플릿 사용자 지정</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/use-templates.md">
-
          <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate.png">
-
       </a>
-
       <p>
-
          <a href="../content/use-templates.md#upload-a-template">
-
          <strong>템플릿 업로드</strong>
-
          </a>
-
       </p>
-
    </td>
-
 </tr>
-
 </table>
 
 ## [!DNL Content] 기능
