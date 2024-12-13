@@ -1,12 +1,12 @@
 ---
 title: 이메일 경험 만들기
-description: 성능 마케팅을 위해 Adobe GenStudio에서 이메일 경험을 만드는 방법을 알아봅니다.
+description: Adobe GenStudio for Performance Marketing에서 이메일 경험을 만드는 방법을 알아봅니다.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
+source-git-commit: 763c907598d92779483938295a99d640ee3f4d20
 workflow-type: tm+mt
 source-wordcount: '996'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 이 튜토리얼에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 [이메일 경험](/help/user-guide/create/email-experiences.md)을(를) 생성하는 방법을 보여 줍니다.
 
-효과적인 이메일 경험을 만들려면 시작하기 전에 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
+효과적인 이메일 경험을 만들려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
 
 ## 템플릿 선택
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![사용자 선택](/help/assets/persona-select.png){width="600" zoomable="yes"}
 
-   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
+   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
    * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
@@ -82,7 +82,7 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**, 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 두 번 클릭하고 필요에 따라 편집합니다[
+* **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다[
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에 이미지를 추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 선택/교체]** 또는 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭하여 개별 변형에서 이미지를 추가하거나 교체하십시오.[
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.

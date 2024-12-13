@@ -5,9 +5,10 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 885900eb259246c2d86a07791a1b7070e0dbf12a
+exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 ## 템플릿 선택
 
-디스플레이 광고 경험을 만들려면 사용 가능한 템플릿을 사용하여 콘텐츠의 프레임워크를 제공하십시오.
+디스플레이 광고 경험을 만들려면 사용 가능한 템플릿을 사용하여 콘텐츠의 프레임워크를 제공하십시오. 지원되는 디스플레이 광고 차원에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하세요.
 
 **디스플레이 광고 템플릿을 선택하려면**:
 
@@ -75,6 +76,7 @@ ht-degree: 0%
 
 * **디스플레이 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
 * **디스플레이 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 디스플레이 광고 섹션 또는 필드(예: 제목 줄, 머리글 또는 본문 복사본)를 두 번 클릭하고 필요에 따라 편집합니다.[
+* **변형의 섹션을 [다시 생성](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;하려면 편집 가능한 텍스트 필드를 클릭하고 사용 가능한 옵션을 사용하여 텍스트를 다시 만들거나, 줄이거나, 늘리거나, 새 텍스트를 생성합니다.
 * **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
@@ -123,7 +125,7 @@ When revising and preparing email experiences, you can toggle between previews f
       ![디스플레이 광고 Publish](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
 
 1. **새 디스플레이 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
-   1. 형식을 선택하고(JPG 전용) **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
+   1. HTML 및 이미지, PNG 또는 JPG 형식을 선택하고 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 
       내보낸 HTML은 템플릿 또는 `div` 컨테이너와 같은 미리 정의된 웹 속성 내에 있어야 합니다. 이렇게 설정된 치수가 없으면 독립적으로 볼 때 이미지가 왜곡되어 표시될 수 있습니다.
 

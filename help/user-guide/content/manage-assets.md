@@ -3,10 +3,10 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 802ee1b5c403394b66567bbe4bffbda8124f3624
+source-git-commit: 5785c807f0a674c95cada0aa3976dd7fb3d7f16e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1271'
+ht-degree: 1%
 
 ---
 
@@ -59,7 +59,6 @@ _경험_&#x200B;을(를) 검색할 때 **[!UICONTROL 작성자]** 필터를 사�
 
 ![저장소 위치 목록](../../assets/content-location-selection.png){width="350"}
 
-
 AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
 [!DNL AEM Assets Content Hub] 리포지토리를 GenStudio for Performance Marketing에 추가하는 방법에 대한 지침은 [AEM 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
@@ -70,7 +69,20 @@ AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있�
 
 ## Assets 관리
 
-[!UICONTROL 콘텐츠]에서 성과 마케팅은 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 리포지토리와 AEM 리포지토리를 모두 활용함으로써 사용자는 다양한 마케팅 캠페인에 맞게 에셋을 잘 구성하고 액세스할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
+[!UICONTROL 콘텐츠]에서 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 저장소와 AEM 저장소를 모두 활용하여 에셋이 잘 구성되어 있고 다양한 마케팅 캠페인에 액세스할 수 있도록 할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
+
+다음 표에는 에셋, 경험 및 템플릿에 사용할 수 있는 관리 작업이 나열되어 있습니다.
+
+| 작업 | 자산 | 경험 | 템플릿 |
+| --------------------------------------------------------- | :----: | :---------: | :-------: |
+| [세부 정보 보기](/help/user-guide/content/asset-details.md) | ✓ 덧신 | ✓ | ✓ |
+| [경험 만들기](/help/user-guide/create/overview.md) |        |             | ✓ |
+| [Adobe Express에서 편집](#edit-in-express) | ✓ |             |           |
+| [활성화를 위해 내보내기](#export-for-activation) |        | ✓ |           |
+| [다운로드](#download-assets) | ✓ |             | ✓ |
+| [삭제](#delete-assets) | ✓ | ✓ | ✓ |
+
+<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### 에셋 추가
 
@@ -100,10 +112,6 @@ AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있�
 
 1. 새로 업로드한 자산을 보려면 캔버스 하단의 _사용 가능한 새 자산_ 알림에서 **[!UICONTROL 새로 고침]**&#x200B;을 클릭하세요.
 
-<!--
-In the future, need guidance on template upload errors. For now, the UI just says error.
--->
-
 ### 자산 다운로드
 
 **자산을 다운로드하려면**:
@@ -123,6 +131,23 @@ In the future, need guidance on template upload errors. For now, the UI just say
 1. 자산 보기에서 오른쪽 상단의 **[!UICONTROL 삭제]**(휴지통)을 클릭합니다.
 
 1. _자산 삭제_ 팝업에서 자산을 확인하고 **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
+
+## 활성화를 위해 내보내기
+
+승인된 경험을 타겟 채널과 호환되는 형식으로 내보내 활성화할 수 있습니다.
+
+**경험을 내보내려면**:
+
+1. _[!DNL Content]_에서 경험을 선택합니다. 경험을 클릭하면 세부 정보 보기가 열리거나 바로 가기 메뉴(`...`)를 클릭합니다.
+
+1. **[!UICONTROL 활성화를 위해 내보내기]**(화살표를 가리키는 상자)를 클릭합니다.
+
+1. _활성화를 위해 내보내기_ 팝업에서 사용 가능한 형식 중 하나를 선택합니다.
+
+   - 이메일: `HTML`, `CSV`
+   - 메타 및 디스플레이 광고: `HTML`, `JPEG`, `PNG`
+
+[활성화](/help/user-guide/activation/overview.md)를 참조하세요.
 
 ## Express에서 편집
 

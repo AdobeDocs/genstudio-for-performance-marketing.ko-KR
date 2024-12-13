@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: b644a69fd63c8b1deaf42736659dfe9b3b6bd8ab
+source-git-commit: a308972afc9fa6aeced0168b14d3c5f864d678f8
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1725'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 ### 브랜드 업로드
 
-고유한 브랜드 문서를 업로드하여 새 브랜드를 채울 수 있습니다.
+최대 3개의 PDF 또는 DOC 파일 등 고유한 브랜드 가이드라인 문서를 GenStudio for Performance Marketing에 업로드하여 자동으로 브랜드를 생성할 수 있습니다.
 
 [[!DNL Brands]](/help/user-guide/guidelines/brands.md)을(를) 참조하십시오.
 
@@ -85,7 +85,7 @@ GenStudio for Performance Marketing은 Adobe의 생성 AI 기술을 사용하여
 
 1. 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭합니다.
 
-   현재 게시된 모든 브랜드에 대해 _게시됨_ 배지가 표시됩니다.
+   _게시됨_ 배지와 브랜드가 마지막으로 게시된 날짜가 현재 게시된 모든 브랜드에 표시됩니다.
 
 1. 게시되지 않은 브랜드를 열려면 클릭하십시오. 브랜드가 게시되지 않은 경우 **[!UICONTROL Publish]** 단추가 표시됩니다.
 1. _Publish 브랜드_ 팝업에서 게시된 브랜드를 보고 사용할 수 있는 액세스 권한이 있는 사용자를 확인합니다.
@@ -98,23 +98,30 @@ GenStudio for Performance Marketing은 Adobe의 생성 AI 기술을 사용하여
 
 브랜드에 녹색 점과 &quot;게시됨&quot;이 표시되고 **[!UICONTROL Publish]** 단추가 표시됩니다.
 
-**게시된 브랜드를 게시 취소하려면**&#x200B;을(를) 클릭하고 **[!UICONTROL Publish]**&#x200B;을(를) 클릭하십시오.
+**게시된 브랜드를 게시 취소하려면**&#x200B;을(를) 클릭하고 **[!UICONTROL 게시 취소]**&#x200B;를 클릭하십시오.
 
-게시된 브랜드는 이제 _[!DNL Create]_또는_[!DNL Content]_&#x200B;에서 사용할 수 있습니다.
+게시된 브랜드는 이제 [_[!DNL Create]_](/help/user-guide/create/overview.md) 또는 [_[!DNL Content]_](/help/user-guide/content/overview.md)에서 사용할 수 있습니다.
 
 ### [!DNL Brands] 관리
 
 _[!DNL Brands]_홈에서 이미 만든 브랜드를 클릭하여 관리하거나 게시할 수 있습니다.
 
-**브랜드를 보거나 수정하려면**:
+**브랜드 정보를 보려면** 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭하고 클릭하여 기존 브랜드를 엽니다.
 
-1. 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭합니다.
-1. 브랜드의 개요 정보를 보려면 를 클릭하여 정의된 브랜드를 엽니다.
+[!DNL Brands] 보기에서 **브랜드를 수정하려면**:
+
+1. **[!DNL Brands]**&#x200B;에서 을(를) 클릭하여 정의된 브랜드를 엽니다.
 1. 개별 세부 정보를 보거나 브랜드 지침을 수정하려면 맨 위에서 [**[!UICONTROL 브랜드 음성 지침]**](#brand-voice-guidelines), [**[!UICONTROL 채널 지침]**](#channel-guidelines), **[!UICONTROL 이미지 지침]** 또는 **[!UICONTROL 로고]**&#x200B;를 클릭하십시오.
-1. 기존 브랜드의 이름을 바꾸려면 [!DNL Brands] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택합니다.
+1. 기존 브랜드의 이름을 바꾸려면 _[!DNL Brands]_동작 메뉴에서&#x200B;**[!UICONTROL 이름 바꾸기]**를 선택합니다.
+1. 기존 브랜드를 복제하려면 _[!DNL Brands]_작업 메뉴에서&#x200B;**[!UICONTROL 복제]**를 선택하십시오.
+   1. _중복 브랜드_ 팝업에 브랜드 이름을 입력하고 **[!UICONTROL 중복 브랜드]**&#x200B;을 클릭합니다.
+
+      팝업에서 브랜드가 중복됨을 확인합니다.—&quot;새 브랜드가 생성됨&quot;. 복제된 브랜드는 처음에 _게시 취소_ 모드에 있습니다.
+
+   1. 복제된 브랜드를 사용자 지정한 다음 [게시](#publish-brand)하여 사용할 수 있도록 합니다.
 1. 브랜드를 삭제하려면 [!DNL Brands] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하십시오.
 
-브랜드 가이드라인 문서(최대 3개의 PDF 또는 DOC 파일)를 GenStudio for Performance Marketing에 업로드하여 자동으로 브랜드를 생성할 수 있습니다.
+_[!DNL Brands]_작업 메뉴(세 점)에서 [!DNL Brands] 보기에서 브랜드를 관리할 수도 있습니다.
 
 ## [!DNL Products] 추가
 

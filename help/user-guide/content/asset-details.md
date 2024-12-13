@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
+source-git-commit: cd3cfface9121788c1dd0808f7f7db36c36766df
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
@@ -54,25 +54,53 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 [에셋을 업로드](/help/user-guide/content/manage-assets.md#add-assets)할 때 GenStudio for Performance Marketing에 메타데이터로 존재하는 선택적 에셋 세부 정보 집합을 정의할 수 있습니다. 더 많은 세부 정보를 포함하면 검색 및 필터링에서 에셋 식별을 향상시킬 수 있습니다.
 
+**사용자 정의 메타데이터를 편집하려면**:
+
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다.
+
+1. 자산 보기에서 오른쪽의 _[!UICONTROL 세부 정보]_ 섹션을 검토합니다.
+
+1. 자산 메타데이터를 편집하려면 **[!UICONTROL 세부 정보 편집]**(연필)을 클릭하십시오.
+
+   자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
+
 ### 메타데이터 세부 정보
 
 다음 표에서는 자산을 생성할 때 정의할 수 있는 메타데이터(자산 세부 사항)에 대해 자세히 설명합니다.
 
 | 필드 | 설명 |
-| ------------- | ----------- |
-| 캠페인(프로젝트 이름) | 에셋으로 캡처 및 저장된 기본 메타데이터 |
+| -------------- | ----------- |
+| 제목 | 에셋의 이름입니다. 기본 제목은 원본 파일 이름일 수 있습니다. |
+| [!DNL Campaigns] | [[!DNL Campaigns]](/help/user-guide/campaigns/overview.md) 비즈니스 목표 달성을 위해 일관된 메시지를 보내는 홍보 콘텐츠를 포함합니다<br>캠페인 링크를 클릭하면 캠페인의 개요 페이지로 이동합니다 |
 | [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)이(가) GenStudio for Performance Marketing에 추가되고 사용을 위해 게시됨 |
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)이(가) 사용을 위해 GenStudio for Performance Marketing에 추가됨 |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)이(가) 사용을 위해 GenStudio for Performance Marketing에 추가됨 |
-| 채널 | 이메일 및 메타 광고와 같이 에셋이 사용되는 GenStudio for Performance Marketing의 콘텐츠 유형 |
+| 채널 | 이메일 및 디스플레이 광고와 같은 특정 콘텐츠 유형을 배포하는 플랫폼 |
 | [!UICONTROL 일정] | 분기, 시즌, 연도 등과 같이 자산이 사용되는 시간대. 예: `Winter 2023` |
 | 지역 | 자산이 사용되는 지역. 예: `North America`, `APAC`, `Italy` |
 | 언어 | 에셋이 사용되는 언어입니다. 예: `Spanish` |
-| 키워드 | 자산 특성 및 용도를 추가로 식별하는 데 사용되는 사용자 정의 키워드 |
+| 키워드 | 사용자 정의 키워드는 에셋 특성 및 목적을 추가로 식별하는 데 사용됩니다 |
 
-<!-- ## History
+>[!TIP]
+>
+>자산 메타데이터를 편집하려면 **[!UICONTROL 세부 정보 편집]**(연필)을 클릭하십시오. 예를 들어 에셋 이름을 변경하거나 키워드를 추가 또는 제거할 수 있습니다.
 
-Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
+## 생성 컨텍스트
 
-list other activity, show screenshot?
--->
+[!UICONTROL 생성 컨텍스트] 섹션은 [!DNL Create] 프로세스 중에 사용된 `Prompt`과 같이 경험을 생성하는 데 사용된 정보를 표시합니다. 이러한 통찰력은 훨씬 더 성공적인 변형을 구축하는 데 도움이 될 수 있습니다.
+
+정보는 다음과 같습니다.
+
+- `Brand`, `Product` 및 `Persona` 매개 변수
+- 전자 메일 경험용 `Subject line` 및 `Pre Header`
+- 메타 광고용 `Headline` 및 `Body`
+
+## 기록
+
+경험에서 _[!UICONTROL 기록]_ 섹션을 확장하여 승인 및 활동의 타임라인을 봅니다. 예를 들어 승인된 경험은 승인 날짜, 시간 및 승인자를 표시합니다.
+
+```
+Approved
+
+December 10, 2024 at 6:00 PM by Username
+```

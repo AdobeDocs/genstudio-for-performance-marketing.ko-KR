@@ -2,10 +2,11 @@
 title: 템플릿에 대한 우수 사례
 description: Adobe GenStudio for Performance Marketing에서 템플릿을 사용할 때 모범 사례를 따르십시오.
 feature: Templates, Content
-last-substantial-update: 2024-12-09T00:00:00Z
-source-git-commit: 7ba2ecfbdd6853934be5210685bf447848715d28
+last-substantial-update: 2024-12-13T00:00:00Z
+exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
+source-git-commit: df613ffa66b76e0810500f22d2a7b1c7cf7860af
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -145,6 +146,8 @@ GenStudio for Performance Marketing에서 작동하도록 디스플레이 광고
    - 336 x 280
    - 320 x 50
    - 970 x 250&#x200B;
+- 사용자 지정: (픽셀)
+   - 50 x 50 ~ 2000 x 2000
 
 **인식된 필드 이름**:
 

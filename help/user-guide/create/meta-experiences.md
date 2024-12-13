@@ -4,13 +4,13 @@ description: Adobe GenStudio for Performance Marketing의 메타 경험에 대�
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
+exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # 메타 경험
 
@@ -54,3 +54,9 @@ Content creators and marketers can produce brand-consistent Meta ad experiences 
 1. 헤드라인
 1. 이미지 내 텍스트
 1. 브랜드 유효성 검사 프로세스가 발생하고 각 변형에 대해 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;가 채워집니다.
+
+## 문자 수
+
+메타 변형 세트를 생성하면 각 섹션에 대해 표시된 문자 수를 볼 수 있습니다. 생성된 섹션(예: 제목 줄이나 본문)을 마우스로 가리키거나 클릭하면 해당 섹션에 대한 섹션 이름 및 문자 수가 표시됩니다.
+
+![문자 수](/help/assets/character-count.png){width="500" zoomable="yes"}

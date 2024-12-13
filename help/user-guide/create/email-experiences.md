@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 333d40a733f5417ea182d7708bef38907dfd5722
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -58,6 +58,6 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 ## 문자 수
 
-이메일 변형 세트를 생성하면 각 이메일 섹션에 표시되는 문자 수를 볼 수 있습니다. 생성된 섹션(예: 제목 줄이나 본문)을 마우스로 가리키거나 클릭하면 해당 섹션에 대한 섹션 이름 및 문자 수가 표시됩니다.
+이메일 변형 세트를 생성하면 각 섹션에 표시된 문자 수를 볼 수 있습니다. 생성된 섹션(예: 제목 줄이나 본문)을 마우스로 가리키거나 클릭하면 해당 섹션에 대한 섹션 이름 및 문자 수가 표시됩니다.
 
 ![문자 수](/help/assets/character-count.png){width="500" zoomable="yes"}

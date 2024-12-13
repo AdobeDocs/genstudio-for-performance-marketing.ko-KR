@@ -1,14 +1,14 @@
 ---
 title: 메타 광고 경험 만들기
-description: 성과 마케팅을 위한 Adobe GenStudio을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법에 대해 알아봅니다.
+description: Adobe GenStudio for Performance Marketing을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법에 대해 알아봅니다.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: bd24c4e25df1210dd6ff2b7f17f999963133294a
+source-git-commit: 5f5ab9647aab3c928d04c464f47bb3924b0bb73a
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1025'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 이 튜토리얼에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)을 사용하여 브랜드 [메타 광고 경험](/help/user-guide/create/meta-experiences.md)을 생성하는 방법을 보여 줍니다.
 
-메타 광고 경험을 생성하기 전에 성능 마케팅을 위해 GenStudio에 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
+메타 광고 경험을 생성하기 전에 GenStudio for Performance Marketing에서 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
 
 ## 템플릿 선택
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![사용자 선택](/help/assets/persona-select.png){width="600" zoomable="yes"}
 
-   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
+   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
    * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
@@ -86,9 +86,9 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **메타 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**[광고 섹션(제목 줄 등)을 두 번 클릭합니다.
+* **메타 광고를 수동으로 편집하려면[다음](/help/user-guide/create/manage-variants.md#manually-edit-text)**을(를) 클릭합니다(제목 줄 등).
 필요에 따라 헤더 또는 본문 사본을 편집하십시오.
-* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _[!UICONTROL Link]_&#x200B;에서 클릭 유도 문안 텍스트의 URL을 입력하십시오.
+* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션을 표시하는 버튼을 클릭하고 사용 가능한 버튼 텍스트 옵션에서 선택하십시오.<!-- In _[!UICONTROL Link]_, enter a new URL or revise an existing URL. -->
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
 * **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 광고 제목(예: &quot;메타 4&quot;)을 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.
@@ -135,12 +135,12 @@ ht-degree: 0%
 
 1. **새 메타 광고 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL Publish]**&#x200B;을(를) 클릭하십시오.
 1. **새 메타 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
-   1. CSV 및 이미지 또는 HTML 전용 형식을 선택하고 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
+   1. 형식을 선택합니다(HTML 및 이미지 또는 CSV 및 이미지(JPG 또는 PNG)). **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 
 자세한 내용은 [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)을(를) 참조하십시오.
 
 ## 메타 연결
 
-성능 마케팅용 GenStudio을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 [인사이트](/help/user-guide/insights/overview.md)를 받을 수 있습니다.
+GenStudio for Performance Marketing을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 [인사이트](/help/user-guide/insights/overview.md)를 받을 수 있습니다.
 
 자세한 내용은 [채널 계정 연결](/help/user-guide/insights/connect-channel.md)을 참조하십시오.

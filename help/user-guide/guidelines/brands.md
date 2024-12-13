@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 에셋(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드 중심의 콘텐츠 생성을 알리는 역할을 합니다.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
+source-git-commit: 435c792d1991c2e34c500d072f23f1ed1ccdbcc9
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ GenStudio for Performance Marketing은 브랜드의 풍부한 브랜드 정보�
 
 GenStudio for Performance Marketing에 브랜드 지침을 추가한 후 [관리](/help/user-guide/guidelines/add-guidelines.md#manage-brands)하고 [게시](/help/user-guide/guidelines/add-guidelines.md#publish-brand)할 수 있습니다. 게시를 통해 팀이 에셋 생성에 사용할 수 있습니다.
 
-[!DNL Brands]은(는) _초안_ 또는 _게시됨_ 상태일 수 있습니다. 새 [!DNL brands]이(가) _초안_(으)로 시작됩니다.
+[!DNL Brands]은(는) _게시 취소_ 또는 _게시_ 상태일 수 있습니다. 새 [!DNL brands]이(가) _게시 취소_(으)로 시작됩니다.
 
-팀에서 에셋을 생성할 수 있도록 하려면 [!DNL brand]을(를) 게시해야 합니다.
+팀에서 에셋을 생성할 수 있도록 하려면 [브랜드를 게시](/help/user-guide/guidelines/add-guidelines.md#publish-brand)해야 합니다.
 
-게시된 [!DNL brands]을(를) 편집할 수 있으며 변경 사항은 즉시 사용할 수 있습니다. 게시된 [!DNL brands]만 콘텐츠를 만들고 유효성을 검사하는 데 사용할 수 있습니다.
+게시된 브랜드는 편집(변경 사항은 즉시 사용 가능), 복제 또는 게시 취소할 수 있습니다. 게시된 [!DNL brands]만 콘텐츠를 만들고 유효성을 검사하는 데 사용할 수 있습니다. [브랜드 관리](/help/user-guide/guidelines/add-guidelines.md#manage-brands)를 참조하세요.
 
 삭제된 [!DNL brands]은(는) 30일 동안 보관되며 해당 기간 내에 복구할 수 있습니다.
 
