@@ -1,11 +1,11 @@
 ---
 title: 콘텐츠 검토 및 편집
-description: 콘텐츠를 반복적으로 검토하고 편집하는 방법에 대해 알아봅니다.
+description: Adobe GenStudio for Performance Marketing을 사용하여 콘텐츠를 반복적으로 검토하고 편집하는 방법에 대해 알아봅니다.
 feature: Approval
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Adobe GenStudio for Performance Marketing 생성 AI 기능은 콘텐츠 생성 �
 
 ## 변경 요청
 
-_승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대해 질문할 수 있습니다. **작업 필요** 초안 상태는 콘텐츠 작성자에게 변경 작업이 요청되었음을 알립니다.
+[!DNL Content] _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대한 질문을 할 수 있습니다. **작업 필요** 초안 상태는 콘텐츠 작성자에게 변경 작업이 요청되었음을 알립니다.
 
 콘텐츠 작성자에게 편집을 제안하고 검토한 다음 콘텐츠를 수정하고 선택적으로 `@mention`개의 댓글을 통해 추가 입력을 요청하는 이 프로세스는 매우 반복적입니다. GenStudio for Performance Marketing의 시간 절약 기능을 확인하는 것은 이 부분의 순환입니다.
 
