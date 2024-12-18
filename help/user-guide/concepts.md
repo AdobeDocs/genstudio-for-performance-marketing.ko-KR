@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing 개념
 description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: e8a210a22856683f7d61c5309c451689e445c8fe
+source-git-commit: bfe961a06f62e55f3207088f6f390204b12e7142
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,48 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 GenStudio for Performance Marketing은 기본 AI와 머신 러닝(ML) 서비스를 제공하는 Adobe의 생성 AI 플랫폼을 활용합니다. 이 플랫폼은 대형 언어 모델(LLM) 사용을 단순화하여 Adobe의 GenAI 기능을 강화하여 매력적인 경험을 만듭니다.
 
 GenStudio for Performance Marketing은 Azure OpenAI를 통해 타사 LLM의 GPT 시리즈를 사용합니다.<!-- Claude, and Gemini models. -->
+
+## [!DNL Generative Actions]
+
+[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
+
+<!-- Add example about usage mode?
+Where users check how many generative actions they have left
+How they re-up their genactions
+If genactions roll over month to month or not -->
+
+### 비율
+
+[GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 설명된 대로 기본 [!DNL Generative Actions] 할당을 받습니다.
+
+>[!NOTE]
+>
+>사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
+
+다음 함수는 지정된 비율로 [!DNL Generative Actions]을(를) 사용합니다.
+
+| 함수 | 생성 작용률 |
+| -----------------------  | ------------------ |
+| 이메일 만들기 | 세대당 5개 |
+| 유료 미디어 광고 만들기 | 세대당 5개 |
+| 디스플레이 광고 만들기 | 세대당 5개 |
+| 단면 재생성 | 세대당 1개 |
+
+<!-- | Generate on-brand images | 1 per prompt  |
+| Translation              | 1 per prompt  |
+| Video: ADLS              | 1 per prompt  |
+| Video: TTS + Avatar      | 1 per prompt  | -->
+
+다음 경우에 [!DNL Generative Actions] _은(는) 사용되지 않습니다_:
+
+* 변형 생성 중 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md) 사용
+* [업로드된 지침](/help/user-guide/guidelines/add-guidelines.md)에서 정보 추출
+* 수동으로 [변형을 다시 확인](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
+* 디지털 자산에 특성([[!DNL Insights]](/help/user-guide/insights/overview.md))이 자동으로 태그 지정됩니다.
+
+>[!TIP]
+>
+>[!DNL Generative Actions]의 사용 권한을 초과하는 경우 계정 담당자에게 직접 더 많은 항목을 구입할 수 있습니다.
 
 ## 데이터 거버넌스
 
