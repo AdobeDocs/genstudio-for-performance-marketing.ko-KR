@@ -3,9 +3,9 @@ title: 템플릿 작업
 description: 템플릿을 효율적으로 사용하여 Adobe GenStudio for Performance Marketing에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: bfe1ae2c734b19e474ab1614fa72afea7d35a73e
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 0%
 # 템플릿 작업
 
 GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다.
+
+GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플릿을 직접 만들 수 없지만 Adobe InDesign, Illustrator 또는 Express와 같이 인기 있는 디자인 도구를 사용하여 템플릿을 쉽게 디자인하고 준비할 수 있습니다. 디자인이 완료되면 GenStudio for Performance Marketing에서 사용하도록 조정할 수 있습니다. 다음 단계를 수행하여 템플릿 사용을 시작합니다.
+
+1. **템플릿 디자인**: 기본 설정 디자인 도구를 사용하여 머리말, 헤드라인, 본문, CTA, 이미지, 바닥글 등의 요소가 있는 [템플릿의 시각적 레이아웃을 만듭니다](#template-elements).
+
+2. **템플릿 코드**: 디자인을 HTML 및 인라인 CSS로 변환하여 다양한 장치에서 깔끔하고 반응하도록 합니다. 원하는 최대 대상자에 도달하도록 하려면 [접근성 지침](accessibility-for-templates.md)을 고려하십시오.
+
+3. **GenStudio for Performance Marketing 준비**: Handlebars 템플릿 언어를 사용하여 HTML 템플릿을 조정하십시오. GenStudio for Performance Marketing에서 콘텐츠를 동적으로 생성하는 위치를 나타내는 자리 표시자를 삽입합니다. GenStudio for Performance Marketing용 [템플릿 사용자 지정](customize-template.md)하는 방법을 확인하세요.
+
+이러한 단계를 따라 GenStudio for Performance Marketing에서 사용할 수 있는 전문적이고 효과적인 템플릿을 만들어 브랜드 내 콘텐츠를 빠르고 효율적으로 생성할 수 있습니다.
 
 ## 템플릿 요소
 
@@ -81,9 +91,15 @@ GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템�
 >
 >더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있도록 [접근성 지침](accessibility-for-templates.md) 및 [모범 사례](/help/user-guide/content/best-practices-for-templates.md)를 따르십시오.
 
-## 템플릿 업로드
+## 템플릿 관리
 
-GenStudio for Performance Marketing용 템플릿을 준비할 때 [템플릿 사용자 지정](customize-template.md)을(를) 안내서로 사용하십시오. 모든 대상자에게 더 나은 환경을 제공하는 방법에 대한 지침은 [템플릿에 대한 액세스 가능성 지침](accessibility-for-templates.md)을 참조하세요.
+[!DNL Templates] 갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다. 이메일, 디스플레이 광고 및 메타 광고와 같은 채널 유형별로 템플릿을 필터링할 수 있습니다.
+
+![콘텐츠 템플릿 목록](/help/assets/content-templates.png){width="650" zoomable="yes"}
+
+### 템플릿 추가
+
+템플릿을 업로드하기 전에 [템플릿 사용자 지정](customize-template.md) 지침에 따라 GenStudio for Performance Marketing에서 사용할 준비가 되어 있는지 확인하십시오.
 
 **템플릿을 추가하려면**:
 
@@ -114,7 +130,19 @@ GenStudio for Performance Marketing용 템플릿을 준비할 때 [템플릿 사
 
 1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다.
 
-## 템플릿을 사용하여 만들기
+### 템플릿 새로 고침
+
+템플릿에는 아이콘 또는 로고와 같은 정적 파일이 포함될 수 있습니다. 새로 고침을 사용하여 이러한 에셋의 최신 버전으로 템플릿 미리 보기를 업데이트합니다.
+
+**템플릿을 새로 고치려면**:
+
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
+
+1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
+
+1. 템플릿에 사용된 모든 자산을 새로 고치려면 오른쪽 상단에서 **[!UICONTROL 새로 고침]**(순환 화살표)을 클릭합니다.
+
+### 템플릿을 사용하여 경험 만들기
 
 GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하여 더 많은 경험을 만듭니다.
 
@@ -122,9 +150,7 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 
 1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
-   ![콘텐츠 템플릿 목록](/help/assets/content-templates.png){width="650" zoomable="yes"}
-
-1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 선택하십시오.
+1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
 1. 템플릿을 사용하려면 오른쪽 상단에서 **[!UICONTROL 경험 만들기]**(페인트 브러쉬)를 클릭하십시오.
 

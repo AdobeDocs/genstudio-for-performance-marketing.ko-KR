@@ -3,9 +3,9 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 5785c807f0a674c95cada0aa3976dd7fb3d7f16e
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1302'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,9 @@ ht-degree: 1%
 
 Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마케팅 여정에서 사용 및 재사용을 위해 브랜드 승인 에셋을 간편하게 관리하고 개선합니다.
 
-## 컨텐츠 갤러리
+## [!DNL Content] 갤러리
 
 갤러리에는 선택한 보기에 따라 승인된 에셋, 경험 또는 템플릿의 인벤토리가 표시됩니다. 표 왼쪽 위의 필터(단계) 아이콘으로 **[!UICONTROL 필터]** 메뉴가 열립니다. 이 메뉴에서 여러 범주 중 선택하여 갤러리에 표시된 콘텐츠를 필터링할 수 있습니다. _[!UICONTROL Assets]_ 보기에서 검색(돋보기) 아이콘을 클릭하여 키워드를 사용하여 자산을 찾습니다.
-
 
 다음은 [!UICONTROL Assets] 갤러리에서 `dog`이라는 용어에 대한 검색을 보여 줍니다.
 
@@ -27,9 +26,10 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 필터 및 검색 인터페이스는 빠르고 반응적이며 생산적인 검색 우선 경험을 제공합니다. 각 [!DNL Content] 보기는 이상적인 자산, 경험 또는 템플릿에 대한 검색 범위를 좁히는 필터 옵션을 제공합니다. 에셋 및 경험의 경우 캠페인과 특정 지침(예: 특정 제품에 대해 만들어진 콘텐츠)을 선택할 수 있습니다.
 
-검색 결과 범위를 좁히기 위해 [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attribute-category.md)을 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다.
+검색 결과 범위를 좁히기 위해 [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attribute-category.md)을 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다. 또는 사용자 이름 또는 팀원의 이름을 기반으로 콘텐츠를 필터링할 수 있습니다.
 
-_경험_&#x200B;을(를) 검색할 때 **[!UICONTROL 작성자]** 필터를 사용하여 사용자 또는 특정 사용자가 만든 경험만 표시하도록 목록을 제한할 수 있습니다.
+- **[!UICONTROL 업로드한 사람]** 필터는 사용자 또는 특정 사용자가 업로드한 자산만 표시하도록 _[!UICONTROL Assets]_ 목록을 제한합니다.
+- **[!UICONTROL 작성자]** 필터는 사용자 또는 특정 사용자가 만든 경험만 표시하도록 _[!UICONTROL 경험]_ 목록을 제한합니다.
 
 **재사용할 콘텐츠를 검색하려면**:
 
@@ -79,10 +79,9 @@ AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있�
 | [경험 만들기](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [Adobe Express에서 편집](#edit-in-express) | ✓ |             |           |
 | [활성화를 위해 내보내기](#export-for-activation) |        | ✓ |           |
+| [새로 고침](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
 | [다운로드](#download-assets) | ✓ |             | ✓ |
 | [삭제](#delete-assets) | ✓ | ✓ | ✓ |
-
-<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### 에셋 추가
 
@@ -116,7 +115,7 @@ AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있�
 
 **자산을 다운로드하려면**:
 
-1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL 다운로드]** 아이콘(아래쪽을 가리키는 화살표)을 클릭합니다.
 
@@ -126,7 +125,7 @@ AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있�
 
 **자산을 삭제하려면**:
 
-1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽 상단의 **[!UICONTROL 삭제]**(휴지통)을 클릭합니다.
 

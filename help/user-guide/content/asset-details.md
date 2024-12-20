@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: cd3cfface9121788c1dd0808f7f7db36c36766df
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,11 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 **사용자 정의 메타데이터를 편집하려면**:
 
-1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다.
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽의 _[!UICONTROL 세부 정보]_ 섹션을 검토합니다.
 
-1. 자산 메타데이터를 편집하려면 **[!UICONTROL 세부 정보 편집]**(연필)을 클릭하십시오.
+1. 자산, 경험 또는 템플릿 메타데이터를 편집하려면 **[!UICONTROL 세부 정보 편집]**(연필)을 클릭합니다.
 
    자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
 
@@ -91,8 +91,8 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 정보는 다음과 같습니다.
 
-- `Brand`, `Product` 및 `Persona` 매개 변수
-- 전자 메일 경험용 `Subject line` 및 `Pre Header`
+- [!DNL Create] 프로세스 중에 `Brand`, `Product` 및 `Persona` 매개 변수가 선택됨
+- 전자 메일 경험용 `Subject line` 및 `Preheader`
 - 메타 광고용 `Headline` 및 `Body`
 
 ## 기록
