@@ -3,10 +3,10 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: d5efabbaf3dd0817bd3158acb59d997a727e5f62
 workflow-type: tm+mt
-source-wordcount: '1302'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -66,6 +66,8 @@ AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토�
 AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 [시스템 메타데이터](asset-details.md#system-metadata)를 사용하여 `GenStudio assets` 저장소에 저장됩니다.
 
 {{note-aem-assets}}
+
+AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 적용할 수 있습니다. 이러한 자산은 [!DNL Create] 워크플로우에서 사용할 수 없습니다. 프로젝트의 연속성을 유지하기 위해 만료된 에셋을 갱신하거나 교체해야 할 수 있습니다. 이러한 자산에 대한 도움이 필요하면 [!DNL AEM Assets Content Hub] 관리자에게 문의하십시오.
 
 ## Assets 관리
 
