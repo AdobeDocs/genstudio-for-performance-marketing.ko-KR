@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: 8930d3284f9dd1223067239c0077e481ea98335a
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1173'
 ht-degree: 0%
 
 ---
@@ -107,7 +107,9 @@ _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 �
 
 각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다. 위의 예에서 `pod1` 섹션은 하나의 `pod1_headline` 필드만 사용할 수 있습니다. 이 규칙 때문에 섹션을 중첩할 수 없습니다.
 
-이메일 템플릿에는 최대 3개의 섹션이 포함될 수 있습니다. 예를 들어 다음 목록에는 세 개의 헤드라인 및 본문 섹션이 있습니다.
+이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines)을 참조하세요.
+
+예를 들어 이메일 템플릿에는 최대 3개의 섹션을 포함할 수 있으므로 다음과 같은 3개의 헤드라인 및 본문 섹션이 있을 수 있습니다.
 
 - `pre-header`
 - `pod1_headline`
