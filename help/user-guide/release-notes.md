@@ -2,11 +2,11 @@
 title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
-last-substantial-update: 2024-12-13T00:00:00Z
+last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 00359960b6cf314203382d74faa23bae3e753875
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '1268'
+source-wordcount: '1644'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,49 @@ ht-degree: 1%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
 
-## 2024.12.12 {#latest}
+## 2025.1.16 {#latest}
+
+### Adobe Workfront Proof와 통합
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+GenStudio for Performance Marketing 및 Adobe Workfront Proof 통합 Beta 프로그램은 이번 달에 시작됩니다. Workfront Proof은 승인 템플릿, 다단계 워크플로우 및 주석을 통해 콘텐츠 생성 및 활성화 라이프사이클을 향상시킵니다. Workfront Proof 권한이 있는 GenStudio for Performance Marketing 사용자는 GenStudio for Performance Marketing 내에 있는 Proof의 고급 기능을 사용하여 GenStudio 생성 콘텐츠를 검토하고 댓글을 달 수 있습니다.
+
+Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를 결정하는 데 도움이 되는 방법을 제공합니다. GenStudio for Performance Marketing/Workfront Proof 통합 Beta 프로그램에 대한 자세한 내용은 Etienne Bosch(etienneb@adobe.com)에 문의하십시오.
+
+### 새 콜 투 액션 생성
+
+이제 변형을 관리할 때 새 클릭 유도 문구(CTA)를 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
+
+### 수정 사항 및 개선 사항
+
+* 이제 표시 광고의 생성된 모든 필드 및 수동 필드에 문자 수가 표시됩니다. [메타 경험](/help/user-guide/create/meta-experiences.md#character-counts)에서 _문자 수_&#x200B;를 참조하십시오. <!-- GS-7732 -->
+
+* _공동 작업자_&#x200B;가 이제 자산을 볼 수 있지만 이러한 자산을 만들거나 편집하거나 삭제할 수는 없습니다. 이전에는 [!DNL Create]에 Collaborator 권한이 예상대로 적용되지 않았습니다. <!-- GS-7614 -->
+
+* 이제 콘텐츠 편집기에서 에셋, 경험 및 템플릿 메타데이터를 편집할 수 있습니다. <!-- GS-4905 -->
+
+* 이제 메타데이터 템플릿 내의 사용자 지정 이미지 크기가 지원됩니다. <!-- GS-7512 -->
+
+* 이제 템플릿 생성 중 사용자, 브랜드 및 제품 선택이 미리 로드됩니다. <!-- GS-8069 -->
+
+* 이메일 콜 투 액션 링크는 더 이상 필수 필드가 아닙니다. <!-- GS-8103 -->
+
+* 이제 [!DNL Brand] 선택기 드롭다운 메뉴가 템플릿의 예상대로 작동합니다. 이전에는 선택기가 일부 템플릿에 대해 성공적으로 로드되지 않았습니다. <!-- GS-8908 -->
+
+* 이제 편집자는 단일 Pod 이메일 및 메타 광고에 대해 최대 4개의 이미지를 선택할 수 있습니다. <!-- GS-2631 -->
+
+* 승인된 경험의 `Created by` 필드에 대한 연도 값이 이제 경험의 메타데이터를 편집한 후에도 예상대로 일관되게 유지됩니다. <!-- GS-8344 -->
+
+* 이제 콘텐츠 편집기에서 [!DNL Create]에서 템플릿을 선택할 수 있습니다. 이전에는 편집기가 템플릿을 선택할 때 애플리케이션에서 콘솔 오류가 발생했습니다.  <!-- GS-8798 -->
+
+* 메타 광고에 대한 크기 조정 및 재생성 작업 관련 문제가 해결되었습니다. <!-- GS-8900 -->
+
+* 이제 **[!UICONTROL 뒤로]** 단추가 예상대로 사용자를 이전 페이지 또는 [!DNL Create] 랜딩 페이지로 돌아갑니다. <!-- GS-8622 -->
+
+## 이전 릴리스 노트
+
++++2024.12.12 릴리스 정보
 
 ### 새로운 기능
 
@@ -89,7 +131,7 @@ ht-degree: 1%
 
 * [!DNL Create] **[!UICONTROL 뒤로]** 단추의 성능이 향상되었습니다. <!-- GS-6767 -->
 
-## 이전 릴리스 노트
++++
 
 +++2024.11.14 릴리스 정보
 

@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing에서 템플릿을 사용
 feature: Templates, Content
 last-substantial-update: 2024-12-13T00:00:00Z
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: df613ffa66b76e0810500f22d2a7b1c7cf7860af
+source-git-commit: 9cc284cdb00a204baf6b0a2d9d7f67cf9bc9c81f
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,7 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 - 정사각형 1:1(1080 x 1080픽셀)
 - 세로 4:5(1080 x 1350픽셀)
 - 스토리 9:16 (1080 x 1920픽셀)
+- 사용자 지정 이미지 크기: (50 x 50픽셀 최소 이미지 너비)
 
 **인식된 필드 이름**:
 
@@ -121,6 +122,8 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
 
 >[!TAB 광고 표시]
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
 GenStudio for Performance Marketing에서 작동하도록 디스플레이 광고 템플릿을 사용자 지정할 때 다음 디자인 모범 사례를 따르십시오.
 

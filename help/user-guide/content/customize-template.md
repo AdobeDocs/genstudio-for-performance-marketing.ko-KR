@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8930d3284f9dd1223067239c0077e481ea98335a
+source-git-commit: 229d16019d71b8228acf16e651885ce8c6d325e5
 workflow-type: tm+mt
-source-wordcount: '1173'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _Handlebars_ 템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 조정하는 방법을 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. [내용 [!DNL Handlebars]을(를) 참조하십시오._Handlebars 언어 안내서_&#x200B;의 ](https://handlebarsjs.com/guide/#what-is-handlebars)에서 서식 파일을 준비하는 방법을 알아봅니다.
+다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 조정하는 방법을 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
 
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
@@ -123,6 +123,32 @@ _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 �
 GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 전자 메일의 각 섹션에 대해 다양한 콘텐츠를 생성하는 프롬프트를 만드는 방법을 알아보려면 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 참조하십시오.
+
+### 콜 투 액션
+
+콜 투 액션(CTA)에는 구문 및 링크가 포함되어 있습니다. 변형 생성 프로세스 중에 CTA _[!UICONTROL 구문 변경]_ 및 _[!UICONTROL 링크 추가]_ 기능이 제대로 작동하려면 템플릿에 링크 및 구문에 대한 자리 표시자를 포함해야 합니다.
+
+CTA 자리 표시자를 설정하려면 다음 지침을 따르십시오.
+
+- CTA 구문을 사용하고 링크를 편집할 수 있습니다.
+
+  ```html
+  <a class="button" href="{{pod1_link}}" >{{cta}}</a>
+  ```
+
+- CTA 구문을 다시 사용할 수 있지만 템플릿에 실제 링크가 제공되므로 링크를 **편집할 수 없음**
+
+  ```html
+  <a align="center" href="https://link">{{cta}}</a>
+  ```
+
+- CTA 링크를 편집할 수 있지만 구문이 템플릿에 제공되었으므로 **사용할 수 없음**
+
+  ```html
+  <a class="button" href="{{pod1_link}}" >Register now</a>
+  ```
+
+GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할 수 있습니다. [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하세요.
 
 ## 템플릿 미리 보기
 

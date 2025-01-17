@@ -3,10 +3,10 @@ title: 템플릿 작업
 description: 템플릿을 효율적으로 사용하여 Adobe GenStudio for Performance Marketing에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 0%
+source-wordcount: '936'
+ht-degree: 1%
 
 ---
 
@@ -55,8 +55,9 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
    - 텍스트, 이미지 및 기타 미디어 포함 가능
    - 이메일 및 메타 광고 템플릿에 사용됨
 
-- **CTA(클릭 유도 문안)**
+- **CTA**
 
+   - 클릭 유도 문안 버튼은 구문과 링크를 사용합니다.
    - 수신자가 링크를 클릭하거나 구매하는 등의 특정 작업을 수행하도록 장려합니다.
    - 이메일 및 메타 광고 템플릿에 사용됨
 

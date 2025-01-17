@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 763c907598d92779483938295a99d640ee3f4d20
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 프롬프트 입력
 
-지침을 선택한 후 자연어를 사용하여 프롬프트를 만들고 새 이메일 경험을 위한 콘텐츠를 생성합니다. 세부 프롬프트는 모호하거나 설명하지 않는 프롬프트에 비해 높은 품질의 출력을 제공합니다.
+지침을 선택한 후 자연어를 사용하여 프롬프트를 만들고 새 이메일 경험을 위한 콘텐츠를 생성합니다. 세부 프롬프트는 모호하거나 모호한 프롬프트에 비해 더 높은 품질 출력을 산출합니다.
 
 프롬프트 작성에 대한 자세한 내용은 [유효한 프롬프트 작성](/help/user-guide/effective-prompts.md)을 참조하십시오.
 
@@ -83,6 +83,7 @@ ht-degree: 0%
 
 * **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
 * **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다[
+* **콜 투 액션을 변경하거나 선택하려면](/help/user-guide/create/manage-variants.md#revise-call-to-action)**&#x200B;클릭 유도 액션 단추를 클릭하고 _[!UICONTROL 구문 변경]_ 또는 _[!UICONTROL 링크 추가]_&#x200B;를 선택하십시오.[
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에 이미지를 추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 선택/교체]** 또는 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭하여 개별 변형에서 이미지를 추가하거나 교체하십시오.[
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.

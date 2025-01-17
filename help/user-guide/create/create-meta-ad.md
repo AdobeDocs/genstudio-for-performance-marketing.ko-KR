@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 5f5ab9647aab3c928d04c464f47bb3924b0bb73a
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 템플릿 선택
 
-새로운 메타 광고 경험 생성을 시작하려면 사용 가능한 템플릿을 사용하여 콘텐츠에 대한 프레임워크를 제공하십시오.
+새로운 메타 광고 경험 생성을 시작하려면 사용 가능한 템플릿을 사용하여 콘텐츠에 대한 프레임워크를 제공하십시오. 지원되는 메타 광고 종횡비에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하십시오.
 
 **메타 광고 템플릿을 선택하려면**:
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ## 프롬프트 입력
 
-지침을 선택한 후 자연어를 사용하여 새 메타 광고 경험을 위한 콘텐츠 생성을 시작하라는 메시지를 작성하십시오. 세부 프롬프트는 모호하거나 설명하지 않는 프롬프트에 비해 높은 품질의 출력을 제공합니다.
+지침을 선택한 후 자연어를 사용하여 새 메타 광고 경험을 위한 콘텐츠 생성을 시작하라는 메시지를 작성하십시오. 세부 프롬프트는 모호하거나 모호한 프롬프트에 비해 더 높은 품질 출력을 산출합니다.
 
 프롬프트 작성에 대한 자세한 내용은 [유효한 프롬프트 작성](/help/user-guide/effective-prompts.md)을 참조하십시오.
 
@@ -88,7 +88,8 @@ ht-degree: 0%
 * **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
 * **메타 광고를 수동으로 편집하려면[다음](/help/user-guide/create/manage-variants.md#manually-edit-text)**을(를) 클릭합니다(제목 줄 등).
 필요에 따라 헤더 또는 본문 사본을 편집하십시오.
-* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션을 표시하는 버튼을 클릭하고 사용 가능한 버튼 텍스트 옵션에서 선택하십시오.<!-- In _[!UICONTROL Link]_, enter a new URL or revise an existing URL. -->
+* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 클릭 유도 문안 텍스트의 URL을 입력하십시오.
+<!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
 * **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 광고 제목(예: &quot;메타 4&quot;)을 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.

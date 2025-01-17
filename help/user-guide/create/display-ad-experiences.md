@@ -2,13 +2,14 @@
 title: 광고 경험 표시
 description: Adobe GenStudio for Performance Marketing의 디스플레이 광고 경험에 대해 알아봅니다.
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +21,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 
 디스플레이 광고 경험을 생성할 때 캔버스에 4개의 변형이 만들어져 표시됩니다.
 
-Adobe GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 표시 광고](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 모두 지원합니다.
+GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 표시 광고](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 모두 지원합니다.
 
 디스플레이 광고 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 

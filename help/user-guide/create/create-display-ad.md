@@ -2,13 +2,14 @@
 title: 디스플레이 광고 경험 만들기
 description: 성과 마케팅을 위해  [!DNL GenStudio]  Adobe에서 디스플레이 광고 경험을 만드는 방법을 알아봅니다.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 9cc284cdb00a204baf6b0a2d9d7f67cf9bc9c81f
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
