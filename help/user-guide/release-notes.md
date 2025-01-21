@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 9bddfe4118715b13f893fc9b8fbc24eda6c8cf66
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1664'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,10 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 ### 새 콜 투 액션 생성
 
 이제 변형을 관리할 때 새 클릭 유도 문구(CTA)를 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
+
+다음 미리 보기는 CTA 문자 수, 새 옵션 및 구문 변경 및 바꾸기 예제를 보여 줍니다.
+
+![CTA 다시 구문 사용 중](/help/assets/animation/rephrase-cta.gif "CTA 다시 구문 사용"){width="250" zoomable="yes"}
 
 ### 수정 사항 및 개선 사항
 
