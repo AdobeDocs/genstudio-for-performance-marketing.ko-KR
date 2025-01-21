@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 229d16019d71b8228acf16e651885ce8c6d325e5
+source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1281'
 ht-degree: 0%
 
 ---
@@ -181,17 +181,13 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 
 ## 정적 콘텐츠
 
-이메일 및 메타 템플릿은 종종 GenStudio for Performance Marketing 외부에서 호스팅되는 이미지 및 CSS 파일에 연결됩니다. GenStudio for Performance Marketing은 이러한 템플릿 또는 템플릿에서 파생된 경험에 대한 썸네일을 생성할 때 올바른 CORS(원본 간 리소스 공유) 헤더가 없으면 이러한 외부 리소스를 무시할 수 있습니다.
+이메일 및 메타 템플릿은 종종 다른 도메인에서 호스팅되는 이미지 및 CSS 파일에 연결됩니다. GenStudio for Performance Marketing은 템플릿 미리 보기 또는 템플릿에서 파생된 경험에 대한 썸네일을 생성할 때 컨텐츠 소스의 유효성을 확인하고 미리 보기 목적으로 사본을 임베드합니다.
 
-썸네일 생성 프로세스 중에 이러한 리소스를 사용할 수 있도록 하려면 다음 두 가지 옵션을 고려하십시오.
+외부 파일은 템플릿 미리 보기를 만들기 위한 목적으로만 임시로 포함되므로 미리 보기가 생성 시 표시되는 내용을 정확하게 반영할 수 있습니다. 이러한 외부 파일은 GenStudio for Performance Marketing에 영구적으로 저장되지 **않습니다**. 템플릿 미리 보기가 만들어지면 GenStudio for Performance Marketing에서 템플릿에 제공된 원본 소스 링크를 계속 참조합니다.
 
-1. **CORS 헤더 사용**: 호스트 서버는 프로덕션 환경에 대해 `Access-Control-Allow-Origin` 헤더가 `https://experience.adobe.com` 값으로 설정된 응답을 보내야 합니다. 이 방법을 사용하면 GenStudio for Performance Marketing에서 리소스에 액세스하고 리소스를 포함할 수 있습니다.
+### 콘텐츠 새로 고침
 
-1. **데이터 URL 사용**: 데이터 URL을 사용하여 외부 리소스를 템플릿에 직접 포함합니다. 이 메서드는 CORS 제한을 무시하고 썸네일 생성 중에 리소스를 사용할 수 있도록 합니다.
-
->[!TIP]
->
->[새로 고침](/help/user-guide/content/use-templates.md#refresh-template)을 사용하여 템플릿 미리 보기를 최신 정적 콘텐츠로 업데이트합니다.
+초기 미리 보기를 만든 후 소스가 변경되면 [새로 고침](/help/user-guide/content/use-templates.md#refresh-template) 함수를 사용하여 외부 소스의 최신 콘텐츠 버전으로 템플릿 미리 보기를 업데이트합니다.
 
 ## 템플릿 예
 

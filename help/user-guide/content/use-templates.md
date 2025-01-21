@@ -3,9 +3,9 @@ title: 템플릿 작업
 description: 템플릿을 효율적으로 사용하여 Adobe GenStudio for Performance Marketing에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '960'
 ht-degree: 1%
 
 ---
@@ -133,7 +133,7 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
 
 ### 템플릿 새로 고침
 
-템플릿에는 아이콘 또는 로고와 같은 정적 파일이 포함될 수 있습니다. 새로 고침을 사용하여 이러한 에셋의 최신 버전으로 템플릿 미리 보기를 업데이트합니다.
+템플릿에는 아이콘 또는 로고와 같은 정적 파일이 포함될 수 있습니다. 템플릿 미리 보기를 만든 후 [정적 콘텐츠](/help/user-guide/content/customize-template.md#static-content)이(가) 저장되지 않습니다. GenStudio for Performance Marketing은 템플릿에 제공된 소스 링크를 계속 참조합니다. 새로 고침을 사용하여 이러한 에셋의 최신 버전으로 템플릿 미리 보기를 업데이트합니다.
 
 **템플릿을 새로 고치려면**:
 
@@ -155,4 +155,4 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 
 1. 템플릿을 사용하려면 오른쪽 상단에서 **[!UICONTROL 경험 만들기]**(페인트 브러쉬)를 클릭하십시오.
 
-1. 경험을 [만들기](/help/user-guide/create/overview.md)합니다.
+1. 경험을 [만들기](/help/user-guide/create/overview.md#create-use-cases)합니다.
