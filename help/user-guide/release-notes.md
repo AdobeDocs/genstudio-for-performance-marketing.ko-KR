@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 9bddfe4118715b13f893fc9b8fbc24eda6c8cf66
+source-git-commit: a14da101907c3e7dd990082723f7c59f7f5ff3fd
 workflow-type: tm+mt
-source-wordcount: '1664'
+source-wordcount: '1676'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 새로운 기능
 
-리치 미디어 템플릿에 대한 지원이 추가되어 고객이 자체 관리 콘텐츠 채널을 통해 이미 게시된 자산을 재사용할 수 있습니다. <!-- GS-6107 -->
+외부 도메인에 호스팅된 정적 콘텐츠 표시에 대한 지원을 추가했습니다. GenStudio for Performance Marketing은 템플릿에 정의된 콘텐츠 소스의 유효성을 검사하고 사본을 임베드하여 템플릿 미리 보기를 생성합니다. [정적 콘텐츠](/help/user-guide/content/customize-template.md#static-content)를 참조하십시오. <!-- GS-6107 -->
 
 ### 수정 사항 및 개선 사항
 
