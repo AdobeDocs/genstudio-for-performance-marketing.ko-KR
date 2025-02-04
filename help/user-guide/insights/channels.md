@@ -3,9 +3,9 @@ title: 채널 개요
 description: Adobe GenStudio for Performance Marketing의 마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 8d85d47bdda981838771f9401d26f04fbb48d371
+source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
