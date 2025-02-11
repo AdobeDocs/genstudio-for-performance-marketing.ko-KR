@@ -5,9 +5,9 @@ feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
 last-substantial-update: 2024-11-11T00:00:00Z
 exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 976358742e598b55b1f0c4ca4664d2bcd8f1e9b9
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '609'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,8 @@ GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 �
 | 카메라 각도 | 피사체에 대한 카메라의 위치 및 각도입니다. |                                                                                                                                                                                |
 | 피사체 거리 | 카메라와 이미지 피사체 사이의 거리입니다. | `close up`, `mid shot`, `long shot` |
 | 카메라 설정 | 이미지를 생성하기 위한 카메라 컨트롤의 구성입니다. |                                                                                                                                                                                |
-| 색상 및 톤 | 이미지 요소에 사용되는 색상을 평가합니다. 다음 이미지 레이어에서 미리 결정된 40개 색상 세트에서 1~3개 색상을 식별합니다.<br>**[!UICONTROL 전경색&#x200B;]**- 이미지의 앞 레이어에 있는 요소<br>**[!UICONTROL 배경색]** - 이미지의 뒤 레이어에 있는 요소<p>**[!UICONTROL 색 온도]**&#x200B;는 이미지의 색상에 대한 일반적인 온기 또는 시원함을 설명합니다.<br>톤 또는 온도 값: `warm`, `cool`, `neutral` | ![색상 및 멋진 색조](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
+| 색상 및 톤 | 이미지 요소에 사용되는 색상을 평가합니다. 다음 이미지 레이어에서 미리 결정된 40개 색상 세트에서 1~3개 색상을 식별합니다.<br>**[!UICONTROL 전경색&#x200B;]**- 이미지의 앞 레이어에 있는 요소<br>**[!UICONTROL 배경색]** - 이미지의 뒤 레이어에 있는 요소 | 색상 값: `Red`, `Dark_Red`, `Green`, `Bright_Green`, `Dark_Green`, `Light_Green`, `Mud_Green`, `Blue`, `Dark_Blue`, `Light_Blue`, `Royal_Blue`, `Black`, `White`, `Off_White`, `Gray`, `Dark_Gray`, `Silver`, `Cream`, `Magenta`, `Cyan`, `Yellow`, `Mustard`, `Khaki`, `Brown`, `Dark_Brown`, `Violet`, `Pink`, `Dark_Pink`, `Maroon`, `Tan`, `Purple`, `Lavender`, `Turquoise`, `Plum`, `Gold`, `Emerald` `Orange`, `Beige`, `Lilac`, `Olive` |
+| 색상 온도 | 이미지의 색상에 대한 일반적인 온기 또는 시원함을 설명합니다. | 색조 또는 온도 값: `warm`, `cool`, `neutral`<br>![색상 및 멋진 색조](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
 | 이미지 스타일 | 이미지의 시각적 처리. |                                                                                                                                                                                |
 | 조명 상태 | 이미지의 조명 유형입니다. |                                                                                                                                                                                |
 | 오브젝트 | 이미지를 구성하는 하나 이상의 항목, 엔티티 및 요소를 식별합니다. | ![해바라기, 평면, 꽃 개체](../../assets/category/image-objects.png){width="200" zoomable="yes"} |
