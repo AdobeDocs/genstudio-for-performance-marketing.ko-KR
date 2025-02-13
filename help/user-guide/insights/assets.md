@@ -3,9 +3,9 @@ title: Assets 개요
 description: Adobe GenStudio for Performance Marketing에서 에셋 성과를 평가하는 방법을 알아봅니다.
 feature: Insights, Assets
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -14,18 +14,20 @@ ht-degree: 0%
 
 [!DNL Insights] _[!UICONTROL Assets]_ 보기에는 선택한 채널 계정에 대한 경험 및 광고 캠페인에 사용된 자산 목록이 표시됩니다.
 
-_[!UICONTROL Assets]_ 갤러리는 자산 미리 보기 및 지표(예: 클릭스루 비율)의 합계를 표시하는 기본 보기입니다. 갤러리의 오른쪽 위에 있는 설정(cog) 아이콘을 클릭하여 볼 수 있는 세 가지 지표 중 하나를 전환합니다.
+{{connect-insights}}
+
+_[!UICONTROL Assets]_ 테이블은 [!UICONTROL 자산 ID]을(를) 사용하여 구성되었습니다. 뷰 목록(테이블) 아이콘과 갤러리 뷰(그리드) 아이콘을 사용하여 뷰 사이를 전환할 수 있습니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다.
+
+![Assets 필터 및 테이블](/help/assets/insights-assets-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
+
+_[!UICONTROL Assets]_ 갤러리 보기에는 자산 미리 보기의 콜라주와 지표(예: 클릭스루 비율)가 표시됩니다. 갤러리 오른쪽 위에 있는 설정(cog) 아이콘을 클릭하여 **[!UICONTROL 카드 설정]**&#x200B;을 열고 볼 수 있는 세 가지 지표 중 하나를 전환합니다.
 
 - CPA(작업당 비용)
 - CTR(클릭스루 비율)
 - CPC(클릭당 비용)
 - 지출
-
-_[!UICONTROL Assets]_ 테이블은 [!UICONTROL 자산 ID]을(를) 사용하여 구성되었습니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다.
-
-![Assets 필터 및 테이블](/help/assets/insights-assets-filter.png){zoomable="yes"}
-
-뷰 목록(테이블) 아이콘과 갤러리 뷰(그리드) 아이콘을 사용하여 뷰 사이를 전환할 수 있습니다.
 
 ## 자산 세부 사항
 

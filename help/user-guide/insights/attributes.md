@@ -3,7 +3,7 @@ title: 속성 개요
 description: Adobe GenStudio for Performance Marketing에서 특정 속성의 성능을 평가하는 방법을 알아봅니다.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -14,11 +14,15 @@ ht-degree: 0%
 
 [!DNL Insights] _[!UICONTROL 특성]_ 보기에는 선택한 채널 계정의 광고 캠페인에 사용된 특성 목록이 표시됩니다.
 
+{{connect-insights}}
+
 _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 구성됩니다. **[!UICONTROL 이미지]** 단추와 **[!UICONTROL 비디오]** 단추를 사용하여 목록 형식 간에 전환할 수 있습니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다.
 
 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정] 및 [!UICONTROL 특성 범주]에서 선택하여 테이블의 특성을 필터링할 수 있습니다. 다음 예제에서는 `Lighting Condition` 범주의 특성 목록을 보여 줍니다.
 
 ![특성 필터 및 테이블](/help/assets/insights-attributes-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 ## 속성 세부 사항
 

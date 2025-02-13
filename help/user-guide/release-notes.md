@@ -2,11 +2,11 @@
 title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
-last-substantial-update: 2025-01-16T00:00:00Z
+last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a14da101907c3e7dd990082723f7c59f7f5ff3fd
+source-git-commit: a48ffd2147f79109803c49cc1a696c083c44e879
 workflow-type: tm+mt
-source-wordcount: '1676'
+source-wordcount: '1746'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,19 @@ ht-degree: 1%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
 
-## 2025.1.16 {#latest}
+## 2025.2.13 {#latest}
+
+### [!DNL Create]의 랜딩 페이지 개선 사항
+
+GenStudio for Performance Marketing의 [!DNL Create] 랜딩 페이지에는 사용자 경험을 개선하는 UI 개선 사항이 포함되어 있습니다. _최근 작업_ 섹션이 목록 보기를 기본 보기로 사용하여 세분화되고 구성되었습니다. 패딩 및 기타 시각적 개선 사항을 통해 [!DNL Create] 캔버스의 모양과 느낌을 간소화할 수 있습니다.
+
+### CSV로 인사이트 내보내기
+
+이제 [!DNL Insights] 보기에서 볼 수 있는 테이블을 CSV 파일로 다운로드할 수 있습니다. 이 기능을 사용하면 다양한 [!DNL Insights] 보기에서 데이터를 쉽게 내보내고 분석할 수 있으므로 데이터 분석 및 보고 옵션을 용이하게 합니다.
+
+## 이전 릴리스 노트
+
++++2025.1.16 릴리스 정보
 
 ### Adobe Workfront Proof와 통합
 
@@ -28,10 +40,6 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 ### 새 콜 투 액션 생성
 
 이제 변형을 관리할 때 새 클릭 유도 문구(CTA)를 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
-
-다음 미리 보기는 CTA 문자 수, 새 옵션 및 구문 변경 및 바꾸기 예제를 보여 줍니다.
-
-![CTA 다시 구문 사용 중](/help/assets/animation/rephrase-cta.gif "CTA 다시 구문 사용"){width="250" zoomable="yes"}
 
 ### 수정 사항 및 개선 사항
 
@@ -59,7 +67,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 **[!UICONTROL 뒤로]** 단추가 예상대로 사용자를 이전 페이지 또는 [!DNL Create] 랜딩 페이지로 돌아갑니다. <!-- GS-8622 -->
 
-## 이전 릴리스 노트
++++
 
 +++2024.12.12 릴리스 정보
 
@@ -75,7 +83,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 디스플레이 광고 템플릿의 웹 배너에 대한 너비 및 높이입니다. 이러한 값은 이제 템플릿 메타데이터로 저장됩니다. <!-- GS-6735 -->
 
-* 이미지를 업로드하는 동안 디스플레이 광고 경험에 있는 이미지에 대한 Dimension.<!-- GS-7166 -->
+* 이미지를 업로드하는 동안 디스플레이 광고 경험의 이미지에 대한 차원입니다.<!-- GS-7166 -->
 
 * [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)에서 채널별 지침을 참조하십시오.
 
@@ -199,7 +207,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 브랜드 점수가 생성되지 않으면 이제 캔버스 **[!UICONTROL 브랜드]** 단추가 비활성화됩니다. <!-- GS-6429 -->
 
-* 이제 캔버스 작업 표시줄의 Facebook/Instagram 토글이 `ReadOnly` 캔버스 설정을 사용할 때 예상대로 경험 렌더링을 업데이트합니다. <!-- GS-7039 -->
+* 이제 캔버스 작업 표시줄의 Facebook/Instagram 토글이 `ReadOnly` 캔버스 설정이 활성화된 경우 예상대로 경험 렌더링을 업데이트합니다. <!-- GS-7039 -->
 
 #### 이미지 재생성
 

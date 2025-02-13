@@ -3,9 +3,9 @@ title: 채널 개요
 description: Adobe GenStudio for Performance Marketing의 마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 [!DNL Insights] _[!UICONTROL 채널]_ 보기에는 연결된 채널 광고 계정에 대한 캠페인 목록이 표시됩니다.
 
->[!TIP]
->
->GenStudio for Performance Marketing에서 데이터 수신을 시작하려면 채널 계정에 연결해야 합니다. [채널 계정 연결](connect-channel.md)을 참조하세요.
+{{connect-insights}}
 
 _[!UICONTROL 채널]_ 테이블은 채널 기반 광고 캠페인을 사용하여 구성됩니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정], [!UICONTROL 상태] 및 [!UICONTROL 목표] 목록에서 선택하여 테이블의 캠페인을 필터링할 수 있습니다.
 
 ![채널 필터 및 테이블](/help/assets/insights-channels-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 캠페인을 선택하면 해당 캠페인과 연결된 광고 이름 목록이 [[!UICONTROL 경험] 탭](experiences.md)에 열리고 전체 성공에 기여한 경험을 식별할 수 있습니다.
 

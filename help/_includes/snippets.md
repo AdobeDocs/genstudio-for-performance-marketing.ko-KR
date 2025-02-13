@@ -1,11 +1,17 @@
 ---
-source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
+source-git-commit: f2850d3f535cc06dd8da4e744c081dda299e27f4
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 # GenStudio for Performance Marketing 스니펫
+
+## 인사이트 연결 {#connect-insights}
+
+>[!TIP]
+>
+>GenStudio for Performance Marketing에서 데이터 수신을 시작하려면 채널 계정에 연결해야 합니다. [채널 계정 연결](/help/user-guide/insights/connect-channel.md)을 참조하세요.
 
 ## 참고 AEM Assets {#note-aem-assets}
 
@@ -17,4 +23,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Adobe GenStudio 아카데미](https://learningmanager.adobe.com/genstudioacademy)(으)로 이 주제에 대한 기술을 보강하세요.
+>[Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)(으)로 이 주제에 대한 기술을 보강하세요.

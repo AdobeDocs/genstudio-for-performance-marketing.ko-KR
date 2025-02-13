@@ -3,9 +3,9 @@ title: ' [!DNL Insights] 개요'
 description: 실시간 콘텐츠 성능 지표를 기반으로 경험을 최적화하는 방법을 알아봅니다.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a06b226ffc6bfc0bd371a2f5045d5a422a2983bd
+source-git-commit: f2850d3f535cc06dd8da4e744c081dda299e27f4
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 - **성과가 낮은 콘텐츠 최적화**: 성과가 좋지 않은 콘텐츠를 찾아 통합 생성 AI를 사용하여 즉시 변형을 만들어 처음부터 새로 시작하지 않고도 효과를 향상시킬 수 있습니다.
 - **성과가 좋은 콘텐츠 활성화**: 콘텐츠를 성공적으로 가져와서 수정하여 대상자를 위한 환경을 새로 고치거나 새로운 캠페인에 사용할 영웅 콘텐츠를 조정하여 수명 주기와 성능을 확장할 수 있습니다.
 
->[!TIP]
->
->GenStudio for Performance Marketing에서 현재 마케팅 캠페인, 에셋 및 경험으로부터 데이터를 받을 수 있도록 하는 단계는 [채널 계정 연결](connect-channel.md)을 참조하십시오.
+{{connect-insights}}
 
 ## 대시보드
 

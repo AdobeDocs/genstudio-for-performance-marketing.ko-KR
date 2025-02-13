@@ -3,7 +3,7 @@ title: 경험 개요
 description: Adobe GenStudio for Performance Marketing의 경험 및 광고 배치 성과에 대한 고객 참여, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: c027d5fa15b05feb95c976805d06d8fe3204c5d1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
 source-wordcount: '1092'
 ht-degree: 0%
@@ -12,11 +12,15 @@ ht-degree: 0%
 
 # 경험 개요
 
-[!DNL Insights] _[!UICONTROL 경험]_ 보기에는 연결된 채널 광고 계정에 대한 경험 목록이 표시됩니다. facebook의 경우 경험은 메타 광고 이름입니다.
+[!DNL Insights] _[!UICONTROL 경험]_ 보기에는 연결된 채널 광고 계정에 대한 경험 목록이 표시됩니다. Facebook의 경우 경험은 메타 광고 이름입니다.
+
+{{connect-insights}}
 
 _[!UICONTROL 경험]_ 테이블은 [!UICONTROL 광고 이름]을 사용하여 구성됩니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정] 및 [!UICONTROL 캠페인] 목록에서 선택하여 테이블의 광고 이름을 필터링할 수 있습니다.
 
 ![경험 필터 및 테이블](/help/assets/insights-experiences-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 ## 경험 세부 정보
 
@@ -40,7 +44,7 @@ GenStudio for Performance Marketing은 에셋 피드, 링크 광고 및 단일 �
 
 | Instagram | Facebook/메타 | Messenger | 대상 네트워크 |
 | ------------ | ---------------- | ------------ | ---------------- |
-| 탐색<br>홈 탐색<br>그리드 홈 탐색<br>피드<br>릴하기<br>프로필 피드<br>검색<br>쇼핑<br>스토리 | 비즈니스 탐색<br>피드<br>스트림내 비디오<br>마켓플레이스<br>릴스<br>릴스 오버레이<br>오른쪽 열<br>검색 결과<br>스토리<br>비디오 피드<br>Facebook 릴에 대한 광고 | 받은 편지함<br>스토리 | 기본, 배너 및 삽입 광고<br>보상형 비디오 |
+| 탐색<br>홈 탐색<br>그리드 홈 탐색<br>피드<br>릴하기<br>프로필 피드<br>검색<br>쇼핑<br>스토리 | 비즈니스 탐색<br>피드<br>스트리밍 비디오<br>마켓플레이스<br>릴스<br>릴스 오버레이<br>오른쪽 열<br>검색 결과<br>스토리<br>비디오 피드<br>Facebook 릴에 대한 광고 | 받은 편지함<br>스토리 | 기본, 배너 및 삽입 광고<br>보상형 비디오 |
 
 #### 지원되지 않는 배치
 
