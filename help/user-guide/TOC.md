@@ -4,10 +4,10 @@ breadcrumb-title: 사용 안내서
 user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 살펴봅니다. 빠르게 브랜드 자산을 만들고, 변형을 생성하고, 경험을 최적화하는 방법을 알아보십시오.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: c76e0584c049b77e5e5742f4b52e959503422016
+source-git-commit: 3309dfa13e476d6acce60bfdcd4e5e9801b74149
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 24%
+source-wordcount: '171'
+ht-degree: 23%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 24%
    + [콘텐츠 검토 및 승인 요청](approvals/request-review.md)
    + [콘텐츠 검토 및 편집](approvals/review-and-edit.md)
    + [콘텐츠 승인](approvals/approve-content.md)
-   + [Publish 승인 콘텐츠](approvals/publish-content.md)
+   + [승인된 콘텐츠 게시](approvals/publish-content.md)
 + 콘텐츠 {#content}
    + [콘텐츠 개요](content/overview.md)
    + [자산 및 경험 관리](content/manage-assets.md)
@@ -66,7 +66,10 @@ ht-degree: 24%
    + [경험](insights/experiences.md)
    + [Assets](insights/assets.md)
    + [속성](insights/attributes.md)
-   + [특성 범주](insights/attribute-category.md)
+   + 특성 범주 {#categories}
+      + [이미지 기능](insights/image-features.md)
+      + [비디오 기능](insights/video-features.md)
+      + [텍스트 기능 - 숨김](insights/text-features.md)
    + [데이터 관리](insights/data-management.md)
 + [GenStudio Academy - 숨김](genstudioacademy.md)
 + [Markdown 테스트 - 숨김](test-markdown.md)

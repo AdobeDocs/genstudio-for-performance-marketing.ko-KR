@@ -3,9 +3,9 @@ title: 속성 개요
 description: Adobe GenStudio for Performance Marketing에서 특정 속성의 성능을 평가하는 방법을 알아봅니다.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 구성됩니다. **[!UICONTROL 이미지]** 단추와 **[!UICONTROL 비디오]** 단추를 사용하여 목록 형식 간에 전환할 수 있습니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다.
 
-테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정] 및 [!UICONTROL 특성 범주]에서 선택하여 테이블의 특성을 필터링할 수 있습니다. 다음 예제에서는 `Lighting Condition` 범주의 특성 목록을 보여 줍니다.
+테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정] 및 [!UICONTROL 특성 범주]에서 선택하여 테이블의 특성을 필터링할 수 있습니다. 다음 예제에서는 `Lighting Condition` 범주의 특성 목록을 보여 줍니다. 모든 필터 선택 항목을 지우려면 **재설정**&#x200B;을 클릭하세요.
 
 ![특성 필터 및 테이블](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
@@ -36,11 +36,17 @@ GenStudio for Performance Marketing은 특정 기능을 감지하고 적절한 �
 
 ## 범주
 
-GenStudio for Performance Marketing은 이미지, 비디오 및 텍스트의 특정 기능을 인식하고, 기능 태그를 에셋에 적용합니다. _category_&#x200B;은(는) 특정 특성을 공유하는 기능 집합입니다. 예를 들어 _이미지 방향_ 범주에 `landscape`, `portrait` 또는 `square` 값이 있습니다.
+속성 카테고리는 공통적인 특성을 공유하는 관련 속성을 구성하는 분류 그룹입니다. 이러한 범주는 컨텍스트를 확대하고 애플리케이션 및 사용을 촉진하여 특정 속성을 보다 효율적으로 검색, 식별 및 이해하는 데 도움이 됩니다.
 
-검색되어 자동으로 적용되는 태그는 편집할 수 없습니다.
+GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 [이미지](image-features.md), [비디오](video-features.md) 및 텍스트를 학습하고 수정 가능성에 따라 [!UICONTROL 자산 특성]을 적용합니다.
 
-이미지, 비디오 및 텍스트 기능에 대한 자세한 목록은 [특성 범주](/help/user-guide/insights/attribute-category.md)를 참조하십시오.
+자산에 대해 검색된 속성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 Assets은 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다. 예를 들어 다음 그림에는 여러 객체, 전경색 및 배경색 등 여러 개의 이미지 속성이 있습니다.
+
+![이미지 자산 특성](/help/assets/category/asset-attributes.png "Toucan 이미지에 검색된 특성이 여러 개 포함되어 있습니다"){width="300" zoomable="yes"}
+
+>[!INFO]
+>
+>검색되어 자동으로 적용되는 태그는 편집할 수 없습니다.
 
 ## 속성 성능
 

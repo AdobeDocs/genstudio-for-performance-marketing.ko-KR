@@ -3,10 +3,10 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: d5efabbaf3dd0817bd3158acb59d997a727e5f62
+source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1348'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 필터 및 검색 인터페이스는 빠르고 반응적이며 생산적인 검색 우선 경험을 제공합니다. 각 [!DNL Content] 보기는 이상적인 자산, 경험 또는 템플릿에 대한 검색 범위를 좁히는 필터 옵션을 제공합니다. 에셋 및 경험의 경우 캠페인과 특정 지침(예: 특정 제품에 대해 만들어진 콘텐츠)을 선택할 수 있습니다.
 
-검색 결과 범위를 좁히기 위해 [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attribute-category.md)을 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다. 또는 사용자 이름 또는 팀원의 이름을 기반으로 콘텐츠를 필터링할 수 있습니다.
+검색 결과 범위를 좁히기 위해 [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attributes.md#categories)을 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다. 또는 사용자 이름 또는 팀원의 이름을 기반으로 콘텐츠를 필터링할 수 있습니다.
 
 - **[!UICONTROL 업로드한 사람]** 필터는 사용자 또는 특정 사용자가 업로드한 자산만 표시하도록 _[!UICONTROL Assets]_ 목록을 제한합니다.
 - **[!UICONTROL 작성자]** 필터는 사용자 또는 특정 사용자가 만든 경험만 표시하도록 _[!UICONTROL 경험]_ 목록을 제한합니다.
@@ -61,7 +61,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
-[!DNL AEM Assets Content Hub] 리포지토리를 GenStudio for Performance Marketing에 추가하는 방법에 대한 지침은 [AEM 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
+[!DNL AEM Assets Content Hub] 리포지토리를 AEM에 추가하는 방법에 대한 지침은 [GenStudio for Performance Marketing 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
 
 AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 [시스템 메타데이터](asset-details.md#system-metadata)를 사용하여 `GenStudio assets` 저장소에 저장됩니다.
 
@@ -71,13 +71,13 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 ## Assets 관리
 
-[!UICONTROL 콘텐츠]에서 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 저장소와 AEM 저장소를 모두 활용하여 에셋이 잘 구성되어 있고 다양한 마케팅 캠페인에 액세스할 수 있도록 할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
+[!UICONTROL 콘텐츠]에서 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 리포지토리와 AEM 리포지토리를 모두 활용하므로 다양한 마케팅 캠페인에 사용할 수 있도록 에셋을 잘 구성하고 액세스할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
 
 다음 표에는 에셋, 경험 및 템플릿에 사용할 수 있는 관리 작업이 나열되어 있습니다.
 
 | 작업 | 자산 | 경험 | 템플릿 |
 | --------------------------------------------------------- | :----: | :---------: | :-------: |
-| [세부 정보 보기](/help/user-guide/content/asset-details.md) | ✓ 덧신 | ✓ | ✓ |
+| [세부 정보 보기](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
 | [경험 만들기](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [Adobe Express에서 편집](#edit-in-express) | ✓ |             |           |
 | [활성화를 위해 내보내기](#export-for-activation) |        | ✓ |           |
@@ -171,7 +171,7 @@ Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직�
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL Adobe Express에서 편집]** 아이콘을 클릭합니다.
 
-1. _[!UICONTROL Adobe Express 제공]_ 캔버스에서 왼쪽 패널의 Express 컨트롤을 사용하여 이미지를 향상시킵니다.
+1. _[!UICONTROL Adobe Express에서 제공하는]_ 캔버스에서 왼쪽 패널의 Express 컨트롤을 사용하여 이미지를 향상시킵니다.
 
 1. 업데이트된 이미지가 마음에 들면 오른쪽 상단의 **[!UICONTROL 복사본 저장]**&#x200B;을 클릭하세요.
 

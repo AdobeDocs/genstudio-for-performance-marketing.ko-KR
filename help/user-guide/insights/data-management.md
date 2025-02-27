@@ -1,30 +1,31 @@
 ---
 title: 데이터 관리
-description: GenStudio for Performance Marketing의 Insights를 위한 데이터 수집 및 스토리지에 대해 알아봅니다.
+description: GenStudio for Performance Marketing의  [!DNL Insights] 에 대한 데이터 수집 및 저장에 대해 알아봅니다.
 feature: Insights
 level: Experienced
 role: Admin
 last-substantial-update: 2025-1-7
-source-git-commit: 5dbe645f2ccf033f515da22ffdcce86edcb9fb24
+exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
+source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # 데이터 관리
 
-GenStudio for Performance Marketing은 [!DNL Insights]을(를) 지원하는 지표 및 메타데이터의 데이터 수집 및 저장을 위해 AEP(Adobe Experience Platform)를 사용합니다. AEP는 _스키마_&#x200B;를 사용하여 데이터 수집을 저장하고 관리하기 위한 데이터 구조와 _데이터 세트_&#x200B;를 정의합니다.
+GenStudio for Performance Marketing은 [!DNL Insights]을(를) 지원하는 지표 및 메타데이터의 데이터 수집 및 저장을 위해 Adobe Experience Platform(AEP)를 사용합니다. AEP은 데이터 컬렉션을 저장 및 관리하기 위해 _스키마_&#x200B;를 사용하여 데이터 구조와 _데이터 세트_&#x200B;를 정의합니다.
 
 ## 데이터 연결
 
-GenStudio for Performance Marketing은 CJA(Customer Journey Analytics)를 사용하여 하나 이상의 AEP 데이터 세트에 대한 연결을 생성하여 여러 데이터 소스를 집계합니다. CJA는 이러한 데이터 연결을 사용하여 [!DNL Insights]을(를) 사용하여 지표를 분석하기 위한 데이터 보기를 만듭니다.
+GenStudio for Performance Marketing은 CJA(Customer Journey Analytics)를 사용하여 하나 이상의 AEP 데이터 세트에 대한 연결을 만들어 여러 데이터 소스를 집계합니다. CJA는 이러한 데이터 연결을 사용하여 [!DNL Insights]을(를) 사용하여 지표를 분석하기 위한 데이터 보기를 만듭니다.
 
 >[!BEGINSHADEBOX]
 
 **데이터 연결에 대한 중요 정보**
 
-[Adobe 시스템 관리자](/help/user-guide/user-roles.md#adobe-system-administrator-vs-genstudio-system-manager)인 경우 GenStudio for Performance Marketing을 지원하는 AEP 샌드박스 관리 및 데이터 레이크 구성 요소에 대한 액세스를 허용하는 권한이 있을 수 있습니다.
+[Adobe 시스템 관리자](/help/user-guide/user-roles.md#adobe-system-administrator-vs-genstudio-system-manager)인 경우 GenStudio for Performance Marketing을 지원하는 AEP 샌드박스 관리 및 데이터 레이크 구성 요소에 액세스할 수 있는 권한이 있을 수 있습니다.
 
 >[!WARNING]
 >

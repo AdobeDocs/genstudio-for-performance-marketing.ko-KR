@@ -3,9 +3,9 @@ title: 채널 개요
 description: Adobe GenStudio for Performance Marketing의 마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ _[!UICONTROL 채널]_ 테이블은 채널 기반 광고 캠페인을 사용하�
 
 ## 채널 성능
 
-성과 목표에 따라 인사이트 지표를 통해 목표를 달성하고 있는지 평가할 수 있습니다.
+성과 목표에 따라 [!DNL Insights] 지표를 통해 목표를 달성하고 있는지 평가할 수 있습니다.
 
 예를 들어, 인지도가 목표인 경우 `impressions` 비율이 증가하면 도달 범위를 확장하고 있음을 나타낼 수 있습니다. 목표를 달성하고 있는지 파악하기 위해 `clicks` 또는 `video plays`과 같이 콘텐츠가 참여하는 지표를 확인할 수 있습니다. 대상자가 콘텐츠와 얼마나 효과적으로 상호 작용하고 있습니까?
 

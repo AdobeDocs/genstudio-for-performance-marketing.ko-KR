@@ -3,7 +3,7 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 >[!NOTE]
 >
->AEM 저장소의 Assets에 다른 메타데이터가 표시됩니다. [!DNL AEM Assets Content Hub] 자산 세부 정보를 구성하는 방법은 [자산 가시성 구성](connect-aem-repo.md#step-4-configure-asset-visibility)을 참조하세요.
+>AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [!DNL AEM Assets Content Hub] 자산 세부 정보를 구성하는 방법은 [자산 가시성 구성](connect-aem-repo.md#step-4-configure-asset-visibility)을 참조하세요.
 
 ## 시스템 메타데이터
 
@@ -40,9 +40,9 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 ### 생성된 태그
 
-승인된 에셋을 [!DNL Content]에 저장하면 GenStudio for Performance Marketing에서 Adobe의 AI 및 머신 러닝 기능을 사용하여 에셋을 학습하고 에셋 기능을 기반으로 태그를 적용합니다. 예를 들어, 고양이 그림으로 인해 `pet photography` 또는 `cat`과(와) 같은 속성 태그와 그림에서 지배적인 색상을 식별하는 색상 태그가 발생할 수 있습니다. 검색되어 자동으로 적용되는 태그는 편집할 수 없습니다.
+승인된 에셋을 [!DNL Content]에 저장하면 GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 에셋을 학습하고 에셋 기능을 기반으로 태그를 적용합니다. 예를 들어, 고양이 그림으로 인해 `pet photography` 또는 `cat`과(와) 같은 속성 태그와 그림에서 지배적인 색상을 식별하는 색상 태그가 발생할 수 있습니다. 검색되어 자동으로 적용되는 태그는 편집할 수 없습니다.
 
-이미지, 비디오 및 텍스트 기능에 대한 자세한 목록은 [!DNL Insights] [특성 범주](/help/user-guide/insights/attribute-category.md)를 참조하십시오.
+이미지, 비디오 및 텍스트 기능에 대한 자세한 목록은 [!DNL Insights] [특성 범주](/help/user-guide/insights/attributes.md#categories)를 참조하십시오.
 
 ### 생성된 컨텐츠 메타데이터
 
