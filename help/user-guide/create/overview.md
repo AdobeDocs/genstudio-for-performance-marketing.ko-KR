@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing 개요 [!DNL Create]
 description: Adobe GenStudio for Performance Marketing [!DNL Create]에서 생성 AI를 사용하여 고성능의 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: ef4e6f48fe9aeffdd575dd83d49368cd438d62f2
+source-git-commit: 11d86ddddd1289c0bd198f21fe75a84b1459253e
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -24,41 +24,76 @@ GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능�
 
 [지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 강력한 기능과 함께 [!DNL Create]을(를) 통해 효과적인 브랜드 중심 마케팅 콘텐츠를 만들 수 있습니다.
 
+편집자와 시스템 관리자는 [!DNL Create]에 대한 전체 액세스 권한을 가집니다. 자세한 역할 액세스 정보는 [사용자 역할 및 권한](/help/user-guide/user-roles.md)을 참조하세요.
+
 ## [!DNL Create] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="새 콘텐츠 만들기" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>전자 메일 환경 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="메타 광고 경험 만들기" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>메타 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="디스플레이 광고 경험 만들기" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>디스플레이 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
@@ -75,7 +110,7 @@ _에서 제작할 채널을 선택한 후 오늘 제작할 내용을 선택하�
 
 ### 매개변수
 
-프롬프트 서랍에서 [!DNL Brands], [!DNL Products], [!DNL Personas](지침) 및 [!DNL Content](자산)과 같은 _매개 변수_&#x200B;을(를) 추가하여 생성된 경험을 형성할 수 있습니다.
+프롬프트 서랍에서 [!DNL Brands], [!DNL Products], [!DNL Personas]&#x200B;(지침) 및 [!DNL Content]&#x200B;(자산)과 같은 _매개 변수_&#x200B;을(를) 추가하여 생성된 경험을 형성할 수 있습니다.
 
 이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적합한 온브랜드 콘텐츠 생성을 크게 향상시키므로 GenStudio for Performance Marketing에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
 
