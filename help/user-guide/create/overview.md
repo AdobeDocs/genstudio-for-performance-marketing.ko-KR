@@ -112,3 +112,4 @@ GenStudio for Performance Marketing은 브랜드 ID의 다양한 측면에 대�
 GenStudio for Performance Marketing을 사용하면 [개별 변형의 섹션을 포괄적으로 제어할 수 있습니다](/help/user-guide/create/manage-variants.md).
 
 단일 변형의 섹션을 수정하고, 개별 섹션의 콘텐츠를 다시 생성하고, 제안된 편집 내용을 사용하여 메시지, 에셋 크기 조정 등을 캔버스 내에서 모두 개선할 수 있습니다.
+
