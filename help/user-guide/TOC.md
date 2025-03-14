@@ -4,10 +4,10 @@ breadcrumb-title: 사용 안내서
 user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 살펴봅니다. 빠르게 브랜드 자산을 만들고, 변형을 생성하고, 경험을 최적화하는 방법을 알아보십시오.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: 3309dfa13e476d6acce60bfdcd4e5e9801b74149
+source-git-commit: 86eeac0231ffc465365709eb42250383868a4462
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 23%
+source-wordcount: '189'
+ht-degree: 20%
 
 ---
 
@@ -34,11 +34,15 @@ ht-degree: 23%
    + [[!DNL Create] 개요](create/overview.md)
    + [전자 메일 환경](create/email-experiences.md)
    + [메타 경험](create/meta-experiences.md)
+   + [LinkedIn 경험](create/linkedin-experiences.md)
    + [광고 경험 표시](create/display-ad-experiences.md)
+   + [배너 경험](create/banner-experiences.md)
    + [변형 관리](create/manage-variants.md)
    + [전자 메일 환경 만들기](create/create-email-experience.md)
    + [메타 광고 경험 만들기](create/create-meta-ad.md)
+   + [LinkedIn 경험 만들기](create/create-linkedin.md)
    + [디스플레이 광고 경험 만들기](create/create-display-ad.md)
+   + [배너 경험 만들기](create/create-banner-experience.md)
 + 리뷰 및 승인 {#approve}
    + [검토 및 승인 개요](approvals/overview.md)
    + [콘텐츠 검토 및 승인 요청](approvals/request-review.md)
@@ -53,6 +57,7 @@ ht-degree: 23%
    + 템플릿 {#templates}
       + [템플릿 작업](content/use-templates.md)
       + [템플릿 사용자 지정](content/customize-template.md)
+      + [템플릿 코드 편집기](content/code-editor.md)
       + [액세스 가능한 템플릿 만들기](content/accessibility-for-templates.md)
       + [템플릿 모범 사례](content/best-practices-for-templates.md)
 + 캠페인 {#campaigns}
@@ -63,8 +68,8 @@ ht-degree: 23%
    + [인사이트 개요](insights/overview.md)
    + [채널 계정 연결](insights/connect-channel.md)
    + [채널](insights/channels.md)
-   + [경험](insights/experiences.md)
-   + [Assets](insights/assets.md)
+   + [광고 및 광고 배치](insights/ads.md)
+   + [미디어](insights/media.md)
    + [속성](insights/attributes.md)
    + 특성 범주 {#categories}
       + [이미지 기능](insights/image-features.md)

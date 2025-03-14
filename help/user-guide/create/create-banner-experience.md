@@ -1,42 +1,40 @@
 ---
-title: 디스플레이 광고 경험 만들기
-description: 성과 마케팅을 위해 Adobe [!DNL GenStudio] 에서 디스플레이 광고 경험을 만드는 방법을 알아봅니다.
+title: 배너 경험 만들기
+description: 성과 마케팅을 위해 Adobe [!DNL GenStudio] 에서 배너 경험을 만드는 방법을 알아봅니다.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 role: User
 level: Beginner
 recommendations: noDisplay
-exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '981'
 ht-degree: 0%
 
 ---
 
-# 디스플레이 광고 경험 만들기
+# 배너 경험 만들기
 
-이 자습서에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)를 사용하여 브랜드 [디스플레이 광고 경험](display-ad-experiences.md)을 생성하는 방법을 보여 줍니다.
+이 자습서에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 [배너 경험](banner-experiences.md)을 만드는 방법을 보여줍니다.
 
-매력적인 디스플레이 광고 경험을 디자인하려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
+매력적인 배너 경험을 디자인하려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 
 ## 템플릿 선택
 
-디스플레이 광고 경험을 만들려면 사용 가능한 템플릿을 사용하여 콘텐츠의 프레임워크를 제공하십시오. 지원되는 디스플레이 광고 차원에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하세요.
+배너 경험을 만들려면 사용 가능한 템플릿을 사용하여 콘텐츠의 프레임워크를 제공하십시오. 지원되는 배너 차원에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하세요.
 
-**디스플레이 광고 템플릿을 선택하려면**:
+**배너 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 광고 표시]**&#x200B;를 클릭합니다. 오늘은 무엇을 만드시겠습니까?_섹션.
-1. 특정 디스플레이 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
-1. _템플릿 선택_ 보기에서 디스플레이 광고 템플릿을 클릭합니다.
+1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 배너]**&#x200B;를 클릭합니다._섹션.
+1. _필터_ 옆의 검색 옵션을 사용하여 특정 배너 템플릿을 찾습니다.
+1. _템플릿 선택_ 보기에서 배너 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
-   콘텐츠 작성의 중앙 허브 역할을 하는 캔버스가 표시됩니다.
+   콘텐츠 작성의 홈 베이스인 캔버스 가 표시됩니다.
 
 ## 매개 변수 추가
 
-프롬프트 창에 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 대체되며 디스플레이 광고 경험을 생성하기 위한 필수 준비 단계입니다.
-
-미리 정의된 지침([!DNL Brands], [!DNL Personas] 또는 [!DNL Products])이 있는 템플릿을 사용하는 경우 이러한 지침은 변형에 적용됩니다. 원하는 경우 변경할 수 있습니다.
+프롬프트 서랍에서 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 _매개 변수_&#x200B;에 통합하면 콘텐츠 생성 프로세스가 향상되며 배너 경험을 만드는 중요한 준비 단계입니다.
 
 **매개 변수 및 자산을 추가하려면**:
 
@@ -57,7 +55,7 @@ ht-degree: 0%
 
 ## 프롬프트 입력
 
-지침을 선택한 후 자연어를 사용하여 프롬프트를 만들고 새 디스플레이 광고 경험을 위한 콘텐츠를 생성합니다. 생성된 디스플레이 광고 경험의 품질을 향상시키려면 세부적이고 설명적인 프롬프트를 작성하는 것이 중요합니다.
+지침을 선택한 후에는 자연어를 사용하여 새 배너 경험을 위한 콘텐츠 생성을 시작하라는 메시지를 표시하십시오. 고품질 결과를 보장하려면 세부적이고 설명적인 프롬프트를 작성하는 것이 중요합니다.
 
 ![프롬프트 입력](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
@@ -70,14 +68,14 @@ ht-degree: 0%
 
 기본적으로 프롬프트, 지침 및 추가한 컨텐츠에 의해 유발되는 네 가지 변형이 생성되어 캔버스에 표시됩니다.
 
-## 생성된 변형 개정
+## 생성된 배너 수정
 
-승인 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 디스플레이 광고 섹션 및 텍스트 필드를 편집하거나 생성된 변형을 삭제할 수 있습니다.
+[!DNL Content]에 게시하거나 승인을 위해 보낼 항목을 선택하기 전에 배너 섹션 및 텍스트 필드를 편집하거나 생성된 변형을 삭제할 수 있습니다.
 
 **생성된 변형을 수정하려면**:
 
-* **디스플레이 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **디스플레이 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 디스플레이 광고 섹션 또는 필드(예: 제목 줄, 머리글 또는 본문 복사본)를 두 번 클릭하고 필요에 따라 편집합니다.[
+* **배너 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
+* **배너를 [수동으로 편집](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 배너 섹션이나 필드(예: 헤드라인이나 CTA)를 두 번 클릭하고 필요에 따라 편집하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
 * **변형의 이미지에 링크를 추가하려면](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.[
@@ -98,7 +96,7 @@ When revising and preparing email experiences, you can toggle between previews f
 
 **변형에 대해 콘텐츠 검사를 수행하려면**:
 
-1. 오른쪽 작업 표시줄의 _콘텐츠 확인_ 패널 아이콘을 클릭하여 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 엽니다. 개선이 필요한 섹션 및 지침을 확인하기 위해 *검토 필요* 및 *합격* 검사에 대한 요약을 봅니다.
+1. 오른쪽 작업 표시줄의 _콘텐츠 확인_ 패널 아이콘을 클릭하여 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 엽니다. 개선이 필요한 섹션 및 지침을 확인하기 위해 _검토 필요_ 및 _합격_ 검사에 대한 요약을 봅니다.
 
    ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
@@ -108,28 +106,28 @@ When revising and preparing email experiences, you can toggle between previews f
 
 ## 검토 및 승인 받기
 
-캔버스의 오른쪽 작업 표시줄에 아이콘으로 액세스할 수 있는 승인 패널을 사용하여 검토를 얻고 검토 설명을 추적하고 관련자로부터 승인을 받습니다.
+캔버스의 오른쪽 작업 표시줄에 아이콘으로 액세스할 수 있는 _승인_ 패널을 사용하여 검토를 받고, 검토 의견을 추적하고, 관련자로부터 승인을 받습니다.
 
 **검토 및 승인을 얻으려면**:
 
-1. [승인 요청을 시작](/help/user-guide/approvals/request-review.md)하여 [초안 디스플레이 광고 환경의 승인](/help/user-guide/approvals/approve-content.md)을 요청합니다.
+1. [승인 요청을 시작](/help/user-guide/approvals/request-review.md)하여 [초안 배너 경험의 승인](/help/user-guide/approvals/approve-content.md)을 요청하세요.
 1. 검토 프로세스 중에 [검토자를 제거하거나 추가](/help/user-guide/approvals/review-and-edit.md#manage-approvals)합니다.
 1. [검토할 콘텐츠에 액세스](/help/user-guide/approvals/review-and-edit.md#access-content-for-review)하고 수정 요청을 봅니다.
-1. 리뷰 댓글별로 초안을 편집하고 [디스플레이 광고 경험을 게시합니다](#publish-and-export-experience).
+1. 리뷰 댓글별로 초안을 편집하고 [배너 경험을 게시합니다](#publish-and-export-experience).
 
 [검토 및 승인](/help/user-guide/approvals/overview.md)을 참조하세요.
 
 ## 경험 게시 및 내보내기
 
-생성된 디스플레이 광고를 현재 및 향후 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
+생성된 배너를 현재 및 나중에 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
-1. **새 디스플레이 광고 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
+1. **새 배너 환경을 게시하려면**, 상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
    1. _[!UICONTROL [!DNL Campaigns]]_을(를) 선택하고 필요한 경우_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_를 추가하십시오.
    1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
-      ![디스플레이 광고 게시](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+      ![배너 게시](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
 
-1. **새 디스플레이 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
+1. **새 배너를 내보내려면** 상단 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
    1. HTML 및 이미지, PNG 또는 JPG 형식을 선택하고 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 
       내보낸 HTML은 템플릿 또는 `div` 컨테이너와 같은 미리 정의된 웹 속성 내에 배치해야 합니다. 이렇게 설정된 치수가 없으면 독립적으로 볼 때 이미지가 왜곡되어 표시될 수 있습니다.

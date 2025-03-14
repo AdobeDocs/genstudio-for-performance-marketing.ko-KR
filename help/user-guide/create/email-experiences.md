@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,9 @@ Content creators and marketers can produce brand-consistent email experiences in
 1. 사전 머리글
 1. 헤드라인, 이메일 본문(단일 섹션 이메일용) 및 콜 투 액션
 1. 후속 섹션의 이메일 본문(다중 섹션 이메일의 경우)
-1. 브랜드 유효성 검사 프로세스가 발생하고 각 변형에 대해 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;가 채워집니다.
+1. 브랜드 유효성 검사
+
+   브랜드 유효성 검사 및 컨텐츠 검사 프로세스가 수행되며 각 변형에 대해 [_컨텐츠 검사_ 요약](/help/user-guide/guidelines/brand-validation.md#content-check-summary)이(가) 채워집니다.
 
 ## 문자 수
 

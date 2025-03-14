@@ -3,9 +3,9 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1361'
 ht-degree: 1%
 
 ---
@@ -18,9 +18,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 갤러리에는 선택한 보기에 따라 승인된 에셋, 경험 또는 템플릿의 인벤토리가 표시됩니다. 표 왼쪽 위의 필터(단계) 아이콘으로 **[!UICONTROL 필터]** 메뉴가 열립니다. 이 메뉴에서 여러 범주 중 선택하여 갤러리에 표시된 콘텐츠를 필터링할 수 있습니다. _[!UICONTROL Assets]_ 보기에서 검색(돋보기) 아이콘을 클릭하여 키워드를 사용하여 자산을 찾습니다.
 
-다음은 [!UICONTROL Assets] 갤러리에서 `dog`이라는 용어에 대한 검색을 보여 줍니다.
+다음은 [!UICONTROL Assets] 갤러리에서 `space`이라는 용어에 대한 검색을 보여 줍니다.
 
-![dog에서 검색이 포함된 Assets 보기](/help/assets/content-assets.png)
+![스페이스에서 검색이 있는 Assets 보기](/help/assets/content-assets-filter.png "스페이스 특성이 있는 에셋 검색")
 
 ### 콘텐츠 검색
 
@@ -57,7 +57,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 오른쪽의 _[!UICONTROL Assets]_ 갤러리 위에 있는 **[!UICONTROL 위치]** 목록을 사용하면 연결된 Adobe Experience Manager(AEM) [!DNL Assets Content Hub] 리포지토리에서 선택할 수 있습니다.
 
-![저장소 위치 목록](../../assets/content-location-selection.png){width="350"}
+![저장소의 위치 목록](/help/assets/content-location-selection.png "콘텐츠 저장소 선택"){width="350"}
 
 AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
@@ -89,7 +89,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 자산을 [!DNL Content]에 추가하면 기본적으로 `GenStudio assets` 저장소에 저장됩니다. _[!UICONTROL 자산 추가]_ 단추는 _[!UICONTROL 위치]_&#x200B;이(가) `GenStudio assets` 저장소인 경우에만 사용할 수 있습니다.
 
-![위치 필드](../../assets/content-location.png){width="350"}
+![위치 필드](/help/assets/content-location.png "위치 필드"){width="350"}
 
 **하나 이상의 자산을 추가하려면**:
 
@@ -146,7 +146,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 1. _활성화를 위해 내보내기_ 팝업에서 사용 가능한 형식 중 하나를 선택합니다.
 
    - 이메일: `HTML`, `CSV`
-   - 메타 및 디스플레이 광고: `HTML`, `JPEG`, `PNG`
+   - 메타, 배너 및 디스플레이 광고: `HTML`, `JPEG`, `PNG`
 
 [활성화](/help/user-guide/activation/overview.md)를 참조하세요.
 

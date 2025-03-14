@@ -3,9 +3,9 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 504f556825c5645172c2315877cb6c06f015cf0e
 workflow-type: tm+mt
-source-wordcount: '1335'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -139,18 +139,31 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 **변형에서 이미지를 추가하거나 교체하려면**:
 
+1. 변형 세트를 생성한 후 이미지 에셋(또는 이미지가 현재 존재하지 않는 경우 이미지 에셋 영역)을 클릭합니다.
+1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
+1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
+
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+
+1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
+
+   이미지가 해당 변형에 추가되거나 교체됩니다.
+
+## 이미지 링크 추가
+
+생성된 변형에서 이미지를 추가하거나 교체하는 것과 마찬가지로 이미지에 링크를 추가할 수 있습니다. _must_ 변형을 생성하는 데 사용한 템플릿에 이 기능을 사용하려면 [링크에 대한 콘텐츠 자리 표시자가 있어야 합니다](/help/user-guide/content/customize-template.md#content-placeholders).
+
+**변형에 이미지 링크를 추가하려면**:
+
 1. 변형 세트를 생성한 후 이미지 에셋을 클릭합니다.
 
    변형에 현재 배치된 이미지 에셋이 없는 경우 이미지 에셋 영역을 클릭합니다.
 
-1. [!DNL Content]에 이미 게시된 이미지 자산을 선택하려면 다음을 수행하십시오.
-   1. **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭합니다. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
-   1. **[!UICONTROL 사용]** 클릭
-1. 이미지 자산을 업로드하려면 다음을 수행하십시오.
-   1. 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수 있습니다.
-   1. **[!UICONTROL Assets 추가]**&#x200B;를 클릭합니다.
+1. 링크 아이콘을 클릭합니다.
+1. 기존 기본 링크를 제거하려면 **[!UICONTROL 링크 제거]**&#x200B;를 클릭하십시오.
+1. 텍스트 필드에 링크를 추가하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
-   이미지가 해당 변형에 추가되거나 교체됩니다.
+   정의된 링크가 변형 세트의 모든 이미지에 적용됩니다.
 
 ## 장치 미리 보기
 
@@ -176,9 +189,9 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 ## 변형당 브랜드 유효성 검사
 
-일관된 브랜드 정체성과 변형 정렬을 유지하려면 _[!UICONTROL 브랜드 지침 확인]_ 및 _[!UICONTROL 브랜드 유효성 검사 패널]_&#x200B;을 사용하십시오.
+_콘텐츠 확인_ 패널을 사용하여 일관된 브랜드 ID, [ADA 접근성 표준, 플랫폼 지침](/help/user-guide/guidelines/overview.md#content-checks) 및 변형 정렬을 유지하십시오.
 
-[브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)를 참조하십시오.
+[브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
 ## 생성 피드백
 

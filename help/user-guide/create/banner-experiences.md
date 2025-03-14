@@ -1,24 +1,24 @@
 ---
-title: 광고 경험 표시
-description: Adobe GenStudio for Performance Marketing의 디스플레이 광고 경험에 대해 알아봅니다.
+title: 배너 경험
+description: Adobe GenStudio for Performance Marketing의 배너 경험에 대해 알아봅니다.
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 role: User
 level: Beginner
-exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: 25c3ad69774301d82573f2eec89f0eb0ea15404b
+source-git-commit: ee1fa197fbf67903e8871e8d88cb7f1fd7cb06d0
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# 광고 경험 표시
+# 배너 경험
 
-Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하여 [성공적인 디스플레이 광고 경험 만들기](/help/user-guide/create/create-display-ad.md)를 간소화할 수 있습니다.
+Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하여 [성공적인 배너 경험 만들기](/help/user-guide/create/create-banner-experience.md)를 향상시킬 수 있습니다.
 
-[!DNL Create]은(는) [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [브랜드 일관된 디스플레이 광고 경험을 만들 수 있도록 최신 마케터를 지원합니다](/help/user-guide/create/create-display-ad.md).
+[!DNL Create]을(를) 통해 최신 마케터는 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진](/help/user-guide/effective-prompts.md)을(를) 활용하여 일관된 배너 경험을 [만들 수 있습니다](/help/user-guide/create/create-banner-experience.md).
 
-디스플레이 광고 경험을 생성할 때 캔버스에 4개의 변형이 만들어져 표시됩니다.
+배너 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다.
 
 지원되는 차원, 인식된 필드 이름 등에 대한 정보는 [채널별 템플릿 지침 준수](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하십시오.
 

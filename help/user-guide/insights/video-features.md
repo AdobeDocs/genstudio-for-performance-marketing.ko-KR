@@ -2,9 +2,10 @@
 title: 비디오 기능
 description: GenStudio for Performance Marketing에 사용되는 속성 범주의 비디오 기능에 대해 알아봅니다.
 feature: Insights, Attributes, Generative AI
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -35,7 +36,7 @@ GenStudio for Performance Marketing의 오디오 감지에는 다양한 속성�
 
 1. **음소거 해제**(비디오 미리 보기의 왼쪽 아래 모서리에 있음) 단추를 전환하고 비디오 미리 보기의 오디오를 듣습니다.
 
-다음 표에는 GenStudio for Performance Marketing AI가 인식하는 비디오 기능 카테고리가 나열되어 있습니다. 자산에 대해 검색된 속성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 Assets은 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다.
+다음 표에는 GenStudio for Performance Marketing AI가 인식하는 비디오 기능 카테고리가 나열되어 있습니다. 미디어 콘텐츠에 대해 검색된 속성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 미디어는 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

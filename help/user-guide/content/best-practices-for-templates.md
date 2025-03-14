@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing에서 템플릿을 사용
 feature: Templates, Content
 last-substantial-update: 2024-12-13T00:00:00Z
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 9cc284cdb00a204baf6b0a2d9d7f67cf9bc9c81f
+source-git-commit: cdba0ef2cc359a6ed0fd25ce946bcf89f9b712f9
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
    - 기본 템플릿(한 섹션만 해당)은 단일 템플릿 요소 집합을 생성할 수 있습니다.
    - 복합 템플릿(여러 섹션)은 최대 3개의 템플릿 요소 집합을 생성할 수 있습니다.
 - 템플릿에서 허용되는 최대 필드는 20개입니다.
-- 최대 HTML 파일 크기는 102KB입니다.
+- 최대 HTML 파일 크기는 102KB입니다
 
 **인식된 필드 이름**:
 
@@ -72,7 +72,7 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
 - `headline`
 - `body`
 - `cta`
-- `image`(콘텐츠에서 선택됨)
+- `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
 - `brand_logo`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
@@ -115,17 +115,15 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 
 메타 광고의 경우 `headline`, `body` 및 `CTA` 필드가 자동으로 생성됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
 
-- `image`(콘텐츠에서 선택됨)
-- `on-image-text`
+- `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
+- `on_image_text`
 - `brand_logo`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
 
->[!TAB 광고 표시]
+>[!TAB 배너 및 디스플레이 광고]
 
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
-
-GenStudio for Performance Marketing에서 작동하도록 디스플레이 광고 템플릿을 사용자 지정할 때 다음 디자인 모범 사례를 따르십시오.
+GenStudio for Performance Marketing에서 작동하도록 배너 및 표시 광고 템플릿을 사용자 지정할 때 다음 디자인 모범 사례를 따르십시오.
 
 - Adobe 또는 Google 글꼴 사용
 - 슬림한 차원으로 잘 표시되는 에셋 준비
@@ -159,7 +157,55 @@ GenStudio for Performance Marketing에서 작동하도록 디스플레이 광고
 - `headline`
 - `body`
 - `cta`
-- `image`(콘텐츠에서 선택됨)
+- `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
+
+템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
+
+>[!TAB LinkedIn 광고]
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+GenStudio for Performance Marketing에서 작동하도록 LinkedIn 광고 템플릿을 사용자 지정할 때 다음 디자인 모범 사례를 따르십시오.
+
+**제약 조건**:
+
+- [섹션](customize-template.md#sections-or-groups) 사용:
+   - 섹션은 하나만 사용할 수 있으며, 템플릿 요소의 단일 세트를 생성합니다.
+- 최대 이미지 크기 5MB
+- 최대 헤드라인 70자
+- 최대 소개 텍스트 150자
+
+**지원되는 종횡비**:
+
+- 정사각형 1:1
+   - 데스크탑 또는 모바일
+   - 최소: 360 x 360픽셀
+   - 최대: 4320 x 4320픽셀
+- 가로 1.91:1
+   - 데스크탑
+   - 최소: 640 x 360픽셀
+   - 최대: 7680 x 4320픽셀
+- 세로 1:1.91
+   - 모바일
+   - 최소: 360 x 640픽셀
+   - 최대: 2430 x 4320픽셀
+- 버전 2.3
+   - 모바일
+   - 최소: 360 x 640픽셀
+   - 최대: 2430 x 4320픽셀
+- 버전 4.5(권장)
+   - 모바일
+   - 최소: 360 x 640픽셀
+   - 최대: 2430 x 4320픽셀
+
+**인식된 필드 이름**:
+
+LinkedIn 광고의 경우 `headline` 및 `CTA` 필드가 자동으로 생성됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
+
+- `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
+- `introductory_text`
+- `on_image_text`
+- `brand_logo`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
 

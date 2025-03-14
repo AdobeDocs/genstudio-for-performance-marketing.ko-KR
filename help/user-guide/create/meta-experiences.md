@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Content creators and marketers can produce brand-consistent Meta ad experiences 
 
 ## 메타 광고 채널
 
-메타 광고 경험을 만들 때 Facebook 및 Instagram 채널 모두에 대한 변형을 생성할 수 있습니다. facebook 광고와 Instagram 광고 사이를 전환하여 각 채널에 대한 변형을 미리 봅니다.
+메타 광고 경험을 만들 때 Facebook 및 Instagram 채널 모두에 대한 변형을 생성할 수 있습니다. Facebook 및 Instagram 광고 사이를 전환하여 각 채널에 대한 변형을 미리 볼 수 있습니다.
 
 [메타 광고 채널 선택](/help/user-guide/create/create-meta-ad.md#choose-meta-ads-channel)을 참조하십시오.
 
@@ -55,7 +55,9 @@ Content creators and marketers can produce brand-consistent Meta ad experiences 
 1. 콜 투 액션 및 관련 URL
 1. 헤드라인
 1. 이미지 내 텍스트
-1. 브랜드 유효성 검사 프로세스가 발생하고 각 변형에 대해 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;가 채워집니다.
+1. 브랜드 유효성 검사
+
+   브랜드 유효성 검사 및 컨텐츠 검사 프로세스가 수행되며 각 변형에 대해 [_컨텐츠 검사_ 요약](/help/user-guide/guidelines/brand-validation.md#content-check-summary)이(가) 채워집니다.
 
 ## 문자 수
 

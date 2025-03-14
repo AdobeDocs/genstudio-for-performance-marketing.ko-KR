@@ -3,9 +3,9 @@ title: 속성 개요
 description: Adobe GenStudio for Performance Marketing에서 특정 속성의 성능을 평가하는 방법을 알아봅니다.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
+source-git-commit: e4507e53896348bca2ebec4ae299be50a0d277a7
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '840'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 구성됩니다. **[!UICONTROL 이미지]** 단추와 **[!UICONTROL 비디오]** 단추를 사용하여 목록 형식 간에 전환할 수 있습니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다.
 
-테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정] 및 [!UICONTROL 특성 범주]에서 선택하여 테이블의 특성을 필터링할 수 있습니다. 다음 예제에서는 `Lighting Condition` 범주의 특성 목록을 보여 줍니다. 모든 필터 선택 항목을 지우려면 **재설정**&#x200B;을 클릭하세요.
+테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다. 모든 필터를 제거하려면 표 위에서 **[!UICONTROL 모두 지우기]**&#x200B;를 선택하십시오.
 
 ![특성 필터 및 테이블](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
@@ -26,23 +26,23 @@ _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 �
 
 ## 속성 세부 사항
 
-속성은 색상, 컴포지션, 시각적 요소 및 기타 속성과 같은 에셋의 고유한 세부 사항으로 에셋을 식별하는 데 도움이 됩니다.
+특성은 색상, 컴포지션, 시각적 요소 및 기타 속성과 같은 고유의 세부 정보로 [media](media.md#media-details)을(를) 식별하는 데 도움이 됩니다.
 
-속성 세부 사항 보기에서 선택한 속성을 사용하는 경험을 확인할 수 있습니다. 세부 사항에는 총 속성 성능 및 각 경험과 관련된 성능 지표 분류가 포함됩니다.
+속성 세부 사항 보기에서 선택한 속성을 사용하는 광고를 확인할 수 있습니다. 세부 사항에는 총 속성 성능 및 각 광고와 관련된 성능 지표 분류가 포함됩니다.
 
 ![특성 성능 지표](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing은 특정 기능을 감지하고 적절한 속성을 자산이나 경험에 태그로 적용합니다. 이러한 태그의 예를 보려면 [범주](#categories)을 참조하세요. 경험과 관련된 모든 특성을 보려면 표 오른쪽 위의 cog(설정) 아이콘을 클릭하여 **[!UICONTROL 특성]** 열을 선택합니다.
+GenStudio for Performance Marketing은 특정 기능을 감지하고 적절한 속성을 미디어 콘텐츠 또는 광고에 태그로 적용합니다. 이러한 태그의 예는 [범주](#categories)을 참조하세요. 광고와 관련된 모든 특성을 보려면 표 오른쪽 위의 cog(설정) 아이콘을 클릭하여 **[!UICONTROL 특성]** 열을 선택합니다.
 
 ## 범주
 
-속성 카테고리는 공통적인 특성을 공유하는 관련 속성을 구성하는 분류 그룹입니다. 이러한 범주는 컨텍스트를 확대하고 애플리케이션 및 사용을 촉진하여 특정 속성을 보다 효율적으로 검색, 식별 및 이해하는 데 도움이 됩니다.
+_category_ 특성은 일반적인 특성을 공유하는 관련 특성을 구성하는 분류 그룹입니다. 이러한 범주는 컨텍스트를 확대하고 애플리케이션 및 사용을 촉진하여 특정 속성을 보다 효율적으로 검색, 식별 및 이해하는 데 도움이 됩니다.
 
-GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 [이미지](image-features.md), [비디오](video-features.md) 및 텍스트를 학습하고 수정 가능성에 따라 [!UICONTROL 자산 특성]을 적용합니다.
+GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 [이미지](image-features.md), [비디오](video-features.md) 및 텍스트를 학습하고 수정 가능성에 따라 [!UICONTROL 미디어 특성]을 적용합니다.
 
-자산에 대해 검색된 속성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 Assets은 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다. 예를 들어 다음 그림에는 여러 객체, 전경색 및 배경색 등 여러 개의 이미지 속성이 있습니다.
+미디어 콘텐츠에 대해 검색된 특성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 미디어는 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다. 예를 들어 다음 그림에는 여러 객체, 전경색 및 배경색 등 여러 개의 이미지 속성이 있습니다.
 
-![이미지 자산 특성](/help/assets/category/asset-attributes.png "Toucan 이미지에 검색된 특성이 여러 개 포함되어 있습니다"){width="300" zoomable="yes"}
+![이미지 특성](/help/assets/category/asset-attributes.png "Toucan 이미지에 검색된 특성이 여러 개 포함되어 있습니다"){width="300" zoomable="yes"}
 
 >[!INFO]
 >
@@ -52,7 +52,7 @@ GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 �
 
 인사이트 지표를 통해 어떤 속성이 더 많은 고객 참여를 유도하는지 평가할 수 있습니다.
 
-다음 표에서는 [!UICONTROL 특성] 테이블 보기의 주요 디지털 마케팅 지표에 대한 정의와 통찰력을 제공합니다. 각 지표에는 에셋과 관련된 간단한 정의, 지표 계산 방법 및 해당 중요도와 광고 캠페인에 대한 영향을 이해하는 데 도움이 되는 하나 이상의 통찰력이 포함되어 있습니다.
+다음 표에서는 [!UICONTROL 특성] 테이블 보기의 주요 디지털 마케팅 지표에 대한 정의와 통찰력을 제공합니다. 각 지표에는 속성, 지표 계산 방식, 광고 캠페인에 대한 중요도 및 영향을 이해하는 데 도움이 되는 하나 이상의 통찰력과 관련된 간단한 정의가 포함되어 있습니다.
 
 | 지표 | 정의 | 인사이트 |
 | ---------------------- | ----------------------------- | -------------------------------- |

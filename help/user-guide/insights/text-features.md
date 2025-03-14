@@ -5,7 +5,8 @@ feature: Insights, Attributes, Generative AI
 hide: true
 hidefromtoc: true
 recommendations: noDisplay, noCatalog
-source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
+exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -16,7 +17,7 @@ ht-degree: 1%
 
 텍스트 기능에는 단어, 문장, 이모티콘 및 [!DNL Insights]을(를) 사용하여 분석하는 데 사용되는 의미, 감정 및 색조와 같은 특정 텍스트 요소에 대한 개수가 포함됩니다. 텍스트가 가독성 점수를 받을 수도 있습니다.
 
-GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 텍스트를 학습하고 연결된 텍스트 톤 및 마케팅 이야기를 기반으로 [!UICONTROL 에셋 특성]을 적용합니다. 이 프로세스는 입력 텍스트에 영숫자 문자가 포함되어 있는지 확인하고, 추가 공백과 인쇄할 수 없는 문자를 제거하고, 최대 허용 단어 1500개까지 텍스트를 자릅니다. 감지된 속성 태그를 적용하기 전에 AI는 유행하는 톤을 예측한다.
+GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 텍스트를 학습하고 연결된 텍스트 톤 및 마케팅 이야기를 기반으로 [!UICONTROL 미디어 특성]을 적용합니다. 이 프로세스는 입력 텍스트에 영숫자 문자가 포함되어 있는지 확인하고, 추가 공백과 인쇄할 수 없는 문자를 제거하고, 최대 허용 단어 1500개까지 텍스트를 자릅니다. 감지된 속성 태그를 적용하기 전에 AI는 유행하는 톤을 예측한다.
 
 ## 목소리 톤
 
@@ -52,7 +53,7 @@ AI는 더 미묘한 어조를 감지합니다. 이전 예제와 동일한 긴급
 
 ## 이야기
 
-이야기 속성을 통해 타겟 대상자와 공감하는 가치, 목적 또는 정체성을 전달하는 에셋을 식별할 수 있습니다.
+이야기 속성을 통해 타겟 대상자와 공감을 주는 가치, 목적 또는 정체성을 전달하는 미디어를 식별할 수 있습니다.
 
 | 이야기 | 설명 | 예 |
 | ----------------- | ----------- | ------- |

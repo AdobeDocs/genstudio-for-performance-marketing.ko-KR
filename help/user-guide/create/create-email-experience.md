@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1020'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,8 @@ ht-degree: 0%
 
 프롬프트 창에 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 대체되며 이메일 경험을 생성하기 위한 필수 준비 단계입니다.
 
+미리 정의된 지침([!DNL Brands], [!DNL Personas] 또는 [!DNL Products])이 있는 템플릿을 사용하는 경우 이러한 지침은 변형에 적용됩니다. 원하는 경우 변경할 수 있습니다.
+
 **매개 변수 및 자산을 추가하려면**:
 
 1. 프롬프트 창을 확장하려면 _매개 변수_ 아이콘을 클릭하십시오.
@@ -54,9 +56,9 @@ ht-degree: 0%
    * 또는 자산을 **[!UICONTROL 콘텐츠에서 선택]** 섹션으로 끌어다 놓아 하나 이상의 새 자산을 업로드하십시오.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
->[!NOTE]
->전자 메일 템플릿에 여러 개의 섹션이 있는 경우 _여러 섹션 전자 메일_&#x200B;의 각 전자 메일 섹션에 대해 [!DNL Products] 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다. [!DNL Content]의 여러 섹션 이메일에만 시각적 자산을 추가할 수 있습니다. 로컬 소스에서 자산을 드래그 앤 드롭하거나 업로드할 수 없습니다.
->![각 전자 메일 섹션](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}에 대한 콘텐츠 및 매개 변수 추가
+   >[!NOTE]
+   >전자 메일 템플릿에 여러 개의 섹션이 있는 경우 _여러 섹션 전자 메일_&#x200B;의 각 전자 메일 섹션에 대해 [!DNL Products] 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다. [!DNL Content]의 여러 섹션 이메일에만 시각적 자산을 추가할 수 있습니다. 로컬 소스에서 자산을 드래그 앤 드롭하거나 업로드할 수 없습니다.
+   >![각 전자 메일 섹션에 콘텐츠 및 매개 변수 추가](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 창을 축소할 수 있습니다.
 
@@ -75,7 +77,7 @@ ht-degree: 0%
 
 생성된 콘텐츠는 점진적으로 로드됩니다. 이메일 경험의 각 섹션이 생성되면 캔버스에 표시됩니다. 변경 내용이 캔버스에 로드되는 방법을 알아보려면 [전자 메일 환경](/help/user-guide/create/meta-experiences.md#progressive-loading)을 참조하세요.
 
-## 생성된 이메일 수정
+## 생성된 변형 개정
 
 [!DNL Content]에 게시하거나 승인을 위해 보낼 항목을 선택하기 전에 전자 메일 섹션을 편집하거나 생성된 전자 메일 집합에서 변형을 삭제할 수 있습니다.
 
@@ -85,7 +87,8 @@ ht-degree: 0%
 * **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다[
 * **콜 투 액션을 변경하거나 선택하려면](/help/user-guide/create/manage-variants.md#revise-call-to-action)**&#x200B;클릭 유도 액션 단추를 클릭하고 _[!UICONTROL 구문 변경]_ 또는 _[!UICONTROL 링크 추가]_&#x200B;를 선택하십시오.[
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
-* **변형에 이미지를 추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 선택/교체]** 또는 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭하여 개별 변형에서 이미지를 추가하거나 교체하십시오.[
+* **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
+* **변형의 이미지에 링크를 추가하려면](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.[
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
 
 ## 생성 피드백 제출
@@ -96,29 +99,23 @@ ht-degree: 0%
 
 이메일 경험을 수정하고 준비할 때, 데스크톱 보기와 모바일 보기 간에 [전환](/help/user-guide/create/manage-variants.md#preview-for-device)하여 초안 변형의 일관성과 시각적 효과를 확인할 수 있습니다.
 
-## 브랜드 정렬 확인
+## 컨텐츠 확인 정렬 확인
 
-생성된 이메일을 최적화하고 브랜드 정체성을 엄격히 준수하려면 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;의 기능(변형에 대한 브랜드 정렬 요약 제공)과 [_브랜드 유효성 검사_ 패널](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)을 활용하여 포괄적인 브랜드 유효성 검사 세부 정보를 표시하고 개선 영역을 강조하십시오.
+생성된 변형을 최적화하고 브랜드 ID, 플랫폼 지침 및 접근성 표준을 엄격하게 준수하도록 하려면 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)의 기능을 활용하십시오. 이 패널에는 포괄적인 콘텐츠 검사 세부 정보가 표시되고 개선 영역이 조명됩니다.
 
-**브랜드 정렬을 확인하려면**:
+**변형에 대해 콘텐츠 검사를 수행하려면**:
 
-1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
+1. 오른쪽 작업 표시줄의 _콘텐츠 확인_ 패널 아이콘을 클릭하여 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 엽니다. 개선이 필요한 섹션 및 지침을 확인하기 위해 *검토 필요* 및 *합격* 검사에 대한 요약을 봅니다.
 
-   ![브랜드 지침 확인](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
-
-1. 각 이메일을 전환하여 생성된 콘텐츠를 보다 브랜드 맞춤형으로 개선하는 방법을 살펴보십시오.
-
-   ![브랜드 유효성 검사 패널](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
-
-1. [전자 메일을 수동으로 수정](#revise-generated-emails)하여 전자 메일이 브랜드와 긴밀하게 정렬되도록 합니다.
+1. [변형을 수동으로 수정](#revise-generated-variants)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
 ## 검토 및 승인 받기
 
-캔버스의 상단 메뉴 표시줄에 액세스할 수 있는 승인 패널을 사용하여 검토를 얻고 검토 설명을 추적하고 관련자로부터 승인을 받습니다.
+캔버스의 오른쪽 작업 표시줄에 아이콘으로 액세스할 수 있는 승인 패널을 사용하여 검토를 얻고 검토 설명을 추적하고 관련자로부터 승인을 받습니다.
 
 **검토 및 승인을 얻으려면**:
 
@@ -129,12 +126,12 @@ ht-degree: 0%
 
 자세한 내용은 [검토 및 승인](/help/user-guide/approvals/overview.md)을 참조하세요.
 
-## Publish 및 내보내기 경험
+## 경험 게시 및 내보내기
 
 생성된 이메일을 현재 및 향후에 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
-1. **새 전자 메일 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL Publish]**&#x200B;을 클릭하세요.
+1. **새 전자 메일 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하세요.
 1. **새 전자 메일 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭하세요.
-   1. CSV 및 이미지 또는 HTML 전용 형식을 선택하고 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
+   1. CSV 및 이미지 또는 HTML만 형식을 선택하고 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 
 자세한 내용은 [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)을(를) 참조하십시오.

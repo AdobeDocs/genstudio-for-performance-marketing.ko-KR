@@ -1,9 +1,10 @@
 ---
 title: App Builder 프로젝트를 만들어 GenStudio for Performance Marketing 확장
 description: 앱 또는 추가 기능에 대한 App Builder 프로젝트를 만듭니다.
-source-git-commit: 62d29311d02616939634ce09c0ae97f382787c8d
+exl-id: 502b6dd5-68ac-4392-bba3-3ab8cd9eefc2
+source-git-commit: 7cc91ff9260370a164331095101f04ee0ffc1119
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '207'
 ht-degree: 1%
 
 ---
@@ -14,6 +15,7 @@ Adobe GenStudio for Performance Marketing의 기본 기능을 확장하는 개�
 
 >[!BEGINSHADEBOX]
 
+**필수 구성 요소**
 앱용 프로젝트를 만들려면 App Builder 및 [Adobe Developer Console](https://developer.adobe.com/developer-console/)에 액세스할 수 있어야 합니다. [Developer Console에서 프로젝트 만들기](https://developer.adobe.com/app-builder/docs/getting_started/first_app#2-create-a-new-project-on-developer-console)를 참조하십시오.
 
 >[!ENDSHADEBOX]

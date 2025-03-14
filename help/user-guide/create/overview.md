@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing 개요 [!DNL Create]
 description: Adobe GenStudio for Performance Marketing [!DNL Create]에서 생성 AI를 사용하여 고성능의 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 11d86ddddd1289c0bd198f21fe75a84b1459253e
+source-git-commit: cccf207ce1cb2773a18ed553e14d1dbe3b77635b
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '708'
 ht-degree: 1%
 
 ---
@@ -14,53 +14,130 @@ ht-degree: 1%
 
 GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능을 활용하여 마케터와 분산 팀이 고성능의 브랜드 내 경험을 만들 수 있도록 합니다.
 
-![대시보드 만들기](/help/assets/create.png){width="600" zoomable="yes"}
+![홈 만들기](/help/assets/create-home.png){width="600" zoomable="yes"}
+
+[!DNL Create] 홈은 채널 섹션—_소유한 미디어_, _유료 미디어_ 및 _콘텐츠_ 및 최근 초안 및 게시된 콘텐츠를 모두 표시하는 _최근 항목_ 섹션으로 구성됩니다. 각 채널 섹션을 통해 해당 특정 채널 세트에 대한 콘텐츠를 만들 수 있습니다. 예를 들어 _소유한 미디어_ 섹션으로 이동하여 전자 메일 또는 배너를 만듭니다.
 
 [!DNL Create]을(를) 사용하면 다음 채널에 대한 콘텐츠를 생성할 수 있습니다.
 
 * [전자 메일](email-experiences.md)
 * [메타 광고](meta-experiences.md)
+* [LinkedIn 광고](linkedin-experiences.md)
 * [광고 표시](display-ad-experiences.md)
+* [배너](banner-experiences.md)
 
-[지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 강력한 기능과 함께 [!DNL Create]을(를) 통해 효과적인 브랜드 중심 마케팅 콘텐츠를 만들 수 있습니다.
+[지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [캠페인](/help/user-guide/campaigns/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md), [활성화](/help/user-guide/activation/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 기능과 함께 [!DNL Create]을(를) 사용하면 효과적인 브랜드 연계 마케팅 콘텐츠를 쉽게 만들 수 있습니다.
 
 편집자와 시스템 관리자는 [!DNL Create]에 대한 전체 액세스 권한을 가집니다. 자세한 역할 액세스 정보는 [사용자 역할 및 권한](/help/user-guide/user-roles.md)을 참조하세요.
 
 ## [!DNL Create] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="새 콘텐츠 만들기" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>전자 메일 환경 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="메타 광고 경험 만들기" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>메타 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/create-display-ad.md">
-      <img alt="디스플레이 광고 경험 만들기" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
+      <a href="/help/user-guide/create/create-linkedin.md">
+
+      <img alt="LinkedIn 광고 경험 만들기" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
-         <a href="/help/user-guide/create/create-display-ad.md">
-         <strong>디스플레이 광고 경험 만들기</strong>
+
+         <a href="/help/user-guide/create/create-linkedin.md">
+
+         <strong>LinkedIn 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="/help/user-guide/create/create-display-ad.md">
+
+      <img alt="디스플레이 광고 경험 만들기" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
+      </a>
+
+      <div>
+
+         <a href="/help/user-guide/create/create-display-ad.md">
+
+         <strong>디스플레이 광고 경험 만들기</strong>
+
+         </a>
+
+      </div>
+
+   </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="/help/user-guide/create/create-banner-experience.md">
+
+      <img alt="배너 경험 만들기" src="../../assets/icons/icon-search.png" width="35">
+
+      </a>
+
+      <div>
+
+         <a href="/help/user-guide/create/create-banner-experience.md">
+
+         <strong>배너 경험 만들기</strong>
+
+         </a>
+
+      </div>
+
+   </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
@@ -89,9 +166,9 @@ _매개 변수_&#x200B;에서 업로드되거나 추가된 콘텐츠(이미지 �
 
 AI 생성 콘텐츠를 만들려면 프롬프트 창에 생성하려는 컨텍스트 또는 경험을 설명하는 [설명 프롬프트](/help/user-guide/effective-prompts.md), [지침](/help/user-guide/guidelines/overview.md) 및 [_매개 변수_](#parameters)&#x200B;를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
 
-### 브랜드 유효성 검사
+### 콘텐츠 확인
 
-GenStudio for Performance Marketing은 브랜드 ID의 다양한 측면에 대해 브랜드 유효성 검사를 수행합니다([지침](/help/user-guide/guidelines/overview.md)에 정의됨). [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 브랜드 지침을 준수하고 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
+GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 [브랜드 지침](/help/user-guide/guidelines/brands.md), 플랫폼 지침 및 [접근성 표준](/help/user-guide/guidelines/overview.md#compliance)에 대해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
 
 ### 검토 및 승인
 
@@ -112,4 +189,3 @@ GenStudio for Performance Marketing은 브랜드 ID의 다양한 측면에 대�
 GenStudio for Performance Marketing을 사용하면 [개별 변형의 섹션을 포괄적으로 제어할 수 있습니다](/help/user-guide/create/manage-variants.md).
 
 단일 변형의 섹션을 수정하고, 개별 섹션의 콘텐츠를 다시 생성하고, 제안된 편집 내용을 사용하여 메시지, 에셋 크기 조정 등을 캔버스 내에서 모두 개선할 수 있습니다.
-

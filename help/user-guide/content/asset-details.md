@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+source-git-commit: f401f93e7dd08db4837b8709e28acec5571052f7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 | [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)이(가) GenStudio for Performance Marketing에 추가되고 사용을 위해 게시됨 |
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)이(가) 사용을 위해 GenStudio for Performance Marketing에 추가됨 |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)이(가) 사용을 위해 GenStudio for Performance Marketing에 추가됨 |
-| 채널 | 이메일 및 디스플레이 광고와 같은 특정 콘텐츠 유형을 배포하는 플랫폼 |
+| 채널 | 이메일, 배너 및 디스플레이 광고와 같은 특정 콘텐츠 유형을 배포하는 플랫폼 |
 | [!UICONTROL 일정] | 분기, 시즌, 연도 등과 같이 자산이 사용되는 시간대. 예: `Winter 2023` |
 | 지역 | 자산이 사용되는 지역. 예: `North America`, `APAC`, `Italy` |
 | 언어 | 에셋이 사용되는 언어입니다. 예: `Spanish` |

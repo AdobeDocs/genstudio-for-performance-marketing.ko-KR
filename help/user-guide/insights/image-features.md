@@ -2,7 +2,8 @@
 title: 이미지 기능
 description: GenStudio for Performance Marketing에 사용되는 속성 범주의 이미지 기능에 대해 알아봅니다.
 feature: Insights, Attributes, Generative AI
-source-git-commit: c15140ed3fe3d07e9112e9ad4781cb8fcf65045d
+exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
@@ -37,7 +38,7 @@ _이미지 스타일_&#x200B;을(를) 확인하는 것은 다른 이미지 특�
 
 1. _특성 세부 정보_ 페이지에는 이 특성을 가진 모든 이미지가 나열됩니다.
 
-다음 표에는 GenStudio for Performance Marketing AI가 인식하는 이미지 기능 카테고리가 나열되어 있습니다. 자산에 대해 검색된 속성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 Assets은 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다.
+다음 표에는 GenStudio for Performance Marketing AI가 인식하는 이미지 기능 카테고리가 나열되어 있습니다. 미디어 콘텐츠에 대해 검색된 특성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 미디어는 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
