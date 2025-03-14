@@ -1,9 +1,10 @@
 ---
 title: Adobe GenStudio 확장성 안내서
-description: GenStudio for Performance Marketing 확장성 프레임워크의 기능을 살펴보십시오.
-source-git-commit: 6830e345577ca44ef8dee8de6195314a899f4e57
+description: Adobe GenStudio for Performance Marketing UI SDK의 기능을 살펴보고 확장 가능한 애플리케이션을 빌드하는 방법을 알아봅니다.
+exl-id: 4eca9e83-a109-431e-bfaa-9a6f7682e56f
+source-git-commit: bcf969f599279ba28354837b3949316a1bf7df27
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
