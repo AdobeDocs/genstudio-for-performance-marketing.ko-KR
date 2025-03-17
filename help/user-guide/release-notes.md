@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 86974fec02bd50fa36ef16bd4d1881794972fc79
+source-git-commit: 8a8815d49ce4a950fcfc2f425ca58ae7fbd42c73
 workflow-type: tm+mt
-source-wordcount: '2112'
+source-wordcount: '2109'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 ### 규정 준수
 
-브랜드 유효성 검사 프로세스의 일부로 [콘텐츠 검사](/help/user-guide/guidelines/brand-validation.md)에 [준수 표준](/help/user-guide/guidelines/overview.md)이 도입되었습니다. 이러한 검사는 [!DNL Brand], [!DNL Product] 및 [!DNL Persona] 지침, 플랫폼 지침(예: 메타용), 윤리적 고려 사항 및 ADA 표준에 대해 경험의 각 변형을 검토합니다. 이 프로세스에서는 규정 준수 향상을 위해 개정이 필요한 지침과 표준을 포괄적으로 요약하여 제공합니다.
+브랜드 유효성 검사 프로세스의 일부로 [콘텐츠 검사](/help/user-guide/guidelines/brand-validation.md)에 [준수 표준](/help/user-guide/guidelines/overview.md)이 도입되었습니다. 이러한 검사는 [!DNL Brand] 지침, 플랫폼 지침(예: 메타의 경우) 및 ADA 표준에 대해 경험의 각 변형을 검토합니다. 이 프로세스에서는 규정 준수 향상을 위해 개정이 필요한 지침과 표준을 포괄적으로 요약하여 제공합니다.
 
 ### 확장성
 
