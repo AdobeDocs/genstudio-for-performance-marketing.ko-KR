@@ -1,35 +1,43 @@
 ---
 title: 활성화 개요
 description: Adobe Experience Cloud 및 서드파티 애플리케이션을 사용하여 콘텐츠를 활성화하는 방법을 알아봅니다.
-feature: Assets, Approval, Experiences
+feature: Assets, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: c3b8419deccd24cd565627fcb3f7d6376860e84a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudio for Performance Marketing 활성화
 
-_활성화_&#x200B;는 선택한 채널 및 Adobe Experience Cloud 제품을 통해 Adobe GenStudio for Performance Marketing에서 생성한 에셋 및 경험을 게재할 수 있도록 하는 프로세스입니다. GenStudio for Performance Marketing에서 승인된 콘텐츠를 [!DNL Products]에 포함한 타사 애플리케이션에 최적의 형식으로 쉽게 내보낼 수 있습니다.
+GenStudio for Performance Marketing _[!DNL Activate]_은(는) 유료 광고 채널을 선택하기 위한 활성화를 위해 광고 경험을 준비할 수 있는 중앙 위치를 제공합니다._&#x200B;활성화&#x200B;_는 비활성 상태의 지정된 채널에 광고 경험을 전달하는 프로세스이며 채널에서 최종 검토 및 배포할 준비가 되었습니다. 그런 다음 광고 경험을 의도한 시장에 배포할 수 있습니다.
 
-GenStudio for Performance Marketing 활성화 기능은 기본적으로 Adobe의 경험 전달 제품인 Journey Optimizer, Journey Optimizer B2B 에디션, Experience Manager, Marketo 및 Target에 통합되어 있습니다.
+콘텐츠 편집자와 시스템 관리자는 에셋이 GenStudio for Performance Marketing에서 생성되거나 업로드된 경험을 게시할 수 있습니다.
 
-**승인된 에셋을 활성화하려면**:
+[!DNL Activate]은(는) 각 채널에 대한 제품 타일을 표시합니다. 이 타일은 유료 미디어 채널을 식별하고 지난 30일 동안 발생한 성공적인 광고 활성화 수를 나열합니다. 또한 활성화를 관리하고 새 활성화를 만들기 위한 진입점도 제공합니다.
 
-1. [!DNL Content]에서 자산을 선택하십시오.
+광고 경험을 활성화하려면 먼저 각 유료 미디어 채널 계정이 GenStudio for Performance Marketing에 연결되어 있어야 합니다.
 
-1. _세부 정보_ 보기 위에 있는 **[!UICONTROL 다운로드]**(아래쪽 화살표) 아이콘을 클릭합니다.
+## [!DNL Activate] 사용 사례
 
-   자산이 ZIP 파일로 로컬 _다운로드_ 폴더에 다운로드됩니다.
+* [활성화 만들기](create-activation.md). 유료 채널로 푸시하기 전에 시각적 자산을 선택하고, 텍스트를 할당하고, 메타데이터를 정의하여 광고 경험을 구축할 수 있습니다.
 
-**승인된 환경을 활성화하려면**:
+* [활성화 관리](manage-activations.md). _[!DNL Activate]_에서는 활성화된 모든 경험에 대한 개요를 제공합니다. 개별 활성화의 세부 정보를 볼 수도 있습니다.
 
-1. [!DNL Content] > [!DNL Experiences]에서 경험을 선택합니다.
+## [!DNL Activate] 기능
 
-1. 경험의 세부 정보 보기에서 **[!UICONTROL 활성화를 위해 내보내기]** 단추를 클릭합니다. GenStudio for Performance Marketing은 **[!UICONTROL 활성화를 위해 내보내기]** 팝업을 표시하며 CSV와 HTML의 두 가지 다운로드 형식을 제공합니다. 또는 _추가 옵션_ 메뉴(`...`)에서 *[!UICONTROL 활성화를 위해 내보내기]** 단추에 액세스할 수 있습니다.
+_[!DNL Activate]_을(를) 사용하면 대상 유료 채널에 배포할 광고 환경을 쉽게 준비할 수 있습니다.
 
-1. 팝업에서 **[!UICONTROL CSV 내보내기]** 또는 **[!UICONTROL HTML 내보내기]** 단추를 클릭하여 원하는 다운로드 형식을 선택하십시오.
+### 활성화 준비
 
-   내보내기 프로세스는 로컬 _다운로드_ 폴더에 ZIP 패키지를 만듭니다. 이 폴더 이름은 경험 이름과 동일합니다.
+_Creative 설정_ 페이지에서는 광고 경험의 시각적 요소를 선택하고, 광고 텍스트(콜 투 액션 텍스트 포함)를 수정하고, 경험 추적 및 가시성을 향상시키는 유용한 메타데이터를 추가하는 데 필요한 도구를 통합합니다.
+
+### 광고 경험을 위한 자산 선택
+
+_[!DNL Content]_에서 승인된 시각적 자산을 검색하여 선택하거나 Dropbox 또는 OneDrive에서 자산을 업로드하세요. 장치에서 직접 에셋을 업로드할 수도 있습니다. 하나의 광고 경험을 여러 배치에서 실행할 수 있습니다. Assets은 광고 배치에 필요한 종횡비로 업로드할 수 있습니다.
+
+### 광고 채널에 대한 경험 미리보기 및 활성화
+
+이 광고 활성화와 연결된 유료 채널 계정, 광고 세트 및 메타 캠페인을 확인합니다. _미리 보기_ 패널을 사용하면 광고 경험을 완료하기 전에 다른 배치에서 광고 경험을 볼 수 있습니다. (_미리 보기_ 패널에서 배치를 선택하면 광고 보기에만 영향을 줍니다. _미리 보기_ 패널의 배치 선택이 저장되지 않았습니다.) 광고 경험이 만족스러우면 **[!UICONTROL 게시]**&#x200B;를 클릭하여 경험과 관련 메타데이터를 유료 광고 채널에 푸시합니다.
