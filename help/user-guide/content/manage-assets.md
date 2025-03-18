@@ -1,9 +1,9 @@
 ---
 title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
-feature: Content, Assets, Experiences
+feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
 source-wordcount: '1361'
 ht-degree: 1%

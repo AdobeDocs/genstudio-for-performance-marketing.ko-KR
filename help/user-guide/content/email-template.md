@@ -2,12 +2,13 @@
 title: Adobe GenStudio for Performance Marketing용 이메일 템플릿 준비
 description: Adobe GenStudio for Performance Marketing용 사용자 지정 이메일 템플릿을 구축하는 방법을 알아봅니다.
 level: Intermediate
+feature: Media Templates
 hidefromtoc: true
-feature: Templates, Content
+recommendations: noCatalog
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: cf6e0679999614a4d14d224c9a8dce0b66f50262
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -57,7 +58,7 @@ GenStudio for Performance Marketing에 지침이 추가되지 않으면 기본�
 생성된 콘텐츠 영역을 정의하려면
 
 * 헤드라인이나 CTA과 같이 GenStudio for Performance Marketing이 자동으로 생성해야 하는 템플릿의 텍스트 요소를 식별합니다.
-* Handlebars 구문을 사용하여 자리 표시자를 삽입하여 HTML 템플릿을 조정합니다.
+* Handlebars 구문을 사용하여 HTML 템플릿 내에 자리 표시자를 삽입하여 템플릿을 조정합니다.
 
 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
 

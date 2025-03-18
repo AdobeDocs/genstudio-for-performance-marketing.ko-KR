@@ -1,11 +1,11 @@
 ---
 title: 액세스 가능한 템플릿 만들기
 description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 Adobe GenStudio for Performance Marketing의 템플릿을 작성합니다.
-feature: Templates, Content
+feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: cc1d750a8a520c793b1b605747c091f8a5f5e1a2
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---

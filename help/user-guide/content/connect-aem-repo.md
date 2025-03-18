@@ -1,25 +1,25 @@
 ---
 title: ' [!DNL AEM Assets Content Hub] 저장소에 연결'
-description: Adobe GenStudio for Performance Marketing을 AEM(Adobe Experience Manager) [!DNL Content Hub] 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
+description: Adobe GenStudio for Performance Marketing을 Adobe Experience Manager(AEM) [!DNL Content Hub] 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
 level: Experienced
-feature: Assets, Content
+feature: Content Management
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
-source-git-commit: abe1de42b81bff63d473a67632d27f96db7c1c7d
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # [!DNL AEM Assets Content Hub] 저장소에 연결
 
-Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라 GenStudio for Performance Marketing에서 액세스할 수 있도록 할 수 있습니다.
+Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라 GenStudio for Performance Marketing에서 액세스할 수 있도록 설정할 수 있습니다.
 
 >[!BEGINSHADEBOX]
 
 **필수 구성 요소**:
 
-다음 단계에서는 Admin Console 및 AEM Assetsas a Cloud Service 에 대한 관리 액세스 권한이 필요합니다.
+다음 단계를 수행하려면 Admin Console 및 AEM Assets as a Cloud Service에 대한 관리 액세스 권한이 필요합니다.
 
 >[!ENDSHADEBOX]
 
@@ -27,7 +27,7 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 **Content Hub 배포** 셀프서비스 프로세스에 따라 Cloud Manager에서 기존 AEM Assets에 대해 [!DNL Content Hub]을(를) 사용하도록 설정하십시오. _AEM as a Cloud Service_ 설명서에서 [배포 [!DNL Content Hub]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub)를 참조하십시오.
 
-[!DNL AEM Assets Content Hub]을(를) 사용하도록 설정한 후에는 Admin Console 시 [!DNL AEM Assets as a Cloud Service] 내에 `contenthub` 접미사를 사용하는 새 인스턴스가 있습니다.
+[!DNL AEM Assets Content Hub]을(를) 사용하도록 설정하면 Admin Console에서 [!DNL AEM Assets as a Cloud Service] 내에 `contenthub` 접미사를 사용하는 새 인스턴스가 생깁니다.
 
 >[!IMPORTANT]
 >
@@ -44,7 +44,7 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 [!DNL AEM Assets Content Hub]에서 사용할 자산을 승인하면 GenStudio for Performance Marketing에서 사용할 수 있습니다.
 
-_AEM as a Cloud Service_ 설명서의 [Experience Manager에서 자산 승인](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)을 참조하십시오.
+_Experience Manager_ 설명서의 [AEM as a Cloud Service에서 자산 승인](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)을 참조하십시오.
 
 ## 4단계: 자산 가시성 구성
 

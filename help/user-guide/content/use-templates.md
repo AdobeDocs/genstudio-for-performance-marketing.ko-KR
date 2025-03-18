@@ -1,9 +1,9 @@
 ---
 title: 템플릿 작업
 description: 템플릿을 효율적으로 사용하여 Adobe GenStudio for Performance Marketing에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
-feature: Templates, Content
+feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 1%

@@ -2,9 +2,9 @@
 title: 템플릿 사용자 정의
 description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화하고 최적화하는 방법을 알아봅니다.
 level: Intermediate
-feature: Templates, Content
+feature: Media Templates, Content Generation
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: eb7f19ebc0854db3a33599b56c857875ee67982b
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
 source-wordcount: '1442'
 ht-degree: 0%

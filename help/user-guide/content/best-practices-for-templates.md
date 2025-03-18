@@ -1,10 +1,9 @@
 ---
 title: 템플릿에 대한 우수 사례
 description: Adobe GenStudio for Performance Marketing에서 템플릿을 사용할 때 모범 사례를 따르십시오.
-feature: Templates, Content
-last-substantial-update: 2024-12-13T00:00:00Z
+feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: cdba0ef2cc359a6ed0fd25ce946bcf89f9b712f9
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
 source-wordcount: '869'
 ht-degree: 0%
