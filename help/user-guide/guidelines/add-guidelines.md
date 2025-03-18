@@ -1,11 +1,11 @@
 ---
 title: Adobe GenStudio for Performance Marketing에 지침 추가
 description: Adobe GenStudio for Performance Marketing에서 지침—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 추가하는 방법을 알아봅니다.
-feature: Content, Brands Service, Products Service, Personas Service, Guidelines
+feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
+source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
 workflow-type: tm+mt
 source-wordcount: '1991'
 ht-degree: 0%

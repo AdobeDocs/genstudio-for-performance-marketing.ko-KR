@@ -1,20 +1,20 @@
 ---
-title: 성능 마케팅을 위한 GenStudio [!DNL Products]
-description: GenStudio for Performance Marketing [!DNL Products] 제품의 모든 측면(이미지, 설명, 가치 제안)을 통합하여 제품 강점을 강조하고 제품 메시징의 일관성을 유지하는 관련 콘텐츠를 만듭니다.
-feature: Products Service, Guidelines
+title: GenStudio for Performance Marketing [!DNL Products]
+description: GenStudio for Performance Marketing [!DNL Products] 제품의 모든 측면(이미지, 설명 및 가치 제안)을 통합하여 제품 강점을 강조하고 제품 메시징의 일관성을 유지하는 관련 콘텐츠를 만듭니다.
+feature: Product Personalization, Variant Generation, Generative AI
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
-source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
+source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
 
 ---
 
-# 성능 마케팅 [!DNL Products]용 GenStudio
+# GenStudio for Performance Marketing [!DNL Products]
 
 GenStudio for Performance Marketing의 [!DNL Products]은(는) 제품 사양, 장점 및 차별화 요소를 깊이 있게 이해하여 효과적인 콘텐츠를 생성합니다.
 
-[!DNL Products]은(는) 이미지, 설명 및 값 제안 등 특정 제품의 모든 요소를 포함하여 일관된 브랜드 표현을 만듭니다. Adobe의 고급 AI 기술인 GenStudio for Performance Marketing 지침([[!DNL Brands], [!DNL Products] 및 [!DNL Personas]](/help/user-guide/guidelines/overview.md))을 활용하는 Performance Marketing은 함께 작동하여 제품의 강점을 보여주고 모든 메시지에서 일관성을 보장하는 매력적인 콘텐츠를 생성합니다.
+[!DNL Products]은(는) 이미지, 설명 및 값 제안 등 특정 제품의 모든 요소를 포함하여 일관된 브랜드 표현을 만듭니다. Adobe의 고급 AI 기술인 GenStudio for Performance Marketing 지침([[!DNL Brands], [!DNL Products] 및 [!DNL Personas]](/help/user-guide/guidelines/overview.md))을 활용하면 함께 작동하여 제품의 강점을 보여주고 모든 메시지에서 일관성을 보장하는 매력적인 콘텐츠를 생성할 수 있습니다.
 
 **제품을 보거나 수정하려면**:
 
@@ -22,7 +22,7 @@ GenStudio for Performance Marketing의 [!DNL Products]은(는) 제품 사양, �
 1. [개별 세부 정보를 보거나 제품을 수정하려면](add-guidelines.md#manage-products)_[!DNL Products]_동작 메뉴를 클릭하고&#x200B;**[!UICONTROL 열기]**를 선택합니다.
 1. 지침 범주 텍스트 필드를 클릭하여 제품 지침을 수정합니다.
 
-성능 마케팅을 위해 GenStudio에서 제품을 추가하거나 수정하는 방법에 대해 알아보려면 [지침 추가](add-guidelines.md)를 참조하십시오.
+GenStudio for Performance Marketing에서 제품을 추가하거나 수정하는 방법은 [지침 추가](add-guidelines.md)를 참조하세요.
 
 ## [!DNL Products] 지침
 

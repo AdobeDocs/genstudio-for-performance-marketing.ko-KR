@@ -1,9 +1,9 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 에셋(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드 중심의 콘텐츠 생성을 알리는 역할을 합니다.
-feature: Brands Service, Guidelines
+feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 600ee7cfb74affbc5fed1205afbffe90073b68a2
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '1544'
 ht-degree: 1%

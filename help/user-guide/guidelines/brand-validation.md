@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio for Performance Marketing에서의 브랜드 유효성 검사
 description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
-feature: Brands Service, Guidelines
+feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 8a8815d49ce4a950fcfc2f425ca58ae7fbd42c73
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 0%

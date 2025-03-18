@@ -1,12 +1,13 @@
 ---
 title: 배너 경험 만들기
 description: 성과 마케팅을 위해 Adobe [!DNL GenStudio] 에서 배너 경험을 만드는 방법을 알아봅니다.
-feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
+exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '981'
 ht-degree: 0%

@@ -1,12 +1,13 @@
 ---
 title: LinkedIn 경험 만들기
 description: Adobe GenStudio for Performance Marketing을 사용하여 브랜드 호환 LinkedIn 경험을 만드는 방법을 알아봅니다.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 recommendations: noDisplay
-source-git-commit: 42a0fe67304b929ac3da265b746415cfd87cdaba
+exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '924'
 ht-degree: 0%

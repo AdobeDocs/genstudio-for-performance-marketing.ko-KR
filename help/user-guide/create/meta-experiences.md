@@ -1,11 +1,11 @@
 ---
 title: 메타 경험
 description: Adobe GenStudio for Performance Marketing의 메타 경험에 대해 모두 알아보십시오.
-feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
+source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

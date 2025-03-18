@@ -1,12 +1,12 @@
 ---
 title: 메타 광고 경험 만들기
 description: Adobe GenStudio for Performance Marketing을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법을 알아봅니다.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 0%
