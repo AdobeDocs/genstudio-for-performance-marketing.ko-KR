@@ -1,16 +1,21 @@
 ---
 title: 앱 배포
 description: GenStudio for Performance Marketing용 앱 또는 추가 기능을 배포합니다.
-source-git-commit: 6830e345577ca44ef8dee8de6195314a899f4e57
+exl-id: 4935356b-08df-402c-b1a2-b89627afc188
+source-git-commit: 8884f3438a0010119f578ca9a3b7158e2e01cfa3
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
 # 앱 배포
 
-앱을 배포하면 조직의 멤버가 앱을 사용할 수 있습니다.
+추가 기능을 배포하면 조직 및 잠재적으로 다른 조직에서 추가 기능을 사용할 수 있습니다.
+
+비공개 배포에서는 추가 기능을 개발한 IMS 조직에서 식별한 조직에 대한 추가 기능 배포를 제한합니다. 공개 배포 를 사용하면 추가 기능을 Adobe Exchange에서 앱으로 사용할 수 있습니다. 배포 워크플로는 추가 기능이 공용 또는 개인 배포를 위한 것인지 여부에 따라 다릅니다.
+
+이 항목에서는 개인 배포에 대해 설명합니다. _App Builder_ 개발자 설명서의 [공개 배포](https://developer.adobe.com/app-builder/docs/guides/distribution/public/)에서는 Adobe 조직에서 앱을 사용할 수 있도록 설정하는 방법에 대해 설명합니다.
 
 >[!BEGINSHADEBOX]
 
@@ -26,7 +31,9 @@ App Builder 앱을 App Builder 프로젝트에 배포해야 합니다.
 
 >[!ENDSHADEBOX]
 
-**앱을 배포하려면**:
+**앱을 개인적으로 배포하려면**:
+
+비공개 배포를 사용하면 조직 구성원만 앱을 사용할 수 있습니다.
 
 1. [Adobe Developer Console](https://developer.adobe.com/console/)에서 앱이 배포된 조직, 프로젝트 및 작업 영역을 선택합니다.
 
