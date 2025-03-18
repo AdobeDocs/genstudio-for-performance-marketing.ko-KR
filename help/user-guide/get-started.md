@@ -4,9 +4,9 @@ description: GenStudio for Performance Marketing을 사용하여 새로운 브�
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: fd49abb491477b0a8ed5b1f646219458efc49365
+source-git-commit: 462834fb622dae4680a64e3de5c370b9268ee4cb
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '616'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Adobe GenStudio for Performance Marketing은 콘텐츠 생성, 관리 및 분석
 
 ## 콘텐츠 만들기, 공유 및 검토 시작
 
-생성 AI 기반 도구를 처음 사용하거나 GenStudio for Performance Marketing의 핵심 원칙에 대해 궁금한 경우 [개념](concepts.md) 및 [효과적인 프롬프트 작성](effective-prompts.md)을 참조하십시오. Adobe의 온라인 학습 플랫폼인 [Adobe GenStudio 아카데미](https://learningmanager.adobe.com/genstudioacademy)에서 창작 과정에서의 생성 AI 기술 사용에 대해 확인할 수 있습니다.
+생성 AI 기반 도구를 처음 사용하거나 GenStudio for Performance Marketing의 핵심 원칙에 대해 궁금한 경우 [개념](concepts.md) 및 [효과적인 프롬프트 작성](effective-prompts.md)을 참조하십시오. Adobe의 온라인 학습 플랫폼인 [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)에서 생성 AI 기술을 크리에이티브 프로세스에 사용하는 방법에 대해 확인할 수 있습니다.
 
 ## GenStudio for Performance Marketing 교육
 
@@ -31,19 +31,7 @@ GenStudio for Performance Marketing은 브랜드 및 시장에 대한 정보를 
 
 #### 지침 문서 준비
 
-포괄적이고 집중적인 [[!DNL Brands]](./guidelines/brands.md), [[!DNL Products]](./guidelines/products.md) 및 [[!DNL Personas]](./guidelines/personas.md) 지침은 조직의 마케팅 캠페인의 핵심 측면을 정의합니다. GenStudio for Performance Marketing은 이러한 지침에서 정보를 추출하여 브랜드 구축을 시작합니다.
-
-지침을 준비할 때에는 다음 모범 사례를 따르십시오.
-
-* 특정 언어를 사용하십시오.
-
-* 캠페인 에셋을 구현할 스타일과 색조에 대해 찾을 수 있는 모범 사례를 포함하십시오.
-
-* 중복을 피하십시오. 지시문을 여러 번 반복하고 싶을 수 있지만 지침의 중복성은 기본 LLM을 캡처하고 브랜드 지침을 구현하는 데 도움이 되지 않습니다.
-
-* 컨텐츠를 생성하는 동안 LLM에서 제외할 요소를 식별합니다(예: 텍스트의 느낌표).
-
-GenStudio for Performance Marketing에 정보를 수동으로 입력할 때 지침 문서를 업로드하거나 참조할 수 있습니다. 이 정보를 업로드하거나 입력하는 방법은 [지침 추가](./guidelines/overview.md)를 참조하십시오.
+포괄적이고 집중적인 [[!DNL Brands]](./guidelines/brands.md), [[!DNL Products]](./guidelines/products.md) 및 [[!DNL Personas]](./guidelines/personas.md) 지침은 조직의 마케팅 캠페인의 핵심 측면을 정의합니다. GenStudio for Performance Marketing은 이러한 지침에서 정보를 추출하여 브랜드 구축을 시작합니다. GenStudio for Performance Marketing에 정보를 수동으로 입력할 때 지침 문서를 업로드하거나 참조할 수 있습니다. 이 정보를 업로드하거나 입력하는 방법은 [지침 추가](./guidelines/overview.md)를 참조하십시오.
 
 #### 지침 개정
 
