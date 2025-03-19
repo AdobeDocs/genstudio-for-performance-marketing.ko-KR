@@ -2,9 +2,9 @@
 title: 검토 및 승인 요청
 description: Adobe GenStudio for Performance Marketing으로 생성된 콘텐츠에 대한 검토를 요청합니다.
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: 1e66e13df8f1d7ddb6b6a11af6f751ba3a9b8a04
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 0%
 **검토를 요청하려면**:
 
 1. 캔버스의 위쪽 메뉴 막대에서 **[!UICONTROL 승인자를 위해 보내기]** 단추를 클릭합니다. _승인을 위해 보내기_ 팝업이 열리고 검토를 요청하는 초안을 식별합니다. 여러 변형을 생성하는 경우 검토를 위해 전체 캔버스가 전송됩니다.
+
+1. 초안 제목이 설명적이고 유익하며 승인자에게 검토 목표에 중점을 두는지 확인합니다. 필요한 경우 초안 제목을 변경하려면 _제목_ 필드를 선택하십시오. 여기에서 제목을 변경하면 기본 초안 경험 제목도 변경됩니다.
 
 1. 검토를 요청할 승인자 또는 승인자를 선택합니다. 입력을 시작하면 **[!UICONTROL 승인자]** 필드가 GenStudio for Performance Marketing 보기 및 승인 권한이 있는 사용자 목록에서 승인자 사용자 이름을 자동으로 완성합니다. 최소 한 명 이상의 승인자 이름을 입력한 후 **[!UICONTROL 보내기]** 단추가 활성화됩니다.
 
