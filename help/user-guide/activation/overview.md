@@ -1,9 +1,9 @@
 ---
 title: 활성화 개요
 description: Adobe Experience Cloud 및 서드파티 애플리케이션을 사용하여 콘텐츠를 활성화하는 방법을 알아봅니다.
-feature: Assets, Experiences
+feature: Ad Activation, Workflow
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: c3b8419deccd24cd565627fcb3f7d6376860e84a
+source-git-commit: 445b5c2fce07ee8bc67e96f95e670fecda356b22
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%

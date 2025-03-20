@@ -1,8 +1,9 @@
 ---
 title: 활성화 워크플로
 description: 광고 경험을 위한 활성화 워크플로에 대해 알아봅니다.
-feature: Experiences
-source-git-commit: c3b8419deccd24cd565627fcb3f7d6376860e84a
+feature: Ad Activation, Workflow
+exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
+source-git-commit: 445b5c2fce07ee8bc67e96f95e670fecda356b22
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 0%
