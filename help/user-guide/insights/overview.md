@@ -1,9 +1,9 @@
 ---
 title: ' [!DNL Insights] 개요'
 description: 실시간 콘텐츠 성능 지표를 기반으로 광고를 최적화하는 방법을 알아봅니다.
-feature: Attributes, Insights, Experiences, Assets, Channels
+feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 9c4df8d5b9e45d0c26bee8db9085e3ad21b02742
+source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%

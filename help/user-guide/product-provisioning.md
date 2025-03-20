@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing 프로비저닝
 description: GenStudio for Performance Marketing 제품 프로비저닝에 대해 알아봅니다.
 level: Beginner
-feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+feature: Generative AI
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -29,13 +29,13 @@ Admin Console 내에서 제품 프로필은 GenStudio for Performance Marketing 
 
 **GenStudio 제품 프로필에 액세스하려면**
 
-1. 시작 이메일의 **시작하기** 링크를 클릭하여 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)(으)로 이동합니다.
+1. 시작 이메일의 **시작하기** 링크를 클릭하여 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)&#x200B;(으)로 이동합니다.
 
 1. Adobe ID을 사용하여 Admin Console에 로그인합니다.
 
    로그인에 성공하면 Adobe Admin Console의 _개요_ 탭이 표시됩니다.
 
-1. _제품_ 탭으로 이동합니다. 이 탭에는 조직이 구매한 모든 Adobe 제품이 표시됩니다.
+1. _제품_ 탭으로 이동합니다. 이 탭에는 조직이 구입한 모든 Adobe 제품이 표시됩니다.
 
 1. 제품 목록에서 **[!UICONTROL GenStudio]**&#x200B;을(를) 선택하십시오. 콘솔에는 조직이 구입한 제품 라이선스에 대한 주요 정보를 표시하는 GenStudio 제품 프로필이 표시됩니다. 또한 이러한 라이선스를 관리하는 옵션도 제공합니다.
 

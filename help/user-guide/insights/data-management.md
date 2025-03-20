@@ -1,12 +1,12 @@
 ---
 title: 데이터 관리
 description: GenStudio for Performance Marketing의  [!DNL Insights] 에 대한 데이터 수집 및 저장에 대해 알아봅니다.
-feature: Insights
+feature: Reporting and Insights
 level: Experienced
 role: Admin
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
-source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
+source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%

@@ -1,12 +1,12 @@
 ---
 title: 유효한 프롬프트 작성
 description: 성과 마케팅을 위한 Adobe GenStudio에서 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
-feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
+feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 79430c3279529c4871141489e409240852e1f4fc
+source-git-commit: 91b684d27f3205806e5e92ea14db45cee84b806b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '752'
+ht-degree: 2%
 
 ---
 
