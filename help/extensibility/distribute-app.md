@@ -1,8 +1,9 @@
 ---
 title: 앱 배포
 description: GenStudio for Performance Marketing용 앱 또는 추가 기능을 배포합니다.
+feature: Extensibility
 exl-id: 4935356b-08df-402c-b1a2-b89627afc188
-source-git-commit: 8884f3438a0010119f578ca9a3b7158e2e01cfa3
+source-git-commit: 52e8e078bc013fe686b5cc2105089f7098cce575
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
