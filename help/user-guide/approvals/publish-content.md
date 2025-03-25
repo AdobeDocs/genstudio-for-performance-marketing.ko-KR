@@ -1,16 +1,16 @@
 ---
-title: Publish 승인 콘텐츠
+title: 승인된 콘텐츠 게시
 description: Adobe GenStudio for Performance Marketing을 사용하여 승인된 콘텐츠를 게시하는 방법을 알아봅니다.
-feature: Approval, Content
+feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
-# Publish 승인 콘텐츠
+# 승인된 콘텐츠 게시
 
 브랜드 맞춤형의 승인된 콘텐츠를 만드는 마지막 단계에서 적절한 메타데이터가 있는 [!DNL Content]에 저장하고 있습니다. 콘텐츠 편집기 또는 작성자가 [!DNL Content]에 게시하거나 저장하여 승인된 자산을 완성할 수 있습니다.
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 **승인된 콘텐츠를 게시하려면**:
 
-1. 승인된 초안에 직접 액세스하거나 _게시 준비된 승인된 변형_ 팝업에서 액세스할 수 있습니다. 이 팝업에는 승인된 자산의 게시를 연기하는 **[!UICONTROL 닫기]** 단추와 게시 프로세스를 시작하는 **[!UICONTROL Publish]** 단추가 포함되어 있습니다.
+1. 승인된 초안에 직접 액세스하거나 _게시 준비된 승인된 변형_ 팝업에서 액세스할 수 있습니다. 이 팝업에는 승인된 자산의 게시를 연기하는 **[!UICONTROL 닫기]** 단추와 게시 프로세스를 시작하는 **[!UICONTROL 게시]** 단추가 포함되어 있습니다.
 
-1. **[!UICONTROL Publish]**&#x200B;을(를) 클릭하여 자산 또는 경험을 [!DNL Content]에 저장합니다. GenStudio for Performance Marketing은 승인된 자산의 축소판을 표시하는 _승인된 콘텐츠에 대한 세부 정보 확인_ 창을 표시합니다.
+1. **[!UICONTROL 게시]**&#x200B;를 클릭하여 자산 또는 환경을 [!DNL Content]에 저장합니다. GenStudio for Performance Marketing은 승인된 자산의 축소판을 표시하는 _승인된 콘텐츠에 대한 세부 정보 확인_ 창을 표시합니다.
 
 1. GenStudio for Performance Marketing에서 메시지가 표시되면 콘텐츠에 대한 정보를 추가합니다. 이 정보는 메타데이터로 저장되어 [!DNL Content] 필터 및 검색 작업에 값을 추가합니다. 게시 프로세스의 이 시점에서 GenStudio for Performance Marketing 캠페인에 에셋을 추가할 수 있습니다.
 

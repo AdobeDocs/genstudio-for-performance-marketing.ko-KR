@@ -1,9 +1,10 @@
 ---
 title: Adobe GenStudio for Performance Marketing 검토 및 승인
 description: GenStudio for Performance Marketing 검토 및 승인 프로세스에 대해 알아봅니다.
-feature: Approval
+level: Beginner
+feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: d6f9673c7b6c8bc1aa051c2133759876a59217eb
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%

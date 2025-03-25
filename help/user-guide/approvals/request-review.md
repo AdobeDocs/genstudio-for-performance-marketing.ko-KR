@@ -1,8 +1,9 @@
 ---
 title: 검토 및 승인 요청
 description: Adobe GenStudio for Performance Marketing으로 생성된 콘텐츠에 대한 검토를 요청합니다.
+feature: Content Review, Content Management
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
-source-git-commit: 1e66e13df8f1d7ddb6b6a11af6f751ba3a9b8a04
+source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
