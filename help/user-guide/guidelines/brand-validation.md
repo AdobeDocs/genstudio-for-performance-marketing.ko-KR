@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing에서의 브랜드 유효성 �
 description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 29685c96353703705f3f742e88f3934644bc4282
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 0%
@@ -41,7 +41,7 @@ _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
 변형에 대한 [_콘텐츠 확인_ 요약 아이콘](#content-check-summary)에서 오른쪽 작업 표시줄 _또는_&#x200B;을(를) 클릭하면 캔버스 오른쪽에 _콘텐츠 확인_ 패널이 열립니다. 이 패널에서는 자세한 브랜드 유효성 검사를 제공합니다. 플랫폼 지침 및 접근성 표준 정보는 각 변형 섹션에 대한 개선 기회를 제공합니다.
 
-![콘텐츠 확인 패널](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
+![콘텐츠 확인 패널](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
 _콘텐츠 검사_ 패널에 각 변형 섹션에 대한 유효성 검사와 [준수 정보](/help/user-guide/guidelines/overview.md#compliance)가 표시됩니다.
 
