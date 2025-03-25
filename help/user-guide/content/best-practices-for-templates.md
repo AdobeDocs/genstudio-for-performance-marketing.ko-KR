@@ -1,11 +1,13 @@
 ---
 title: 템플릿에 대한 우수 사례
 description: Adobe GenStudio for Performance Marketing에서 템플릿을 사용할 때 모범 사례를 따르십시오.
+level: Intermediate
+role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: daada794dd39c9bd2aea7815d887821454d162fc
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -41,7 +43,13 @@ GenStudio for Performance Marketing에서 템플릿을 사용하기 전에 각 �
 
 ## 채널별 템플릿 지침 준수
 
-각 채널의 레이아웃 및 시각적 요구 사항을 충족하는 템플릿을 빌드합니다. 최적의 성능과 호환성을 위해 각 템플릿 유형을 사용할 때는 다음 팁과 제한을 고려하십시오.
+템플릿을 만들 때 의도한 채널의 특정 요구 사항을 충족하는지 확인하십시오. 각 채널의 레이아웃 및 시각적 요구 사항을 충족하는 템플릿을 빌드합니다. 다음과 같이 모든 템플릿에 적용되는 일반 지침이 있습니다.
+
+- 깔끔하고 반응형 HTML 및 인라인 CSS 사용
+- Adobe 또는 Google 글꼴 사용
+- JavaScript을 사용하지 **않음**
+
+최적의 성능과 호환성을 위해 각 템플릿 유형을 사용할 때는 다음 팁과 제한을 고려하십시오.
 
 >[!BEGINTABS]
 
@@ -83,20 +91,11 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 - 열 레이아웃에 360픽셀 너비 사용
 - 이미지에 최소 1080 x 1080 픽셀 해상도 사용
 - **not**(이)가 상대 글꼴 크기를 사용하지 않음
-- 뷰포트를 **정의하지 않음**
+- 뷰포트를 **정의 안 함**
 - JavaScript을 사용하지 **않음**
 - CSS에서 HTML 요소를 재정의하지 **마십시오**
-- 배경 이미지에 대해 다음 설정을 사용합니다.
-
-  `background-image` CSS 클래스에 `object-fit: cover` 값 추가:
-
-  ```css
-  .background-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  ```
+- `background-image` 대신 `<img>` 태그 사용
+- 배경 이미지에 대한 텍스트 가독성을 향상시키려면 마스킹을 사용하십시오
 
 **제약 조건**:
 
@@ -151,11 +150,10 @@ GenStudio for Performance Marketing에서 작동하도록 배너 및 표시 광�
 
 **인식된 필드 이름**:
 
-다음 필드에 콘텐츠 자리 표시자를 사용합니다.
+배너 및 디스플레이 광고의 경우 `CTA` 필드가 자동으로 생성됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
 
 - `headline`
 - `body`
-- `cta`
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
@@ -188,21 +186,20 @@ GenStudio for Performance Marketing에서 작동하도록 LinkedIn 광고 템플
    - 모바일
    - 최소: 360 x 640픽셀
    - 최대: 2430 x 4320픽셀
-- 버전 2.3
+- 세로 2.3
    - 모바일
    - 최소: 360 x 640픽셀
    - 최대: 2430 x 4320픽셀
-- 버전 4.5(권장)
+- 세로 4.5(권장)
    - 모바일
    - 최소: 360 x 640픽셀
    - 최대: 2430 x 4320픽셀
 
 **인식된 필드 이름**:
 
-LinkedIn 광고의 경우 `headline` 및 `CTA` 필드가 자동으로 생성됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
+LinkedIn 광고의 경우 `headline`, `introductory_text` 및 `CTA` 필드가 자동으로 생성됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
 
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
-- `introductory_text`
 - `on_image_text`
 - `brand_logo`
 
