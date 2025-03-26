@@ -1,9 +1,10 @@
 ---
 title: 속성 개요
 description: Adobe GenStudio for Performance Marketing에서 특정 속성의 성능을 평가하는 방법을 알아봅니다.
+level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%

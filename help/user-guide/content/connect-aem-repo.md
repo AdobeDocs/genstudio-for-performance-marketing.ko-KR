@@ -2,9 +2,10 @@
 title: ' [!DNL AEM Assets Content Hub] 저장소에 연결'
 description: Adobe GenStudio for Performance Marketing을 Adobe Experience Manager(AEM) [!DNL Content Hub] 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
 level: Experienced
+role: Admin, Data Engineer
 feature: Content Management
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%

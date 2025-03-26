@@ -1,9 +1,10 @@
 ---
 title: 미디어 개요
 description: Adobe GenStudio for Performance Marketing에서 미디어 성능을 평가하는 방법을 알아봅니다.
+level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 0%

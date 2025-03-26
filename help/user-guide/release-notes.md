@@ -2,8 +2,9 @@
 title: Adobe GenStudio for Performance Marketing 릴리스 노트
 description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개선 사항에 대해 알아봅니다.
 recommendations: noDisplay
+role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 8a8815d49ce4a950fcfc2f425ca58ae7fbd42c73
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '2109'
 ht-degree: 1%

@@ -2,8 +2,9 @@
 title: Adobe GenStudio for Performance Marketing 개념
 description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
+role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: bfe961a06f62e55f3207088f6f390204b12e7142
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -80,7 +81,7 @@ If genactions roll over month to month or not -->
 
 ## 데이터 거버넌스
 
-AI와 함께 콘텐츠를 생성하는 경우 모든 사용자에게 출력이 안전하고 포괄적인지 확인하는 것이 중요합니다. 이를 위해서는 잠재적인 유해한 편견, 혐오 발언, 불쾌한 소재 또는 비속어에 대한 내용 평가가 필요하다. Adobe은 콘텐츠 생성 기술을 다양한 관점에서 철저히 테스트하고, 종합적인 윤리 검토를 수행하며, 유해한 콘텐츠가 산출물에 등장하는 것을 방지하기 위해 효과적인 완화 방안을 시행한다.
+AI와 함께 콘텐츠를 생성하는 경우 모든 사용자에게 출력이 안전하고 포괄적인지 확인하는 것이 중요합니다. 이를 위해서는 잠재적인 유해한 편견, 혐오 발언, 불쾌한 소재 또는 비속어에 대한 내용 평가가 필요하다. Adobe은 콘텐츠 생성 기술을 다양한 관점에서 철저히 테스트하고, 종합적인 윤리 검토를 수행하며, 유해한 콘텐츠가 출력에 등장하지 않도록 효과적인 완화 방안을 시행한다.
 
 이 접근 방식은 사회적 책임을 강화하고 평판 위험을 최소화하며 [Adobe의 신뢰 및 안전 및 윤리 정책](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf)을 준수하도록 합니다.
 

@@ -2,9 +2,10 @@
 title: 템플릿 코드 편집기
 description: GenStudio for Performance Marketing에서 템플릿 코드 편집기를 사용하는 방법에 대해 알아봅니다.
 level: Intermediate
+role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%

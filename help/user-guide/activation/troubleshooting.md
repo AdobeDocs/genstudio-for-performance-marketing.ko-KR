@@ -1,9 +1,10 @@
 ---
 title: 활성화 최적화
 description: 서드파티 유료 광고 채널에 활성화를 최적화하는 방법을 알아봅니다.
+level: Intermediate
 feature: Ad Activation, Workflow
 exl-id: 5bc624c2-d064-4190-8761-ed05d0629d1f
-source-git-commit: 445b5c2fce07ee8bc67e96f95e670fecda356b22
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%

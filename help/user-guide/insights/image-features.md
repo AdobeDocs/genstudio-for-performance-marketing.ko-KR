@@ -1,9 +1,10 @@
 ---
 title: 이미지 기능
 description: GenStudio for Performance Marketing에 사용되는 속성 범주의 이미지 기능에 대해 알아봅니다.
+level: Intermediate
 feature: Reporting and Insights, Image Attributes, Generative AI
 exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%

@@ -1,9 +1,10 @@
 ---
 title: ' [!DNL Brands], [!DNL Products] 및 [!DNL Personas] 개요'
 description: GenStudio for Performance Marketing에  [!DNL Brands], [!DNL Products], and [!DNL Personas] 을(를) 추가하여 브랜드 표현의 모든 측면을 포함하는 포괄적인 브랜드 프로필을 만듭니다.
+level: Beginner
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: f08e92fd8d71fb8e918d8c8167d1e62ed86e35cb
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 0%

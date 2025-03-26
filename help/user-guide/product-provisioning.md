@@ -3,8 +3,9 @@ title: Adobe GenStudio for Performance Marketing 프로비저닝
 description: GenStudio for Performance Marketing 제품 프로비저닝에 대해 알아봅니다.
 level: Beginner
 feature: Generative AI
+role: Admin
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -63,6 +64,6 @@ GenStudio for Performance Marketing 사용자 역할 할당에 대한 지침은 
 
 * [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users)
 
-* [여러 사용자/일괄 CSV 업로드 관리](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+* [여러 사용자/일괄 CSV 업로드 관리](https://helpx.adobe.com/kr//enterprise/using/bulk-upload-users.html)
 
 조직의 GenStudio for Performance Marketing에 사용자를 온보딩하면 GenStudio 시스템 관리자가 [조직의 브랜드 및 미디어 지침을 설정](get-started.md)할 수 있습니다.

@@ -1,9 +1,10 @@
 ---
 title: 광고 및 광고 배치 개요
 description: Adobe GenStudio for Performance Marketing의 광고 및 광고 배치 성과에 대한 고객 참여, 예산 및 지출에 대한 개요를 참조하십시오.
+level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '1237'
 ht-degree: 0%

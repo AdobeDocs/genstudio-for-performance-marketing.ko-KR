@@ -1,9 +1,10 @@
 ---
 title: 비디오 기능
 description: GenStudio for Performance Marketing에 사용되는 속성 범주의 비디오 기능에 대해 알아봅니다.
+level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 1%
