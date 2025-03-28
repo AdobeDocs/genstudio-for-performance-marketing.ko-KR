@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing에서 특정 속성의 �
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 4afdde6fd08a9f33ff599f5f85b9c1b9d79870ec
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing은 특정 기능을 감지하고 적절한 �
 
 _category_ 특성은 일반적인 특성을 공유하는 관련 특성을 구성하는 분류 그룹입니다. 이러한 범주는 컨텍스트를 확대하고 애플리케이션 및 사용을 촉진하여 특정 속성을 보다 효율적으로 검색, 식별 및 이해하는 데 도움이 됩니다.
 
-GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 [이미지](image-features.md), [비디오](video-features.md) 및 텍스트를 학습하고 수정 가능성에 따라 [!UICONTROL 미디어 특성]을 적용합니다.
+GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 사용하여 [이미지](image-features.md), [비디오](video-features.md), [텍스트](text-features.md)를 학습하고 수정 가능성에 따라 [!UICONTROL 미디어 특성]을 적용합니다.
 
 미디어 콘텐츠에 대해 검색된 특성 목록이 완전하지 않습니다. 풍부한 기능 세트를 포함하는 미디어는 AI가 식별하는 가장 지배적인 3가지 기능으로 제한될 수 있습니다. 예를 들어 다음 그림에는 여러 객체, 전경색 및 배경색 등 여러 개의 이미지 속성이 있습니다.
 

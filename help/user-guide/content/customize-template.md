@@ -1,13 +1,13 @@
 ---
 title: 템플릿 사용자 정의
-description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화하고 최적화하는 방법을 알아봅니다.
+description: Adobe GenStudio for Performance Marketing 생성 AI에서 인식하는 콘텐츠 자리 표시자를 사용하여 HTML 템플릿을 사용자 지정하는 방법을 알아봅니다.
 level: Intermediate
 role: Developer
-feature: Media Templates, Content Generation
+feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 0a1f13db9a976bac026f49e908b6b8c124bc5df7
+source-git-commit: 81133e4360a9ba7d7fb29f33e418fde8582b0f23
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1391'
 ht-degree: 0%
 
 ---
@@ -46,13 +46,14 @@ HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사
 | `{{headline}}` | 제목 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
 | `{{introductory_text}}` | 소개 텍스트 | LinkedIn 광고 |
 | `{{body}}` | 본문 복사 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 |
-| `{{cta}}` | 클릭 유도 문안 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
+| `{{cta}}` | 콜 투 액션<br>참조: [콜 투 액션](#calls-to-action) | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
 | `{{image}}` | 이미지—[!DNL Content]에서 선택 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
-| `{{on_image_text}}` | 이미지 텍스트에서 | 메타 광고 <br>LinkedIn 광고 |
+| `{{on_image_text}}` | 이미지 텍스트에서<br>[이미지 텍스트에서](#on-image-text)을(를) 참조하십시오. | 메타 광고 <br>LinkedIn 광고 |
 | `{{link}}` | 이미지에 대한 클릭 유도 문안<br>이미지에 대한 링크[참조](#link-on-image). | 이메일 |
-| `{{brand_logo}}` | 선택한 브랜드의 로고<br>브랜드 로고 필드 이름](#brand-logo-field-name)을(를) 참조하십시오.[ | 이메일<br>메타데이터 광고 <br>LinkedIn 광고 |
 
-GenStudio for Performance Marketing은 다음 템플릿에서 특정 필드를 자동으로 채웁니다.
+<!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
+
+GenStudio for Performance Marketing은 다음 템플릿에서 특정 필드를 자동으로 생성합니다.
 
 - **전자 메일 템플릿**&#x200B;에서는 `subject` 필드를 식별할 필요가 없습니다.
 - **메타 광고 템플릿**&#x200B;에서는 `headline`, `body` 및 `CTA` 필드를 식별할 필요가 없습니다.
@@ -109,17 +110,19 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 - `src="image-source.jpg"`은(는) 실제 이미지 원본 URL로 대체해야 합니다.
 - `alt="description"`은(는) 접근성 및 SEO에 유용한 이미지에 대한 대체 텍스트를 제공합니다.
 
-### 브랜드 로고 필드 이름
+<!-- this field does not work in Create canvas 2025/03
 
-지금은 템플릿 업로드에 대해 브랜드 로고를 선택할 수 없습니다. 다음 예에서는 브랜드 로고를 조건부로 렌더링하는 두 가지 방법을 보여 줍니다. 각 방법은 소스를 확인하고 브랜드 로고를 사용할 수 없는 경우 기본 또는 대체 이미지를 제공하며 스타일을 적용합니다.
+### Brand logo field name
 
-**예 1**: HTML `img src` 특성에서 직접 [!DNL Handlebars] 기본 제공 도우미 조건 사용:
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
+
+**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
 
 ```html
 <img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-**예 2**: [!DNL Handlebars] 기본 제공 조건 문을 사용하여 HTML `img` 태그를 래핑합니다.
+**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
 
 ```html
 {{#if brand_logo}}
@@ -128,6 +131,8 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
     <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
 {{/if}}
 ```
+
+-->
 
 ### 수동 필드 이름
 
@@ -139,10 +144,18 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 <tbody>
     <tr>
         <td>
-            <p><span class="s1">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{ footerLegal }}</span></p>
         </td>
     </tr>
 </tbody>
+```
+
+## 이미지 텍스트에서
+
+`{{ on_image_text }}` 자리 표시자는 경험의 이미지에 직접 배치된 짧은 영향력 있는 메시지의 텍스트 오버레이를 지정하는 데 사용됩니다.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
 ```
 
 ## 섹션 또는 그룹
@@ -179,7 +192,6 @@ _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 �
 GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 여러 섹션 전자 메일의 각 섹션에 대해 다양한 콘텐츠를 생성하는 프롬프트를 만드는 방법을 알아보려면 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 참조하십시오.
-
 
 ## 템플릿 미리 보기
 

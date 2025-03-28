@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: daada794dd39c9bd2aea7815d887821454d162fc
+source-git-commit: 059c7271bcbe558d41f3df128c6a0681accec826
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -80,7 +80,6 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
 - `body`
 - `cta`
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
-- `brand_logo`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
 
@@ -115,7 +114,6 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
 - `on_image_text`
-- `brand_logo`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
 
@@ -201,7 +199,6 @@ LinkedIn 광고의 경우 `headline`, `introductory_text` 및 `CTA` 필드가 �
 
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
 - `on_image_text`
-- `brand_logo`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](customize-template.md#content-placeholders)를 참조하십시오.
 
