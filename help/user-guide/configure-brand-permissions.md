@@ -2,9 +2,9 @@
 title: ' [!DNL Brand] 권한 할당'
 description: GenStudio for Performance Marketing [!DNL Brand] 작성자 및 편집자에 대한 권한을 할당하는 방법에 대해 알아봅니다.
 level: Intermediate
-feature: Brands Service, Generative AI
+feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 기본적으로 GenStudio 시스템 관리자는 [!DNL Brands]을(를) 만들고 편집할 수 있습니다. 콘텐츠 편집기 및 공동 작업자 역할에는 편집 및 작성 권한이 있지만, 시스템 관리 권한이 필요하지 않을 수 있습니다. 콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. _기업 및 팀 관리 가이드_&#x200B;의 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)을(를) 참조하십시오.
 
-Admin Console 및 사용자 그룹 추가는 사용자를 통해 관리되는 권한이 있는 모든 Adobe 제품에 공통되는 기본 작업입니다. 사용자 관리 및 사용자 및 사용자 그룹 추가 절차에 대한 개요는 _Enterprise 및 Teams 관리 가이드_&#x200B;의 [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html)를 참조하십시오.
+사용자 및 사용자 그룹 추가는 Admin Console을 통해 관리되는 권한이 있는 모든 Adobe 제품에 공통되는 기본 작업입니다. 사용자 관리 및 사용자 및 사용자 그룹 추가 절차에 대한 개요는 _Enterprise 및 Teams 관리 가이드_&#x200B;의 [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html)를 참조하십시오.
 
 ## 1단계: 사용자 그룹 만들기
 
@@ -29,7 +29,7 @@ Admin Console 및 사용자 그룹 추가는 사용자를 통해 관리되는 �
 
 1. 필요한 경우 그룹 및 해당 목적에 대한 설명을 추가합니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. Admin Console이 새로 만든 그룹의 이름으로 _새 그룹_ 팝업을 엽니다.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. Admin Console에서 새로 만든 그룹의 이름으로 _새 그룹_ 팝업이 열립니다.
 
 _Enterprise 및 Teams 관리 가이드_&#x200B;에서 [사용자 그룹 관리](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)를 참조하십시오.
 
@@ -71,7 +71,7 @@ _엔터프라이즈 및 팀 관리 가이드_&#x200B;에서 [사용자 그룹에
 
 1. 사용자 이름 또는 이메일 주소로 새 사용자 또는 기존 사용자를 추가합니다. 기존 사용자의 이름 또는 이메일 주소를 입력하면 이 IMS 조직에 속하는 알려진 사용자에 대해 일치하는 이름으로 이 필드가 자동으로 채워집니다. _Enterprise 및 Teams 관리 가이드_&#x200B;의 [사용자 그룹 관리](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)에서 사용자 그룹 관리에 대해 알아봅니다.
 
-그룹에 추가되면 Adobe GenStudio 시스템 관리자의 [!DNL Brand] 만들기, 편집 및 게시 권한이 사용자에게 부여됩니다. 또한 사용자는 Adobe GenStudio for Performance Marketing [!DNL Brands] 프로젝트를 편집하기 위한 자동 전자 메일 초대를 받습니다.
+사용자를 그룹에 추가하면 Adobe GenStudio 시스템 관리자의 [!DNL Brand] 만들기, 편집 및 게시 권한이 부여됩니다. 또한 사용자는 Adobe GenStudio for Performance Marketing [!DNL Brands] 프로젝트를 편집하기 위한 자동 전자 메일 초대를 받습니다.
 
 ## 4단계: [!DNL Brands] 프로젝트 만들기
 
@@ -79,7 +79,7 @@ _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 �
 
 **_저장소_ 탭에서 [!DNL Brands] 프로젝트를 만들려면**:
 
-1. Admin Console의 _저장소_ 탭으로 이동합니다.
+1. Admin Console에서 _저장소_ 탭으로 이동합니다.
 
 1. 측면 탐색에서 **[!UICONTROL 프로젝트]**&#x200B;를 클릭합니다. _프로젝트_ 탭이 열립니다.
 

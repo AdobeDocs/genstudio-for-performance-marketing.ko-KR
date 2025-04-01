@@ -2,10 +2,10 @@
 title: Adobe GenStudio for Performance Marketing 사용자 역할 및 권한
 description: GenStudio for Performance Marketing 사용자 역할 및 권한에 대해 알아봅니다.
 level: Beginner
-feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
 workflow-type: tm+mt
 source-wordcount: '1133'
 ht-degree: 1%

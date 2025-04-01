@@ -1,9 +1,9 @@
 ---
 title: 메타 광고 활성화
 description: 메타 광고 경험을 활성화하는 방법을 알아봅니다.
-feature: Ad Activation, Workflow
+feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 445b5c2fce07ee8bc67e96f95e670fecda356b22
+source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 1%

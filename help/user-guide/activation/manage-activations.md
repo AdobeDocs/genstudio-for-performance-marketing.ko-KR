@@ -1,9 +1,9 @@
 ---
 title: 활성화 관리
 description: 성능 마케팅을 위해 Adobe Genstudio를 사용하여 활성화된 경험을 관리하는 방법을 알아봅니다.
-feature: Ad Activation, Workflow
+feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: 445b5c2fce07ee8bc67e96f95e670fecda356b22
+source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
