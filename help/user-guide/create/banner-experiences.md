@@ -6,9 +6,9 @@ badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일�
 role: User
 level: Beginner
 exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: 7784f8a722d808159df9522ff7fce5fbddcc34ce
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하여 [성공적인 배너 경험 만들기](/help/user-guide/create/create-banner-experience.md)를 향상시킬 수 있습니다.
 
-[!DNL Create]을(를) 통해 최신 마케터는 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진](/help/user-guide/effective-prompts.md)을(를) 활용하여 일관된 배너 경험을 [만들 수 있습니다](/help/user-guide/create/create-banner-experience.md).
+[!DNL Create]을(를) 통해 최신 마케터는 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 활용하여 [일관된 배너 경험을 구축](/help/user-guide/create/create-banner-experience.md)할 수 있습니다.
 
 배너 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다.
 
