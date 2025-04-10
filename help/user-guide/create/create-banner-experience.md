@@ -7,9 +7,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
 workflow-type: tm+mt
-source-wordcount: '981'
+source-wordcount: '979'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 **배너 템플릿을 선택하려면**:
 
 1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 배너]**&#x200B;를 클릭합니다._섹션.
-1. _필터_ 옆의 검색 옵션을 사용하여 특정 배너 템플릿을 찾습니다.
+1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
 1. _템플릿 선택_ 보기에서 배너 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 

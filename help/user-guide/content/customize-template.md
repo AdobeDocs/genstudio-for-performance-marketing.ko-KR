@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 81133e4360a9ba7d7fb29f33e418fde8582b0f23
+source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}` | 사전 머리글 | 이메일 |
 | `{{headline}}` | 제목 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
+| `{{sub_headline}}` | 하위 헤드라인 | 이메일<br>배너 및 디스플레이 광고 |
 | `{{introductory_text}}` | 소개 텍스트 | LinkedIn 광고 |
 | `{{body}}` | 본문 복사 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 |
 | `{{cta}}` | 콜 투 액션<br>참조: [콜 투 액션](#calls-to-action) | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
@@ -101,14 +102,14 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 크리에이티브가 이미지에 링크를 추가하도록 이메일 템플릿을 사용자 정의할 수 있습니다. CTA 링크와 유사하게 다음 지침을 사용하여 이미지 태그에 `link` 자리 표시자를 적용합니다.
 
 ```html
-<a href="{{link}}"><img src="image-source.jpg" alt="description"></a>
+<a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
 이 예제에서는
 
 - `{{link}}`은(는) 실제 URL의 자리 표시자입니다.
 - `src="image-source.jpg"`은(는) 실제 이미지 원본 URL로 대체해야 합니다.
-- `alt="description"`은(는) 접근성 및 SEO에 유용한 이미지에 대한 대체 텍스트를 제공합니다.
+- `{{imageDescription}}`은(는) 이미지의 대체 텍스트에 대한 자리 표시자를 제공하는 사용자 정의 필드 이름으로, 접근성 및 SEO에 유용합니다.
 
 <!-- this field does not work in Create canvas 2025/03
 
@@ -136,7 +137,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 ### 수동 필드 이름
 
-다른 모든 필드 이름은 수동으로 채워진 필드로 처리됩니다. 예를 들어, 바닥글 콘텐츠에 대한 섹션을 예약할 수 있습니다.
+다른 모든 필드 이름은 사용자가 정의하고 수동으로 채워진 필드로 처리됩니다. 예를 들어, 바닥글 콘텐츠에 대한 섹션을 예약할 수 있습니다.
 
 편집 가능한 섹션을 만들려면 섹션 이름 주위에 이중 대괄호를 추가합니다.
 

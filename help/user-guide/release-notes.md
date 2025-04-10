@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 2f5c79c8a339b10305a8c06f7036dd7182937cc5
 workflow-type: tm+mt
-source-wordcount: '2109'
+source-wordcount: '2198'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,17 @@ ht-degree: 1%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
 
-## 2025.03.13 {#latest}
+## 2025.04.10 {#latest}
+
+### 수정 사항 및 개선 사항
+
+* 템플릿에 대한 새로운 필터 옵션! 이제 [!DNL Create] 및 _[!UICONTROL 콘텐츠]_ > _[!UICONTROL 템플릿]_&#x200B;에서 _[!UICONTROL 템플릿 선택]_ 목록을 개선할 수 있습니다. [템플릿 검색](/help/user-guide/content/use-templates.md#search-templates)을 참조하세요. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
+* 콘텐츠 재생성이나 이미지 자르기 등 수정 시 강조할 수 있도록 경험의 [개별 레이어(편집 가능한 텍스트 필드 또는 편집 가능한 이미지)를 보고 선택하는 기능을 활성화했습니다](/help/user-guide/create/manage-variants.md#view-layers).
+* 대상자의 관심을 끌고 마케팅 메시지를 강조하기 위해 경험의 추가 텍스트에 대해 [새 템플릿 필드](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`을(를) 추가했습니다.
+
+## 이전 릴리스 노트
+
++++2025.03.13 릴리스 정보
 
 ### 메타 광고 활성화
 
@@ -60,7 +70,7 @@ ht-degree: 1%
 * 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
-## 이전 릴리스 노트
++++
 
 +++2025.02.13 릴리스 정보
 
@@ -86,7 +96,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 새 콜 투 액션 생성
 
-이제 변형을 관리할 때 새 클릭 유도 문구(CTA)를 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
+이제 변형을 관리할 때 새 call-to-action(CTA) 구문을 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
 
 ### 수정 사항 및 개선 사항
 
@@ -100,7 +110,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 템플릿 생성 중 사용자, 브랜드 및 제품 선택이 미리 로드됩니다. <!-- GS-8069 -->
 
-* 이메일 콜 투 액션 링크는 더 이상 필수 필드가 아닙니다. <!-- GS-8103 -->
+* 이메일 call-to-action 링크는 더 이상 필수 필드가 아닙니다. <!-- GS-8103 -->
 
 * 이제 [!DNL Brand] 선택기 드롭다운 메뉴가 템플릿의 예상대로 작동합니다. 이전에는 선택기가 일부 템플릿에 대해 성공적으로 로드되지 않았습니다. <!-- GS-8908 -->
 

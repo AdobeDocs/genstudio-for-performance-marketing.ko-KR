@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 **디스플레이 광고 템플릿을 선택하려면**:
 
 1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 광고 표시]**&#x200B;를 클릭합니다. 오늘은 무엇을 만드시겠습니까?_섹션.
-1. 특정 디스플레이 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
+1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
 1. _템플릿 선택_ 보기에서 디스플레이 광고 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -73,6 +73,8 @@ ht-degree: 0%
 ## 생성된 변형 개정
 
 승인 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 디스플레이 광고 섹션 및 텍스트 필드를 편집하거나 생성된 변형을 삭제할 수 있습니다.
+
+수정할 개별 레이어를 강조 표시하려면 편집 가능한 필드나 이미지를 클릭하고 _[!UICONTROL 레이어 보기]_&#x200B;를 클릭합니다.
 
 **생성된 변형을 수정하려면**:
 

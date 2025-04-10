@@ -3,9 +3,9 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: f79fb713b5387fd305ecf4a1102b301aa547babb
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1409'
 ht-degree: 1%
 
 ---
@@ -26,10 +26,13 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 필터 및 검색 인터페이스는 빠르고 반응적이며 생산적인 검색 우선 경험을 제공합니다. 각 [!DNL Content] 보기는 이상적인 자산, 경험 또는 템플릿에 대한 검색 범위를 좁히는 필터 옵션을 제공합니다. 에셋 및 경험의 경우 캠페인과 특정 지침(예: 특정 제품에 대해 만들어진 콘텐츠)을 선택할 수 있습니다.
 
-검색 결과 범위를 좁히기 위해 [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attributes.md#categories)을 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다. 또는 사용자 이름 또는 팀원의 이름을 기반으로 콘텐츠를 필터링할 수 있습니다.
+검색 결과의 범위를 좁히기 위해 [지침](/help/user-guide/guidelines/overview.md), [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attributes.md#categories)를 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다. 또는 사용자 이름 또는 팀원의 이름을 기반으로 콘텐츠를 필터링할 수 있습니다.
 
-- **[!UICONTROL 업로드한 사람]** 필터는 사용자 또는 특정 사용자가 업로드한 자산만 표시하도록 _[!UICONTROL Assets]_ 목록을 제한합니다.
-- **[!UICONTROL 작성자]** 필터는 사용자 또는 특정 사용자가 만든 경험만 표시하도록 _[!UICONTROL 경험]_ 목록을 제한합니다.
+- **[!UICONTROL 업로드한 사람]**: 사용자 또는 특정 사용자가 업로드한 자산만 표시하도록 _[!UICONTROL Assets]_ 목록을 제한합니다.
+- **[!UICONTROL 만든 사람]**: 사용자 또는 특정 사용자가 만든 경험만 표시하도록 _[!UICONTROL 경험]_ 목록을 제한합니다.
+- **[!UICONTROL 템플릿]**: 선택한 템플릿으로 만든 경험만 표시하도록 _[!UICONTROL 경험]_ 목록을 제한합니다.
+
+특정 필터 옵션이 표시되지 않으면 저장소에 해당 메타데이터 기준과 일치하는 템플릿이 없음을 나타냅니다. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
 
 **재사용할 콘텐츠를 검색하려면**:
 

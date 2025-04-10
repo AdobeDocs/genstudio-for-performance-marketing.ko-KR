@@ -6,9 +6,9 @@ badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일�
 role: User
 level: Beginner
 exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
-source-git-commit: 7784f8a722d808159df9522ff7fce5fbddcc34ce
+source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하
 디스플레이 광고 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 
 * 제목
+* 하위 헤드라인
 * 본문
 * 클릭 유도 문안(CTA)
 * 이미지

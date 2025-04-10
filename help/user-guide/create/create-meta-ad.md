@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 **메타 광고 템플릿을 선택하려면**:
 
 1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 메타 광고]**&#x200B;를 클릭합니다._섹션.
-1. 특정 메타 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
+1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭하세요.
 
    이 작업을 수행하면 콘텐츠 작성의 중앙 허브인 캔버스가 열립니다.
@@ -85,12 +85,14 @@ ht-degree: 0%
 
 승인 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 메타 광고를 편집하거나 생성된 광고 집합에서 변형을 삭제할 수 있습니다.
 
+수정할 개별 레이어를 강조 표시하려면 편집 가능한 필드나 이미지를 클릭하고 _[!UICONTROL 레이어 보기]_&#x200B;를 클릭합니다.
+
 **생성된 변형을 수정하려면**:
 
 * **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
 * **메타 광고를 수동으로 편집하려면[다음](/help/user-guide/create/manage-variants.md#manually-edit-text)**을(를) 클릭합니다(제목 줄 등).
 필요에 따라 헤더 또는 본문 사본을 편집하십시오.
-* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 클릭 유도 문안 텍스트의 URL을 입력하십시오.
+* **콜 투 액션을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **변형의 이미지에 링크를 추가하려면](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.[
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
@@ -144,6 +146,6 @@ ht-degree: 0%
 
 ## 메타 연결
 
-GenStudio for Performance Marketing을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 [인사이트](/help/user-guide/insights/overview.md)를 받을 수 있습니다.
+GenStudio for Performance Marketing을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 통찰력을 받을 수 있습니다.
 
-자세한 내용은 [채널 계정 연결](/help/user-guide/insights/connect-channel.md)을 참조하십시오.
+[메타 광고 연결](/help/user-guide/connectors/connect-channel.md#meta-ads-connect)을 참조하십시오.

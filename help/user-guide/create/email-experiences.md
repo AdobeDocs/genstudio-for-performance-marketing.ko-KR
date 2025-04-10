@@ -5,9 +5,9 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 
 * 사전 머리글
 * 제목
+* 하위 헤드라인
 * 본문
 * 클릭 유도 문안(CTA)
 * 이미지

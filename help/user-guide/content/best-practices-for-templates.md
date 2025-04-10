@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 059c7271bcbe558d41f3df128c6a0681accec826
+source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -77,6 +77,7 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
 
 - `pre_header`
 - `headline`
+- `sub_headline`
 - `body`
 - `cta`
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
@@ -151,6 +152,7 @@ GenStudio for Performance Marketing에서 작동하도록 배너 및 표시 광�
 배너 및 디스플레이 광고의 경우 `CTA` 필드가 자동으로 생성됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
 
 - `headline`
+- `sub_headline`
 - `body`
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
 
