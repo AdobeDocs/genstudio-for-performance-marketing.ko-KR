@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 1f62546f4fc2381bcc4d8fd3acadd1d6470ed9e8
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1326'
 ht-degree: 1%
 
 ---
@@ -37,9 +37,10 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
 | **사전 머리글** | 이메일 | 이메일의 기본 제목 줄을 개선하는 보조 제목 줄(일반적으로 40-50자 사이)입니다. 이메일이 열리기 전에 제목과 함께 받은 편지함에 표시됩니다. |
 | **헤더** | 이메일 | 이메일을 열 때 수신자가 보는 이메일의 상단 섹션은 톤을 설정하고 포함된 콘텐츠에 대한 컨텍스트를 제공합니다. |
 | **제목** | 메타 광고, 배너 및 디스플레이 광고, LinkedIn | 수신자가 보는 첫 번째 콘텐츠는 관심을 끌어야 합니다. |
+| **하위 헤드라인** | 이메일, 배너 및 디스플레이 광고 | 헤드라인을 지원하는 보조 텍스트 요소입니다. 일반적으로 간결하고 주요 헤드라인을 보완하도록 설계되어 있어 독자의 관심을 콘텐츠로 더욱 끌어당깁니다. |
 | **소개 텍스트** | LinkedIn | 기본 메시지는 본문 사본과 유사한 핵심 메시지를 전달합니다. 공백, 최대 4개의 이모지, 구두점 등 최대 150자를 사용할 수 있다. |
 | **본문** | 이메일, 메타 광고, 배너 및 디스플레이 광고 | 광고의 주요 텍스트가 핵심 메시지를 전달합니다. 관객에게 원하는 행동을 장려하기 위해 매력적이고, 유익하며, 설득력이 있어야 한다. |
-| **CTA** | 이메일, 메타 광고, 배너 및 디스플레이 광고, LinkedIn | 콜 투 액션 버튼은 구문과 링크를 사용하여 수신자가 링크를 클릭하거나 구매하는 것과 같은 특정 작업을 수행하도록 장려합니다. |
+| **CTA** | 이메일, 메타 광고, 배너 및 디스플레이 광고, LinkedIn | call-to-action 버튼은 구문과 링크를 사용하여 수신자가 링크를 클릭하거나 구매하는 등의 특정 작업을 수행하도록 장려합니다. |
 | **이미지** | 이메일, 메타 광고, 배너 및 디스플레이 광고, LinkedIn | 시각적 호소력을 높이고, 텍스트를 분류하고, 메시지를 지원합니다. 이미지는 고화질로 눈을 사로잡아야 합니다. |
 | **바닥글** | 이메일 | 이메일의 아래 섹션에는 연락처 세부 정보, 소셜 미디어 링크, 면책조항 및 구독 취소 옵션과 같은 추가 콘텐츠가 포함되어 있습니다. |
 | **텍스트 오버레이** | 메타 광고 | 헤드라인 및 본문 컨텐츠를 지원하고 개선하기 위해 이미지에 배치된 텍스트입니다. |
@@ -58,13 +59,26 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
 
 ## 템플릿 관리
 
-_[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다. 이메일, 디스플레이 광고, 메타 광고 및 LinkedIn 광고와 같은 채널 유형별로 템플릿을 필터링할 수 있습니다.
+_[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
+
+### 템플릿 검색
+
+각 [!DNL Content] 보기는 이상적인 자산, 경험 또는 템플릿에 대한 검색 범위를 좁히는 필터 옵션을 제공합니다. 검색 결과의 범위를 좁히기 위해 [지침](/help/user-guide/guidelines/overview.md), [키워드](asset-details.md#user-defined-metadata) 및 [특성 범주](/help/user-guide/insights/attributes.md#categories)를 기반으로 하는 필터가 있습니다.
+
+예를 들어 사용자가 만든 특정 채널 유형 또는 종횡비의 템플릿을 찾을 수 있습니다.
+
+- **[!UICONTROL 만든 사람]**: 사용자 또는 특정 사용자가 만든 템플릿만 표시하도록 _[!UICONTROL 템플릿]_ 목록을 제한합니다.
+- **[!UICONTROL 종횡비]**: _[!UICONTROL 템플릿]_ 목록을 제한하여 특정 종횡비에 맞게 디자인된 템플릿을 표시합니다.
+
+다음은 이메일, 디스플레이 광고, 메타 광고 및 LinkedIn 광고와 같은 채널 유형별 필터를 보여줍니다.
 
 ![콘텐츠 템플릿 목록](/help/assets/content-templates-filter.png "LinkedIn 템플릿 검색"){width="650" zoomable="yes"}
 
+템플릿 검색 기능은 [!UICONTROL 만들기] 중에 소유 또는 유료 미디어에 대한 템플릿을 선택할 때 사용할 수 있습니다. 특정 필터 옵션이 표시되지 않으면 저장소에 해당 메타데이터 기준과 일치하는 템플릿이 없음을 나타냅니다. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
+
 ### 템플릿 추가
 
-템플릿을 업로드하기 전에 [템플릿 사용자 지정](customize-template.md) 지침에 따라 GenStudio for Performance Marketing에서 사용할 준비가 되어 있는지 확인하십시오.
+템플릿을 업로드하기 전에 [템플릿 사용자 지정](customize-template.md)의 안내에 따라 GenStudio for Performance Marketing에서 사용할 수 있도록 완전히 준비되었는지 확인하십시오.
 
 **템플릿을 추가하려면**:
 
@@ -86,7 +100,7 @@ _[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경�
 
 1. 템플릿 미리 보기에 만족하면 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
 
-1. _[!UICONTROL 템플릿 세부 정보 제공 및 업로드]_ 창에서 템플릿 이름을 지정하고 **[!UICONTROL 채널]** 유형을 선택하십시오.
+1. _[!UICONTROL 템플릿 세부 정보 제공 및 업로드]_&#x200B;에서 템플릿 이름을 지정하고 **[!UICONTROL 채널]** 유형을 선택하십시오.
 
    템플릿 이름 및 채널 유형은 필수입니다. 추가 요구 사항은 다음과 같습니다.
 
