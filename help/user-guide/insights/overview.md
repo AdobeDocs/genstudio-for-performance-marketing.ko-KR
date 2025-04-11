@@ -4,9 +4,9 @@ description: 실시간 콘텐츠 성능 지표를 기반으로 광고를 최적�
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: c1c595f3be42b86d0e0aebd42c9c50c9d9aa4cdc
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,12 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 - **가장 효과적인 콘텐츠 식별**: 다양한 대상자에게 가장 적합한 콘텐츠를 선택하고 트렌드 환경 설정을 위해 향후 콘텐츠나 캠페인을 사용자 지정합니다.
 - **성과가 낮은 콘텐츠 최적화**: 성과가 좋지 않은 콘텐츠를 찾아 통합 생성 AI를 사용하여 즉시 변형을 만들어 처음부터 새로 시작하지 않고도 효과를 향상시킬 수 있습니다.
 - **성과가 좋은 콘텐츠 활성화**: 콘텐츠를 성공적으로 가져와서 수정하여 대상자를 위한 광고를 새로 고치거나 새로운 캠페인에 사용할 영웅 콘텐츠를 조정하여 수명 주기와 성능을 확장할 수 있습니다.
+
+## Data connectors
+
+[!DNL Insights]을(를) 처음 열면 Adobe GenStudio for Performance Marketing과 채널 계정을 연결할 수 있도록 안내하는 배너가 표시될 수 있습니다.
+
+이 연결을 통해 GenStudio for Performance Marketing은 활성 마케팅 캠페인, 미디어 및 광고에서 통계 데이터를 받을 수 있습니다. 처음에 GenStudio for Performance Marketing은 최근 6개월의 데이터를 수집하므로 최신 데이터를 분석하고 조치를 취할 수 있는 도구가 제공됩니다.
 
 {{connect-insights}}
 
@@ -35,7 +41,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 
 ### 채널
 
-[[!DNL Insights] _[!UICONTROL 채널&#x200B;]_보기](channels.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](connect-channel.md)하세요.
+[[!DNL Insights] _[!UICONTROL 채널&#x200B;]_보기](channels.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](/help/user-guide/connectors/connect-channel.md)하세요.
 
 ### 광고
 

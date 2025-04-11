@@ -1,22 +1,22 @@
 ---
-title: 메타 광고 활성화
+title: Meta 광고 활성화
 description: 메타 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1372'
 ht-degree: 1%
 
 ---
 
 # 메타 광고 활성화
 
-Adobe GenStudio for Performance Marketing은 Instagram 및 Facebook에 대한 메타 광고 또는 광고 활성화를 지원합니다.
+퍼포먼스 마케팅을 위한 Adobe Systems GenStudio는 Instagram 및 Facebook에서 Meta 광고 또는 크리에이티브를 활성화할 수 있도록 지원합니다.
 
-GenStudio for Performance Marketing에서 [메타 경험을 만들기](/help/user-guide/create/create-meta-ad.md)하고 활성화하도록 선택하거나 [!DNL Activate]의 승인된 자산에서 새 경험을 만들 수 있습니다.
+퍼포먼스 마케팅을 위해 GenStudio에서 Meta 경험을 생성하고 활성화를 위해 선택하거나, 에서 [!DNL Activate]승인된 자산으로 새 경험](/help/user-guide/create/create-meta-ad.md)을 구성할 수 있습니다[.
 
-메타 광고를 활성화하면 다른 유료 채널을 활성화하는 데 필요한 [동일한 일반 단계](create-activation.md)를 따릅니다. 활성화 프로세스는 메타의 특정 요구 사항에 대한 광고 경험 준비를 지원합니다. GenStudio for Performance Marketing에서 메타 경험 또는 크리에이티브를 활성화한 후 최종 게시하기 전에 [메타 광고 관리자](https://adsmanager.facebook.com/)를 사용하여 특정 메타 광고 배치에 맞게 경험을 미세 조정하십시오.
+Meta 광고 활성화는 다른 유료 채널로 활성화하는 데 필요한 것과 동일한 일반적인 단계를](create-activation.md) 따릅니다[. 활성화 프로세스는 Meta의 특정 요구 사항에 맞게 광고 경험을 준비하는 데 도움이 됩니다. 퍼포먼스 마케팅을 위해 GenStudio에서 Meta 경험 또는 크리에이티브를 활성화한 후 Meta 광고 관리자를](https://adsmanager.facebook.com/) 사용하여 [최종 게시 전에 특정 Meta 광고 노출 위치에 대한 경험을 세밀하게 조정하세요.
 
 ## 1단계: 메타 계정 설정
 
@@ -33,13 +33,7 @@ GenStudio for Performance Marketing에서 [메타 경험을 만들기](/help/use
 
 조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 메타 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio과 메타와 같은 외부 마케팅 도구 간에 데이터를 흐르게 하여 활성화 프로세스를 활성화할 수 있습니다.
 
-**메타 계정에 GenStudio for Performance Marketing 연결**:
-
-1. _설정_&#x200B;에서 메타 광고 타일의 **[!UICONTROL 연결]**&#x200B;을 클릭합니다. _메타 광고 계정_ 보기가 열립니다.
-
-1. 메시지가 표시되면 브라우저에서 **[!UICONTROL 팝업 허용]**&#x200B;을 선택합니다.
-
-1. 연결할 광고 계정을 하나 이상 선택한 다음 **[!UICONTROL 선택]**&#x200B;을 클릭합니다.
+[메타(Facebook) 계정에 연결](/help/user-guide/connectors/connect-channel.md#meta-ads-connect)을 참조하십시오.
 
 동기화가 완료되면 추가된 계정을 볼 수 있습니다. 대량의 데이터를 동기화하는 데 시간이 더 오래 걸립니다.
 
@@ -68,7 +62,7 @@ _미디어_ 섹션을 사용하여 경험에 포함할 하나 이상의 이미�
 
 **콘텐츠에서 에셋을 업로드하려면**:
 
-_[!DNL Content]_은(는) 조직의 승인된 에셋 및 경험에 대한 중앙 보기를 제공합니다.**[!UICONTROL 검색]**(돋보기) 및_&#x200B;필터&#x200B;_메뉴 옵션을 사용하여[_[!DNL Content]_ 갤러리](/help/user-guide/content/manage-assets.md)에 표시된 자산 인벤토리에 집중할 수 있습니다.
+_[!DNL Content]_조직의 승인된 자산 및 경험을 중앙에서 볼 수 있도록 합니다.**[!UICONTROL 검색]**(돋보기) 및_&#x200B;필터&#x200B;_메뉴 옵션을 사용하여[_[!DNL Content]_ 갤러리](/help/user-guide/content/manage-assets.md)에 표시된 자산 인벤토리에 집중할 수 있습니다.
 
 1. _[!DNL Activate]_에서 메타 광고 타일에서&#x200B;**[!UICONTROL 새로 만들기]**를 클릭합니다._ Creative 설치&#x200B;_보기가 열립니다.
 
@@ -92,15 +86,15 @@ Microsoft OneDrive 또는 Dropbox에서 _[!DNL Content]_갤러리 외부에 있�
 
 1. 이미지 파일을 이미지 업로드 영역으로 끌어다 놓아 지원되는 종횡비의 이미지를 선택합니다. 또는 장치에서 에셋을 검색할 수 있습니다.
 
-1. (선택 사항) 장치에서 에셋을 업로드하려면 **[!UICONTROL 찾아보기]**&#x200B;를 클릭한 다음 _파일 찾아보기_ 또는 _폴더 찾아보기_&#x200B;를 선택하여 업로드할 에셋을 식별합니다.
+1. (선택 사항) 디바이스에서 자산을 업로드하려면 [검색]을 클릭한 **[!UICONTROL 다음 [파일&#x200B;_검색] 또는_[폴더&#x200B;_검색]을 선택하여_업로드할 자산을]** 식별합니다.
 
-1. _세부 정보 추가_ 영역에서 업로드한 자산에 자세한 정보를 추가하여 _[!DNL Content]_에서 검색 및 필터링을 용이하게 합니다. 이러한 세부 사항은 메타데이터로 저장됩니다.
+1. 세부 _사항_ 추가 영역에서 업로드한 자산에 유용한 세부 사항을 추가하여 에서 _[!DNL Content]_쉽게 검색 및 필터링할 수 있도록 합니다. 이러한 세부 정보는 메타데이터 파일로 저장됩니다.
 
-1. 에셋을 업로드하고 세부 정보를 할당하면 오른쪽 하단의 **[!UICONTROL Assets 추가]**&#x200B;를 클릭합니다.
+1. 자산을 업로드하고 세부 사항을 할당했으면 오른쪽 하단의 Assets ]**추가를 클릭합니다**[!UICONTROL .
 
 ### 광고 텍스트 추가
 
-_메타 광고 활성화_ 페이지의 _텍스트_ 섹션을 사용하여 필수 텍스트 필드에 매력적인 브랜드 부착 텍스트를 추가하십시오. 텍스트에는 광고 및 콜 투 액션 텍스트에 대한 기본(본문) 텍스트가 포함됩니다.
+_메타 광고 활성화_ 페이지의 _텍스트_ 섹션을 사용하여 필수 텍스트 필드에 매력적인 브랜드 부착 텍스트를 추가하십시오. 텍스트에는 광고 및 클릭유도문안 텍스트의 기본(본문) 텍스트가 포함됩니다.
 
 | 필드 | 필수 | 문자 제한(최대) |
 |-----------------|---------------------------|---------------------------------|
@@ -138,11 +132,11 @@ _기본 텍스트_ 및 _헤드라인_&#x200B;은(는) 메타가 아닌 GenStudio
 
 | 세부 사항 | 설명 |
 |------------|-------------|
-| 계정 | GenStudio for Performance Marketing에 연결된 메타 계정 |
+| 계정 | 퍼포먼스 마케팅을 위해 GenStudio에 연결된 Meta 계정 |
 | Facebook 페이지 | 경험이 게시되는 Facebook 페이지 |
 | Instagram 계정 | GenStudio for Performance Marketing에 연결된 Instagram 계정 |
-| 캠페인 | 광고 경험이 속한 메타 캠페인 |
-| 광고 집합 | 활성화된 광고 경험이 속한 메타 광고 세트입니다. 설정은 광고의 최종 배치를 결정합니다. |
+| 캠페인 | 광고 경험이 속한 Meta 캠페인 |
+| 광고 세트 | 활성화된 광고 경험이 속하는 메타 광고 세트입니다. 설정에 따라 광고의 최종 배치가 결정됩니다. |
 
 ### 추적 ID
 

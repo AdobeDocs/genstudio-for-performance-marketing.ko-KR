@@ -6,7 +6,7 @@ level: Experienced
 role: Admin, Data Architect
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -19,7 +19,7 @@ GenStudio for Performance Marketing은 [!DNL Insights]을(를) 지원하는 지�
 
 ## 데이터 연결
 
-GenStudio for Performance Marketing은 CJA(Customer Journey Analytics)를 사용하여 하나 이상의 AEP 데이터 세트에 대한 연결을 만들어 여러 데이터 소스를 집계합니다. CJA는 이러한 데이터 연결을 사용하여 [!DNL Insights]을(를) 사용하여 지표를 분석하기 위한 데이터 보기를 만듭니다.
+GenStudio for Performance Marketing은 Customer Journey Analytics(CJA)를 사용하여 하나 이상의 AEP 데이터 세트에 대한 연결을 만들어 여러 데이터 소스를 집계합니다. CJA은 이러한 데이터 연결을 사용하여 [!DNL Insights]을(를) 사용하여 지표를 분석하기 위한 데이터 보기를 만듭니다.
 
 >[!BEGINSHADEBOX]
 
@@ -47,4 +47,4 @@ AEP에서 데이터 구성 요소를 삭제하기 전에 _Customer Journey Analy
 
 GenStudio for Performance Marketing은 13개월 동안 채널 데이터를 유지합니다. 이 보존 정책에는 초기 연결 중에 수집된 6개월 동안의 데이터가 포함되어 있으므로 포괄적인 내역 데이터 분석 및 보고를 보장합니다.
 
-[채널 광고 계정 연결](/help/user-guide/insights/connect-channel.md)을 참조하세요.
+[채널 광고 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
