@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,8 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
 **LinkedIn 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL LinkedIn]**&#x200B;을(를) 클릭합니다._섹션.
-1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL LinkedIn]**을(를) 클릭합니다.
+1. _필터_ 옆의 검색 옵션을 사용하여 특정 템플릿을 찾습니다.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
    이 작업을 수행하면 콘텐츠 작성의 중앙 허브인 캔버스가 열립니다.

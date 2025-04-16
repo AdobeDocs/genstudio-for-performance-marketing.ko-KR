@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1102'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 **메타 광고 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 메타 광고]**&#x200B;를 클릭합니다._섹션.
-1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 메타 광고]**를 클릭합니다.
+1. 특정 메타 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭하세요.
 
    이 작업을 수행하면 콘텐츠 작성의 중앙 허브인 캔버스가 열립니다.

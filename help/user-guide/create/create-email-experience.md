@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 **전자 메일 서식 파일을 선택하려면**:
 
-1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 전자 메일]**&#x200B;을(를) 클릭합니다._섹션.
-1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 전자 메일]**을 클릭하세요.
+1. 특정 전자 메일 서식 파일을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 전자 메일 서식 파일을 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
    콘텐츠 생성의 중심인 캔버스(Canvas)가 나타납니다.

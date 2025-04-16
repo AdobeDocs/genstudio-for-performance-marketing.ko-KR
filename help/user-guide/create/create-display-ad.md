@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 **디스플레이 광고 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 광고 표시]**&#x200B;를 클릭합니다. 오늘은 무엇을 만드시겠습니까?_섹션.
-1. 특정 템플릿을 찾으려면 [검색 및 _필터_ 옵션](/help/user-guide/content/use-templates.md#search-templates)을 사용하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 광고 표시]**를 클릭합니다.
+1. 특정 디스플레이 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. _템플릿 선택_ 보기에서 디스플레이 광고 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 

@@ -5,10 +5,10 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: beeaa7e9b434321b99c58827ea0ca62e31e114a5
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 19%
+source-wordcount: '202'
+ht-degree: 22%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 19%
    + [제품](guidelines/products.md)
    + [지침 추가](guidelines/add-guidelines.md)
    + [브랜드 유효성 검사](guidelines/brand-validation.md)
-+ {#create} 만들기
++ 만들기 {#create}
    + [[!DNL Create] 개요](create/overview.md)
    + [전자 메일 환경](create/email-experiences.md)
    + [메타 경험](create/meta-experiences.md)
@@ -46,7 +46,8 @@ ht-degree: 19%
    + [LinkedIn 경험 만들기](create/create-linkedin.md)
    + [디스플레이 광고 경험 만들기](create/create-display-ad.md)
    + [배너 경험 만들기](create/create-banner-experience.md)
-+ 리뷰 및 승인 {#approve}
+   + [이미지 생성](create/generate-assets.md)
++ 검토 및 승인 {#approve}
    + [검토 및 승인 개요](approvals/overview.md)
    + [콘텐츠 검토 및 승인 요청](approvals/request-review.md)
    + [콘텐츠 검토 및 편집](approvals/review-and-edit.md)
@@ -71,13 +72,13 @@ ht-degree: 19%
    + [메타 광고 활성화](activation/activate-meta-ad.md)
    + [활성화 관리](activation/manage-activations.md)
    + [활성화 최적화](activation/troubleshooting.md)
-+ 인사이트 {#insights}
++ Insights {#insights}
    + [인사이트 개요](insights/overview.md)
    + [채널](insights/channels.md)
    + [광고 및 광고 배치](insights/ads.md)
    + [미디어](insights/media.md)
    + [속성](insights/attributes.md)
-   + 특성 범주 {#categories}
+   + 속성 범주 {#categories}
       + [이미지 기능](insights/image-features.md)
       + [비디오 기능](insights/video-features.md)
       + [텍스트 기능](insights/text-features.md)
