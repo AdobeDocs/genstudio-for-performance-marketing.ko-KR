@@ -5,10 +5,10 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
+source-git-commit: 291b287fec24acaa7b6be6bd663d918842764bd9
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 22%
+source-wordcount: '209'
+ht-degree: 21%
 
 ---
 
@@ -69,6 +69,7 @@ ht-degree: 22%
 + 활성화 {#activation}
    + [활성화 개요](activation/overview.md)
    + [활성화 워크플로](activation/create-activation.md)
+   + [Google Campaign Manager 360 광고 활성화](activation/activate-cm360-ad.md)
    + [메타 광고 활성화](activation/activate-meta-ad.md)
    + [활성화 관리](activation/manage-activations.md)
    + [활성화 최적화](activation/troubleshooting.md)

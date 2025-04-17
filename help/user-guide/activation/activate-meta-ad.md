@@ -3,9 +3,9 @@ title: 메타 광고 활성화
 description: 메타 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
+source-git-commit: 19f36badd66a5dc90585b4399b87230847474a81
 workflow-type: tm+mt
-source-wordcount: '1372'
+source-wordcount: '1356'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing은 Instagram 및 Facebook에 대한 �
 
 GenStudio for Performance Marketing에서 [메타 경험을 만들기](/help/user-guide/create/create-meta-ad.md)하고 활성화하도록 선택하거나 [!DNL Activate]의 승인된 자산에서 새 경험을 만들 수 있습니다.
 
-메타 광고를 활성화하면 다른 유료 채널을 활성화하는 데 필요한 [동일한 일반 단계](create-activation.md)를 따릅니다. 활성화 프로세스는 메타의 특정 요구 사항에 대한 광고 경험 준비를 지원합니다. GenStudio for Performance Marketing에서 메타 경험 또는 크리에이티브를 활성화한 후 최종 게시하기 전에 [메타 광고 관리자](https://adsmanager.facebook.com/)를 사용하여 특정 메타 광고 배치에 맞게 경험을 미세 조정하십시오.
+메타 광고를 활성화하면 다른 유료 채널을 활성화하는 데 필요한 [동일한 일반 단계](create-activation.md)를 따릅니다. 활성화 프로세스는 Meta의 특정 요구 사항에 대한 광고 경험에서 크리에이티브를 준비할 수 있도록 지원합니다. GenStudio for Performance Marketing에서 메타 경험 또는 크리에이티브를 활성화한 후 최종 게시하기 전에 [메타 광고 관리자](https://adsmanager.facebook.com/)를 사용하여 특정 메타 광고 배치에 맞게 경험을 미세 조정하십시오.
 
 ## 1단계: 메타 계정 설정
 
@@ -107,7 +107,7 @@ _메타 광고 활성화_ 페이지의 _텍스트_ 섹션을 사용하여 필수
 | 웹 사이트 URL | 예 | 1000 |
 | 이미지 | 필요한 항목 하나 이상 |                                 |
 
-_기본 텍스트_ 및 _헤드라인_&#x200B;은(는) 메타가 아닌 GenStudio for Performance Marketing에만 필요합니다.
+GenStudio for Performance Marketing에는 메타가 아닌 _기본 텍스트_ 및 _헤드라인_&#x200B;이 필요합니다.
 
 ### 메타데이터 할당
 
@@ -148,10 +148,10 @@ _기본 텍스트_ 및 _헤드라인_&#x200B;은(는) 메타가 아닌 GenStudio
 
 _검토_ 페이지에는 광고 경험이 _Creative 설정_&#x200B;에 조합되어 표시되고 환경을 보고 편집할 수 있는 마지막 기회가 제공됩니다. 변경하려면 _Creative 설치_ 레이블 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭하세요. 오른쪽 상단의 **[!UICONTROL 뒤로]**&#x200B;를 클릭하여 _Creative 설정_ 페이지로 돌아갈 수도 있습니다.
 
-### 광고 경험 전체 활성화
+### 6단계: 광고 경험 활성화 완료
 
-**[!UICONTROL 게시]**&#x200B;를 클릭합니다. 전체 메타 광고 경험과 관련 메타데이터는 선택한 메타 광고 관리자 광고 세트에 직접 푸시됩니다. 경험은 비활성화된 메타 광고 관리자에 전달됩니다. 메타 광고 관리자에서 광고 경험과 메타 캠페인을 배포하는 최종 단계를 관리할 수 있습니다.
+1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
-### 메타 광고 관리자에 로그인하여 활성화 완료
+   전체 메타 광고 경험과 관련 메타데이터는 선택한 메타 광고 관리자 광고 세트에 직접 푸시됩니다. 경험은 비활성 상태인 메타 광고 관리자에게 전달됩니다. 메타 광고 관리자에서 광고 경험과 메타 캠페인을 배포하는 최종 단계를 관리할 수 있습니다.
 
-활성화가 완료되면 Meta Ads Manager에 로그인해야 합니다. [메타 광고 관리자](https://adsmanager.facebook.com/)에서 광고 경험을 검토하고 특정 메타 채널에 대한 게시를 완료할 수 있습니다.
+1. [메타 광고 관리자에 로그인](https://adsmanager.facebook.com/)하여 광고 경험을 검토하고 특정 메타 채널에 대한 게시를 완료합니다.
