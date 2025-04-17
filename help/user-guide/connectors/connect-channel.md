@@ -5,9 +5,9 @@ level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 2844914d25d9bc3a2be7f47d0cd7f26f7c921555
+source-git-commit: af354448ef609db3c51026ee0e9991ac5cedeba5
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,31 @@ _[!DNL Data connectors]_을(를) 사용하면 GenStudio for Performance Marketin
 ## 유료 미디어 연결
 
 GenStudio for Performance Marketing은 선호하는 마케팅 플랫폼과 통합하기 위해 다양한 커넥터 유형을 지원합니다. 각 커넥터 유형에는 성공적인 연결을 위해 완료하기 위한 특정 사전 요구 사항 및 설정 단계가 있습니다.
+
+### Google Campaign Manager 360 연결
+
+>[!BEGINSHADEBOX]
+
+**필수 구성 요소**:
+
+- Google Campaign Manager 360 계정
+- 브라우저에서 팝업 차단기 제거
+
+>[!ENDSHADEBOX]
+
+**Google Campaign Manager 360 계정에 연결하려면**:
+
+1. _Data Connectors_ 섹션의 _Google Campaign Manager 360_ 카드에서 **[!UICONTROL 연결]**&#x200B;을 클릭합니다.
+
+1. Google Campaign Manager 360 계정에 로그인합니다.
+
+   팝업 차단기를 제거한 다음 **[!UICONTROL 새로 고침]**&#x200B;을 사용하여 다시 시도할 수 있습니다.
+
+1. 사용 약관을 읽고 **[!UICONTROL 허용]**&#x200B;을 클릭하여 액세스 권한을 부여합니다.
+
+1. _[!UICONTROL Google 캠페인 관리자 360]_ 보기에서 하나 이상의 광고주를 선택하고 **[!UICONTROL 선택]**&#x200B;을 클릭합니다.
+
+_[!UICONTROL Google Campaign Manager 360 계정]_ 보기에는 `Account name`, `Added by`, `Date added` 및 `Status`이(가) 나열됩니다. **[!UICONTROL 계정 추가]**&#x200B;를 사용하여 목록에 계정을 더 추가하십시오.
 
 ### 메타 광고 연결
 
