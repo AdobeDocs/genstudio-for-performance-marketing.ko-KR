@@ -4,10 +4,10 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 2f5c79c8a339b10305a8c06f7036dd7182937cc5
+source-git-commit: c51afb3decac43f3a71d5859ba4296a8c09730d7
 workflow-type: tm+mt
-source-wordcount: '2198'
-ht-degree: 1%
+source-wordcount: '2252'
+ht-degree: 0%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 1%
 * 템플릿에 대한 새로운 필터 옵션! 이제 [!DNL Create] 및 _[!UICONTROL 콘텐츠]_ > _[!UICONTROL 템플릿]_&#x200B;에서 _[!UICONTROL 템플릿 선택]_ 목록을 개선할 수 있습니다. [템플릿 검색](/help/user-guide/content/use-templates.md#search-templates)을 참조하세요. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
 * 콘텐츠 재생성이나 이미지 자르기 등 수정 시 강조할 수 있도록 경험의 [개별 레이어(편집 가능한 텍스트 필드 또는 편집 가능한 이미지)를 보고 선택하는 기능을 활성화했습니다](/help/user-guide/create/manage-variants.md#view-layers).
 * 대상자의 관심을 끌고 마케팅 메시지를 강조하기 위해 경험의 추가 텍스트에 대해 [새 템플릿 필드](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`을(를) 추가했습니다.
+* GenStudio for Performance Marketing에서 Google Campaign Manager 360으로 [광고 경험 게시](/help/user-guide/activation/overview.md)에 대한 지원을 추가했습니다. [활성화]는 Campaign Manager 360 광고주에게 게시하기 전에 자세한 Google Campaign Manager 360 광고 미리보기를 지원합니다. [활성화]를 통해 게시된 광고는 라이브가 되면 자동으로 Insights로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
 
 ## 이전 릴리스 노트
 
