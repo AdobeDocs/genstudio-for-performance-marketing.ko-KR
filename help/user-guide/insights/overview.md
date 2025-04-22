@@ -1,17 +1,17 @@
 ---
-title: ' [!DNL Insights] 개요'
+title: Insights 개요
 description: 실시간 콘텐츠 성능 지표를 기반으로 광고를 최적화하는 방법을 알아봅니다.
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: c1c595f3be42b86d0e0aebd42c9c50c9d9aa4cdc
+source-git-commit: 42a211956854126798024a97fc0befc3626160b7
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio for Performance Marketing [!DNL Insights]
+# Adobe GenStudio for Performance Marketing Insights
 
 Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기반 결정을 내리는 데 도움이 되는 콘텐츠 성능에 대한 고급 분석 및 통찰력을 제공합니다.
 

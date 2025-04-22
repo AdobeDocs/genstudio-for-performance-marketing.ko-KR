@@ -4,7 +4,7 @@ description: GenStudio for Performance Marketing에 사용되는 속성 범주�
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: c742fb33a04b36da35036a4554a475141fce8b01
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 1%
@@ -44,9 +44,9 @@ GenStudio for Performance Marketing의 오디오 감지에는 다양한 속성�
 | 범주 | 설명 | 예 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | 오디오 무드 | `calm`, `upbeat` 또는 `tense`과(와) 같은 오디오 트랙의 전반적인 감정 톤 또는 분위기를 결정합니다. | `Energetic`, `Happy`, `Emotional Ambient/atmospheric`, `Relaxing`, `Dramatic`, `Expressive/characterful`, `Intense`, `Slow`, `Neutral` |
-| 오디오 유형 | 하나 이상의 오디오 유형(예: `music` 또는 `speech`)이 있는 비디오에 태그를 지정합니다. | `Music`, `Speech`, `Silence`, `Special effects`, `Ambience` |
+| 오디오 유형 | 하나 이상의 오디오 콘텐츠 형식(예: `music` 또는 `speech`)이 있는 비디오에 태그를 지정합니다. | `Music`, `Speech`, `Silence`, `Special effects`, `Ambience` |
 | 범주 | 비디오를 하나 이상의 광범위한 콘텐츠 카테고리로 분류합니다. | `Entertainment`, `Sports`, `Music`, `Gaming`, `Howto tutorials`, `Fashion and style`, `Film and animation`, `Science and technology`, `Autos and vehicles`, `Pets and animals`, `People and blogs`, `News and politics`, `Social causes and activism`, `Travel and events`, `Education`, `Sales and offers` |
-| 음악 카테고리 | 비디오에 음악이 있는 경우 음악 장르의 광범위한 분류. `contemporary` 또는 `traditional` 스타일과 같은 일반적인 음악 형식을 식별하는 데 도움이 됩니다. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
+| 음악 카테고리 | 비디오에 음악이 있는 경우 음악 장르의 광범위한 분류. 장르는 `contemporary` 또는 `traditional` 스타일과 같은 일반적인 음악 형식을 식별하는 데 도움이 됩니다. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
 | 음악 장르 | 비디오에 음악이 있는 경우 음악 스타일의 특정 분류로, `electronic` 또는 `jazz`과 같이 음악에 대한 보다 자세한 식별을 제공합니다. | `electronic`, `hip-hop`, `dance`, `novelty`, `rock`, `world`, `reggae`, `pop`, `film`, `jazz`, `background`, `latin` |
 | 오브젝트 | 비디오에 나타나는 하나 이상의 항목, 엔티티 및 요소를 식별합니다. | 값이 너무 많지만 `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` 등이 있습니다. |
 | 방향 | 폭 및 높이를 기준으로 한 비디오 맞춤입니다. 큰 키보다 넓은지(가로), 넓은 키보다 큰지(세로) 또는 폭과 높이가 같은지(사각형) 여부를 검색합니다. | `landscape`, `portrait`, `square` |
