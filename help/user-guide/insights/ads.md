@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing의 광고 및 광고 배�
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: b4e0892af62be754f7b596537125458fc28930f3
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '1277'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 _[!UICONTROL Ads]_ 테이블은 [!UICONTROL 광고 이름]을 사용하여 구성됩니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다. 모든 필터를 제거하려면 표 위에서 **[!UICONTROL 모두 지우기]**&#x200B;를 선택하십시오.
 
 ![광고 필터 및 테이블](/help/assets/insights-ads-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 

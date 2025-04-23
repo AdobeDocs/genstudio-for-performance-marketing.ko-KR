@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing에서 특정 속성의 �
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: a7241193b38a45dbd927269d65c1edac05cab002
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 0%
@@ -22,6 +22,8 @@ _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 �
 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다. 모든 필터를 제거하려면 표 위에서 **[!UICONTROL 모두 지우기]**&#x200B;를 선택하십시오.
 
 ![특성 필터 및 테이블](/help/assets/insights-attributes-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 

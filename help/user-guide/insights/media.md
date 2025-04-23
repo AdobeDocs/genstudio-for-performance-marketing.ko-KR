@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing에서 미디어 성능을
 level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: a7241193b38a45dbd927269d65c1edac05cab002
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 _[!UICONTROL Media]_ 테이블은 **[!UICONTROL 미디어 ID]**&#x200B;을(를) 사용하여 구성되었습니다. 뷰 목록(테이블) 아이콘과 갤러리 뷰(그리드) 아이콘을 사용하여 뷰 사이를 전환할 수 있습니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다. 모든 필터를 제거하려면 표 위에서 **[!UICONTROL 모두 지우기]**&#x200B;를 선택하십시오.
 
 ![미디어 필터 및 테이블](/help/assets/insights-media-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 
