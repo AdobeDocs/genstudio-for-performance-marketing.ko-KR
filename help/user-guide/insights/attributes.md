@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing에서 특정 속성의 �
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
+source-git-commit: c619f092d0f64ca6d847f058e343578d0b22a3d6
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '876'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,20 @@ ht-degree: 0%
 
 _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 구성됩니다. **[!UICONTROL 이미지]** 단추와 **[!UICONTROL 비디오]** 단추를 사용하여 목록 형식 간에 전환할 수 있습니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다.
 
-테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다. 모든 필터를 제거하려면 표 위에서 **[!UICONTROL 모두 지우기]**&#x200B;를 선택하십시오.
-
 ![특성 필터 및 테이블](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
 {{empty-table}}
+
+## 필터 속성
+
+테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 목록을 선택할 수 있습니다. 캠페인 및 광고의 키워드 필터에 대한 자세한 내용은 [미디어 필터링](/help/user-guide/insights/media.md#filter-media)을 참조하세요.
+
+
+>[!NOTE]
+>
+>적용된 필터가 [!DNL Insights]의 모든 보기에서 유지됩니다. 선택한 필터를 모두 제거하려면 광고 테이블 또는 갤러리 위에서 **[!UICONTROL 모두 지우기]**&#x200B;를 선택하십시오.
+
+### 테이블 결과 다운로드
 
 {{$include /help/_includes/download-insights.md}}
 
@@ -37,7 +46,7 @@ _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 �
 
 GenStudio for Performance Marketing은 특정 기능을 감지하고 적절한 속성을 미디어 콘텐츠 또는 광고에 태그로 적용합니다. 이러한 태그의 예는 [범주](#categories)을 참조하세요. 광고와 관련된 모든 특성을 보려면 표 오른쪽 위의 cog(설정) 아이콘을 클릭하여 **[!UICONTROL 특성]** 열을 선택합니다.
 
-## 범주
+## 카테고리
 
 _category_ 특성은 일반적인 특성을 공유하는 관련 특성을 구성하는 분류 그룹입니다. 이러한 범주는 컨텍스트를 확대하고 애플리케이션 및 사용을 촉진하여 특정 속성을 보다 효율적으로 검색, 식별 및 이해하는 데 도움이 됩니다.
 
