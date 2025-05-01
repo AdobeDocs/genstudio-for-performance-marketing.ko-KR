@@ -3,7 +3,7 @@ title: App Builder 앱 배포
 description: GenStudio for Performance Marketing용 App Builder 앱 또는 추가 기능을 배포합니다.
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
-source-git-commit: 52e8e078bc013fe686b5cc2105089f7098cce575
+source-git-commit: 6fef5933421a56cf9f77c19bc198f017ee6c117e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,6 @@ ht-degree: 0%
 # 앱 배포
 
 앱을 실행하면 추가 기능을 배포하기 전에 추가 기능 동작에 대한 사전 스냅숏이 제공됩니다. 이 정보는 디버깅을 용이하게 할 수 있습니다. 승인을 위해 앱을 다시 제출하지 않고 배포된 앱을 강제로 빌드 및 배포할 수 있습니다.
-
 
 **앱을 실행하려면**:
 
