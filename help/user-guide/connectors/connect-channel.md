@@ -5,9 +5,9 @@ level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: af354448ef609db3c51026ee0e9991ac5cedeba5
+source-git-commit: cf4be61925761c9630cb8ea5c995d017b3938a31
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -59,12 +59,32 @@ _[!UICONTROL Google Campaign Manager 360 계정]_ 보기에는 `Account name`, `
 
 ### 메타 광고 연결
 
+_Meta Business_ 프로필을 GenStudio for Performance Marketing에 연결하면 비즈니스 페이지, Meta Ads 계정 및 기타 Meta 에셋의 광고 데이터에 원활하게 액세스할 수 있습니다.
+
 >[!BEGINSHADEBOX]
 
 **필수 구성 요소**:
 
-- Facebook/Meta ads 계정
-- 보고서에 액세스하고 광고를 보기 위해 권한 수준이 `View performance`인 메타 광고 계정에 액세스
+- Meta Ads 계정 및 Facebook 비즈니스 프로필과 같은 모든 Meta 서비스에 액세스할 수 있는 Facebook/Meta 로그인
+- 보고서에 액세스하고 광고를 보기 위해 권한 수준이 `View performance`인 메타 광고 계정에 액세스하십시오. 여기에는 다음이 포함됩니다
+   - [!DNL Insights]에 필요한 권한:
+
+      - `pages_show_list`
+      - `ads_read`
+      - `ads_management`
+      - `pages_read_engagement`
+
+   - [!DNL Activate]에 필요한 권한:
+
+      - `ads_management`
+      - `ads_read`
+      - `business_management`
+      - `instagram_basic`
+      - `instagram_content_publish`
+      - `pages_manage_ads`
+      - `pages_manage_posts`
+      - `pages_show_list`
+
 - 브라우저에서 팝업 차단기 제거
 
 >[!ENDSHADEBOX]
@@ -77,19 +97,26 @@ _[!UICONTROL Google Campaign Manager 360 계정]_ 보기에는 `Account name`, `
 
    팝업 차단기를 제거한 다음 **[!UICONTROL 새로 고침]**&#x200B;을 사용하여 다시 시도할 수 있습니다.
 
-1. Facebook 인증 지침을 따릅니다.
+1. Facebook 인증 지침을 따라 계정 정보를 확인하고 **[!UICONTROL 다음 계정으로 계속...]**&#x200B;을 클릭합니다.
 
-1. _[!UICONTROL 비즈니스용 Facebook 로그인]_ 팝업(Adobe 기호에 대한 메타)에서 다음 선택 사항을 살펴보십시오.
+1. _[!UICONTROL 비즈니스용 Facebook 로그인]_(Adobe 기호에 대한 메타)에서, 다음 선택 사항을 단계별로 진행하여 GenStudio for Performance Marketing 액세스 권한을 부여합니다.
 
-   - 계정 정보를 확인하고 **[!UICONTROL 다음 계정으로 계속]**&#x200B;을 클릭합니다.
-   - 선택한 페이지에 대한 액세스 권한을 부여하고 **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
-   - 선택한 회사에 대한 액세스 권한을 부여하고 **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
-   - 하나 이상의 Instagram 계정을 선택하고 **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
+   - 하나 이상의 메타 비즈니스 프로필을 선택하고 **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
+   - 하나 이상의 메타 페이지를 선택하고 **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
+   - Instagram 계정을 하나 이상 선택하고 **[!UICONTROL 계속]**&#x200B;을 클릭합니다.
    - 선택 항목을 검토하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-1. _[!UICONTROL 메타 광고]_ 보기에서 계정을 하나 이상 선택하고 **[!UICONTROL 선택]**&#x200B;을 클릭합니다.
+1. 계정이 연결되어 있는지 확인받으면 **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
 
-_[!UICONTROL 메타 광고 계정]_ 보기에는 `Account name`, `Added by`, `Date added` 및 `Status`이(가) 나열됩니다. **[!UICONTROL 계정 추가]**&#x200B;를 사용하여 목록에 계정을 더 추가하십시오.
+   이 단계에서는 GenStudio for Performance Marketing이 최적의 성능을 위해 모든 광고, 메타데이터 및 지표에 액세스할 수 있도록 합니다.
+
+1. _[!UICONTROL 메타 광고]_&#x200B;에서 [!DNL Insights]에 포함할 계정을 하나 이상 선택하고 **[!UICONTROL 선택]**&#x200B;을 클릭합니다.
+
+1. _연결된 플랫폼_ 확인을 받으면 **[!UICONTROL 계정 보기]**&#x200B;를 클릭합니다.
+
+   _[!UICONTROL 메타 광고 계정]_ 보기에는 `Account name`, `Added by`, `Date added` 및 `Status`이(가) 나열됩니다.
+
+**[!UICONTROL 계정 추가]**&#x200B;를 사용하여 목록에 계정을 더 추가하십시오. 동일한 Meta Business 프로필에 연결된 계정을 추가할 때 인증 흐름이 약간 다를 수 있습니다. 연결 프로세스 중에 새 메타 광고 계정만 선택합니다.
 
 ## 데이터 수집
 
