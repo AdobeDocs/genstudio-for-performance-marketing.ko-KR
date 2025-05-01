@@ -3,7 +3,7 @@ title: 활성화 관리
 description: Adobe GenStudio for Performance Marketing으로 활성화된 경험을 관리하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: f6e0d0138f30527a1fdf7bef6fc4c30884316e0e
+source-git-commit: 9efa42bac9e5623ace963d0de19eeb24467b69d8
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%

@@ -3,7 +3,7 @@ title: App Builder 프로젝트를 만들어 GenStudio for Performance Marketing
 description: 앱 또는 추가 기능에 대한 App Builder 프로젝트를 만듭니다.
 feature: Extensibility
 exl-id: 502b6dd5-68ac-4392-bba3-3ab8cd9eefc2
-source-git-commit: 52e8e078bc013fe686b5cc2105089f7098cce575
+source-git-commit: 9efa42bac9e5623ace963d0de19eeb24467b69d8
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 1%
