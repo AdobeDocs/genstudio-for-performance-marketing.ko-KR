@@ -16,7 +16,7 @@ ht-degree: 57%
 # 성과 마케팅을 위한 Adobe GenStudio 확장성 안내서 {#ext-guide}
 
 + [확장성 안내서](home.md)
-+ {#get-started} 시작
++ 시작{#get-started}
    + [개요](overview.md)
 + 앱 개발 {#apps}
    + [App Builder 프로젝트 만들기](create-project.md)

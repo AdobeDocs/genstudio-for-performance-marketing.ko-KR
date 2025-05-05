@@ -19,7 +19,7 @@ GenStudio for Performance Marketing은 지침의 강력한 기능([[!DNL Brands]
 **담당자를 보거나 수정하려면**:
 
 1. 왼쪽 탐색 영역에서 **[!UICONTROL 가상 사용자]**&#x200B;를 클릭합니다.
-1. [개별 세부 정보를 보거나 개인을 수정하려면](add-guidelines.md#manage-personas)_[!DNL Personas]_동작 메뉴를 클릭하고&#x200B;**열기**를 선택합니다.
+1. [개별 세부 정보를 보거나 개인을 수정하려면](add-guidelines.md#manage-personas)_[!DNL Personas]_&#x200B;동작 메뉴를 클릭하고&#x200B;**열기**&#x200B;를 선택합니다.
 1. 지침 범주 텍스트 필드를 클릭하여 가상 사용자 지침을 수정합니다.
 
 GenStudio for Performance Marketing에서 담당자를 추가하거나 수정하는 방법은 [지침 추가](add-guidelines.md)를 참조하세요.

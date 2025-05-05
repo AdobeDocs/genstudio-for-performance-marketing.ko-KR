@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 유료 미디어 계정 연결
 
-_[!DNL Data connectors]_을(를) 사용하면 GenStudio for Performance Marketing과 유료 미디어 네트워크 계정 간에 원활하게 통합할 수 있습니다. 타사 채널 계정에 연결하면 [[!DNL Insights]](/help/user-guide/insights/overview.md)에서 캠페인 성과 지표와 같은 중요한 데이터를 교환할 수 있으며 [[!DNL Activate]](/help/user-guide/activation/overview.md)에서 새로운 광고 배치를 제공할 수 있습니다. 이 통합을 통해 GenStudio for Performance Marketing은 활성 캠페인으로부터 노출, 클릭 수 및 전환 등 중요한 통찰력을 받고 미디어와 광고를 관리할 수 있습니다.
+_[!DNL Data connectors]_&#x200B;을(를) 사용하면 GenStudio for Performance Marketing과 유료 미디어 네트워크 계정 간에 원활하게 통합할 수 있습니다. 타사 채널 계정에 연결하면 [[!DNL Insights]](/help/user-guide/insights/overview.md)에서 캠페인 성과 지표와 같은 중요한 데이터를 교환할 수 있으며 [[!DNL Activate]](/help/user-guide/activation/overview.md)에서 새로운 광고 배치를 제공할 수 있습니다. 이 통합을 통해 GenStudio for Performance Marketing은 활성 캠페인으로부터 노출, 클릭 수 및 전환 등 중요한 통찰력을 받고 미디어와 광고를 관리할 수 있습니다.
 
 **유료 미디어 계정에 연결하려면**:
 

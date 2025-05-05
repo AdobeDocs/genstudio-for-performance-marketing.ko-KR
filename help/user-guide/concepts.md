@@ -39,7 +39,7 @@ GenStudio for Performance Marketing은 Azure OpenAI를 통해 타사 LLM의 GPT 
 
 ## [!DNL Generative Actions]
 
-[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
+[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_&#x200B;은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left

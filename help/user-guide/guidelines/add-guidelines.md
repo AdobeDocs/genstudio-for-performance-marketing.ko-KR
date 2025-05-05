@@ -30,7 +30,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 [!DNL Brand]을(를) 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-a-brand)하거나 [수동으로 브랜드 만들기](#manually-add-brand)하십시오. [향후 콘텐츠 생성에서 사용할 수 있도록  [!DNL Brand]](#publish-brand)을(를) [!DNL Content]에 게시합니다.
 
-왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_패널에서&#x200B;**브랜드 추가**를 선택합니다.
+왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_&#x200B;패널에서&#x200B;**브랜드 추가**&#x200B;를 선택합니다.
 
 >[!TIP]
 >
@@ -95,7 +95,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 [!DNL Brand] 초안을 게시하기 전에 모든 지침 섹션을 클릭하여 채워진 모든 정보를 검토하십시오. 필요에 따라 브랜드 지침을 변경합니다.
 
-_[!DNL Brands]_에서 초안 또는 게시된 [!DNL Brands]은(는) 타일로 표시됩니다. 상태 배지(_&#x200B;게시됨&#x200B;_또는_&#x200B;초안&#x200B;_)와 마지막으로 브랜드를 수정한 시간이 각 타일 하단에 표시됩니다.
+_[!DNL Brands]_&#x200B;에서 초안 또는 게시된 [!DNL Brands]은(는) 타일로 표시됩니다. 상태 배지(_&#x200B;게시됨&#x200B;_또는_&#x200B;초안&#x200B;_)와 마지막으로 브랜드를 수정한 시간이 각 타일 하단에 표시됩니다.
 
 >[!TIP]
 >
@@ -121,7 +121,7 @@ _[!DNL Brands]_에서 초안 또는 게시된 [!DNL Brands]은(는) 타일로 �
 
 ### 브랜드 관리
 
-_[!DNL Brands]_홈에서 이미 만든 브랜드를 클릭하여 관리하거나 게시할 수 있습니다.
+_[!DNL Brands]_&#x200B;홈에서 이미 만든 브랜드를 클릭하여 관리하거나 게시할 수 있습니다.
 
 **브랜드 정보를 보려면** 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭하고 클릭하여 기존 브랜드를 엽니다.
 
@@ -130,7 +130,7 @@ _[!DNL Brands]_홈에서 이미 만든 브랜드를 클릭하여 관리하거나
 1. **[!DNL Brands]**&#x200B;에서 을(를) 클릭하여 정의된 브랜드를 엽니다.
 1. 개별 세부 정보를 보거나 지침을 수정하려면 맨 위에서 [**[!UICONTROL 브랜드 음성 지침]**](brands.md#brand-voice-guidelines), [**[!UICONTROL 이미지 지침]**](brands.md#image-guidelines), [**[!UICONTROL 채널 지침]**](brands.md#channel-guidelines), [**[!UICONTROL 로고]**](brands.md#logos) 또는 [**[!DNL Colors]**](brands.md#colors)을(를) 클릭합니다.
 1. 기존 브랜드의 이름을 바꾸려면 제목을 클릭하고 새 제목을 입력합니다.
-1. 기존 브랜드를 복제하려면 _[!DNL Brands]_작업 메뉴에서&#x200B;**[!UICONTROL 복제]**를 선택하십시오.
+1. 기존 브랜드를 복제하려면 _[!DNL Brands]_&#x200B;작업 메뉴에서&#x200B;**[!UICONTROL 복제]**&#x200B;를 선택하십시오.
    1. _중복 브랜드_ 팝업에 브랜드 이름을 입력하고 **[!UICONTROL 중복 브랜드]**&#x200B;을 클릭합니다.
 
       팝업에서 브랜드가 중복됨을 확인합니다.—&quot;새 브랜드가 생성됨&quot;. 복제된 브랜드는 처음에 _게시 취소_ 모드에 있습니다.
@@ -142,7 +142,7 @@ _[!DNL Brands]_홈에서 이미 만든 브랜드를 클릭하여 관리하거나
 
 담당자를 추가하려면 지침을 선택하고 담당자의 세부 정보를 입력하여 [담당자 가이드를 업로드](#upload-a-persona) 또는 [담당자를 수동으로 생성](#manually-add-persona)하십시오.
 
-왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다. _[!DNL Personas]_패널에서&#x200B;**사용자 추가**를 선택합니다.
+왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다. _[!DNL Personas]_&#x200B;패널에서&#x200B;**사용자 추가**&#x200B;를 선택합니다.
 
 GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상적인 대상자에게 타깃팅할 수 있습니다.
 
@@ -196,11 +196,11 @@ GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 �
    1. **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
    1. 표지 이미지의 위치를 변경하려면 동작 메뉴에서 **[!UICONTROL 위치 변경]**&#x200B;을 클릭하고 이미지를 원하는 위치로 드래그한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_홈으로 다시 이동합니다.
+   만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_&#x200B;홈으로 다시 이동합니다.
 
 ### [!DNL Personas] 관리
 
-_[!DNL Personas]_홈에서 이미 만든&#x200B;[!DNL Persona]**을(를)**열어 편집하거나 검토하거나&#x200B;**담당자를**목록에서 삭제할 수 있습니다.
+_[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나&#x200B;**담당자를**&#x200B;목록에서 삭제할 수 있습니다.
 
 - 기존 담당자를 수정하고 검토하려면 [!DNL Personas] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 - [!DNL Personas] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 담당자를 **삭제**&#x200B;합니다.
@@ -210,7 +210,7 @@ _[!DNL Personas]_홈에서 이미 만든&#x200B;[!DNL Persona]**을(를)**열어
 
 제품을 추가하려면 지침을 선택하고 제품 세부 정보를 입력하여 [제품 가이드를 업로드](#upload-a-product)하거나 [제품을 수동으로 만들기](#manually-add-product)하십시오.
 
-왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다. _[!DNL Products]_패널에서&#x200B;**제품 추가**를 선택합니다.
+왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다. _[!DNL Products]_&#x200B;패널에서&#x200B;**제품 추가**&#x200B;를 선택합니다.
 
 ![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} 추가
 
@@ -264,11 +264,11 @@ GenStudio for Performance Marketing에 [!DNL Product]을(를) 포함하면 특�
    1. **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
    1. 표지 이미지의 위치를 변경하려면 동작 메뉴에서 **[!UICONTROL 위치 변경]**&#x200B;을 클릭하고 이미지를 원하는 위치로 드래그한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL Products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_홈으로 다시 이동합니다.
+   만든 [!DNL Products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_&#x200B;홈으로 다시 이동합니다.
 
 ### [!DNL Products] 관리
 
-_[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**할 수 있습니다.
+_[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**&#x200B;할 수 있습니다.
 
 - 기존 제품을 수정하고 검토하려면 [!DNL Products] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 - [!DNL Products] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 제품을 **삭제**&#x200B;합니다.

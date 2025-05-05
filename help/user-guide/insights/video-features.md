@@ -23,7 +23,7 @@ GenStudio for Performance Marketing의 오디오 감지에는 다양한 속성�
 
 **비디오를 미리 보고 오디오 샘플을 들으려면**:
 
-1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 특성]**보기를 선택하십시오.
+1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 특성]**&#x200B;보기를 선택하십시오.
 
 1. **[!UICONTROL 비디오]**&#x200B;를 선택하여 테이블 보기를 변경합니다.
 

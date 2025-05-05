@@ -50,7 +50,7 @@ _Experience Manager_ 설명서의 [AEM as a Cloud Service에서 자산 승인](h
 
 ## 4단계: 자산 가시성 구성
 
-_[!DNL AEM Assets Content Hub]_구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
+_[!DNL AEM Assets Content Hub]_&#x200B;구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
 
 _Content Hub_ 설명서에서 [AEM as a Cloud Service 사용자 인터페이스 구성](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)을 참조하십시오.
 

@@ -26,7 +26,7 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
 **LinkedIn 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서&#x200B;**[!UICONTROL LinkedIn]**을(를) 클릭합니다.
+1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL LinkedIn]**&#x200B;을(를) 클릭합니다.
 1. _필터_ 옆의 검색 옵션을 사용하여 특정 템플릿을 찾습니다.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -79,7 +79,7 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 **생성된 변형을 수정하려면**:
 
 * **LinkedIn 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **LinkedIn 광고를 수동으로 편집하려면[](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
+* **LinkedIn 광고를 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
 * **콜 투 액션을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.

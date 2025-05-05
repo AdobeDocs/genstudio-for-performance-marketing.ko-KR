@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing을 사용하면 GenStudio 시스템 관리자 및 편집자가 광고 크리에이티브를 Google Campaign Manager 360 플랫폼에 게시할 수 있습니다.
 
-_[!DNL Content]_갤러리 또는_[!DNL Activate]_ 홈에서 Google Campaign Manager 360 광고 환경의 게시를 시작할 수 있습니다.
+_[!DNL Content]_&#x200B;갤러리 또는&#x200B;_[!DNL Activate]_ 홈에서 Google Campaign Manager 360 광고 환경의 게시를 시작할 수 있습니다.
 
 ## 1단계: Google Campaign Manager 360 계정 설정
 
@@ -29,11 +29,11 @@ Campaign Manager 360을 사용하면 마케터가 다른 _광고주_ 내에서 �
 
 ## 3단계: 크리에이티브 콘텐츠 선택
 
-_[!DNL Content]_경험 갤러리 또는_[!DNL Activate]_ 홈에서 게시 프로세스를 시작할 수 있습니다. 승인된 경험은 편집할 수 없습니다. 각 경험에는 한 개의 자산만 포함될 수 있습니다.
+_[!DNL Content]_&#x200B;경험 갤러리 또는&#x200B;_[!DNL Activate]_ 홈에서 게시 프로세스를 시작할 수 있습니다. 승인된 경험은 편집할 수 없습니다. 각 경험에는 한 개의 자산만 포함될 수 있습니다.
 
 **경험을 선택하려면**:
 
-1. _[!DNL Content]_갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음&#x200B;**[!UICONTROL 활성화]**를 클릭합니다. (또는 Google Campaign Manager 360 제품 카드에서&#x200B;**[!UICONTROL 새로 만들기]**를 클릭하여_[!DNL Activate]_&#x200B;에서 환경을 선택할 수 있습니다.)
+1. _[!DNL Content]_&#x200B;갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음&#x200B;**[!UICONTROL 활성화]**&#x200B;를 클릭합니다. (또는 Google Campaign Manager 360 제품 카드에서&#x200B;**[!UICONTROL 새로 만들기]**&#x200B;를 클릭하여&#x200B;_[!DNL Activate]_&#x200B;에서 환경을 선택할 수 있습니다.)
 
    이 경험에 대한 Google Campaign Manager 360 _Creative 설치_ 페이지가 열립니다. 선택한 경험에서 수정할 수 없는 세부 사항으로 미리 채워집니다.
 
@@ -59,7 +59,7 @@ Creative 이름은 GenStudio for Performance Marketing에서 _추적 ID_&#x200B;
 
 _검토_ 페이지에서는 게시하기 전에 광고 환경을 볼 수 있는 마지막 기회를 제공합니다.
 
-_[!DNL Activate]_에서 이 활성화를 시작한 경우_ Creative 설정&#x200B;_레이블 옆에 있는&#x200B;**[!UICONTROL 섹션 편집]**을 클릭하여 변경할 수 있습니다. 오른쪽 상단의&#x200B;**[!UICONTROL 뒤로]**를 클릭하여_ Creative 설정&#x200B;_페이지로 돌아갈 수도 있습니다. 경험 컨텐츠는 편집할 수 없습니다.
+_[!DNL Activate]_&#x200B;에서 이 활성화를 시작한 경우_ Creative 설정&#x200B;_레이블 옆에 있는&#x200B;**[!UICONTROL 섹션 편집]**&#x200B;을 클릭하여 변경할 수 있습니다. 오른쪽 상단의&#x200B;**[!UICONTROL 뒤로]**&#x200B;를 클릭하여_ Creative 설정&#x200B;_페이지로 돌아갈 수도 있습니다. 경험 컨텐츠는 편집할 수 없습니다.
 
 ## 6단계: 광고 경험 게시 완료
 
