@@ -5,9 +5,9 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 291b287fec24acaa7b6be6bd663d918842764bd9
+source-git-commit: 2b4563bfa1738462039ebc6303dbb8ef30019d6a
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 21%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 21%
    + [활성화 최적화](activation/troubleshooting.md)
 + Insights {#insights}
    + [인사이트 개요](insights/overview.md)
+   + [인사이트 필터](insights/filter-views.md)
    + [채널](insights/channels.md)
    + [광고 및 광고 배치](insights/ads.md)
    + [미디어](insights/media.md)

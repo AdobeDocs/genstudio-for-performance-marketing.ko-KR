@@ -1,7 +1,7 @@
 ---
-source-git-commit: 9362ed03a54d5cbd661a2f278096b3a1fd692e36
+source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 >
 >[Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)&#x200B;(으)로 이 주제에 대한 기술을 보강하세요.
 
-## 빈 테이블에 대한 팁 {#empty-table}
+## Tip on filtering tables {#filter-table}
 
 >[!TIP]
 >
->`No results found` 메시지가 표시됩니까? 선택 항목을 수정하거나, 모든 필터를 지우거나, 날짜 범위를 확장하여 필터를 조정합니다.
+>Seeing too many results or a `No results found` message? Adjust filters by modifying selections, clearing all filters, or adjusting the date range. See [Filter for Insights views](/help/user-guide/insights/filter-views.md) to learn about the dynamic and versatile filter capabilities.
