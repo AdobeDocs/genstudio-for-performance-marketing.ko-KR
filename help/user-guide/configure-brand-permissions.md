@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # [!DNL Brand] 권한 할당
 
-기본적으로 GenStudio 시스템 관리자는 [!DNL Brands]을(를) 만들고 편집할 수 있습니다. 콘텐츠 편집기 및 공동 작업자 역할에는 편집 및 작성 권한이 있지만, 시스템 관리 권한이 필요하지 않을 수 있습니다. 콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. _기업 및 팀 관리 가이드_&#x200B;의 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)을(를) 참조하십시오.
+기본적으로 GenStudio 시스템 관리자는 [!DNL Brands]을(를) 만들고 편집할 수 있습니다. 콘텐츠 편집기 및 공동 작업자 역할에는 편집 및 작성 권한이 있지만, 시스템 관리 권한이 필요하지 않을 수 있습니다. 콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. _기업 및 팀 관리 가이드_&#x200B;의 [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html#Overview)을(를) 참조하십시오.
 
 사용자 및 사용자 그룹 추가는 Admin Console을 통해 관리되는 권한이 있는 모든 Adobe 제품에 공통되는 기본 작업입니다. 사용자 관리 및 사용자 및 사용자 그룹 추가 절차에 대한 개요는 _Enterprise 및 Teams 관리 가이드_&#x200B;의 [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html)를 참조하십시오.
 
@@ -89,7 +89,7 @@ _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 �
 
 1. Click **[!UICONTROL Create]**. _프로젝트에 초대_ 팝업이 열립니다.
 
-_Enterprise 및 Teams 관리 가이드_&#x200B;에서 [프로젝트 관리](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html)를 참조하십시오.
+_Enterprise 및 Teams 관리 가이드_&#x200B;에서 [프로젝트 관리](https://helpx.adobe.com/kr/enterprise/using/projects-in-business-storage.html)를 참조하십시오.
 
 ## 5단계: 사용자 그룹을 프로젝트에 초대
 

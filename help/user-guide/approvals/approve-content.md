@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 콘텐츠 승인
 
-승인자는 검토 및 승인이 필요할 때 제품 내 알림, 이메일 및 활성화된 경우 Slack 알림을 받습니다. 알림은 검토 중인 콘텐츠를 표시하는 캔버스에 대한 링크를 제공합니다. 알림 관리에 대한 자세한 내용은 [계정 환경 설정 및 알림](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences)을 참조하세요.
+승인자는 검토 및 승인이 필요할 때 제품 내 알림, 이메일 및 활성화된 경우 Slack 알림을 받습니다. 알림은 검토 중인 콘텐츠를 표시하는 캔버스에 대한 링크를 제공합니다. 알림 관리에 대한 자세한 내용은 [계정 환경 설정 및 알림](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/account-preferences)을 참조하세요.
 
 콘텐츠 초안이 조직의 표준 및 기대에 부합하면 초안을 승인할 준비가 된 것입니다.
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe GenStudio for Performance Marketing 프로비저닝
 
-Adobe 시스템 관리자가 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)에서 초기 프로비저닝 작업을 수행합니다. Adobe 시스템 관리자는 Admin Console에서 GenStudio 제품 프로필에 액세스하고 사용자에게 사용 가능한 제품 라이선스를 할당할 수 있습니다.
+Adobe 시스템 관리자가 [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html#Overview)에서 초기 프로비저닝 작업을 수행합니다. Adobe 시스템 관리자는 Admin Console에서 GenStudio 제품 프로필에 액세스하고 사용자에게 사용 가능한 제품 라이선스를 할당할 수 있습니다.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Admin Console 내에서 제품 프로필은 GenStudio for Performance Marketing 
 
 **GenStudio 제품 프로필에 액세스하려면**
 
-1. 시작 이메일의 **시작하기** 링크를 클릭하여 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)&#x200B;(으)로 이동합니다.
+1. 시작 이메일의 **시작하기** 링크를 클릭하여 [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html#Overview)&#x200B;(으)로 이동합니다.
 
 1. Adobe ID을 사용하여 Admin Console에 로그인합니다.
 
@@ -62,7 +62,7 @@ GenStudio for Performance Marketing 사용자 역할 할당에 대한 지침은 
 
 사용자를 개별적으로 추가하거나 여러 사용자에 대한 계정 정보를 가져올 수 있습니다.
 
-* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users)
+* [개별적으로 사용자 관리](https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html#add-users)
 
 * [여러 사용자/일괄 CSV 업로드 관리](https://helpx.adobe.com/kr//enterprise/using/bulk-upload-users.html)
 
