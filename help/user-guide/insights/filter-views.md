@@ -56,7 +56,7 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 
 **캠페인 필터를 사용하여 광고 테이블을 세분화하려면**:
 
-1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 광고]**보기를 선택하십시오.
+1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 광고]**&#x200B;보기를 선택하십시오.
 
    ![광고 필터 및 표](/help/assets/insights-ads-filter.png "필터 목록이 있는 광고 보기"){zoomable="yes"}
 
