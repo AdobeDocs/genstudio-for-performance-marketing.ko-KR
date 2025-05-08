@@ -3,9 +3,10 @@ title: 인사이트 보기 필터링
 description: Insights와 함께 향상된 필터 기능을 사용하는 방법을 알아봅니다.
 level: Intermediate
 feature: Reporting and Insights
-source-git-commit: 656395e517fcb334b64865dcdbde09d8d982dc0a
+exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
+source-git-commit: 04bc6f911394d0f4c324abc347ce125203011960
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 ## 필터 기본 사항
 
-[!DNL Insights]의 각 보기는 필터 옵션 목록을 제공합니다. 테이블 왼쪽 위에 있는 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 테이블이나 갤러리를 보던 간에 적용된 필터가 테이블이나 갤러리 위의 **[!UICONTROL 필터 기준]** 목록에 나타납니다. 기본적으로 채널과 계정이 선택됩니다.
+[!DNL Insights]의 각 보기는 필터 옵션 목록을 제공합니다. 왼쪽의 필터(단계) 전환은 **[!UICONTROL 필터]** 메뉴를 엽니다. 테이블이나 갤러리를 보던 간에 적용된 필터가 테이블이나 갤러리 위의 **[!UICONTROL 필터 기준]** 목록에 나타납니다. 기본적으로 채널과 계정이 선택됩니다.
 
 ![필터링 기준](/help/assets/insights-filter-by.png "필터링 기준"){width=600 zoomable="yes"}
 
@@ -24,9 +25,9 @@ ht-degree: 0%
 
 ### 검색 필드
 
-검색어를 사용하여 테이블이나 갤러리에서 특정 항목을 찾으려면 검색(돋보기) 아이콘을 클릭합니다. 예를 들어 [!UICONTROL 광고] 표에 `pink` 용어를 입력하면 이름에 `pink` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
+검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 [!UICONTROL 광고] 표에 `Gear` 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
 
-![검색 필드 예제](/help/assets/insights-search.png "분홍색 광고 검색"){width=600 zoomable="yes"}
+![검색 필드 예제](/help/assets/insights-search.png "이름에 기어가 있는 광고 검색"){width=600 zoomable="yes"}
 
 ### 날짜 범위
 
@@ -52,15 +53,15 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 - 컨텐츠 유형 약어: `EB`, `CHT` 또는 `DSP`
 - 오퍼 코드 또는 약어: `OFFER2023`, `PROMO`
 
-시간이 지남에 따라 캠페인 및 광고 목록이 기하급수적으로 증가합니다. _[!UICONTROL 캠페인]_ 필터를 사용하여 [!UICONTROL 광고] 테이블을 구체화하려면 다음 시나리오를 고려하십시오.
+시간이 지남에 따라 캠페인 및 광고 목록이 기하급수적으로 증가할 수 있습니다. _[!UICONTROL 캠페인]_ 필터를 사용하여 [!UICONTROL 광고] 테이블을 구체화하려면 다음 시나리오를 고려하십시오.
 
 **캠페인 필터를 사용하여 광고 테이블을 세분화하려면**:
 
-1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 광고]**&#x200B;보기를 선택하십시오.
+1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 광고]**보기를 선택하십시오.
 
-   ![광고 필터 및 표](/help/assets/insights-ads-filter.png "필터 목록이 있는 광고 보기"){zoomable="yes"}
+   ![광고 필터 및 표](/help/assets/insights-ads-filter.png "필터 메뉴가 있는 광고 보기"){zoomable="yes"}
 
-1. 테이블 왼쪽 위에 있는 필터(단계) 아이콘을 클릭하여 **[!UICONTROL 필터]** 메뉴를 엽니다.
+1. 테이블 왼쪽 위에 있는 필터(단계) 전환을 클릭하여 **[!UICONTROL 필터]** 메뉴를 엽니다.
 
 1. 올바른 `Filter by` 채널 및 계정을 선택했는지 확인하십시오.
 
@@ -70,11 +71,17 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 
 1. _[!UICONTROL 캠페인 선택]_ 검색 필드에 쉼표로 구분된 키워드를 입력하십시오.
 
-   - 필요한 만큼 키워드를 사용하여 목록을 세분화합니다. 다음 예제에서는 이름에 `evergreen`, `ROI` 및 `Meta`이(가) 있는 캠페인을 찾습니다.
+   키워드를 사용하여 논리적이고 정밀한 필터링으로 검색을 구체화합니다.
 
-     ![키워드 검색](/help/assets/insights-select-campaigns-keywords.png "캠페인 이름을 검색할 키워드 입력"){width=500}
+   - `adventure` **AND** `ready`이(가) 모두 포함된 캠페인 이름을 찾으려면 두 키워드를 쉼표로 구분하여 입력하십시오.
 
-   - 다른 키워드 세트를 추가하여 검색 범위를 넓힐 수 있습니다. 여러 키워드 세트를 사용하면 첫 번째 키워드 세트 또는 두 번째 키워드 세트와 일치하는 캠페인을 포함할 수 있습니다. 예를 들어 레이블이 `evergreen` 및 `web` _또는_ 레이블이 `photoshop` 및 `roi`인 캠페인을 검색할 수 있습니다.
+     ![모든 키워드 검색](/help/assets/insights-select-campaigns-and.png "두 키워드가 모두 포함된 캠페인 이름 검색"){width=500}
+
+   - `adventure` **OR** `ready`이(가) 포함된 캠페인 이름을 찾으려면 각 키워드를 별도로 입력하십시오.
+
+     ![키워드 검색](/help/assets/insights-select-campaigns-or.png "하나 이상의 키워드가 포함된 캠페인 이름 검색"){width=500}
+
+   - 고급 검색을 수행하려면 여러 키워드 세트를 결합하십시오. 예를 들어 `adventure` 및 `apparel` **또는** `sun` 및 `gear`을(를) 사용하여 캠페인 이름을 검색합니다.
 
      ![여러 키워드 집합을 사용하여 검색](/help/assets/insights-advanced-or.png "여러 키워드 집합을 사용하여 캠페인 이름 검색"){width=500}
 
@@ -82,7 +89,7 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 
    ![캠페인 목록](/help/assets/insights-select-campaigns-list.png "포함할 캠페인 선택")
 
-이제 선택한 캠페인이 광고 테이블 또는 갤러리 위의 _[!UICONTROL 필터링 기준]_ 목록에 나타납니다. 선택한 캠페인에 연결된 광고에만 집중할 수 있습니다. 이 예에서, 필터링된 결과는 분석을 위한 더 많은 타겟팅된 보기를 제공하는 28개의 광고를 포함합니다.
+이제 선택한 캠페인이 광고 테이블 또는 갤러리 위의 _[!UICONTROL 필터링 기준]_ 목록에 나타납니다. 선택한 캠페인에 연결된 광고에만 집중할 수 있습니다. 이 예에서, 필터링된 결과는 분석을 위한 더 많은 타겟팅된 보기를 제공하는 6개의 광고를 포함합니다.
 
 ![캠페인으로 필터링된 테이블](/help/assets/insights-filter-by-campaigns.png "캠페인이 있는 테이블 필터"){zoomable="yes"}
 
