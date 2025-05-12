@@ -1,7 +1,7 @@
 ---
-source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
+source-git-commit: e46f074381e76c48827bcf12b46ed8f063a3cd52
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->GenStudio for Performance Marketing에서 데이터 수신을 시작하려면 채널 계정에 연결해야 합니다. [채널 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
+>GenStudio for Performance Marketing에서 데이터 수신을 시작하려면 채널 계정에 연결해야 합니다. [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
 
 ## 참고 AEM Assets {#note-aem-assets}
 
@@ -25,8 +25,8 @@ ht-degree: 0%
 >
 >[Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)&#x200B;(으)로 이 주제에 대한 기술을 보강하세요.
 
-## Tip on filtering tables {#filter-table}
+## 필터링 표에 대한 팁 {#filter-table}
 
 >[!TIP]
 >
->Seeing too many results or a `No results found` message? Adjust filters by modifying selections, clearing all filters, or adjusting the date range. See [Filter for Insights views](/help/user-guide/insights/filter-views.md) to learn about the dynamic and versatile filter capabilities.
+>결과가 너무 많거나 `No results found` 메시지가 표시됩니까? 선택 내용을 수정하거나, 모든 필터를 지우거나, 날짜 범위를 조정하여 필터를 조정합니다. 동적이고 다양한 필터 기능에 대해 알아보려면 [인사이트 보기 필터링](/help/user-guide/insights/filter-views.md)을 참조하세요.

@@ -5,9 +5,9 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: ac166245f5358c3bd050227b3ba9c53caa0e3622
+source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '614'
 ht-degree: 2%
 
 ---
@@ -62,4 +62,4 @@ GenStudio 시스템 관리자는 조직의 특정 브랜드 요구 사항을 수
 
 ### 5단계: 메타(Facebook) 계정에 연결
 
-GenStudio for Performance Marketing과 조직의 소셜 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받을 수 있습니다. [!DNL Insights]은(는) 채널 파생 데이터를 분석하는 도구를 제공합니다. [메타(Facebook) 계정에 연결](/help/user-guide/connectors/connect-channel.md#meta-ads-connect)을 참조하십시오.
+GenStudio for Performance Marketing과 조직의 소셜 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받을 수 있습니다. [!DNL Insights]은(는) 채널 파생 데이터를 분석하는 도구를 제공합니다. [메타 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하십시오.
