@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
+source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -48,6 +48,8 @@ GenStudio for Performance Marketing에서 템플릿을 사용하기 전에 각 �
 - 깔끔하고 반응형 HTML 및 인라인 CSS 사용
 - Adobe 또는 Google 글꼴 사용
 - JavaScript을 사용하지 **않음**
+
+{{note-css-effects}}
 
 최적의 성능과 호환성을 위해 각 템플릿 유형을 사용할 때는 다음 팁과 제한을 고려하십시오.
 

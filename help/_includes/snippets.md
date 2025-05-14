@@ -1,7 +1,7 @@
 ---
-source-git-commit: e46f074381e76c48827bcf12b46ed8f063a3cd52
+source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,12 @@ ht-degree: 0%
 >[!TIP]
 >
 >GenStudio for Performance Marketing에서 데이터 수신을 시작하려면 채널 계정에 연결해야 합니다. [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
+
+## CSS 효과 참고 {#note-css-effects}
+
+>[!NOTE]
+>
+>GenStudio for Performance Marketing에서는 `backdrop-filter` 필터 효과(흐림, 밝기, 대비)와 같은 특정 CSS 그래픽 효과를 지원하지 않습니다. 템플릿에서 이러한 속성을 사용하는 경우 내보낸 콘텐츠에 예상대로 표시되지 않을 수 있습니다.
 
 ## 참고 AEM Assets {#note-aem-assets}
 
