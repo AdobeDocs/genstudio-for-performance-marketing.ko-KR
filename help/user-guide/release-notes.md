@@ -77,7 +77,7 @@ ht-degree: 0%
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
