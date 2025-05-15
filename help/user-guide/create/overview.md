@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing [!DNL Create]에서 생�
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 4eb45ec7e845847ebac86986924bbc39aaed42c0
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '710'
 ht-degree: 1%
 
 ---
@@ -35,68 +35,131 @@ GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능�
 ## [!DNL Create] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="새 콘텐츠 만들기" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>전자 메일 환경 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="메타 광고 경험 만들기" src="../../assets/icons/icon-addContent.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>메타 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="LinkedIn 광고 경험 만들기" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong>LinkedIn 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="디스플레이 광고 경험 만들기" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>디스플레이 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="배너 경험 만들기" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong>배너 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/generate-assets.md">
+
       <img alt="이미지 만들기" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/generate-assets.md">
+
          <strong>이미지 생성</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
@@ -137,11 +200,11 @@ GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표
 
 ### 초안
 
-[!DNL Create]의 _최근 작업_ 섹션에서 모든 최근 초안에 액세스하고 관리하십시오. 이전 작업을 보고 완료하여 [[!DNL Content]](/help/user-guide/content/overview.md)에 게시하거나 사용할 수 있도록 내보냅니다.
+[!DNL Create]의 _최근 항목_ 섹션에서 모든 최근 초안에 액세스하고 관리할 수 있습니다. 이전 작업을 보고 완료하여 [[!DNL Content]](/help/user-guide/content/overview.md)에 게시하거나 사용할 수 있도록 내보냅니다. 옵션(세 점) 아이콘을 클릭하여 초안을 삭제합니다.
 
-진행 중인 초안은 자동으로 저장됩니다. [!DNL Create] 홈으로 돌아오면 _최근 작업_ 섹션이 최신 초안으로 업데이트됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
+초안은 자동으로 저장되고 [!DNL Create] 홈의 _최근 항목_ 섹션에 표시됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
 
-정렬 아이콘(표 또는 표)을 클릭하여 _최근 작업_ 항목을 표 또는 표 보기로 표시합니다.
+갤러리 보기(격자) 아이콘을 클릭하면 _최근 항목_&#x200B;이 격자 또는 표 보기로 표시됩니다.
 
 ### 변형 관리
 

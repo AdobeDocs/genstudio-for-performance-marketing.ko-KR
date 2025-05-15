@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b24ec61c6c8b5e359364d23d0e152b3a5b72dacf
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1130'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **메타 광고 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 메타 광고]**&#x200B;를 클릭합니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 메타 광고]**를 클릭합니다.
 1. 특정 메타 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭하세요.
 
@@ -90,14 +90,15 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **메타 광고를 수동으로 편집하려면[다음](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;을(를) 클릭합니다(제목 줄 등).
+* **메타 광고를 수동으로 편집하려면[다음](/help/user-guide/create/manage-variants.md#manually-edit-text)**을(를) 클릭합니다(제목 줄 등).
 필요에 따라 헤더 또는 본문 사본을 편집하십시오.
 * **콜 투 액션을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
-* **변형의 이미지에 링크를 추가하려면[&#128279;](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.
+* **변형의 이미지에 링크를 추가하려면](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.[
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
+* **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 변형에 대한 옵션 메뉴를 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.
 
 ## 생성 피드백 제출

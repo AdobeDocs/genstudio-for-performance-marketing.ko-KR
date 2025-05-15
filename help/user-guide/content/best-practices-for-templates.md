@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
+source-git-commit: f7913f4df1ae0f8d86bdaca778d102d21b0b6c3f
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,7 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 - 정사각형 1:1(1080 x 1080픽셀)
 - 세로 4:5(1080 x 1350픽셀)
 - 스토리 9:16 (1080 x 1920픽셀)
+- 가로: 1.91:1(1080픽셀 너비)
 - 사용자 지정 이미지 크기: (50 x 50픽셀 최소 이미지 너비)
 
 **인식된 필드 이름**:
@@ -137,17 +138,17 @@ GenStudio for Performance Marketing에서 작동하도록 배너 및 표시 광�
 
 **지원되는 차원**:
 
-- 세로: (픽셀)
+- 폭 x 높이(픽셀)
+- 세로:
    - 300 x 600
    - 160 x 600&#x200B;
-- 가로: (픽셀)
+- 수평:
    - 300 x 250
    - 728 x 90
    - 336 x 280
    - 320 x 50
    - 970 x 250&#x200B;
-- 사용자 지정: (픽셀)
-   - 50 x 50 ~ 2000 x 2000
+- 사용자 정의: 50 x 50 ~ 2000 x 2000
 
 **인식된 필드 이름**:
 

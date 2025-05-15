@@ -3,9 +3,9 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 8d4442a3eb9aaf500b3a0a249031214337caf0ff
+source-git-commit: 09a8af603945686ad58e3edc6a5c77d79fdf2956
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1659'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
    변형이 수정된 텍스트로 업데이트되었습니다.
 
-## 클릭 유도 문안 수정
+## call to action 개정
 
 변형 세트를 생성한 후 call-to-action(CTA) 텍스트 및 링크를 수정할 수 있습니다.
 
@@ -155,7 +155,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -176,6 +176,25 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. 텍스트 필드에 링크를 추가하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
    정의된 링크가 변형 세트의 모든 이미지에 적용됩니다.
+
+## 이미지에 대한 대체 텍스트 추가
+
+작성 프로세스 중에 컨텐츠(이미지)를 추가하면 포함된 모든 이미지에 대해 대체 텍스트를 정의할 수 있습니다. 이미지에 대체 텍스트를 추가하면 접근성, 검색 엔진 최적화 및 사용자 경험이 향상됩니다.
+
+대체 텍스트 기능을 사용하려면 [콘텐츠 자리 표시자를 추가](/help/user-guide/content/customize-template.md#alternative-text)하십시오.
+
+**생성된 변형의 이미지에 대체 텍스트를 추가하려면**:
+
+1. 변형 세트를 생성한 후 개별 변형 내의 이미지를 클릭합니다.
+1. **[!UICONTROL 대체 텍스트]** 단추(이미지 및 용지 아이콘)를 클릭합니다.
+1. 대체 텍스트를 수동으로 추가하려면:
+   1. 텍스트 상자를 클릭하고 대체 텍스트를 추가합니다.
+   1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. 이미지에 대한 대체 텍스트를 생성하려면 다음을 수행합니다.
+   1. 텍스트 필드를 비워 두고 **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
+   1. 초기 결과에 만족하지 않으면 **[!UICONTROL 생성]**&#x200B;을 다시 클릭합니다.
+   1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. 변형 세트의 각 이미지에 대해 이 작업을 반복합니다.
 
 ## 장치 미리 보기
 

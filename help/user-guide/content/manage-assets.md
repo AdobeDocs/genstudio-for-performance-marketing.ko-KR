@@ -3,9 +3,9 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 67a760051b513dfd2bd6e69c886598efd7142090
+source-git-commit: 1df977edbca284e67a5d28a6835bf5fc5608aa33
 workflow-type: tm+mt
-source-wordcount: '1409'
+source-wordcount: '1489'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 **재사용할 콘텐츠를 검색하려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL Assets]**&#x200B;섹션을 선택합니다.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL Assets]**섹션을 선택합니다.
 
 1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets`이(가) 기본 리포지토리입니다.
 
@@ -83,7 +83,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 | [세부 정보 보기](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
 | [경험 만들기](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [Adobe Express에서 편집](#edit-in-express) | ✓ |             |           |
-| [활성화를 위해 내보내기](#export-for-activation) |        | ✓ |           |
+| [경험 내보내기](#export-experiences) |        | ✓ |           |
 | [새로 고침](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
 | [다운로드](#download-assets) | ✓ |             | ✓ |
 | [삭제](#delete-assets) | ✓ | ✓ | ✓ |
@@ -96,7 +96,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **하나 이상의 자산을 추가하려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 자산 추가]**&#x200B;를 클릭합니다.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 자산 추가]**를 클릭합니다.
 
 1. _승인된 에셋 추가_ 보기에서 드롭 공간에 파일을 드롭합니다. 필요한 경우 **[!UICONTROL 찾아보기]**&#x200B;를 사용하여 로컬 파일에서 선택하거나 Dropbox 또는 Microsoft OneDrive에서 파일을 가져올 수 있습니다.
 
@@ -120,7 +120,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **자산을 다운로드하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL 다운로드]** 아이콘(아래쪽을 가리키는 화살표)을 클릭합니다.
 
@@ -130,28 +130,34 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **자산을 삭제하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽 상단의 **[!UICONTROL 삭제]**(휴지통)을 클릭합니다.
 
 1. _자산 삭제_ 팝업에서 자산을 확인하고 **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
 
-## 활성화를 위해 내보내기
+## 경험 내보내기
 
-승인된 경험을 타겟 채널과 호환되는 형식으로 내보내 활성화할 수 있습니다.
+타겟 채널과 호환되는 형식으로 다운로드할 승인된 경험을 하나 이상 선택할 수 있습니다. 다운로드한 파일의 이름은 내보내기 날짜 `2025-06-15-export.zip`을(를) 사용하여 지정합니다. 파일의 압축을 해제하면 선택한 형식으로 내보낸 에셋을 포함하는 각 채널 유형에 대한 폴더가 있습니다. 내보낸 각 에셋은 원래 에셋 이름을 파일 이름으로 유지합니다.
 
-**경험을 내보내려면**:
+**경험을 내보내거나 다운로드하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 경험을 선택합니다. 경험을 클릭하면 세부 정보 보기가 열리거나 바로 가기 메뉴(`...`)를 클릭합니다.
+1. _[!DNL Content]_에서 경험을 하나 이상 선택하십시오.
 
-1. **[!UICONTROL 활성화를 위해 내보내기]**(화살표를 가리키는 상자)를 클릭합니다.
+   배너는 왼쪽에 선택한 경험 수와 오른쪽에 [!UICONTROL 활성화], [!UICONTROL 다운로드] 또는 [!UICONTROL 삭제]에 대한 옵션이 표시됩니다.
 
-1. _활성화를 위해 내보내기_ 팝업에서 사용 가능한 형식 중 하나를 선택합니다.
+1. (선택 사항) 활성화하도록 선택하면 플랫폼을 선택한 다음 [!DNL Activate] 워크플로우를 계속하라는 메시지가 표시될 수 있습니다. [활성화](/help/user-guide/activation/overview.md)를 참조하세요.
 
-   - 이메일: `HTML`, `CSV`
+1. **[!UICONTROL 다운로드]**&#x200B;를 클릭합니다.
+
+1. _다운로드_ 팝업에서 사용 가능한 형식 중 하나를 선택합니다.
+
+   서로 다른 채널에서 여러 경험을 선택한 경우 각 채널 유형에 대한 포맷을 선택할 수 있습니다.
+
+   - 이메일, LinkedIn: `HTML`, `CSV`
    - 메타, 배너 및 디스플레이 광고: `HTML`, `JPEG`, `PNG`
 
-[활성화](/help/user-guide/activation/overview.md)를 참조하세요.
+   ![경험 다운로드](/help/assets/content-bulk-export.png "여러 경험 다운로드"){width=350}
 
 ## Express에서 편집
 
@@ -170,7 +176,7 @@ Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직�
 
 **Express로 자산을 편집하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL Adobe Express에서 편집]** 아이콘을 클릭합니다.
 
