@@ -6,9 +6,9 @@ badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일�
 role: User
 level: Beginner
 exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 8d79c2bd2347bebb18ecb432a7087fb3d1ac1356
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,8 @@ LinkedIn 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 * 제목
 * 소개 텍스트
 * 설명
-* 클릭 유도 문안(CTA)
+* Call to action(CTA)
 * 이미지
-* 브랜드 로고
 
 [템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.
 
@@ -41,7 +40,7 @@ LinkedIn 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 LinkedIn 경험의 각 필드 및 섹션은 이 시퀀스에서 점진적으로 로드됩니다.
 
 1. 모든 변형에 대한 기본 텍스트
-1. 클릭 유도 문안 및 관련 URL
+1. Call-to-action 및 관련 URL
 1. 헤드라인
 1. 이미지 내 텍스트
 1. 브랜드 유효성 검사

@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: d0fd0bd2ac98149ec4d6449a7490d55cc48d9ae2
+source-git-commit: 04bb7adcc9ce7eaeca2ea1f3ef39882f8e43ff6d
 workflow-type: tm+mt
 source-wordcount: '1480'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _[!DNL Handlebars]_&#x200B;템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
+다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
@@ -30,10 +30,10 @@ GenStudio for Performance Marketing은 템플릿 내의 특정 [요소](use-temp
 
 HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사용하여 GenStudio for Performance Marketing에서 템플릿을 실제 콘텐츠로 채워야 하는 콘텐츠 자리 표시자를 삽입할 수 있습니다. GenStudio for Performance Marketing은 [인식된 _필드_ 이름](#recognized-field-names)을(를) 기반으로 콘텐츠 자리 표시자를 인식하고 해석합니다.
 
-예를 들어 [!DNL Handlebars] 구문과 함께 `{{ headline }}`을(를) 사용하여 전자 메일의 제목을 배치할 위치를 나타낼 수 있습니다. GenStudio은 이 필드를 인식하고 지침 및 프롬프트 기준에 따라 관련 헤드라인을 생성한 다음 이 위치에 헤드라인을 삽입합니다.
+예를 들어 [!DNL Handlebars] 구문과 함께 `{{headline}}`을(를) 사용하여 전자 메일의 제목을 배치할 위치를 나타낼 수 있습니다. GenStudio은 이 필드를 인식하고 지침 및 프롬프트 기준에 따라 관련 헤드라인을 생성한 다음 이 위치에 헤드라인을 삽입합니다.
 
 ```handlebars
-<div>{{ headline }}</div>
+<div>{{headline}}</div>
 ```
 
 ### 인식된 필드 이름
@@ -126,10 +126,10 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 
 ### 이미지 텍스트에서
 
-`{{ on_image_text }}` 자리 표시자는 경험의 이미지에 직접 배치된 짧은 영향력 있는 메시지의 텍스트 오버레이를 지정하는 데 사용됩니다.
+`{{on_image_text}}` 자리 표시자는 경험의 이미지에 직접 배치된 짧은 영향력 있는 메시지의 텍스트 오버레이를 지정하는 데 사용됩니다.
 
 ```html
-<div class="image-text">{{ on_image_text }}</div>
+<div class="image-text">{{on_image_text}}</div>
 ```
 
 <!-- this field does not work in Create canvas 2025/03
@@ -166,7 +166,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 <tbody>
     <tr>
         <td>
-            <p><span class="footer-text">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{footerLegal}}</span></p>
         </td>
     </tr>
 </tbody>
@@ -190,7 +190,7 @@ _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 �
 
 이 규칙 때문에 섹션을 중첩할 수 없습니다.
 
-이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines)을 참조하세요.
+이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines)을 참조하세요.
 
 예를 들어 이메일 템플릿에는 최대 3개의 섹션을 포함할 수 있으므로 다음과 같은 3개의 헤드라인 및 본문 섹션이 있을 수 있습니다.
 
@@ -236,9 +236,9 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
 
 ```html
 <a class="button" {{#if _genStudio.browser }}
-   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
-   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
-   target="_blank">{{ cta }}</a>
+   href="{{link}}"{{/if}}{{#if _genStudio.export }}
+   href="{{link}}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{cta}}</a>
 ```
 
 ## 정적 콘텐츠
@@ -270,15 +270,15 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
             }
         </style>
     </head>
-    <body>{{ pre_header }}
+    <body>{{pre_header}}
         <div class="container">
-            <h1>{{ headline }}</h1>
-            <p><a href="{{ link }}">
-            <img alt="{{ headline }}"
-                    src="{{ image }}"
+            <h1>{{headline}}</h1>
+            <p><a href="{{link}}">
+            <img alt="{{headline}}"
+                    src="{{image}}"
                     width="600" height="600"
                     border="0"/></a></p>
-            <p>{{ body }}</p>
+            <p>{{body}}</p>
         </div>
     </body>
 </html>
@@ -315,22 +315,22 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
             }
         </style>
     </head>
-    <body>{{ pre_header }}
+    <body>{{pre_header}}
         <div class="container">
-            <h1>{{ headline }}</h1>
-            <p>{{ body }}</p>
+            <h1>{{headline}}</h1>
+            <p>{{body}}</p>
             <!-- Pod1 -->
             <div class="pod">
-                <h2>{{ pod1_headline }}</h2>
-                <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
-                <p>{{ pod1_body }}</p>
+                <h2>{{pod1_headline}}</h2>
+                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
+                <p>{{pod1_body}}</p>
             </div>
             <!-- End of Pod1 -->
             <!-- Pod2 -->
             <div class="pod">
-                <h2>{{ pod2_headline }}</h2>
-                <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
-                <p>{{ pod2_body }}</p>
+                <h2>{{pod2_headline}}</h2>
+                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
+                <p>{{pod2_body}}</p>
             </div>
             <!-- End of Pod2 -->
         </div>
@@ -377,8 +377,8 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
     </head>
     <body>
         <div class="ad-container">
-            <img src="{{ image }}" alt="Ad Image" class="ad-image" />
-            <div class="ad-text">{{ on_image_text }}</div>
+            <img src="{{image}}" alt="Ad Image" class="ad-image" />
+            <div class="ad-text">{{on_image_text}}</div>
         </div>
     </body>
 </html>
