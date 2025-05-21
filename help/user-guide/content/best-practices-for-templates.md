@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: f7913f4df1ae0f8d86bdaca778d102d21b0b6c3f
+source-git-commit: dc958a831e3fa26cfc18f7c1a5febd0662102d43
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,9 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
 
 **제약 조건**:
 
-- [섹션](customize-template.md#sections-or-groups) 사용:
-   - 기본 템플릿(한 섹션만 해당)은 단일 템플릿 요소 집합을 생성할 수 있습니다.
-   - 복합 템플릿(여러 섹션)은 최대 3개의 템플릿 요소 집합을 생성할 수 있습니다.
+- 마케팅 이메일에는 0, 2 또는 3개의 [섹션](customize-template.md#sections-or-groups)이 포함될 수 있습니다.
+   - 기본 템플릿(0개의 섹션)은 그룹 명명 규칙이 필요하지 않은 단일 템플릿 요소 집합을 생성할 수 있습니다.
+   - 복합 템플릿(여러 섹션)은 최대 3개의 템플릿 요소 집합을 생성할 수 있으므로 그룹 명명 규칙(`groupname_fieldname`)을 준수해야 합니다.
 - 템플릿에서 허용되는 최대 필드는 20개입니다.
 - 최대 HTML 파일 크기는 102KB입니다
 
@@ -77,7 +77,7 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
 
 전자 메일의 경우 `subject` 필드가 자동으로 포함됩니다. 다음 필드에 콘텐츠 자리 표시자를 사용합니다.
 
-- `pre_header`
+- `pre_header`(서식 있는 텍스트가 활성화되지 않음)
 - `headline`
 - `sub_headline`
 - `body`
@@ -103,8 +103,11 @@ GenStudio for Performance Marketing에서 작동하도록 메타 광고 템플�
 
 - [섹션](customize-template.md#sections-or-groups) 사용:
    - 섹션은 하나만 사용할 수 있으며, 템플릿 요소의 단일 세트를 생성합니다.
+- 정확히 하나의 이미지 필드가 필요합니다.
 
 **지원되는 종횡비**:
+
+종횡비를 설정해야 합니다.
 
 - 정사각형 1:1(1080 x 1080픽셀)
 - 세로 4:5(1080 x 1350픽셀)
@@ -135,10 +138,11 @@ GenStudio for Performance Marketing에서 작동하도록 배너 및 표시 광�
 
 - [섹션](customize-template.md#sections-or-groups) 사용:
    - 섹션은 하나만 사용할 수 있으며, 템플릿 요소의 단일 세트를 생성합니다.
+- 정확히 하나의 이미지 필드가 필요합니다.
 
 **지원되는 차원**:
 
-- 폭 x 높이(픽셀)
+- 너비 x 높이(픽셀)를 설정해야 합니다.
 - 세로:
    - 300 x 600
    - 160 x 600&#x200B;
@@ -171,6 +175,7 @@ GenStudio for Performance Marketing에서 작동하도록 LinkedIn 광고 템플
 
 - [섹션](customize-template.md#sections-or-groups) 사용:
    - 섹션은 하나만 사용할 수 있으며, 템플릿 요소의 단일 세트를 생성합니다.
+- 정확히 하나의 이미지 필드가 필요합니다.
 - 최대 이미지 크기 5MB
 - 최대 헤드라인 70자
 - 최대 소개 텍스트 150자
