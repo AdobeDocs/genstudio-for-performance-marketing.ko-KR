@@ -16,7 +16,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
+다음 몇 섹션에서는 _[!DNL Handlebars]_&#x200B;템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
