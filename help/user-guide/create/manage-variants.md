@@ -3,9 +3,9 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 09a8af603945686ad58e3edc6a5c77d79fdf2956
+source-git-commit: 654adf4f774b5e4915a67e0c0c3e5d07268d1a89
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: '1720'
 ht-degree: 0%
 
 ---
@@ -114,7 +114,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 ## 종횡비 변경
 
-원하는 광고 크기를 수용하도록 메타 광고의 종횡비를 빠르게 변경할 수 있습니다.
+원하는 광고 크기를 수용하도록 메타 광고의 종횡비를 빠르게 변경할 수 있습니다. 템플릿 치수와 거의 일치하는 이미지 종횡비를 선택하여 원하지 않는 자르기 또는 늘이기를 방지합니다. 예를 들어 템플릿이 1200×628픽셀(넓은 사각형)인 경우 1:1 정사각형 이미지를 사용하면 측면이 잘려 중요한 콘텐츠가 잘릴 수 있습니다. 최적의 이미지 크기는 628 x 628 픽셀이 되며 템플릿의 높이와 일치합니다.
 
 사용 가능한 크기/종횡비는 다음과 같습니다.
 
@@ -155,7 +155,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
