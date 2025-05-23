@@ -1,32 +1,44 @@
 ---
 title: Adobe GenStudio for Performance Marketing 캠페인
 description: 중앙 집중식 캠페인 계획 및 Campaign 개요 작성에 대해 알아봅니다.
-level: Beginner
 feature: Campaign Planning, Campaign Brief
+badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 exl-id: bbf66552-5a42-48d4-9bcd-944cf643e513
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 5059a4e98c272ed53ae12ffd83afacf833ac30f3
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio for Performance Marketing [!DNL Campaigns]
+# Adobe GenStudio for Performance Marketing 캠페인
 
-Adobe GenStudio for Performance Marketing [!DNL Campaigns] 기능은 마케팅 이니셔티브 또는 _캠페인_&#x200B;의 개발 및 배포를 가속화합니다. [!DNL Campaigns] 워크플로는 브랜드 준수 이미지와 텍스트를 포함하여 AI가 생성한 워크플로의 생성 및 관리에 도움이 되는 캠페인 에셋의 개발을 향상시킵니다. 또한 캠페인 목표, 브랜드 별로 정렬된 콘텐츠 및 지정된 채널에 대한 투명성을 제공합니다.
+GenStudio for Performance Marketing [!DNL Campaigns]은(는) 마케팅 이니셔티브 또는 _캠페인_&#x200B;의 개발 및 배포를 가속화합니다. [!DNL Campaigns] 구성 요소에는 브랜드 준수 이미지와 텍스트를 포함하여 GenStudio for Performance Marketing의 AI 생성 워크플로우로 생성, 승인 및 관리에 도움이 되는 자산 및 환경이 포함되어 있습니다.
 
-마케팅 관리자는 [!DNL Campaigns] 워크플로우를 사용하여 [!DNL Campaign]개 자산의 생성, 검토, 승인 및 배포에 관련된 모든 관련자의 캠페인 기능을 정의하는 _캠페인 개요_&#x200B;를 만듭니다.
+[!DNL Campaigns] 워크플로에서는 다음을 제공합니다.
 
-## 캠페인 개요
+* 캠페인 목표, 브랜드 중심 콘텐츠 및 지정된 채널에 대한 투명성
 
-GenStudio for Performance Marketing [!DNL Campaigns] 개요에서는 [!DNL Campaign] 작성자가 정의한 캠페인의 필수 측면을 설명합니다. [!DNL Campaign]명의 이해 당사자가 이 브리핑을 사용하여 콘텐츠를 만들고 평가합니다. 캠페인 브리핑은 동적입니다. 캠페인의 개별 단계가 배포되고 마케터가 각 단계의 성공을 평가하면 변경됩니다.
+* GenStudio for Performance Marketing으로 만들거나 가져오는 모든 에셋 및 경험의 조정
 
-## [!DNL Campaigns] 콘텐츠
+* [!DNL Campaigns] 타임라인 보기에서 조직의 모든 캠페인에 대한 중앙 집중식 보기
 
-[!DNL Campaigns] 콘텐츠는 승인된 에셋 및 경험으로 구성됩니다.
+## 캠페인 사용 사례
 
-GenStudio for Performance Marketing 에셋 또는 경험이 승인되면 여러 [!DNL Campaigns]에 포함될 수 있습니다. 다음 작업 동안 승인된 자산에 [!DNL Campaign] 레이블을 추가하여 [!DNL Campaign]에 콘텐츠를 추가할 수 있습니다.
+* [캠페인을 만듭니다](create-campaign.md). _캠페인 추가_ 보기는 GenStudio for Performance Marketing에서 캠페인을 만들기 위한 프레임워크를 제공합니다. _캠페인 추가_ 보기에 입력한 정보는 [!DNL Campaigns]에 캠페인 개체로 저장됩니다.
 
-* 승인된 자산을 [!DNL Content]에 저장하는 중입니다.
-* 파일 업로드 또는 가져오기
-* 콘텐츠 생성 중 에셋 저장
+* [캠페인 관리](manage-campaign.md) 및 캠페인 콘텐츠. 일정, 광고 형식 및 관련자와 같은 캠페인 요소는 캠페인 중에 발전할 수 있습니다. 콘텐츠를 업데이트하여 기존 캠페인을 수정할 수 있습니다.
+
+## 캠페인 기능
+
+[!DNL Campaigns]은(는) GenStudio for Performance Marketing의 생성 AI 기반 기능을 조정하여 사용자가 캠페인 성과를 계획, 생성, 조정 및 측정할 수 있도록 지원합니다.
+
+* [[!DNL Create]](/help/user-guide/create/overview.md)은(는) 브랜드 정렬 캠페인 자산을 만들기 위한 생성 AI 기반 도구를 제공합니다. 새 경험, 에셋 및 에셋 변형을 만드는 프로세스는 [!DNL Create] 캔버스에서 중앙 집중화됩니다. [!DNL Brand] 지침은 콘텐츠 생성을 알리고 이 캠페인에 대한 조직의 기대에 부합하도록 기본 LLM을 안내합니다.
+
+* [[!DNL Content]](/help/user-guide/content/overview.md)은(는) 캠페인에 포함할 수 있는 승인된 에셋 및 경험의 라이브러리를 제공합니다. 콘텐츠는 일반적으로 GenStudio for Performance Marketing에서 생성되고 검토 및 승인 프로세스를 거쳐 이동한 다음 [!DNL Content]에 저장됩니다.
+
+* [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md)은(는) 개별 자산 및 경험에 대한 공동 검토 및 승인을 위한 구조를 제공합니다. 광고 크리에이티브에서 법률 검토자에 이르기까지 캠페인 자산 생성에 다양한 관심과 참여를 갖고 있는 이해 당사자는 캠페인 자산 정착 프로세스에 참여할 수 있습니다.
+
+* [[!DNL Insights]](/help/user-guide/insights/overview.md)은(는) 개별 캠페인 요소 및 전체 캠페인에 대한 성과 지표를 캡처합니다. 마케터는 클릭스루 비율, 전환율 및 참여 수준 등 캠페인의 성공을 평가하는 지표를 설정할 수 있습니다. 이해 당사자는 이러한 지표를 사용하여 이러한 캠페인 요소의 성과를 평가할 수 있습니다. 이러한 통찰력은 [!DNL Create]의 자산을 창의적으로 재작업하는 데 도움이 될 수 있습니다.
+
+* [[!DNL Activate]](/help/user-guide/activation/overview.md)에서는 캠페인 자산을 지정된 채널에 대한 광고 경험으로 게시할 수 있습니다.
