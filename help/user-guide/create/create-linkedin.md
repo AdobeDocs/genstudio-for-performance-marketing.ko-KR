@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '941'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
 ## 템플릿 선택
 
-새 LinkedIn 경험을 생성하려면 콘텐츠에 대한 프레임워크를 제공하는 템플릿이 필요합니다. 지원되는 LinkedIn 종횡비에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하십시오.
+새 LinkedIn 경험을 생성하려면 콘텐츠에 대한 프레임워크를 제공하는 템플릿이 필요합니다. 지원되는 LinkedIn 종횡비에 대한 자세한 내용은 [LinkedIn 템플릿 지침](/help/user-guide/templates/linkedin-template.md)을 참조하십시오.
 
 **LinkedIn 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL LinkedIn]**&#x200B;을(를) 클릭합니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL LinkedIn]**을(를) 클릭합니다.
 1. _필터_ 옆의 검색 옵션을 사용하여 특정 템플릿을 찾습니다.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -79,7 +79,7 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 **생성된 변형을 수정하려면**:
 
 * **LinkedIn 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **LinkedIn 광고를 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
+* **LinkedIn 광고를 수동으로 편집하려면[](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
 * **콜 투 액션을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.

@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알�
 feature: Generative AI
 role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 1ff6a3ecf0a0773c3a6f13d6993042b0620c6dd2
+source-git-commit: 78313c2a2177a2ccb39e37a87ca3c657e7906d0a
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 0%
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing은 Azure OpenAI를 통해 타사 LLM의 GPT 
 
 ## [!DNL Generative Actions]
 
-[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_&#x200B;은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
+[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -48,11 +48,11 @@ If genactions roll over month to month or not -->
 
 ### 비율
 
-[GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 설명된 대로 기본 [!DNL Generative Actions] 할당을 받습니다.
+[GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 설명된 대로 기본 [!DNL Generative Actions] 할당을 받습니다.
 
 >[!NOTE]
 >
->사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
+>사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
 
 다음 함수는 지정된 비율로 [!DNL Generative Actions]을(를) 사용합니다.
 

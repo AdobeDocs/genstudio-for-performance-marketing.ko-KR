@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 8d79c2bd2347bebb18ecb432a7087fb3d1ac1356
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 
 메타 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다.
 
-GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 메타 광고](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 모두 지원합니다.
+GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 메타 광고](/help/user-guide/templates/meta-template.md)를 모두 지원합니다.
 
 이메일 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 

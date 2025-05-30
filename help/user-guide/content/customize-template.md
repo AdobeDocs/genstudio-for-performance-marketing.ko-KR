@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: f6c00f473d561cae123997ab3e310867fbdf60d1
+source-git-commit: 4a82431c0f6a0f2f16c80160a46241dfa702195b
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1394'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _[!DNL Handlebars]_&#x200B;템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
+다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
@@ -105,7 +105,7 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 <a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
-이 예제에서는
+이 예에서,
 
 - `{{link}}`은(는) 실제 URL의 자리 표시자입니다.
 - `src="image-source.jpg"`은(는) 실제 이미지 원본 URL로 대체해야 합니다.
@@ -119,7 +119,7 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 <img src="{{image}}" alt="{{imageDescription}}">
 ```
 
-이 예제에서는
+이 예에서,
 
 - `{{image}}`은(는) 이미지 소스 URL의 자리 표시자입니다.
 - `{{imageDescription}}`은(는) 접근성 및 SEO 목적을 위해 이미지에 대한 설명을 제공하는 대체 텍스트의 자리 표시자입니다.
@@ -176,7 +176,6 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 두 개 또는 세 개의 필드 그룹화가 있는 경우 마케팅 이메일 템플릿의 섹션을 사용할 수 있습니다. _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio for Performance Marketing에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
-
 선택한 그룹 이름을 접두사로 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 밑줄(`_`) 뒤에 필드 이름(예: `headline`, `body`, `image` 또는 `cta`)을 사용하십시오.
 
 구문: `groupname_fieldname`
@@ -193,17 +192,14 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 이 규칙 때문에 섹션을 중첩할 수 없습니다.
 
-이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines)을 참조하세요.
+이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines)을 참조하세요.
 
 예를 들어 이메일 템플릿에는 최대 3개의 섹션을 포함할 수 있으므로 다음과 같은 3개의 헤드라인 및 본문 섹션이 있을 수 있습니다.
 
 - `pre_header`
-- `pod1_headline`
-- `pod1_body`
-- `pod2_headline`
-- `pod2_body`
-- `pod3_headline`
-- `pod3_body`
+- `pod1_headline`, `pod1_body`
+- `pod2_headline`, `pod2_body`
+- `pod3_headline`, `pod3_body`
 - `cta`
 
 GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
@@ -252,138 +248,3 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
 ### 콘텐츠 새로 고침
 
 초기 미리 보기를 만든 후 소스가 변경되면 [새로 고침](/help/user-guide/content/use-templates.md#refresh-template) 함수를 사용하여 외부 소스의 최신 콘텐츠 버전으로 템플릿 미리 보기를 업데이트합니다.
-
-## 템플릿 예
-
-+++예: 한 개의 섹션이 있는 이메일 템플릿
-
-다음은 하나의 섹션을 포함하는 이메일에 대한 HTML 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 간단한 인라인 CSS가 포함되어 있습니다. 본문에는 전자 메일 생성 프로세스 중에 GenStudio for Performance Marketing에서 콘텐츠를 삽입하는 데 사용할 `pre_header`, `headline` 및 `image` [자리 표시자](#content-placeholders)가 포함되어 있습니다.
-
-```html {line-numbers="true" highlight="13"}
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Adobe</title>
-        <style>
-            .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            }
-        </style>
-    </head>
-    <body>{{pre_header}}
-        <div class="container">
-            <h1>{{headline}}</h1>
-            <p><a href="{{link}}">
-            <img alt="{{headline}}"
-                    src="{{image}}"
-                    width="600" height="600"
-                    border="0"/></a></p>
-            <p>{{body}}</p>
-        </div>
-    </body>
-</html>
-```
-
-+++
-
-+++예: 여러 섹션이 있는 이메일 템플릿
-
-다음은 위의 예제와 동일한 HTML 템플릿이지만 두 개의 섹션이 더 있습니다. 헤드에는 그룹을 스타일링할 인라인 CSS가 포함되어 있습니다. 본문에서는 접두사를 사용하여 [콘텐츠 자리 표시자](#content-placeholders)가 있는 두 개의 그룹을 사용합니다.
-
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Adobe</title>
-        <style>
-            .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            }
-            .pod {
-            background-color: #f8f8f8;
-            margin: 10px;
-            padding: 20px;
-            border-radius: 5px;
-            }
-            .pod h2 {
-            color: #333;
-            }
-            .pod p {
-                color: #666;
-            }
-        </style>
-    </head>
-    <body>{{pre_header}}
-        <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
-            <!-- Pod1 -->
-            <div class="pod">
-                <h2>{{pod1_headline}}</h2>
-                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
-                <p>{{pod1_body}}</p>
-            </div>
-            <!-- End of Pod1 -->
-            <!-- Pod2 -->
-            <div class="pod">
-                <h2>{{pod2_headline}}</h2>
-                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
-                <p>{{pod2_body}}</p>
-            </div>
-            <!-- End of Pod2 -->
-        </div>
-    </body>
-</html>
-```
-
-+++
-
-+++예: 메타 광고 템플릿
-
-다음은 메타 광고 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 인라인 CSS가 포함되어 있습니다. 본문에서는 `image` 및 `on_image_text`과(와) 같은 [콘텐츠 자리 표시자](#content-placeholders)를 사용하여 GenStudio for Performance Marketing에서 콘텐츠를 생성할 수 있는 위치를 나타냅니다.
-
-```html {line-numbers="true" highlight="33"}
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Adobe</title>
-        <style>
-            .ad-container {
-            font-family: Helvetica, sans-serif;
-            position: relative;
-            text-align: center;
-            height: 100%;
-            }
-            .ad-image {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            }
-            .ad-text {
-            position: absolute;
-            top: 0;
-            left: 0;
-            margin: 1em;
-            background-color: rgba(0, 0, 0, 0.5);
-            color: white;
-            padding: 1em;
-            font-size: 75px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="ad-container">
-            <img src="{{image}}" alt="Ad Image" class="ad-image" />
-            <div class="ad-text">{{on_image_text}}</div>
-        </div>
-    </body>
-</html>
-```
-
-+++

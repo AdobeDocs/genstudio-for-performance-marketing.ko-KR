@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -20,14 +20,14 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 
 디스플레이 광고 경험을 생성할 때 캔버스에 4개의 변형이 만들어져 표시됩니다.
 
-지원되는 차원, 인식된 필드 이름 등에 대한 정보는 [채널별 템플릿 지침 준수](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하십시오.
+지원되는 차원, 인식된 필드 이름 등에 대한 정보는 [광고 템플릿 표시 지침](/help/user-guide/templates/display-template.md)을 참조하십시오.
 
 디스플레이 광고 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 
 * 제목
 * 하위 헤드라인
 * 본문
-* 클릭 유도 문안(CTA)
+* Call to action(CTA)
 * 이미지
 
 [템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.

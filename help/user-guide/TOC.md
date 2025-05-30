@@ -5,10 +5,10 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 2745df9f67c1af4261bfdbf096b721e9bb97bc4b
+source-git-commit: 7ac97f040917ee737cd29ba8f5c7d8c72a75e577
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 20%
+source-wordcount: '237'
+ht-degree: 18%
 
 ---
 
@@ -61,12 +61,18 @@ ht-degree: 20%
    + [자산 및 경험 관리](content/manage-assets.md)
    + [AEM 저장소 연결](content/connect-aem-repo.md)
    + [자산 세부 정보](content/asset-details.md)
-   + 템플릿 {#templates}
-      + [템플릿 작업](content/use-templates.md)
-      + [템플릿 사용자 지정](content/customize-template.md)
-      + [템플릿 코드 편집기](content/code-editor.md)
-      + [액세스 가능한 템플릿 만들기](content/accessibility-for-templates.md)
-      + [템플릿 모범 사례](content/best-practices-for-templates.md)
++ 템플릿 {#templates}
+   + [템플릿 작업](content/use-templates.md)
+   + [시작 템플릿](templates/starter-templates.md)
+   + [템플릿 사용자 지정](content/customize-template.md)
+   + [템플릿 코드 편집기](content/code-editor.md)
+   + [액세스 가능한 템플릿 만들기](content/accessibility-for-templates.md)
+   + [템플릿 모범 사례](content/best-practices-for-templates.md)
+   + 채널 모범 사례 {#channel-best-practice}
+      + [디스플레이 광고 가이드](templates/display-template.md)
+      + [전자 메일 안내서](templates/email-template.md)
+      + [LinkedIn 광고 안내서](templates/linkedin-template.md)
+      + [메타 광고 안내서](templates/meta-template.md)
 + 캠페인 {#campaigns}
    + [캠페인 개요](campaigns/overview.md)
    + [캠페인 만들기](campaigns/create-campaign.md)
