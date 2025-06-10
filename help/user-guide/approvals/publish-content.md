@@ -3,16 +3,16 @@ title: 승인된 콘텐츠 게시
 description: Adobe GenStudio for Performance Marketing을 사용하여 승인된 콘텐츠를 게시하는 방법을 알아봅니다.
 feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
-source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
+source-git-commit: 82a29250b1a054c91f144c4e9c431324c5e61afa
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
 # 승인된 콘텐츠 게시
 
-브랜드 맞춤형의 승인된 콘텐츠를 만드는 마지막 단계에서 적절한 메타데이터가 있는 [!DNL Content]에 저장하고 있습니다. 콘텐츠 편집기 또는 작성자가 [!DNL Content]에 게시하거나 저장하여 승인된 자산을 완성할 수 있습니다.
+브랜드 맞춤형의 승인된 콘텐츠를 만드는 마지막 단계에서 적절한 메타데이터가 있는 [!DNL Content]에 저장하고 있습니다. 콘텐츠 편집기 또는 작성자가 [!DNL Content]에 게시하여 승인된 에셋을 완료할 수 있습니다.
 
 모든 지정 승인자가 초안을 승인하면 초안 상태가 **승인됨**(으)로 변경됩니다. Adobe GenStudio for Performance Marketing은 편집기 캔버스에 _게시 준비된 승인된 변형_ 팝업을 표시합니다.
 
@@ -34,9 +34,11 @@ ht-degree: 0%
 
 ## 게시 후
 
-모든 GenStudio for Performance Marketing 사용자는 [!DNL Content]에서 승인된 에셋 또는 경험에 액세스할 수 있습니다. 에셋 세부 사항 패널에서 에셋의 업로드 및 승인 내역을 식별합니다. 다음 속성은 저장된 콘텐츠를 식별합니다.
+모든 GenStudio for Performance Marketing 사용자는 [!DNL Content]에서 승인된 에셋 또는 경험에 액세스할 수 있습니다. _자산 세부 정보_ 패널에서 자산의 업로드 및 승인 내역을 식별합니다. 다음 속성은 저장된 콘텐츠를 식별합니다.
 
 * **[!UICONTROL 만든 사람]**: 에셋 또는 경험을 업로드한 GenStudio 사용자를 식별합니다.
 * **[!UICONTROL 승인 내역]**: 승인 날짜 및 시간과 승인자를 식별합니다.
 
 초안 에셋 또는 경험이 [!DNL Content]에 저장된 후에는 초안 URL이 잘못되었습니다.
+
+Workfront Proof 통합을 활성화한 경우 에셋 또는 경험이 게시된 후 증명 주석 및 버전이 저장됩니다.
