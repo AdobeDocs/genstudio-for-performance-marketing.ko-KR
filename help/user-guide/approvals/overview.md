@@ -67,7 +67,7 @@ _검토자_&#x200B;이(가) 댓글을 추가할 수 있지만 콘텐츠를 승�
 
 GenStudio for Performance Marketing 제품 내 알림은 자산 상태 변경 및 `@mention`개의 댓글을 실시간으로 승인자 및 콘텐츠 편집자를 업데이트합니다. 알림은 여러 검토, 편집 및 승인 주기를 통해 신속한 반복을 지원합니다.
 
-콘텐츠 편집자 및 승인자는 Slack에서 이러한 알림을 수신하기 위해 등록할 수 있습니다. [Experience Cloud에서 서비스 구독](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/subscription)을 참조하세요.
+콘텐츠 편집자 및 승인자는 Slack에서 이러한 알림을 수신하기 위해 등록할 수 있습니다. [Experience Cloud에서 서비스 구독](https://experienceleague.adobe.com/ko/docs/core-services/interface/services/customer-attributes/subscription)을 참조하세요.
 
 승인 참가자가 취한 작업은 자동 제품 내 알림 및 이메일 알림을 트리거합니다. 승인 프로세스를 시작하면 지정된 승인자가 이메일과 제품 내 알림을 모두 받습니다. 승인자가 `@mention`개의 댓글을 추가하거나 결정을 내릴 때마다 제품 내 및 이메일 알림이 반복됩니다. 알림에는 콘텐츠 초안에 대한 링크가 포함되어 있습니다.
 
