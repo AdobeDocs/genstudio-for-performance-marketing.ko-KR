@@ -27,7 +27,7 @@ GenStudio for Performance Marketing [!DNL Activate]은(는) 유료 광고 채널
 
 * [활성화 만들기](create-activation.md). 유료 채널로 푸시하기 전에 시각적 자산을 선택하고, 텍스트를 할당하고, 메타데이터를 정의하여 광고 경험을 구축할 수 있습니다.
 
-* [활성화 관리](manage-activations.md). _[!DNL Activate]_에서는 활성화된 모든 경험에 대한 개요를 제공합니다. 개별 활성화의 세부 정보를 볼 수도 있습니다.
+* [활성화 관리](manage-activations.md). _[!DNL Activate]_&#x200B;에서는 활성화된 모든 경험에 대한 개요를 제공합니다. 개별 활성화의 세부 정보를 볼 수도 있습니다.
 
 ## 기능 활성화
 
