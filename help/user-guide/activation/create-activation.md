@@ -3,16 +3,16 @@ title: 활성화 워크플로
 description: 광고 경험을 위한 활성화 워크플로에 대해 알아봅니다.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-source-git-commit: c622b86ae2977026207edb8919102620ef582d39
+source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
 
 # 활성화 워크플로
 
-_[!DNL Activate]_&#x200B;은(는) 메타 또는 Google Campaign Manager 360 광고 경험과 같은 채널별 형식의 광고 경험 활성화를 지원합니다.
+[!DNL Activate]은(는) 메타 또는 Google Campaign Manager 360 광고 경험과 같은 채널별 형식의 광고 경험 활성화를 지원합니다.
 
 GenStudio for Performance Marketing 경험은 유료 광고 채널 또는 이메일에서 특정 대상에 대한 광고 경험으로 준비된 광고와 같은 마케팅 캠페인 구성 요소입니다. 활성화 경험에는 세 가지 주요 구성 요소가 포함되어 있습니다.
 
@@ -34,17 +34,18 @@ GenStudio for Performance Marketing 경험은 유료 광고 채널 또는 이메
 
 1. **활성화를 위한 환경 준비**. 다음 두 가지 방법으로 활성화를 위한 경험을 준비할 수 있습니다.
 
-   * _[!DNL Content]_&#x200B;에서 바로 사전 정의된 설정으로 승인된 경험을 활성화합니다. 하나 이상의 광고 경험을 단일 채널로 활성화하는 간소화된 방법입니다._[!DNL Content]_ 갤러리에서 경험을 선택하면 자산을 편집하거나 광고 경험에 추가할 수 없습니다. _[!DNL Content]_&#x200B;에서 활성화는 Meta 및 Google Campaign Manager 360 광고 경험에 사용할 수 있습니다.
+   * [!DNL Content]에서 바로 사전 정의된 설정으로 승인된 경험을 활성화합니다. 하나 이상의 광고 경험을 단일 채널로 활성화하는 간소화된 방법입니다. [!DNL Content] 갤러리에서 경험을 선택하면 자산을 편집하거나 광고 경험에 추가할 수 없습니다. [!DNL Content]에서 활성화는 Meta 및 Google Campaign Manager 360 광고 경험에 사용할 수 있습니다.
 
-   * _[!DNL Content]_&#x200B;에서 시각적 자산을 선택하고, 텍스트 요소를 추가하고, 종횡비를 선택하여 광고 경험을 조합합니다. 이 방법에는 더 많은 단계가 포함되지만 보다 창의적인 유연성을 제공합니다. 준비에는 특정 광고 배치에 적절한 종횡비로 미디어 에셋을 선택하고 call-to-action 요소 및 본문 사본에 텍스트를 할당하는 작업이 포함됩니다. 활성화 후 경험을 검색하는 데 도움이 되는 유용한 메타데이터를 추가할 수 있습니다. 각 광고 채널 배치는 배치에 포함된 시각적 에셋에 대해 유효한 종횡비를 지정합니다.
+   * [!DNL Content]에서 시각적 자산을 선택하고, 텍스트 요소를 추가하고, 종횡비를 선택하여 광고 경험을 조합합니다. 이 방법에는 더 많은 단계가 포함되지만 보다 창의적인 유연성을 제공합니다. 준비에는 특정 광고 배치에 적절한 종횡비로 미디어 에셋을 선택하고 call-to-action 요소 및 본문 사본에 텍스트를 할당하는 작업이 포함됩니다. 활성화 후 경험을 검색하는 데 도움이 되는 유용한 메타데이터를 추가할 수 있습니다. 각 광고 채널 배치는 배치에 포함된 시각적 에셋에 대해 유효한 종횡비를 지정합니다.
 
 1. **경험을 검토하고 대상 채널에 게시합니다**. 활성화를 완료하기 전에 경험 설정 중에 _미리 보기_ 패널을 사용하여 광고 배치 및 텍스트 요소 선택을 평가합니다. 최종 게시 전 검토는 대상 채널의 광고 관리 앱에서 수행됩니다. 예를 들어, GenStudio for Performance Marketing에서 메타 광고 경험을 활성화한 후, 메타 광고 관리자에 로그인하고 광고 경험을 검토한 다음 게시하기 전에 특정 속성을 선택해야 합니다.
 
-광고 경험이 대상 유료 미디어 채널에서 라이브되면 _[!DNL Insights]_&#x200B;에서 해당 성능 데이터를 추적하고 분석할 수 있습니다.
+광고 경험이 대상 유료 미디어 채널에서 라이브되면 [!DNL Insights]에서 해당 성능 데이터를 추적하고 분석할 수 있습니다.
 
 ## 지원되는 채널
 
 각 유료 미디어 채널에는 고유한 활성화 워크플로가 있습니다. 활성화 지침에 대한 유료 채널 선택:
 
-* [Meta](/help/user-guide/activation/activate-meta-ad.md)
-* [Google 캠페인 관리자 360](/help/user-guide/activation/activate-cm360-ad.md)
+* [Google 캠페인 관리자 360](activate-cm360-ad.md)
+* [LinkedIn](activate-linkedin-ad.md)
+* [Meta](activate-meta-ad.md)

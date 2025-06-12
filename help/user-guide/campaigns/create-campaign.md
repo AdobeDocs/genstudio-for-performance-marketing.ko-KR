@@ -3,7 +3,8 @@ title: Adobe GenStudio for Performance Marketing 캠페인
 description: 생성 AI 에셋 및 경험을 활용하는 디지털 마케팅 캠페인을 만들고 관리하는 방법을 알아봅니다.
 feature: Campaign Planning, Campaign Brief
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
-source-git-commit: edbeb7f0d08e2215a23f15cfeff77a5217cd264b
+exl-id: b7c4194f-fa61-4739-acd6-7acbdd98e9b2
+source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -16,12 +17,11 @@ GenStudio for Performance Marketing 캠페인은 주요 디지털 캠페인 특�
 
 캠페인의 주요 요소는 캠페인 개체에 저장되며, 이 개체는 동일한 고유한 캠페인 이름으로 레이블이 지정된 모든 에셋 및 경험에 대한 공유 컨텍스트를 만듭니다. 이 레이블은 GenStudio for Performance Marketing 전체의 캠페인을 식별합니다.
 
-GenStudio 시스템 관리자와 Genstudio 편집자는 캠페인을 만들 수 있습니다.
+GenStudio 시스템 관리자와 GenStudio 편집자는 캠페인을 만들 수 있습니다.
 
 ## 캠페인 세부 정보 정의
 
 {{$include /help/_includes/campaign-details.md}}
-
 
 **캠페인 세부 정보를 입력하려면**:
 

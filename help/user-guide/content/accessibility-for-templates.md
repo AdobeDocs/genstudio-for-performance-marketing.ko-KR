@@ -3,9 +3,9 @@ title: 액세스 가능한 템플릿 만들기
 description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 Adobe GenStudio for Performance Marketing의 템플릿을 작성합니다.
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 28c128ad6f3d173b7516a6b1309555c12e6a4e2d
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,11 @@ GenStudio for Performance Marketing에서 다양한 경험을 위해 콘텐츠�
 ```
 
 ![아이디어, 책, 큰 연필 들고 있는 남자, 컴퓨터 콜라주](/help/assets/card-create-assets.png){width="400"}
+
+템플릿을 사용자 지정할 때 `alt` 및 `aria-label` 특성에 대해 콘텐츠 자리 표시자를 사용하십시오.
+
+- [대체 텍스트](/help/user-guide/content/customize-template.md#alternative-text)
+- [접근성 레이블](/help/user-guide/content/customize-template.md#accessibility-label)
 
 ## 글꼴
 

@@ -3,12 +3,12 @@ title: GenStudio for Performance Marketing용 이메일 템플릿 준비
 description: Adobe GenStudio for Performance Marketing에서 사용할 이메일 템플릿을 준비하는 방법을 알아봅니다.
 level: Beginner
 feature: Media Templates
-hide: true
-hidefromtoc: true
+badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 recommendations: noDisplay, noCatalog
-source-git-commit: 35a519a8d28e260bfa6d9ed671bd5bf1cfeda931
+exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
+source-git-commit: a7c69659c348fad3e067a84c1d242809a83b42fb
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 _시작 템플릿_&#x200B;은(는) GenStudio for Performance Marketing을 빠르게 시작하고 효과적인 미디어를 만드는 방법을 배울 수 있도록 디자인된 사전 정의된 템플릿 옵션입니다. [!DNL Create]에서 미디어 유형을 선택합니다. 시작 서식 파일을 사용할 수 있는 경우 **[!UICONTROL 시작 서식 파일]** 탭으로 전환하여 필요에 맞는 서식 파일을 찾아 선택하십시오.
 
 ![시작 템플릿 탭](/help/assets/starter-templates.png "템플릿 탭 선택"){width="350"}
-
-## 적합한 종횡비 선택
 
 광고에 적합한 종횡비를 선택하는 것은 효과를 극대화하고 다양한 플랫폼 및 배치에서 콘텐츠가 올바르게 표시되도록 하는 데 중요합니다. 종횡비를 선택할 때는 다음 사항을 고려하십시오.
 

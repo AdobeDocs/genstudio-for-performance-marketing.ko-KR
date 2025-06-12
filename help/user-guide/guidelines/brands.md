@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 에셋(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드 중심의 콘텐츠 생성을 알리는 역할을 합니다.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: a67efc3bc517ffe2d130efd4e577ef652e07d462
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1522'
 ht-degree: 1%
 
 ---
@@ -28,9 +28,13 @@ GenStudio for Performance Marketing에 브랜드 지침을 추가한 후 [관리
 
 삭제된 [!DNL Brands]은(는) 30일 동안 보관되며 해당 기간 내에 복구할 수 있습니다.
 
-## [!DNL Brands] 지침
+## 브랜드 지침
 
 지침은 GenStudio for Performance Marketing에 브랜드별 접근 방식, 톤, 시각적 느낌 등에 대한 명확한 그림을 제공합니다.
+
+>[!NOTE]
+>
+>영어가 아닌 언어로 작성된 브랜드 지침을 업로드하거나 영어가 아닌 언어를 사용하여 브랜드를 수동으로 생성하는 경우 GenStudio for Performance Marketing은 해당 지침을 동일한 언어로 표시합니다.
 
 [플랫폼 지침 및 ADA 접근성 표준](/help/user-guide/guidelines/overview.md#compliance)에서 추상화된 일부 채널 지침이 기본값으로 미리 채워져 있습니다.
 
@@ -137,7 +141,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ### 로고
 
-[!DNL Brand] 로고는 회사의 ID, 값 및 제품을 나타내는 시각적 기호 역할을 합니다. JPG, JPEG, SVG 또는 PNG 형식의 [!DNL Brand]에 대해 하나 이상의 로고(파일당 1GB를 초과할 수 없음)를 업로드할 수 있습니다. 로고는 [!DNL Brand]을(를) 만드는 동안 또는 개별 _[!DNL Brands]보기_&#x200B;에서 추가할 수 있습니다.
+[!DNL Brand] 로고는 회사의 ID, 값 및 제품을 나타내는 시각적 기호 역할을 합니다. JPG, JPEG, SVG 또는 PNG 형식의 [!DNL Brand]에 대해 하나 이상의 로고(파일당 1GB를 초과할 수 없음)를 업로드할 수 있습니다. 로고는 [!DNL Brand]을(를) 만드는 동안 또는 개별 _[!DNL Brands]보기_&#x200B;에서 추가할 수 있습니다. 로고는 특정 [!DNL Brand]의 썸네일 이미지로 사용할 수 있습니다.
 
 업로드된 각 로고는 로고 타일 내에 다음 세부 정보를 포함합니다.
 
@@ -145,7 +149,13 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 - 파일 크기
 - 해결 방법
 
-색상 작업 메뉴(세 점)에서 색상을 **[!UICONTROL 다운로드]**, **[!UICONTROL 이름 바꾸기]** 또는 **[!UICONTROL 삭제]**&#x200B;할 수 있습니다.
+로고에 대한 작업 메뉴(세 점)에서 개별 로고를 [자세히 보고 관리](/help/user-guide/guidelines/add-guidelines.md#manage-brands)할 수 있습니다.
+
+- **[!UICONTROL 세부 정보 보기]**
+- **[!UICONTROL 다운로드]**
+- [**[!UICONTROL 브랜드 썸네일로 사용]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)
+- **[!UICONTROL 이름 바꾸기]**
+- **[!UICONTROL 삭제]**
 
 ### 색상
 

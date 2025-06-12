@@ -5,9 +5,9 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1ff6a3ecf0a0773c3a6f13d6993042b0620c6dd2
+source-git-commit: 7495891b58d7830453ba81048df3373820823136
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '638'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,14 @@ GenStudio for Performance Marketing은 브랜드 및 시장에 대한 정보를 
 
 ### 1단계: 지침 추가
 
-조직 브랜드 정체성의 주요 구성 요소를 설정하는 것은 콘텐츠 편집자 및 공동 작업자의 작업에 필수적인 전제 조건입니다. [지침](/help/user-guide/guidelines/overview.md) 로고, 음색 및 색상 팔레트와 같은 브랜드 특성을 캡처합니다. [[!DNL Brands] 지침](/help/user-guide/guidelines/brands.md) 문서를 업로드하거나 브랜드 정보를 수동으로 입력할 수 있습니다. [[!DNL Personas] 지침](/help/user-guide/guidelines/personas.md) 및 [[!DNL Products] 지침](/help/user-guide/guidelines/products.md)도 중요합니다. GenStudio for Performance Marketing의 기본 생성 AI 기능은 이 지침을 사용하여 콘텐츠 생성을 안내하는 가드레일을 설정합니다.
+브랜드 [지침](/help/user-guide/guidelines/overview.md)은(는) 브랜드 특성을 캡처합니다. GenStudio for Performance Marketing의 기본 생성 AI 기능은 이 지침을 사용하여 콘텐츠 생성을 안내하는 가드레일을 설정합니다. [[!DNL Brands] 지침](/help/user-guide/guidelines/brands.md) 문서를 업로드하거나 브랜드 정보를 수동으로 입력할 수 있습니다.
+
+조직 [브랜드 ID](/help/user-guide/guidelines/brands.md)의 기본 요소가 설정될 때까지 콘텐츠 편집자와 공동 작업자는 작업을 시작할 수 없습니다. 이러한 브랜드 구성 요소에는 다음 두 가지가 모두 포함됩니다.
+
+* 목소리 톤과 같은 무형의 요소
+* 로고, 색상 팔레트 및 타이포그래피와 같은 유형 자산.
+
+지침을 만들기 전에 GenStudio for Performance Marketing에서 [브랜드 구성 요소](/help/user-guide/guidelines/brands.md)를 정의하는 방법에 대해 알아보세요.
 
 #### 지침 문서 준비
 

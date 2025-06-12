@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,15 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
 새 LinkedIn 경험을 생성하려면 콘텐츠에 대한 프레임워크를 제공하는 템플릿이 필요합니다. 지원되는 LinkedIn 종횡비에 대한 자세한 내용은 [LinkedIn 템플릿 지침](/help/user-guide/templates/linkedin-template.md)을 참조하십시오.
 
+사용자 지정 템플릿 목록에서 선택하거나 스타터 템플릿을 선택할 수 있습니다.
+
 **LinkedIn 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL LinkedIn]**&#x200B;을(를) 클릭합니다.
-1. _필터_ 옆의 검색 옵션을 사용하여 특정 템플릿을 찾습니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL LinkedIn]**을(를) 클릭합니다.
+1. **[!UICONTROL 사용자 지정 템플릿]**&#x200B;을(를) 선택하여 업로드한 템플릿을 찾아보거나 **[!UICONTROL 시작 템플릿]**&#x200B;을(를) 선택하여 미리 빌드한 템플릿을 찾아봅니다.
+
+   비디오 자산을 메타 변형에 추가하려면 스타터 템플릿을 선택해야 합니다. 여기에는 비디오를 쉽게 사용할 수 있도록 하는 시스템 정의 콘텐츠 영역이 미리 로드됩니다.
+
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
    이 작업을 수행하면 콘텐츠 작성의 중앙 허브인 캔버스가 열립니다.
@@ -45,14 +50,16 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
-1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
-   * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
+1. **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하여 *및* 경험에서 사용할 콘텐츠(이미지 또는 비디오)를 추가하여 콘텐츠 생성에 영향을 줍니다. 또는 이미지를 **[!UICONTROL 콘텐츠에서 선택]** 섹션으로 끌어다 놓아 하나 이상의 새 에셋을 업로드하십시오.
 
-     ![시각적 콘텐츠 선택](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
+   필터를 사용하여 콘텐츠를 검색하고 하나 이상의 이미지를 선택합니다.
 
-     연결된 [!DNL AEM Assets Content Hub] 저장소의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 저장소를 선택하십시오. 하나 이상의 이미지를 필터링하고 선택합니다.
+   비디오 섹션이 있는 템플릿을 사용하는 경우 비디오 콘텐츠(.mp4)가 미리 선택되고 필터링됩니다. 자동으로 재생된 미리 보기를 보려면 비디오 위로 마우스를 가져갑니다.
 
-   * 또는 자산을 **[!UICONTROL 콘텐츠에서 선택]** 섹션으로 끌어다 놓아 하나 이상의 새 자산을 업로드하십시오.
+   ![시각적 콘텐츠 선택](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
+
+   연결된 [!DNL AEM Assets Content Hub] 저장소의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 저장소를 선택하십시오. 하나 이상의 이미지를 필터링하고 선택합니다.
+
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 창을 축소할 수 있습니다.
@@ -68,6 +75,8 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 1. _&quot;생성할 경험 설명&quot;_ 프롬프트 상자에 프롬프트를 입력하십시오.
 1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
 
+   비디오 생성 방법과 관리 방법을 이해하려면 [비디오 관리](#manage-videos)를 참조하세요.
+
 기본적으로 네 가지 변형(모두 추가한 프롬프트, 지침 및 콘텐츠에 의해 유도됨)이 생성되어 캔버스에 표시됩니다.
 
 생성된 콘텐츠는 점진적으로 로드됩니다. LinkedIn 경험의 각 섹션이 생성되면 캔버스에 표시됩니다. 변경 내용이 캔버스에 로드되는 방법을 알아보려면 [LinkedIn 경험](/help/user-guide/create/linkedin-experiences.md#progressive-loading)을 참조하세요.
@@ -79,12 +88,23 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 **생성된 변형을 수정하려면**:
 
 * **LinkedIn 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **LinkedIn 광고를 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
+* **LinkedIn 광고를 수동으로 편집하려면[](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
 * **콜 투 액션을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
+* **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
+* **[이미지 크기를 조정하고 맞추는 [생성 확장]을 사용](/help/user-guide/create/manage-variants.md#use-generative-expand)하려면** 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 모양 아이콘)을 클릭한 다음 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 필요한 종횡비와 템플릿에 맞게 이미지를 조정합니다.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **변형에서 자산(이미지 또는 비디오)을 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 자산(또는 자산 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
+* **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
 * **LinkedIn 광고를 [삭제하려면](/help/user-guide/create/manage-variants.md#delete-variant)** 변형에 대한 옵션 메뉴를 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+
+### 비디오 관리
+
+반복된 자동 재생을 보려면 각 비디오 위로 마우스를 가져갑니다.
+
+비디오는 생성하는 동안 선택한 종횡비에 맞게 다시 만들어집니다. **[!UICONTROL 프레임 비디오]**&#x200B;를 클릭한 다음 끄면 다시 프레임 없는 원본 비디오로 되돌아갑니다.
 
 ## 생성 피드백 제출
 
@@ -100,7 +120,7 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
    ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [변형을 수동으로 수정](#revise-generated-variants)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
+1. [변형을 수동으로 수정](#revise-generated-linkedin-ads)하여 변형이 완료된 콘텐츠 검사와 밀접하게 정렬되도록 합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 

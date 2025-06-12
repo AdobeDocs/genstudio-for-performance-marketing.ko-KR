@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: d9d774f727b69b18af6114965fdb8ffb450f797b
+source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,18 @@ GenStudio for Performance Marketing에서 작동하도록 이메일 템플릿을
 
 ## 인식된 필드 이름
 
-GenStudio for Performance Marketing은 이메일에 대한 `subject` 필드를 자동으로 생성합니다. 템플릿을 사용자 정의할 때 다음 필수 필드에 콘텐츠 자리 표시자를 사용하십시오.
+이메일 템플릿을 사용자 정의할 때 다음 필수 필드에 콘텐츠 자리 표시자를 사용하십시오.
 
-- `pre_header`(서식 있는 텍스트가 활성화되지 않음)
 - `headline`
 - `sub_headline`
 - `body`
 - `cta`
 - `image`(컨텐츠 JPEG, PNG 또는 GIF에서 선택됨)
+
+GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합니다. 서식 있는 텍스트가 활성화되지 않았습니다. 다음에 대해서는 콘텐츠 자리 표시자를 적용할 필요가 없습니다.
+
+- `pre_header`
+- `subject`
 
 템플릿에서 허용되는 최대 필드는 20개입니다. 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
 
@@ -56,30 +60,46 @@ _섹션_&#x200B;을(를) 사용하면 콘텐츠를 보다 복잡한 레이아웃
 
 +++예: 한 개의 섹션이 있는 이메일 템플릿
 
-다음은 하나의 섹션을 포함하는 이메일에 대한 HTML 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 간단한 인라인 CSS가 포함되어 있습니다. 본문에는 전자 메일 생성 프로세스 중에 GenStudio for Performance Marketing에서 콘텐츠를 삽입하는 데 사용할 `pre_header`, `headline` 및 `image` [자리 표시자](#content-placeholders)가 포함되어 있습니다.
+다음은 한 개의 섹션이 있는 HTML 이메일 템플릿의 기본 예입니다. `<head>`에는 스타일을 지정할 간단한 인라인 CSS가 포함되어 있으며 `<body>`은(는) 링크 및 와 함께 `pre_header`, `headline`, `sub_headline`, `body`, `cta` 및 `image`과(와) 같은 콘텐츠 자리 표시자를 사용합니다. 이러한 자리 표시자를 사용하면 GenStudio for Performance Marketing에서 이메일 생성 중에 다이내믹 콘텐츠를 삽입할 수 있습니다.
 
-```html {line-numbers="true" highlight="13"}
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Adobe</title>
+        <title>Marketing Email</title>
         <style>
             .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
+                width: 100%;
+                padding: 20px;
+                font-family: Arial, sans-serif;
+            }
+            .cta-button {
+                display: inline-block;
+                background-color: #fff;
+                color: #000;
+                border: 2px solid #000;
+                padding: 10px 20px;
+                text-decoration: none;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-weight: 600;
+                font-size: 14px;
+                margin-top: 20px;
+                text-align: center;
             }
         </style>
     </head>
-    <body>{{pre_header}}
+    <body>
         <div class="container">
+            {{pre_header}}
             <h1>{{headline}}</h1>
-            <p><a href="{{link}}">
-            <img alt="{{headline}}"
-                    src="{{image}}"
-                    width="600" height="600"
-                    border="0"/></a></p>
+            <p>
+                <a href="{{link}}">
+                    <img alt="banner headline" src="{{image}}" width="600" height="600">
+                </a>
+            </p>
+            <h2>{{sub_headline}}</h2>
             <p>{{body}}</p>
+            <a href="#" class="cta-button">{{cta}}</a>
         </div>
     </body>
 </html>
@@ -114,6 +134,19 @@ _섹션_&#x200B;을(를) 사용하면 콘텐츠를 보다 복잡한 레이아웃
             .pod p {
                 color: #666;
             }
+            .cta-button {
+            display: inline-block;
+            background-color: #fff; /* Background color to white */
+            color: #000; /* Text color to black */
+            border: 2px solid #000; /* Border color to black */
+            padding: 10px 20px;
+            text-decoration: none;            
+            font-family: 'Source Sans Pro', Arial, sans-serif;
+            font-weight: 600; /* Semibold */
+            font-size: 14px;
+            margin-top: 20px;
+            text-align: center;
+            }
         </style>
     </head>
     <body>{{pre_header}}
@@ -123,17 +156,18 @@ _섹션_&#x200B;을(를) 사용하면 콘텐츠를 보다 복잡한 레이아웃
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
-                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
+                <p><img alt="pic1" src="{{pod1_image}}" width="200" height="200" border="0"></p>
                 <p>{{pod1_body}}</p>
             </div>
             <!-- End of Pod1 -->
             <!-- Pod2 -->
             <div class="pod">
                 <h2>{{pod2_headline}}</h2>
-                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
+                <p><img alt="pic2" src="{{pod2_image}}" width="200" height="200" border="0"></p>
                 <p>{{pod2_body}}</p>
             </div>
             <!-- End of Pod2 -->
+            <a href="#" class="cta-button">{{cta}}</a>
         </div>
     </body>
 </html>

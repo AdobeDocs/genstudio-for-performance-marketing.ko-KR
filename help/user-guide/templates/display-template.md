@@ -4,9 +4,10 @@ description: Adobe GenStudio for Performance Marketing에서 디스플레이 광
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 78313c2a2177a2ccb39e37a87ca3c657e7906d0a
+exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
+source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
@@ -27,12 +28,16 @@ GenStudio for Performance Marketing에서 작동하도록 배너 및 표시 광�
 
 ## 인식된 필드 이름
 
-배너 및 디스플레이 광고의 경우 GenStudio for Performance Marketing에서 `cta` 필드를 자동으로 생성합니다. 템플릿을 사용자 정의할 때 다음 필수 필드에 콘텐츠 자리 표시자를 사용하십시오.
+배너 또는 디스플레이 광고 템플릿을 사용자 지정할 때 다음 필수 필드에 콘텐츠 자리 표시자를 사용하십시오.
 
 - `headline`
 - `sub_headline`
 - `body`
 - `image`(필수, 컨텐츠 JPEG, PNG 또는 GIF에서 선택)
+
+GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합니다. 다음에 대해서는 콘텐츠 자리 표시자를 적용할 필요가 없습니다.
+
+- `cta`
 
 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
 

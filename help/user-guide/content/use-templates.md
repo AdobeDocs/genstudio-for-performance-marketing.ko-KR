@@ -5,16 +5,16 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 1f62546f4fc2381bcc4d8fd3acadd1d6470ed9e8
+source-git-commit: 7dfd915ebcc001b12357cfa334346e6698436d7d
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1366'
 ht-degree: 1%
 
 ---
 
 # 템플릿 작업
 
-GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다.
+GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다. 시작하려면 [!DNL Content]에서 사용자 지정 템플릿을 업로드하거나 [!DNL Create]에서 시작 템플릿을 사용하십시오. [시작 템플릿](/help/user-guide/templates/starter-templates.md)은(는) 표준 디자인으로 빠르게 시작할 수 있는 방법을 제공하지만, 사용자 지정 템플릿을 사용하면 고유한 디자인과 레이아웃을 사용할 수 있습니다.
 
 GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플릿을 직접 만들 수 없지만 Adobe InDesign, Illustrator 또는 Express와 같이 인기 있는 디자인 도구를 사용하여 템플릿을 쉽게 디자인하고 준비할 수 있습니다. 디자인이 완료되면 GenStudio for Performance Marketing에서 사용하도록 조정할 수 있습니다. 다음 단계를 수행하여 템플릿 사용을 시작합니다.
 
@@ -59,7 +59,7 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
 
 ## 템플릿 관리
 
-_[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
+_[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
 
 ### 템플릿 검색
 
@@ -82,7 +82,7 @@ _[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에
 
 **템플릿을 추가하려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
 1. **[!UICONTROL 템플릿 추가]**&#x200B;를 클릭합니다.
 
@@ -117,7 +117,7 @@ _[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에
 
 **템플릿을 새로 고치려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
 1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
@@ -129,7 +129,7 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 
 **템플릿을 사용하여 환경을 만들려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
 1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
@@ -148,7 +148,7 @@ Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드�
 
 >[!BEGINSHADEBOX]
 
-**전제 조건**
+**사전 요구 사항**
 
 - 통합을 위해 애플리케이션(AJO, Marketo)과 GenStudio for Performance Marketing이 동일한 IMS 조직에 속해 있어야 합니다
 - 사용자는 &quot;공동 작업자&quot; 역할(최하위 레벨) 이상이 있어야 합니다.

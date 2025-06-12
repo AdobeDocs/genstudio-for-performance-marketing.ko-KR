@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 4a82431c0f6a0f2f16c80160a46241dfa702195b
+source-git-commit: 2c5a16f0767958d09cfe5bbaa7a5538ca1b4fe75
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1613'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _[!DNL Handlebars]_&#x200B;템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
+다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 콘텐츠 자리 표시자
 
-GenStudio for Performance Marketing은 템플릿 내의 특정 [요소](use-templates.md#template-elements)를 인식하지만, [인식된 필드 이름](#recognized-field-names)으로 식별하는 경우에만 인식합니다.
+GenStudio for Performance Marketing은 템플릿 내의 특정 유형의 콘텐츠 또는 [요소](use-templates.md#template-elements)를 인식하지만, [인식된 필드 이름](#recognized-field-names)으로 식별하는 경우에만 인식합니다.
 
 HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사용하여 GenStudio for Performance Marketing에서 템플릿을 실제 콘텐츠로 채워야 하는 콘텐츠 자리 표시자를 삽입할 수 있습니다. GenStudio for Performance Marketing은 [인식된 _필드_ 이름](#recognized-field-names)을(를) 기반으로 이러한 자리 표시자를 인식하고 해석합니다. 각 필드 이름은 콘텐츠가 생성되고 템플릿에 삽입되는 방법을 결정하는 특정 규칙 및 동작과 연결되어 있습니다.
 
@@ -105,7 +105,7 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 <a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
-이 예에서,
+이 예에서
 
 - `{{link}}`은(는) 실제 URL의 자리 표시자입니다.
 - `src="image-source.jpg"`은(는) 실제 이미지 원본 URL로 대체해야 합니다.
@@ -119,10 +119,18 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 <img src="{{image}}" alt="{{imageDescription}}">
 ```
 
-이 예에서,
+이 예에서
 
 - `{{image}}`은(는) 이미지 소스 URL의 자리 표시자입니다.
 - `{{imageDescription}}`은(는) 접근성 및 SEO 목적을 위해 이미지에 대한 설명을 제공하는 대체 텍스트의 자리 표시자입니다.
+
+### 접근성 레이블
+
+`aria-label` 특성은 표시 레이블이 없는 요소의 액세스 가능한 이름을 정의하는 데 사용됩니다. 이 속성은 CTA 버튼과 같은 대화형 요소에 대한 컨텍스트를 제공하는 것이 중요한 템플릿에서 특히 유용합니다.
+
+```html
+<a class="button" href="{{link}}" aria-label="{{CTAAriaLabel}}">{{cta}}</a>
+```
 
 ### 이미지 텍스트에서
 
@@ -172,9 +180,38 @@ At this time, you cannot select the brand logo for the template upload. The foll
 </tbody>
 ```
 
+### 리치 텍스트 편집
+
+서식 있는 텍스트 편집으로 [!DNL Create] 프로세스 동안 크리에이티브 콘텐츠를 향상시킬 수 있습니다. 캔버스는 콘텐츠 자리 표시자의 위치에 따라 서식 있는 텍스트 기능을 결정합니다. 리치 텍스트 기능은 콘텐츠 자리 표시자를 독립 실행형 요소로 사용하거나 블록 수준 HTML 태그(예: `<p>`, `<div>` 또는 `<span>`) 내에서 사용하는 경우에만 사용할 수 있습니다.
+
+단락의 독립 실행형 컨텐츠에 대해 리치 텍스트 편집을 사용할 수 있습니다.
+
+```html
+<p>{{body}}</p>
+```
+
+HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시자를 사용하는 경우 해당 필드에 대해 서식 있는 텍스트 편집이 지원되지 않습니다.
+
+`alt` 콘텐츠에 대해 서식 있는 텍스트 편집을 **사용할 수 없음**:
+
+```html
+<img src="image.jpg" alt="{{image_description}}">
+```
+
+필드가 두 번 이상 표시되면 인스턴스에서 HTML 속성으로 사용되는지 여부에 따라 서식 있는 텍스트 기능이 결정됩니다. 예를 들어 헤드라인을 머리글로 사용하고 이미지의 대체 텍스트로 사용하는 경우 `alt` 태그가 우선합니다.
+
+서식 있는 텍스트 편집은 `alt` 콘텐츠로 사용되므로 `headline`에서 사용할 수 **없음**&#x200B;입니다.
+
+```html
+<h1>{{headline}}</h1>
+<img src="image.jpg" alt="{{headline}}">
+```
+
+소셜 채널(Meta, LinkedIn)의 `on_image_text`과 같은 특정 채널 내의 특정 필드에 대해 서식 있는 텍스트 편집을 사용할 수 있습니다.
+
 ## 섹션 또는 그룹
 
-두 개 또는 세 개의 필드 그룹화가 있는 경우 마케팅 이메일 템플릿의 섹션을 사용할 수 있습니다. _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio for Performance Marketing에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
+이메일 템플릿에 여러 오퍼 또는 스토리와 같은 여러 콘텐츠 영역이 필요한 경우 섹션 또는 그룹을 사용하여 구성할 수 있습니다. _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio for Performance Marketing에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
 선택한 그룹 이름을 접두사로 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 밑줄(`_`) 뒤에 필드 이름(예: `headline`, `body`, `image` 또는 `cta`)을 사용하십시오.
 
@@ -192,7 +229,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 이 규칙 때문에 섹션을 중첩할 수 없습니다.
 
-이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines)을 참조하세요.
+이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](/help/user-guide/content/best-practices-for-templates.md)을 참조하세요.
 
 예를 들어 이메일 템플릿에는 최대 3개의 섹션을 포함할 수 있으므로 다음과 같은 3개의 헤드라인 및 본문 섹션이 있을 수 있습니다.
 

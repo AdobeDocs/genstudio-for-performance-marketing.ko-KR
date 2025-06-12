@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 2e30223f67d8ad7e230245c825600e60a57e2ccd
+source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
 workflow-type: tm+mt
-source-wordcount: '2300'
+source-wordcount: '2667'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,45 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
 
-## 2025.05.15 {#latest}
+## 2025.06 {#latest}
+
+### 스타터 템플릿 사용 가능
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+[스타터 템플릿](/help/user-guide/templates/starter-templates.md)을 통해 크리에이티브 프로세스를 바로 시작할 수 있습니다. 이제 Meta 또는 LinkedIn 광고 시작 템플릿에서 선택할 수 있습니다.
+
+### AI 기능 생성 확장
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+이제 GenStudio for Performance Marketing [!DNL Create]에서 [생성 AI 확장 기능](/help/user-guide/create/manage-variants.md#use-generative-expand)을 사용하여 이미지 차원을 확장하고 유료 미디어 변형의 광고 템플릿에 맞게 생성 콘텐츠를 추가할 수 있습니다.
+
+### 광고에 비디오 추가
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+이제 이미지 콘텐츠와 함께 [LinkedIn](/help/user-guide/create/create-linkedin.md#manage-videos) 및 [Meta](/help/user-guide/create/create-meta-ad.md#manage-videos) 광고에 비디오를 추가할 수 있습니다. 비디오를 선택하고 변형에 추가하면 GenStudio for Performance Marketing에서 직접 비디오 자동 재생 미리보기를 확인하십시오.
+
+### 수정 사항 및 개선 사항
+
+* GenStudio for Performance Marketing에서 LinkedIn Campaign Manager로 [광고 경험 게시](/help/user-guide/activation/activate-linkedin-ad.md)에 대한 지원이 추가되었습니다. [!DNL Activate]은(는) LinkedIn Campaign Manager에 게시하기 전에 자세한 LinkedIn 광고 미리 보기를 지원합니다.
+
+* [Workfront Proof 통합](/help/user-guide/approvals/overview.md)은(는) Proof의 강력한 검토 및 승인 기능을 GenStudio for Performance Marketing에 제공합니다. GenStudio for Performance Marketing에서 검토한 콘텐츠는 Workfront Proof에 동기화되며 검토 주석 및 상태가 유지됩니다.
+
+* 접근성 레이블(Aria 레이블)을 추가하여 [이미지 및 call-to-action 링크에 대한 액세스 가능한 이름을 제공](/help/user-guide/create/manage-variants.md#add-accessibility-labels)할 수 있는 기능을 변형에 추가했습니다.
+
+* 영어가 아닌 언어로 [브랜드 지침](/help/user-guide/guidelines/brands.md)을 추가하거나 개정하면 GenStudio for Performance Marketing에서 이러한 지침을 동일한 언어로 표시합니다.
+
+* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [!DNL Brands] 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 [브랜드 썸네일 이미지를 변경하거나 추가](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)할 수 있습니다.
+
+* 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
+
+* 이제 플랫폼을 설치하는 동안 기존 광고 집합을 복제하여 플랫폼을 설치하는 동안 [새 광고 집합을 만들](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set)수 있습니다. 메타 광고 세트는 특정 광고의 시간, 채널 세부 정보 및 대상을 정의합니다. 메타 캠페인에는 여러 광고 세트가 포함될 수 있지만 광고 세트는 하나의 캠페인에만 연결됩니다.
+
+## 이전 릴리스 노트
+
++++2025.05.15 릴리스 정보
 
 ### 수정 사항 및 개선 사항
 
@@ -24,7 +62,7 @@ ht-degree: 0%
 * 이제 내보내기 또는 다운로드를 위해 두 개 이상의 경험을 선택할 수 있습니다. [경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 참조하십시오.
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
-## 이전 릴리스 노트
++++
 
 +++2025.04.15 릴리스 정보
 
@@ -34,6 +72,8 @@ ht-degree: 0%
 * 콘텐츠 재생성이나 이미지 자르기 등 수정 시 강조할 수 있도록 경험의 [개별 레이어(편집 가능한 텍스트 필드 또는 편집 가능한 이미지)를 보고 선택하는 기능을 활성화했습니다](/help/user-guide/create/manage-variants.md#view-layers).
 * 대상자의 관심을 끌고 마케팅 메시지를 강조하기 위해 경험의 추가 텍스트에 대해 [새 템플릿 필드](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`을(를) 추가했습니다.
 * GenStudio for Performance Marketing에서 Google Campaign Manager 360으로 [광고 경험 게시](/help/user-guide/activation/overview.md)에 대한 지원을 추가했습니다. [활성화]는 Campaign Manager 360 광고주에게 게시하기 전에 자세한 Google Campaign Manager 360 광고 미리보기를 지원합니다. [활성화]를 통해 게시된 광고는 라이브가 되면 자동으로 Insights로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
+
++++
 
 +++2025.03.13 릴리스 정보
 
@@ -77,7 +117,7 @@ ht-degree: 0%
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
