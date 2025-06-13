@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
+source-git-commit: 13687f4ac6c558a419c0bb7b83aa4f6d174aabbc
 workflow-type: tm+mt
-source-wordcount: '2667'
+source-wordcount: '2694'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 0%
 * 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
 
 * 이제 플랫폼을 설치하는 동안 기존 광고 집합을 복제하여 플랫폼을 설치하는 동안 [새 광고 집합을 만들](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set)수 있습니다. 메타 광고 세트는 특정 광고의 시간, 채널 세부 정보 및 대상을 정의합니다. 메타 캠페인에는 여러 광고 세트가 포함될 수 있지만 광고 세트는 하나의 캠페인에만 연결됩니다.
+
+* 이제 캠페인 세부 정보를 내보내어 Word 또는 PDF에서 캠페인 브리핑으로 외부에서 액세스할 수 있도록 할 수 있습니다. 캠페인을 선택한 다음 **[!UICONTROL 내보내기]**(오른쪽 상단)를 클릭합니다.
 
 ## 이전 릴리스 노트
 
@@ -117,7 +119,7 @@ ht-degree: 0%
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
