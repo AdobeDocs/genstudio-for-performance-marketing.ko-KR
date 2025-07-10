@@ -3,9 +3,9 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
+source-git-commit: ab4bc7eddf0ef4c514a64338ca4e68814c4616a5
 workflow-type: tm+mt
-source-wordcount: '2126'
+source-wordcount: '2106'
 ht-degree: 0%
 
 ---
@@ -196,27 +196,26 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
    이미지가 해당 변형에 추가되거나 교체됩니다.
 
-## 이미지 링크 추가
+## 링크 추가
 
-생성된 변형에서 이미지를 추가하거나 교체하는 것과 마찬가지로 이미지에 링크를 추가할 수 있습니다. _must_ 변형을 생성하는 데 사용한 템플릿에 이 기능을 사용하려면 [링크에 대한 콘텐츠 자리 표시자가 있어야 합니다](/help/user-guide/content/customize-template.md#content-placeholders).
+변형 내에 텍스트, 이미지 및 CTA 단추에 대한 링크를 추가할 수 있습니다. _must_ 변형을 생성하는 데 사용한 템플릿에 이 기능을 사용하려면 [링크에 대한 콘텐츠 자리 표시자가 있어야 합니다](/help/user-guide/content/customize-template.md#content-placeholders).
 
-**변형에 이미지 링크를 추가하려면**:
+**변형에 링크를 추가하려면**:
 
-1. 변형 세트를 생성한 후 이미지 에셋을 클릭합니다.
-
-   변형에 현재 배치된 이미지 에셋이 없는 경우 이미지 에셋 영역을 클릭합니다.
-
-1. 링크 아이콘을 클릭합니다.
-1. 기존 기본 링크를 제거하려면 **[!UICONTROL 링크 제거]**&#x200B;를 클릭하십시오.
-1. 텍스트 필드에 링크를 추가하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
-
-   정의된 링크가 변형 세트의 모든 이미지에 적용됩니다.
+1. 광고를 편집할 때 요소 변수를 클릭하고 **[!UICONTROL 링크 추가]** 또는 **[!UICONTROL 링크 편집]** 아이콘을 찾습니다.
+2. 아이콘을 클릭하여 텍스트 필드에 대한 창을 엽니다.
+3. 대상을 입력합니다. URL 주소, 이메일 주소 또는 전화 번호를 포함하는 링크는 허용됩니다.
+   * `https://`
+   * `mailto:`
+   * `tel:`
+   * `sms:`
+   * `https://wa.me/` 또는 `whatsapp://`
 
 ## 이미지에 대한 대체 텍스트 추가
 
