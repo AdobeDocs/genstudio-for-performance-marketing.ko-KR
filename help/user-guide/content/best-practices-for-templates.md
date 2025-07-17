@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: adf987b016825861b5522b44b61263000eb63859
+source-git-commit: e2b2e3b541c4d07530b9e725fceebabccbf6c84d
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ GenStudio for Performance Marketing에서 템플릿을 사용할 때 다음 권�
 
 {{note-css-effects}}
 
-최적의 성능과 호환성을 위해 각 템플릿 유형을 사용할 때 추가 팁과 제한을 참조하십시오.
+최적의 성능을 보장하기 위해 각 템플릿 유형을 사용할 때 다음과 같은 추가 팁과 제한을 참조하십시오.
 
 - [이메일](/help/user-guide/templates/email-template.md)
 - [광고 표시 및 배너](/help/user-guide/templates/display-template.md)
