@@ -196,7 +196,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
