@@ -3,9 +3,9 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: ab4bc7eddf0ef4c514a64338ca4e68814c4616a5
+source-git-commit: 2cf3bd4cb01f75dbff9fcf0cca7239256fc81129
 workflow-type: tm+mt
-source-wordcount: '2106'
+source-wordcount: '2101'
 ht-degree: 0%
 
 ---
@@ -170,7 +170,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 **생성된 메타 광고의 종횡비를 변경하려면**:
 
-1. 변형 세트를 생성한 후 캔버스의 왼쪽에 있는 종횡비 크기 조정 아이콘(상자 모서리를 가리키는 화살표)을 선택합니다.
+1. 변형 집합을 생성한 후 캔버스의 왼쪽에 있는 **[!UICONTROL 종횡비 크기 조정]**(상자 모서리를 가리키는 화살표)을 클릭합니다.
 
    현재 광고에 사용되는 종횡비는 _[!UICONTROL 크기 조정]_ 창의 맨 위에 표시됩니다.
 
@@ -184,7 +184,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
    [!DNL Create]은(는) 새로 선택한 종횡비를 기반으로 각 변형의 복사본을 만듭니다. 초기 종횡비의 변형을 포함한 모든 변형이 캔버스에 있습니다.
 
-   예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 총 _8개_&#x200B;개의 변형을 사용할 수 있습니다.
+   예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 _8개_&#x200B;의 총 변형을 사용할 수 있습니다.
 
 ## 이미지 교체
 
@@ -196,7 +196,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
