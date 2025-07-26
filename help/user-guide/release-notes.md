@@ -4,24 +4,57 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 13687f4ac6c558a419c0bb7b83aa4f6d174aabbc
+source-git-commit: 09dea200babd7bdd20a3372c91aca9918117897e
 workflow-type: tm+mt
-source-wordcount: '2694'
+source-wordcount: '3052'
 ht-degree: 0%
 
 ---
 
 # GenStudio for Performance Marketing 릴리스 노트
 
-이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 자세히 설명합니다.
+이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2025.06 {#latest}
+## 2025.07.25 {#latest}
+
+### 호환 가능한 에셋 필터
+
+[!DNL Insights] 모듈의 새 필터는 광고 미리 보기에서 [지원되지 않는 이미지 및 비디오 에셋](/help/user-guide/insights/ads.md#ad-formats)을 자동으로 숨겨 시각적 복잡성과 끊어진 타일을 제거합니다. 이러한 향상된 기능을 통해 사용자는 실제로 사용할 수 있고 사용할 준비가 된 미디어만 볼 수 있으므로 보다 깨끗하고 안정적인 경험을 만들 수 있습니다. 필터는 기존 호환성 광고 필터와 함께 작동합니다.
+
+### 메타에 대한 다중 자산 활성화
+
+메타 광고에 대한 다중 종횡비 이미지 활성화를 사용하면 광고주가 단일 광고 크리에이티브 하에 여러 종횡비로 여러 이미지 에셋을 업로드하고 활성화할 수 있습니다. 이 기능을 사용하면 한 개의 광고가 피드, 스토리 및 릴과 같은 다양한 메타 배치에 맞게 창의적으로 적합한 것을 제공할 수 있습니다. 광고주는 배치 간에 각 이미지가 어떻게 렌더링될지 미리 보고 단일 API 호출에서 메타에 모든 버전을 게시할 수 있습니다.
+
+### 변형의 서식 있는 텍스트 서식
+
+[서식 있는 텍스트 서식을 사용하여 생성된 변형의 텍스트 필드를 편집합니다](/help/user-guide/create/manage-variants.md#manually-edit-text) 굵게, 기울임꼴, 밑줄, 텍스트 맞춤, 목록, 텍스트 색상, 텍스트 크기 및 링크를 포함한 옵션. 이렇게 하면 대상의 텍스트 및 구문을 세분화하고 레이아웃 요구 사항에 맞게 형식을 적용할 수 있습니다.
+
+### 이미지 및 링크의 접근성 레이블
+
+변형의 이미지 및 call-to-action 링크에 접근성 레이블(Aria 레이블)을 추가하여 사용자가 대화형 요소의 목적을 이해하는 데 도움이 되는 접근성 있는 이름을 제공합니다. 자세한 지침은 [변형 관리](/help/user-guide/create/manage-variants.md)를 참조하세요.
+
+### 비영어 콘텐츠 생성
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+프롬프트 서랍에 있는 새 언어 선택기 드롭다운 메뉴는 다국어 콘텐츠 생성을 지원하여 지역 마케터가 로컬 대상자를 위한 브랜드 내 콘텐츠를 개발할 수 있도록 합니다. 이 기능은 현재 12개의 GA 언어와 5개의 Beta 언어를 지원하며, 언어 목록은 보다 일관된 출력을 위해 LLM에 정의된 워크플로우와 명확한 언어 지시문을 제공합니다.
+
+### 메타 광고에 대한 템플릿 선택 옵션
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+이제 메타데이터 광고에서 템플릿 선택을 선택 사항으로 하여 사용자가 미디어 상단에 텍스트와 로고를 사용하지 않고도 광고를 만들 수 있습니다. 이 향상된 기능을 통해 텍스트 오버레이 또는 로고 배치가 필요하지 않은 애니메이션 GIF 및 비디오와 같은 다른 미디어 유형을 사용할 수 있습니다.
+
+
+## 이전 릴리스 노트
+
++++2025.06.15 릴리스 정보
 
 ### 스타터 템플릿 사용 가능
 
 [!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
-[스타터 템플릿](/help/user-guide/templates/starter-templates.md)을 통해 크리에이티브 프로세스를 바로 시작할 수 있습니다. 이제 Meta 또는 LinkedIn 광고 시작 템플릿에서 선택할 수 있습니다.
+[스타터 템플릿](/help/user-guide/templates/starter-templates.md)을 통해 크리에이티브 프로세스를 시작할 수 있습니다. 이제 Meta 또는 LinkedIn 광고 시작 템플릿에서 선택할 수 있습니다.
 
 ### AI 기능 생성 확장
 
@@ -45,7 +78,7 @@ ht-degree: 0%
 
 * 영어가 아닌 언어로 [브랜드 지침](/help/user-guide/guidelines/brands.md)을 추가하거나 개정하면 GenStudio for Performance Marketing에서 이러한 지침을 동일한 언어로 표시합니다.
 
-* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [!DNL Brands] 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 [브랜드 썸네일 이미지를 변경하거나 추가](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)할 수 있습니다.
+* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [ 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 ](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
 
 * 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
 
@@ -53,14 +86,14 @@ ht-degree: 0%
 
 * 이제 캠페인 세부 정보를 내보내어 Word 또는 PDF에서 캠페인 브리핑으로 외부에서 액세스할 수 있도록 할 수 있습니다. 캠페인을 선택한 다음 **[!UICONTROL 내보내기]**(오른쪽 상단)를 클릭합니다.
 
-## 이전 릴리스 노트
++++
 
 +++2025.05.15 릴리스 정보
 
 ### 수정 사항 및 개선 사항
 
 * 개별 변형의 이미지에 [대체(alt) 텍스트를 추가](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)하는 기능을 사용하도록 설정했습니다.
-* [새로운 메타 종횡비](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)이 추가되었습니다.
+* [새로운 메타 종횡비](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
 * 이제 내보내기 또는 다운로드를 위해 두 개 이상의 경험을 선택할 수 있습니다. [경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 참조하십시오.
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -70,7 +103,7 @@ ht-degree: 0%
 
 ### 수정 사항 및 개선 사항
 
-* 템플릿에 대한 새로운 필터 옵션! 이제 [!DNL Create] 및 _[!UICONTROL 콘텐츠]_ > _[!UICONTROL 템플릿]_&#x200B;에서 _[!UICONTROL 템플릿 선택]_ 목록을 개선할 수 있습니다. [템플릿 검색](/help/user-guide/content/use-templates.md#search-templates)을 참조하세요. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
+* 템플릿에 대한 새로운 필터 옵션! 이제 _[!UICONTROL 및]_&#x200B;콘텐츠[!DNL Create] > _[!UICONTROL 템플릿]_&#x200B;에서 _[!UICONTROL 템플릿 선택]_ 목록을 개선할 수 있습니다. [템플릿 검색](/help/user-guide/content/use-templates.md#search-templates)을 참조하세요. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
 * 콘텐츠 재생성이나 이미지 자르기 등 수정 시 강조할 수 있도록 경험의 [개별 레이어(편집 가능한 텍스트 필드 또는 편집 가능한 이미지)를 보고 선택하는 기능을 활성화했습니다](/help/user-guide/create/manage-variants.md#view-layers).
 * 대상자의 관심을 끌고 마케팅 메시지를 강조하기 위해 경험의 추가 텍스트에 대해 [새 템플릿 필드](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`을(를) 추가했습니다.
 * GenStudio for Performance Marketing에서 Google Campaign Manager 360으로 [광고 경험 게시](/help/user-guide/activation/overview.md)에 대한 지원을 추가했습니다. [활성화]는 Campaign Manager 360 광고주에게 게시하기 전에 자세한 Google Campaign Manager 360 광고 미리보기를 지원합니다. [활성화]를 통해 게시된 광고는 라이브가 되면 자동으로 Insights로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
@@ -97,7 +130,7 @@ ht-degree: 0%
 
 ### 규정 준수
 
-브랜드 유효성 검사 프로세스의 일부로 [콘텐츠 검사](/help/user-guide/guidelines/brand-validation.md)에 [준수 표준](/help/user-guide/guidelines/overview.md)이 도입되었습니다. 이러한 검사는 [!DNL Brand] 지침, 플랫폼 지침(예: 메타의 경우) 및 ADA 표준에 대해 경험의 각 변형을 검토합니다. 이 프로세스에서는 규정 준수 향상을 위해 개정이 필요한 지침과 표준을 포괄적으로 요약하여 제공합니다.
+브랜드 유효성 검사 프로세스의 일부로 [콘텐츠 검사](/help/user-guide/guidelines/overview.md)에 [준수 표준](/help/user-guide/guidelines/brand-validation.md)이 도입되었습니다. 이러한 검사는 [!DNL Brand] 지침, 플랫폼 지침(예: 메타의 경우) 및 ADA 표준에 대해 경험의 각 변형을 검토합니다. 이 프로세스에서는 규정 준수 향상을 위해 개정이 필요한 지침과 표준을 포괄적으로 요약하여 제공합니다.
 
 ### 확장성
 
@@ -114,12 +147,12 @@ ht-degree: 0%
 
 ### 수정 사항 및 개선 사항
 
-* [[!DNL Brands]](/help/user-guide/guidelines/brands.md)을(를) 위해 [기본 채널](/help/user-guide/guidelines/brands.md#channel-guidelines), [이미지](/help/user-guide/guidelines/brands.md#image-guidelines), [로고](/help/user-guide/guidelines/brands.md#logos) 및 [색상](/help/user-guide/guidelines/brands.md#colors) 지침에 대한 기능을 활성화했습니다.
+* [을(를) 위해 ](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, ](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, ](/help/user-guide/guidelines/brands.md#logos)로고[ 및 ](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
 * 변형 내에서 [이미지에 링크를 추가](/help/user-guide/create/manage-variants.md#add-image-link)하는 기능이 추가되었습니다.
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 ](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
@@ -148,11 +181,11 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 새 콜 투 액션 생성
 
-이제 변형을 관리할 때 새 call-to-action(CTA) 구문을 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [콜 투 액션 수정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
+이제 변형을 관리할 때 새 call-to-action(CTA) 구문을 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [Call to action 개정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
 
 ### 수정 사항 및 개선 사항
 
-* 이제 표시 광고의 생성된 모든 필드 및 수동 필드에 문자 수가 표시됩니다. [메타 경험](/help/user-guide/create/meta-experiences.md#character-counts)에서 _문자 수_&#x200B;를 참조하십시오. <!-- GS-7732 -->
+* 이제 표시 광고의 생성된 모든 필드 및 수동 필드에 문자 수가 표시됩니다. _메타 경험_&#x200B;에서 [문자 수](/help/user-guide/create/meta-experiences.md#character-counts)를 참조하십시오. <!-- GS-7732 -->
 
 * _공동 작업자_&#x200B;가 이제 자산을 볼 수 있지만 이러한 자산을 만들거나 편집하거나 삭제할 수는 없습니다. 이전에는 [!DNL Create]에서 예상대로 Collaborator 권한이 적용되지 않았습니다. <!-- GS-7614 -->
 
@@ -186,7 +219,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 에셋, 경험 및 템플릿 메타데이터를 편집합니다. [자산 정보](/help/user-guide/content/asset-details.md#user-defined-metadata)를 참조하세요. <!-- GS-4905 6935-->
 
-* 자산을 사용하는 모든 경험의 _세부 정보_ 보기에서 자산이 생성한 태그를 봅니다. [에셋 세부 정보](/help/user-guide/content/asset-details.md#generated-tags)에서 _생성된 태그_&#x200B;를 참조하십시오. <!-- GS-3705 -->
+* 자산을 사용하는 모든 경험의 _세부 정보_ 보기에서 자산이 생성한 태그를 봅니다. _에셋 세부 정보_&#x200B;에서 [생성된 태그](/help/user-guide/content/asset-details.md#generated-tags)를 참조하십시오. <!-- GS-3705 -->
 
 이제 편집기는 생성된 변형의 이러한 측면에 사용자 지정 값을 지정할 수 있습니다.
 
@@ -202,7 +235,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 새로운 추가 기능을 통해 편집자는 다음과 같은 작업을 수행할 수 있습니다.
 
-* [!DNL Content] 템플릿 _자산 세부 정보_ 보기에서 **[!UICONTROL 새로 고침]** 단추를 사용하여 선택한 템플릿을 새로 고치십시오. <!-- GS-7102 -->
+* **[!UICONTROL 템플릿]**&#x200B;자산 세부 정보[!DNL Content] 보기에서 _새로 고침_ 단추를 사용하여 선택한 템플릿을 새로 고치십시오. <!-- GS-7102 -->
 
 * 디스플레이 광고 및 이메일 변형 섹션을 재생성합니다. [디스플레이 광고 경험 만들기](/help/user-guide/create/create-display-ad.md#revise-generated-display-ads) 및 [이메일 경험 만들기](/help/user-guide/create/create-email-experience.md#revise-generated-emails)를 참조하십시오. <!-- GS-5080 5078-->
 
@@ -286,17 +319,17 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 수정 사항 및 개선 사항
 
-* 사용자가 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭한 다음 업로드가 완료되기 전에 작업을 취소하면 _저장 진행 중_ 회전기가 더 이상 표시되지 않습니다. <!-- GS-6780 -->
+* 사용자가 _새 이미지 업로드_&#x200B;를 클릭한 다음 업로드가 완료되기 전에 작업을 취소하면 **[!UICONTROL 저장 진행 중]** 회전기가 더 이상 표시되지 않습니다. <!-- GS-6780 -->
 
 * 이제 경험 재생성 중에 경험 제목이 올바르게 생성됩니다. <!-- GS-7006 -->
 
 * 초안 로드 중 스크롤 막대가 깜박거리는 문제가 해결되었습니다. <!-- GS-5587 -->
 
-* [!DNL Content] _승인된 템플릿 추가_ 팝업의 `View documentation` 링크가 이제 예상대로 작동합니다. <!-- GS-6881 -->
+* `View documentation` [!DNL Content]승인된 템플릿 추가&#x200B;_팝업의_ 링크가 이제 예상대로 작동합니다. <!-- GS-6881 -->
 
 * 크기 조정 작업 중에 프롬프트 서랍에서 이미지를 삭제해도 더 이상 오류가 발생하지 않습니다. <!-- GS-7115 7009 -->
 
-* [!DNL Create] 작업 메뉴(...)에서 **[!UICONTROL 삭제]**&#x200B;을(를) 선택하면 이제 예상대로 작동합니다. <!-- GS-6871 -->
+* **[!UICONTROL 작업 메뉴(...)에서]**&#x200B;삭제[!DNL Create]을(를) 선택하면 이제 예상대로 작동합니다. <!-- GS-6871 -->
 
 * 이제 사용자는 키보드만으로 모든 메타데이터 템플릿 대화형 요소를 제어할 수 있습니다. <!-- GS-4066 -->
 
@@ -306,7 +339,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 사용자가 클릭하여 나가면 [!DNL Create] 프롬프트 창이 예상대로 닫힙니다. <!-- GS-5254 -->
 
-* 이제 메타 광고 내보내기에 선택한 콜 투 액션 레이블이 예상대로 포함됩니다. <!-- GS-6504 -->
+* 이제 메타 광고 내보내기에 선택한 call-to-action 레이블이 예상대로 포함됩니다. <!-- GS-6504 -->
 
 * 이제 브랜드 점수가 다시 생성된 경험에 대해 예상대로 업데이트되고 유지됩니다. <!-- GS-6535 -->
 
