@@ -3,7 +3,7 @@ title: 텍스트 기능
 description: GenStudio for Performance Marketing에 사용되는 속성 범주의 텍스트 기능에 대해 알아봅니다.
 feature: Reporting and Insights, Text Attributes, Generative AI
 exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
-source-git-commit: ac2e18899f910a47ec5013a13c2ee2771684ddad
+source-git-commit: 3ccc6313a7c559f1c0846c144d23b783da0aecfa
 workflow-type: tm+mt
 source-wordcount: '1290'
 ht-degree: 1%
