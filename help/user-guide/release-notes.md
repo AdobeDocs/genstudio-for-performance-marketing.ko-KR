@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 7390dc758427d19b23ce054b23fd830662913498
+source-git-commit: 778be59db2bf159c57095fbb2d89cff8c9704b33
 workflow-type: tm+mt
-source-wordcount: '3415'
+source-wordcount: '3411'
 ht-degree: 0%
 
 ---
@@ -47,15 +47,15 @@ Adobe GenStudio의 텍스트 속성 인사이트는 광고 카피에 사용되�
 
 [템플릿 코드 편집기에 대한 지침](/help/user-guide/content/code-editor.md)에서 자세한 내용을 살펴보십시오.
 
-### 새로운 Clio 4 Standard 및 Clio 4 Ultra 이미지 생성 모델 지원
+### 지원되는 새로운 Firefly 이미지 생성 모델
 
 [!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
 Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형을 포함하여 최신 Firefly Image Model 4 제품군을 지원합니다.
 
-**Clio 4 Standard**: 일러스트레이션, 아이콘, 기본 개체 사진 및 단일 주제 인물 사진을 생성하는 데 적합하고, 일상적인 크리에이티브 요구 사항의 90%를 충족하는 속도와 단순성에 최적화되었습니다.
+**Firefly 이미지 4**: 일러스트레이션, 아이콘, 기본 개체 사진 및 단일 주제 인물 사진을 생성하는 데 적합하고, 일상적인 크리에이티브 요구 사항의 90%를 충족하는 속도와 단순성에 최적화되었습니다.
 
-**Clio 4 Ultra**: 광사실주의와 정밀성을 우선시하며, 고급 크리에이티브 작업을 위해 인물 사진, 중간 크기의 그룹 및 복잡한 장면을 렌더링하는 데 뛰어납니다.
+**Firefly 이미지 4 Ultra**: 사진 현실감과 정밀도를 우선시하며, 고급 크리에이티브 작업을 위해 인물 사진, 중간 크기의 그룹 및 복잡한 장면을 렌더링하는 데 뛰어납니다.
 
 새로운 이미지 생성 모델 사용에 대한 자세한 내용은 [자산 생성](/help/user-guide/create/generate-assets.md)을 참조하십시오.
 
