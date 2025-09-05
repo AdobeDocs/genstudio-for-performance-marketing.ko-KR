@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 7dfd915ebcc001b12357cfa334346e6698436d7d
+source-git-commit: 2f15dc05f65ec216c7d242ffb3e14a83c76f3000
 workflow-type: tm+mt
 source-wordcount: '1366'
 ht-degree: 1%
@@ -59,7 +59,7 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
 
 ## 템플릿 관리
 
-_[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
+_[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
 
 ### 템플릿 검색
 
@@ -72,7 +72,7 @@ _[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에
 
 다음은 이메일, 디스플레이 광고, 메타 광고 및 LinkedIn 광고와 같은 채널 유형별 필터를 보여줍니다.
 
-![콘텐츠 템플릿 목록](/help/assets/content-templates-filter.png "LinkedIn 템플릿 검색"){width="650" zoomable="yes"}
+![콘텐츠 템플릿 목록](/help/assets/content-templates-filter.png "LinkedIn 템플릿 검색"){width="650"}
 
 템플릿 검색 기능은 [!UICONTROL 만들기] 중에 소유 또는 유료 미디어에 대한 템플릿을 선택할 때 사용할 수 있습니다. 특정 필터 옵션이 표시되지 않으면 저장소에 해당 메타데이터 기준과 일치하는 템플릿이 없음을 나타냅니다. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
 
@@ -82,34 +82,34 @@ _[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에
 
 **템플릿을 추가하려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
-1. **[!UICONTROL 템플릿 추가]**&#x200B;를 클릭합니다.
+2. **[!UICONTROL 템플릿 추가]**&#x200B;를 클릭합니다.
 
-1. _[!UICONTROL 승인된 템플릿 추가]_ 창에서 HTML 템플릿 파일을 검색하거나 HTML 템플릿 파일을 드롭 공간으로 드래그합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+3. _[!UICONTROL 승인된 템플릿 추가]_ 창에서 HTML 템플릿 파일을 검색하거나 HTML 템플릿 파일을 드롭 공간으로 드래그합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
-1. _[!UICONTROL 검색된 필드 확인]_ 창에서 필드를 검토합니다. 올바른 템플릿을 사용 중인지 확인하고 모든 세부 정보가 예상대로인지 확인합니다.
+4. _[!UICONTROL 검색된 필드 확인]_ 창에서 필드를 검토합니다. 올바른 템플릿을 사용 중인지 확인하고 모든 세부 정보가 예상대로인지 확인합니다.
 
    이메일 템플릿에 대한 미리 보기 예:
 
-   ![미리 보기 필드가 검색됨](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+   ![미리 보기 필드가 검색됨](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
    >템플릿이 올바르지 않으면 **[!UICONTROL 뒤로]**&#x200B;를 클릭하고 이전 단계로 돌아갑니다. 수정된 템플릿 파일을 업로드합니다. 또는 [템플릿 코드 편집기](/help/user-guide/content/code-editor.md)를 사용하여 간단하게 수정할 수 있습니다.
 
-1. 템플릿 미리 보기에 만족하면 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
+5. 템플릿 미리 보기에 만족하면 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
 
-1. _[!UICONTROL 템플릿 세부 정보 제공 및 업로드]_&#x200B;에서 템플릿 이름을 지정하고 **[!UICONTROL 채널]** 유형을 선택하십시오.
+6. _[!UICONTROL 템플릿 세부 정보 제공 및 업로드]_&#x200B;에서 템플릿 이름을 지정하고 **[!UICONTROL 채널]** 유형을 선택하십시오.
 
    템플릿 이름 및 채널 유형은 필수입니다. 추가 요구 사항은 다음과 같습니다.
 
    - **Meta**: 종횡비가 필요합니다.
    - **배너 및 디스플레이 광고**: 차원 필요
 
-1. 검색 및 필터링에서 템플릿 식별을 개선하기 위해 가능한 한 많은 세부 정보를 추가합니다.
+7. 검색 및 필터링에서 템플릿 식별을 개선하기 위해 가능한 한 많은 세부 정보를 추가합니다.
 
-1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다.
+8. **[!UICONTROL 완료]**&#x200B;를 클릭합니다.
 
 ### 템플릿 새로 고침
 
@@ -117,11 +117,11 @@ _[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에
 
 **템플릿을 새로 고치려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
-1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
+2. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
-1. 템플릿에 사용된 모든 자산을 새로 고치려면 오른쪽 상단에서 **[!UICONTROL 새로 고침]**(순환 화살표)을 클릭합니다.
+3. 템플릿에 사용된 모든 자산을 새로 고치려면 오른쪽 상단에서 **[!UICONTROL 새로 고침]**(순환 화살표)을 클릭합니다.
 
 ### 템플릿을 사용하여 경험 만들기
 
@@ -129,13 +129,13 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 
 **템플릿을 사용하여 환경을 만들려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
-1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
+2. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
-1. 템플릿을 사용하려면 오른쪽 상단에서 **[!UICONTROL 경험 만들기]**(페인트 브러쉬)를 클릭하십시오.
+3. 템플릿을 사용하려면 오른쪽 상단에서 **[!UICONTROL 경험 만들기]**(페인트 브러쉬)를 클릭하십시오.
 
-1. 경험을 [만들기](/help/user-guide/create/overview.md#create-use-cases)합니다.
+4. 경험을 [만들기](/help/user-guide/create/overview.md#create-use-cases)합니다.
 
 ## AJO 및 Marketo 템플릿
 
@@ -155,4 +155,4 @@ Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드�
 
 >[!ENDSHADEBOX]
 
-다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/content/customize-template.md)합니다. [템플릿을 [!DNL Content] 저장소에 추가](#add-a-template)하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.
+다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/content/customize-template.md)합니다. [템플릿을 ](#add-a-template) 저장소에 추가[!DNL Content]하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.
