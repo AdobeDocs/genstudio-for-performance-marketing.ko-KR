@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 778be59db2bf159c57095fbb2d89cff8c9704b33
+source-git-commit: a666052494382be09bb24ef5d4d803d5ec710baf
 workflow-type: tm+mt
-source-wordcount: '3411'
+source-wordcount: '3502'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,17 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2025.08.15 {#latest}
+## 2025.09.11 {#latest}
+
+### 새로운 생성적 유료 미디어에 대한 AI 기능 확장
+
+새로운 GenExpand 기능을 사용하면 마케터가 크리에이티브 자산을 동적으로 조정하여 Meta, LinkedIn, Display Ads 및 Banners와 같은 유료 미디어 채널에서 다양한 종횡비를 지원할 수 있습니다. 이미지가 의도한 종횡비와 일치하지 않는 경우(예: 넓은 레이아웃에 좁은 이미지를 추가하는 경우) GenExpand를 사용하여 이미지를 크기에 맞게 수정할 수 있습니다.
+
+이 기능은 GenStudio for Performance Marketing에서 직접 이미지 편집 및 크기 조정 프로세스를 간소화합니다. 자세한 내용은 [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand)를 참조하십시오.
+
+## 이전 릴리스 노트
+
++++2025.08.15 릴리스 정보
 
 ### 텍스트 속성에 대한 인사이트
 
@@ -65,8 +75,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 이제 Adobe GenStudio for Performance Marketing은 마케터가 이메일 캠페인을 전역적으로 효율적으로 확장할 수 있는 내장 이메일 번역 기능을 제공합니다. 이 기능을 사용하면 승인된 이메일 경험을 Azure Open AI 번역 서비스를 사용하여 여러 타겟 언어로 번역할 수 있습니다.
 
-
-## 이전 릴리스 노트
++++
 
 +++2025.07.25 릴리스 정보
 
@@ -357,7 +366,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 디스플레이 광고 크기가 조정되었을 때 발생한 템플릿 오류가 이제 해결되었습니다. <!-- GS-7322 -->
 
-### 로컬라이제이션
+### 현지화
 
 이 릴리스에는 다음을 포함하여 UI 전체의 현지화에 대한 개선 사항이 포함됩니다.
 
