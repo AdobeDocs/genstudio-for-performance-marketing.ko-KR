@@ -4,7 +4,7 @@ description: GenStudio for Performance Marketing [!DNL Brand] 작성자 및 편�
 level: Intermediate
 feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: 8ed591795cee157760159cca6e899cab15792252
+source-git-commit: adb1d34eb76d7594933fe9951c4c1885e6d6369b
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 1%
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 기본적으로 GenStudio 시스템 관리자는 [!DNL Brands]을(를) 만들고 편집할 수 있습니다. 콘텐츠 편집기 및 공동 작업자 역할에는 편집 및 작성 권한이 있지만, 시스템 관리 권한이 필요하지 않을 수 있습니다.
 
-콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. [기업 및 팀 관리 가이드](https://helpx.adobe.com/kr/enterprise/using/admin-console.html#Overview)의 _Adobe Admin Console_&#x200B;을(를) 참조하십시오.
+콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. [기업 및 팀 관리 가이드](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)의 _Adobe Admin Console_&#x200B;을(를) 참조하십시오.
 
 사용자 및 사용자 그룹 추가는 Admin Console을 통해 관리되는 권한이 있는 모든 Adobe 제품에 공통되는 기본 작업입니다. 사용자 관리 및 사용자 및 사용자 그룹 추가 절차에 대한 개요는 [Enterprise 및 Teams 관리 가이드](https://helpx.adobe.com/kr/enterprise/using/users.html)의 _Adobe Admin Console 사용자_&#x200B;를 참조하십시오.
 
 이 비디오 연습을 시청하거나 아래 단계를 따르십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470506/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
 
 ## 1단계: 사용자 그룹 만들기
 
@@ -95,7 +95,7 @@ _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 �
 
 1. Click **[!UICONTROL Create]**. _프로젝트에 초대_ 팝업이 열립니다.
 
-[Enterprise 및 Teams 관리 가이드](https://helpx.adobe.com/kr/enterprise/using/projects-in-business-storage.html)에서 _프로젝트 관리_&#x200B;를 참조하십시오.
+[Enterprise 및 Teams 관리 가이드](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html)에서 _프로젝트 관리_&#x200B;를 참조하십시오.
 
 ## 5단계: 사용자 그룹을 프로젝트에 초대
 
