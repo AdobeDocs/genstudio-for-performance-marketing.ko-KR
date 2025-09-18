@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
+source-git-commit: 49d8d5daa2f3c93c18cd9132dab5207871b51237
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -44,17 +44,18 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 ## 여러 섹션 이메일
 
-_섹션_&#x200B;을(를) 사용하면 콘텐츠를 보다 복잡한 레이아웃을 지원하는 고유한 그룹으로 구성할 수 있습니다. Genstudio for Performance Marketing에서는 그룹 명명 규칙을 사용하여 각 섹션을 정의할 수 있습니다. [템플릿 섹션 사용자 지정](/help/user-guide/content/customize-template.md#sections-or-groups)을 참조하세요.
+_섹션_&#x200B;을(를) 사용하면 콘텐츠를 개별 그룹으로 구성하여 더 복잡한 레이아웃을 지원할 수 있습니다. GenStudio for Performance Marketing에서 그룹 이름 지정 규칙을 사용하여 각 섹션을 정의할 수 있습니다. [템플릿 섹션 사용자 지정](/help/user-guide/content/customize-template.md#sections-or-groups)을 참조하세요.
 
 다중 섹션 템플릿에는 0, 2 또는 3개의 섹션이 있을 수 있습니다.
 
-- 기본 템플릿(0개의 섹션)은 그룹 명명 규칙이 필요하지 않은 단일 템플릿 요소 집합을 생성할 수 있습니다.
-- 복합 템플릿(여러 섹션)은 최대 3개의 템플릿 요소 집합을 생성할 수 있으므로 그룹 명명 규칙(`groupname_fieldname`)을 준수해야 합니다.
+- 기본 템플릿(섹션 없음)은 그룹 명명 규칙이 필요하지 않은 단일 템플릿 요소 집합을 생성할 수 있습니다.
+- 복합 템플릿(여러 섹션)은 최대 3개의 템플릿 요소 집합을 생성할 수 있으므로 그룹 명명 규칙을 준수해야 합니다. `<groupname_fieldname>`.
+- 여러 섹션을 사용하는 경우 섹션 외부에 독립 실행형으로 남아 있는 요소가 채워지지 않습니다.
 
-두 섹션의 필드 이름 예:
+다음은 두 섹션에 대한 그룹 이름 지정 규칙을 사용한 필드 이름의 예입니다.
 
-- `pod1_headline`, `pod1_body`, `pod1_cta`
-- `pod2_headline`, `pod2_body`, `pod2_cta`
+- 섹션 1:`pod1_headline`, `pod1_body`, `pod1_cta`
+- 섹션 2:`pod2_headline`, `pod2_body`, `pod2_cta`
 
 ## 템플릿 예
 
@@ -107,7 +108,7 @@ _섹션_&#x200B;을(를) 사용하면 콘텐츠를 보다 복잡한 레이아웃
 
 +++
 
-+++예: 여러 섹션이 있는 이메일 템플릿
++++예: 여러 섹션이 포함된 이메일 템플릿
 
 다음은 위의 예제와 동일한 HTML 템플릿이지만 두 개의 섹션이 더 있습니다. 헤드에는 그룹을 스타일링할 인라인 CSS가 포함되어 있습니다. 본문에서는 접두사를 사용하여 [콘텐츠 자리 표시자](#content-placeholders)가 있는 두 개의 그룹을 사용합니다.
 
@@ -151,8 +152,6 @@ _섹션_&#x200B;을(를) 사용하면 콘텐츠를 보다 복잡한 레이아웃
     </head>
     <body>{{pre_header}}
         <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
