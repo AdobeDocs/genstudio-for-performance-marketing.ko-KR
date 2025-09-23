@@ -5,10 +5,10 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio 확장성 프
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: Developer
-source-git-commit: bcf969f599279ba28354837b3949316a1bf7df27
+source-git-commit: 7acf7b0abf0737701083890a1d6a693bb64ffbbf
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 57%
+source-wordcount: '55'
+ht-degree: 63%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 57%
 # 성과 마케팅을 위한 Adobe GenStudio 확장성 안내서 {#ext-guide}
 
 + [확장성 안내서](home.md)
-+ 시작{#get-started}
-   + [개요](overview.md)
++ 시작하기 {#get-started}
+   + [환경 설정](setup.md)
 + 앱 개발 {#apps}
    + [App Builder 프로젝트 만들기](create-project.md)
    + [App Builder 앱 개발](create-app.md)

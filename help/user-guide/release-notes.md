@@ -4,7 +4,7 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a666052494382be09bb24ef5d4d803d5ec710baf
+source-git-commit: 06f273d520c39042e180b5acaec33004df1cd5fe
 workflow-type: tm+mt
 source-wordcount: '3502'
 ht-degree: 0%
@@ -195,7 +195,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 ### 확장성
 
-새로운 GenStudio for Performance Marketing [확장성 프레임워크](/help/extensibility/overview.md)는 추가 기능 또는 확장 가능한 응용 프로그램을 통해 조직에서 자체 클레임 규정 준수 프로토콜을 콘텐츠 만들기 워크플로 및 유효성 검사에 통합할 수 있는 도구를 제공합니다.
+새로운 GenStudio for Performance Marketing [확장성 프레임워크](/help/extensibility/setup.md)는 추가 기능 또는 확장 가능한 응용 프로그램을 통해 조직에서 자체 클레임 규정 준수 프로토콜을 콘텐츠 만들기 워크플로 및 유효성 검사에 통합할 수 있는 도구를 제공합니다.
 
 ### 템플릿
 
