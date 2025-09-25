@@ -26,9 +26,9 @@ ht-degree: 1%
 
 **Adobe 시스템 관리자**&#x200B;는 Adobe Admin Console에서 고급 사용자 권한을 가지며 사용자 추가 또는 삭제와 같은 모든 사용자 관리 작업을 수행합니다. 이 시스템 관리자 역할은 GenStudio for Performance Marketing 애플리케이션에서 권한을 제공하지 않으므로 Adobe 시스템 관리자가 GenStudio에 대한 라이선스를 필요로 하지 않는 이유를 설명합니다. Adobe 시스템 관리자는 일반적으로 Admin Console을 사용하여 GenStudio 배포에서 사용자 계정을 추가 및 삭제하고 개별 사용자 또는 사용자 그룹에서 권한 또는 권한을 할당하거나 제거합니다.
 
-**GenStudio 시스템 관리자**&#x200B;는 GenStudio for Performance Marketing의 고급 사용자이지만 Adobe Admin Console에서 작업을 수행할 수 있는 권한이 없습니다. 이 시스템 관리자 역할에는 GenStudio 제품 라이선스가 필요하며 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)의 고급 사용자에 해당합니다. GenStudio 시스템 관리자에게는 [!DNL Brands], [!DNL Persona] 및 [!DNL Product] 생성, 삭제, 업데이트 및 게시를 비롯한 GenStudio for Performance Marketing 기능에 대한 모든 권한이 있습니다. [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에서는 GenStudio 사용자 역할이 제품 라이선스와 어떤 관련이 있는지 설명합니다.
+**GenStudio 시스템 관리자**&#x200B;는 GenStudio for Performance Marketing의 고급 사용자이지만 Adobe Admin Console에서 작업을 수행할 수 있는 권한이 없습니다. 이 시스템 관리자 역할에는 GenStudio 제품 라이선스가 필요하며 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)의 고급 사용자에 해당합니다. GenStudio 시스템 관리자에게는 [!DNL Brands], [!DNL Persona] 및 [!DNL Product] 생성, 삭제, 업데이트 및 게시를 비롯한 GenStudio for Performance Marketing 기능에 대한 모든 권한이 있습니다. [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에서는 GenStudio 사용자 역할이 제품 라이선스와 어떤 관련이 있는지 설명합니다.
 
-[엔터프라이즈 및 팀 관리 가이드](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise)에서 _관리 역할_&#x200B;을 참조하세요.
+[엔터프라이즈 및 팀 관리 가이드](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html#enterprise)에서 _관리 역할_&#x200B;을 참조하세요.
 
 ## 권한 부여
 

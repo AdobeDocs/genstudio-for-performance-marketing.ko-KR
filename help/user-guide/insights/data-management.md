@@ -39,7 +39,7 @@ GenStudio for Performance Marketing이 안정적으로 작동하는 데 필요�
 - AEP 연결: 데이터 흐름 앞에 `GS Insights`이(가) 붙습니다.
 - AEP 연결: GS Insights 계정
 
-AEP에서 데이터 구성 요소를 삭제하기 전에 [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion) 안내서에서 _의미 삭제_&#x200B;를 참조하십시오.
+AEP에서 데이터 구성 요소를 삭제하기 전에 [Customer Journey Analytics](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/technotes/deletion) 안내서에서 _의미 삭제_&#x200B;를 참조하십시오.
 
 >[!ENDSHADEBOX]
 

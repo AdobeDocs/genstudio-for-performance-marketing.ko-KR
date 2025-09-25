@@ -39,20 +39,20 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 [!DNL Admin Console]에서 [!DNL AEM Assets Content Hub] 제품 프로필에 GenStudio for Performance Marketing 사용자 또는 사용자 그룹을 추가합니다. 콘텐츠 검토자에게 [!DNL AEM Assets Content Hub] 리포지토리와 동일한 조직에 대한 액세스 권한이 없는 경우 콘텐츠를 검토하고 승인하는 데 문제가 발생할 수 있습니다.
 
-- [온보드 [!DNL Content Hub] 관리자](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [온보드 [!DNL Content Hub] 사용자](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [온보드 [!DNL Content Hub] 관리자](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [온보드 [!DNL Content Hub] 사용자](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## 3단계: 에셋 승인
 
 [!DNL AEM Assets Content Hub]에서 사용할 자산을 승인하면 GenStudio for Performance Marketing에서 사용할 수 있습니다.
 
-[Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) 설명서의 _AEM as a Cloud Service에서 자산 승인_&#x200B;을 참조하십시오.
+[Experience Manager](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) 설명서의 _AEM as a Cloud Service에서 자산 승인_&#x200B;을 참조하십시오.
 
 ## 4단계: 자산 가시성 구성
 
 _[!DNL AEM Assets Content Hub]_&#x200B;구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
 
-[Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) 설명서에서 _AEM as a Cloud Service 사용자 인터페이스 구성_&#x200B;을 참조하십시오.
+[Content Hub](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) 설명서에서 _AEM as a Cloud Service 사용자 인터페이스 구성_&#x200B;을 참조하십시오.
 
 ## 5단계: 연결 확인
 
