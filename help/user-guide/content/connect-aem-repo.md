@@ -50,7 +50,7 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 ## 4단계: 자산 가시성 구성
 
-_[!DNL AEM Assets Content Hub]_구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
+_[!DNL AEM Assets Content Hub]_&#x200B;구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
 
 [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) 설명서에서 _AEM as a Cloud Service 사용자 인터페이스 구성_&#x200B;을 참조하십시오.
 

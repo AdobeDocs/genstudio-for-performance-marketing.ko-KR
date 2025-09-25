@@ -24,7 +24,7 @@ ht-degree: 0%
 
 | 속성 | 값 |
 |------------------|---------------------------------------------------------------------------------------------|
-| 경험 이름 | GenStudio for Performance Marketing의 경험 이름<br>이 이름은 _[!DNL Content]_의 경험을 식별합니다 |
+| 경험 이름 | GenStudio for Performance Marketing의 경험 이름<br>이 이름은 _[!DNL Content]_&#x200B;의 경험을 식별합니다 |
 | 광고 이름 | 광고 채널의 광고 이름 |
 | 게시 날짜 | 광고 경험이 성공적으로 게시된 날짜<br>월-일-년 형식을 사용합니다. |
 | 게시자 | 경험을 활성화한 GenStudio for Performance Marketing 사용자의 이름 |
