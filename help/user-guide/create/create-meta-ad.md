@@ -1,36 +1,36 @@
 ---
-title: 메타 광고 경험 만들기
-description: Adobe GenStudio for Performance Marketing을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법을 알아봅니다.
+title: Meta 광고 경험 만들기
+description: Adobe GenStudio for Performance Marketing을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 Meta 광고 경험을 만드는 방법을 알아봅니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
 
 ---
 
-# 메타 광고 경험 만들기
+# Meta 광고 경험 만들기
 
-이 튜토리얼에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)을 사용하여 브랜드 [메타 광고 경험](/help/user-guide/create/meta-experiences.md)을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)을 사용하여 브랜드 ](/help/user-guide/create/meta-experiences.md)Meta 광고 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
 
-메타 광고 경험을 생성하기 전에 GenStudio for Performance Marketing에서 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
+Meta 광고 경험을 생성하기 전에 GenStudio for Performance Marketing에서 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
 
 ## 템플릿 선택
 
-새로운 메타 광고 경험 생성을 시작하려면 사용 가능한 템플릿을 사용하여 콘텐츠에 대한 프레임워크를 제공하십시오. 지원되는 메타 광고 종횡비에 대한 자세한 내용은 [메타 광고 템플릿 지침](/help/user-guide/templates/meta-template.md)을 참조하십시오.
+새 Meta 광고 경험 생성을 시작하려면 사용 가능한 템플릿을 사용하여 콘텐츠의 프레임워크를 제공하십시오. 지원되는 Meta 광고 종횡비에 대한 자세한 내용은 [Meta 광고 템플릿 지침](/help/user-guide/templates/meta-template.md)을 참조하십시오.
 
 템플릿을 선택할 때는 업로드된 템플릿 중 하나 또는 스타터 템플릿을 사용할 수 있는 옵션이 제공됩니다.
 
-**메타 광고 템플릿을 선택하려면**:
+**Meta 광고 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 메타 광고]**&#x200B;를 클릭합니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL Meta 광고]**를 클릭합니다.
 1. **[!UICONTROL 사용자 지정 템플릿]**&#x200B;을(를) 선택하여 업로드한 템플릿을 찾아보거나 **[!UICONTROL 시작 템플릿]**&#x200B;을(를) 선택하여 미리 빌드한 템플릿을 찾아봅니다.
 
-   비디오 자산을 메타 변형에 추가하려면 스타터 템플릿을 선택해야 합니다. 여기에는 비디오를 쉽게 사용할 수 있도록 하는 시스템 정의 콘텐츠 영역이 미리 로드됩니다.
+   Meta 변형에 비디오 자산을 추가하려면 시작 템플릿을 선택해야 합니다. 여기에는 비디오를 쉽게 사용할 수 있도록 하는 시스템 정의 콘텐츠 영역이 미리 로드됩니다.
 
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭하세요.
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 매개 변수 추가
 
-프롬프트 창에 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 향상되며 메타 광고 생성을 준비하는 데 중요한 단계입니다.
+프롬프트 창에 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 향상되며 Meta 광고 생성을 준비하는 데 중요한 단계입니다.
 
 미리 정의된 지침([!DNL Brands], [!DNL Personas] 또는 [!DNL Products])이 있는 템플릿을 사용하는 경우 이러한 지침은 변형에 적용됩니다. 원하는 경우 변경할 수 있습니다.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ## 프롬프트 입력
 
-지침을 선택한 후 자연어를 사용하여 새 메타 광고 경험을 위한 콘텐츠 생성을 시작하라는 메시지를 작성하십시오. 세부 프롬프트는 모호하거나 모호한 프롬프트에 비해 더 높은 품질 출력을 산출합니다.
+지침을 선택한 후 자연어를 사용하여 새 Meta 광고 경험을 위한 콘텐츠 생성을 시작하라는 메시지를 작성하십시오. 세부 프롬프트는 모호하거나 모호한 프롬프트에 비해 더 높은 품질 출력을 산출합니다.
 
 프롬프트 작성에 대한 자세한 내용은 [유효한 프롬프트 작성](/help/user-guide/effective-prompts.md)을 참조하십시오.
 
@@ -81,39 +81,39 @@ ht-degree: 0%
 
 기본적으로 네 가지 변형(모두 추가한 프롬프트, 지침 및 콘텐츠에 의해 유도됨)이 생성되어 캔버스에 표시됩니다.
 
-생성된 콘텐츠는 점진적으로 로드됩니다. 메타 경험의 각 섹션이 생성되면 캔버스에 표시됩니다. 변경 내용이 캔버스에 로드되는 방법에 대해 알아보려면 [메타 경험](/help/user-guide/create/meta-experiences.md#progressive-loading)을 참조하세요.
+생성된 콘텐츠는 점진적으로 로드됩니다. Meta 경험의 각 섹션이 생성되면 캔버스에 표시됩니다. 변경 내용이 캔버스에 로드되는 방법에 대해 알아보려면 [Meta 경험](/help/user-guide/create/meta-experiences.md#progressive-loading)을 참조하세요.
 
-## 메타 광고 채널 선택
+## Meta 광고 채널 선택
 
-메타 광고를 생성할 때 Facebook 또는 Instagram 광고 중 선택할 수 있습니다.
+Meta 광고를 생성할 때 Facebook 또는 Instagram 광고 중 선택할 수 있습니다.
 
-오른쪽 메뉴 모음(Facebook 및 Instagram 아이콘)에서 메타 광고 채널 옵션(**Facebook**&#x200B;과 **Instagram** 사이)을 전환하여 각 채널의 변형을 보고 관리합니다.
+오른쪽 메뉴 모음(Facebook 및 Instagram 아이콘)에서 **Facebook**&#x200B;과 **Instagram** 사이의 Meta 광고 채널 옵션을 전환하여 각 채널의 변형을 보고 관리합니다.
 
-[메타 광고를 수정](#revise-generated-variants)할 때 Facebook 및 Instagram 광고의 종횡비를 변경할 수 있습니다.
+[Meta 광고를 수정](#revise-generated-variants)할 때 Facebook 및 Instagram 광고의 종횡비를 변경할 수 있습니다.
 
 ## 생성된 변형 개정
 
-승인 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 메타 광고를 편집하거나 생성된 광고 집합에서 변형을 삭제할 수 있습니다.
+승인을 위해 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 Meta 광고를 편집하거나 생성된 광고 집합에서 변형을 삭제할 수 있습니다.
 
 수정할 개별 레이어를 강조 표시하려면 편집 가능한 필드나 이미지를 클릭하고 _[!UICONTROL 레이어 보기]_&#x200B;를 클릭합니다.
 
 **생성된 변형을 수정하려면**:
 
-* **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **메타 광고를 수동으로 편집하려면[다음](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;을(를) 클릭합니다(제목 줄 등).
-필요에 따라 헤더 또는 본문 사본을 편집하십시오.
-* **콜 투 액션을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
+* **Meta 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
+* **Meta 광고를 수동으로 편집하려면[ 제목란과 같은 광고 섹션을 클릭합니다.
+필요에 따라 헤더 또는 본문 사본을 편집하십시오.](/help/user-guide/create/manage-variants.md#manually-edit-text)**
+* **call to action을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 온라인 이미지 텍스트나 인라인 링크를 클릭한 다음 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
-* **변형의 이미지에 링크를 추가하려면[&#128279;](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.
-* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **변형의 이미지에 링크를 추가하려면[이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.](/help/user-guide/create/manage-variants.md#add-image-link)**
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 아이콘)을 클릭한 다음 **[!UICONTROL 자르기]**&#x200B;를 클릭합니다. 이미지 크기와 배치를 조정합니다.
 * **[이미지 크기를 조정하고 맞추는 [생성 확장]을 사용](/help/user-guide/create/manage-variants.md#use-generative-expand)하려면** 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 모양 아이콘)을 클릭한 다음 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 필요한 종횡비와 템플릿에 맞게 이미지를 조정합니다.
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
-* **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 변형에 대한 옵션 메뉴를 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.
+* **Meta 광고를 [삭제하려면](/help/user-guide/create/manage-variants.md#delete-variant)** 변형에 대한 옵션 메뉴를 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
 
 ### 비디오 관리
 
@@ -145,28 +145,28 @@ ht-degree: 0%
 
 **검토 및 승인을 얻으려면**:
 
-1. [승인 요청을 시작](/help/user-guide/approvals/request-review.md)하여 [초안 메타 광고 경험에 대한 승인](/help/user-guide/approvals/approve-content.md)을 요청하세요.
+1. [승인 요청을 시작](/help/user-guide/approvals/request-review.md)하여 [초안 Meta 광고 환경의 승인](/help/user-guide/approvals/approve-content.md)을 요청하세요.
 
    ![검토 및 승인을 위해 초안 보내기](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
 
 1. 검토 프로세스 중에 [검토자를 제거하거나 추가](/help/user-guide/approvals/review-and-edit.md#manage-approvals)합니다.
 1. [검토할 콘텐츠에 액세스](/help/user-guide/approvals/review-and-edit.md#access-content-for-review)하고 수정 요청을 봅니다.
-1. 리뷰 댓글별로 초안을 편집하고 [메타 광고 경험을 게시합니다](#publish-and-export-experience).
+1. 검토 댓글별로 초안을 편집하고 [Meta 광고 경험을 게시](#publish-and-export-experience)합니다.
 
 자세한 내용은 [검토 및 승인](/help/user-guide/approvals/overview.md)을 참조하세요.
 
 ## 경험 게시 및 내보내기
 
-생성된 메타 광고를 현재 및 향후 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용할 수 있도록 내보냅니다.
+생성된 Meta 광고를 현재 및 향후 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
-1. **새 메타데이터 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
-1. **새 메타 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
+1. **새 Meta 광고 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
+1. **새 Meta 광고 환경을 내보내려면**&#x200B;맨 위 도구 모음에서 **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
    1. 형식을 선택합니다(HTML 및 이미지 또는 CSV 및 이미지(JPG 또는 PNG)). **[!UICONTROL 내보내기]**&#x200B;를 클릭합니다.
 
 자세한 내용은 [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)을(를) 참조하십시오.
 
-## 메타 연결
+## Meta 연결
 
-GenStudio for Performance Marketing을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 통찰력을 받을 수 있습니다.
+GenStudio for Performance Marketing을 Meta에 연결하여 콘텐츠 성능에 대한 고급 분석 및 통찰력을 얻을 수 있습니다.
 
-[메타 광고 연결](/help/user-guide/connectors/meta-ads.md)을 참조하십시오.
+[Meta 광고 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 12336812e8f4f55935f624ad0a195b5928850c7f
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '1083'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 이메일 경험 만들기
 
-이 튜토리얼에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 [이메일 경험](/help/user-guide/create/email-experiences.md)을(를) 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 ](/help/user-guide/create/email-experiences.md)이메일 경험[[!DNL Create]](/help/user-guide/create/overview.md)을(를) 생성하는 방법을 보여 줍니다.
 
 효과적인 이메일 경험을 만들려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **전자 메일 서식 파일을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 전자 메일]**을 클릭하세요.
 1. 특정 전자 메일 서식 파일을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 전자 메일 서식 파일을 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 *및* 경험에서 사용할 콘텐츠를 추가하십시오.
-   * [!DNL Content] 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하십시오.
+   * **[!UICONTROL 리포지토리에서 자산(이미지)을 선택하고, 필터링하고, 하나 이상의 이미지를 선택하려면]**&#x200B;콘텐츠에서 선택[!DNL Content]을 클릭하십시오.
 
      ![시각적 콘텐츠 선택](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
    >[!NOTE]
-   >전자 메일 템플릿에 여러 개의 섹션이 있는 경우 _여러 섹션 전자 메일_&#x200B;의 각 전자 메일 섹션에 대해 [!DNL Products] 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다. [!DNL Content]의 여러 섹션 이메일에만 시각적 자산을 추가할 수 있습니다. 로컬 소스에서 자산을 드래그 앤 드롭하거나 업로드할 수 없습니다.
+   >전자 메일 템플릿에 여러 개의 섹션이 있는 경우 [!DNL Products]여러 섹션 전자 메일&#x200B;_의 각 전자 메일 섹션에 대해_ 및 콘텐츠(시각적 자산)를 선택하십시오. 여러 섹션 이메일은 섹션당 하나의 시각적 자산을 지원합니다. [!DNL Content]의 여러 섹션 이메일에만 시각적 자산을 추가할 수 있습니다. 로컬 소스에서 자산을 드래그 앤 드롭하거나 업로드할 수 없습니다.
    >![각 전자 메일 섹션에 콘텐츠 및 매개 변수 추가](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 창을 축소할 수 있습니다.
@@ -84,12 +84,12 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **전자 메일을 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다
-* **콜 투 액션을 변경 또는 선택하려면[변경 또는 선택](/help/user-guide/create/manage-variants.md#revise-call-to-action)**&#x200B;하려면 call-to-action 단추를 클릭하고 _[!UICONTROL 구문 변경]_ 또는 _[!UICONTROL 링크 추가]_&#x200B;를 선택하십시오.
+* **전자 메일을 수동으로 편집하려면[ 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다](/help/user-guide/create/manage-variants.md#manually-edit-text)**
+* **Call to action을 변경 또는 선택하려면[call-to-action 단추를 클릭하고](/help/user-guide/create/manage-variants.md#revise-call-to-action)**&#x200B;구문 변경&#x200B;_[!UICONTROL 또는]_&#x200B;링크 추가&#x200B;_[!UICONTROL 를 선택하십시오.]_
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
-* **변형의 이미지에 링크를 추가하려면[&#128279;](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.
+* **변형의 이미지에 링크를 추가하려면[이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.](/help/user-guide/create/manage-variants.md#add-image-link)**
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.

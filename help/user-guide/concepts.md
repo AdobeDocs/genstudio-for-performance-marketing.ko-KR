@@ -4,7 +4,7 @@ description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알�
 feature: Generative AI
 role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 78313c2a2177a2ccb39e37a87ca3c657e7906d0a
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 개념
 
-GenStudio for Performance Marketing은 Adobe의 콘텐츠 공급망을 구현하여 마케팅 캠페인을 간소화하는 독립 실행형 엔터프라이즈 제품입니다. 규모에 맞게 개인화되고 브랜드 승인을 받은 콘텐츠를 구축하고, 효과를 모니터링하며, 끊임없이 변화하는 시장에 신속하게 적응하는 것은 어려운 일입니다. GenStudio for Performance Marketing은 엔터프라이즈 마케팅 팀의 성능 승수로 생성 AI를 활용하는 하나의 애플리케이션에 Creative Cloud과 Experience Cloud을 통합합니다.
+GenStudio for Performance Marketing은 Adobe의 컨텐츠 supply chain을 구현하여 마케팅 캠페인을 간소화하는 독립 실행형 엔터프라이즈 제품입니다. 규모에 맞게 개인화되고 브랜드 승인을 받은 콘텐츠를 구축하고, 효과를 모니터링하며, 끊임없이 변화하는 시장에 신속하게 적응하는 것은 어려운 일입니다. GenStudio for Performance Marketing은 엔터프라이즈 마케팅 팀의 성능 승수로 생성 AI를 활용하는 하나의 애플리케이션에 Creative Cloud과 Experience Cloud을 통합합니다.
 
 GenStudio for Performance Marketing을 사용하여 다음과 같은 작업을 수행할 수 있습니다.
 
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing은 Azure OpenAI를 통해 타사 LLM의 GPT 
 
 ## [!DNL Generative Actions]
 
-[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_&#x200B;은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
+_[!DNL Generative Actions]_Adobe GenStudio for Performance Marketing 제품 설명[에 정의된 ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -48,11 +48,11 @@ If genactions roll over month to month or not -->
 
 ### 비율
 
-[GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 설명된 대로 기본 [!DNL Generative Actions] 할당을 받습니다.
+[!DNL Generative Actions]GenStudio for Performance Marketing 제품 설명[에 설명된 대로 기본 ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) 할당을 받습니다.
 
 >[!NOTE]
 >
->사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
+>사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
 
 다음 함수는 지정된 비율로 [!DNL Generative Actions]을(를) 사용합니다.
 
@@ -91,7 +91,7 @@ GenStudio for Performance Marketing은 Adobe 데이터 거버넌스 표준 및 �
 
 ## 콘텐츠 라이프사이클
 
-더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketing은 콘텐츠 공급망을 마케터를 위해 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketing은 라이프사이클의 각 단계에서 Adobe 기술을 활용합니다.
+더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketing은 콘텐츠 supply chain을 마케터를 위해 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketing은 라이프사이클의 각 단계에서 Adobe 기술을 활용합니다.
 
 <table style="table-layout:auto">
 

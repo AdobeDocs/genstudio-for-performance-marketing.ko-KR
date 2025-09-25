@@ -3,7 +3,7 @@ title: 활성화 관리
 description: Adobe GenStudio for Performance Marketing으로 활성화된 경험을 관리하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 | 속성 | 값 |
 |------------------|---------------------------------------------------------------------------------------------|
-| 경험 이름 | GenStudio for Performance Marketing의 경험 이름<br>이 이름은 _[!DNL Content]_&#x200B;의 경험을 식별합니다 |
+| 경험 이름 | GenStudio for Performance Marketing의 경험 이름<br>이 이름은 _[!DNL Content]_의 경험을 식별합니다 |
 | 광고 이름 | 광고 채널의 광고 이름 |
 | 게시 날짜 | 광고 경험이 성공적으로 게시된 날짜<br>월-일-년 형식을 사용합니다. |
 | 게시자 | 경험을 활성화한 GenStudio for Performance Marketing 사용자의 이름 |
@@ -40,7 +40,7 @@ ht-degree: 0%
 _활성화된 경험_ 보기에서 활성화를 클릭합니다. 읽기 전용 _활성화 세부 정보_ 보기는 실패한 활성화를 포함하여 활성화된 경험에 대한 정의 세부 정보를 캡처합니다. 이 보기에는 GenStudio for Performance Marketing 및 광고 채널 모두에서 파생된 정보가 포함됩니다.
 
 * **게시 시간 및 날짜**: 광고 채널 관리자에서 게시한 시간 및 날짜
-* **광고 ID**: 유료 채널에서 할당되고 추적에 사용되는 ID입니다. 메타 광고 관리자에서 게시된 광고를 보려면 이 필드 옆에 있는 **[!UICONTROL 열기]** 단추를 클릭하십시오
+* **광고 ID**: 유료 채널에서 할당되고 추적에 사용되는 ID입니다. 이 필드 옆에 있는 **[!UICONTROL 열기]** 단추를 클릭하여 Meta Ads Manager에서 게시된 광고를 봅니다
 * **경험 세부 정보**: 선택한 이미지 에셋, 텍스트 및 메타데이터는 GenStudio for Performance Marketing 활성화 워크플로 중에 할당됩니다.
 * **채널 설정**: 광고 경험을 활성화하는 데 사용되는 유료 채널 계정입니다.
 

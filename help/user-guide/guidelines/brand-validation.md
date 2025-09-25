@@ -1,9 +1,9 @@
 ---
-title: Adobe GenStudio for Performance Marketing에서의 브랜드 유효성 검사
+title: Adobe GenStudio for Performance Marketing의 브랜드 유효성 검사
 description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 8f8d10db351f440ccd64f4ef5a54b6ace9f9db85
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 0%
@@ -27,8 +27,8 @@ GenStudio for Performance Marketing은 다음을 포함하여 다양한 측면�
 
 _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
-* 유효성 검사를 통과한 [지침](overview.md)과(와) 테스트한 지침의 수로 계산된 [[!DNL Brand]](brands.md)에 대한 준수 비율
-* 플랫폼 지침에 대한 `Pass` 또는 `Fail` 결과(예: Meta 또는 LinkedIn)
+* 유효성 검사를 통과한 [[!DNL Brand]](brands.md)지침[과(와) 테스트한 지침의 수로 계산된 ](overview.md)에 대한 준수 비율
+* Meta 또는 LinkedIn과 같은 플랫폼 지침에 대한 `Pass` 또는 `Fail` 결과
 * ADA 접근성 표준에 대한 `Pass` 또는 `Fail` 결과
 
 ![콘텐츠 확인 요약](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
@@ -39,24 +39,24 @@ _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
 ## 컨텐츠 확인 패널
 
-[_콘텐츠 확인_ 요약 아이콘](#content-check-summary)에서 오른쪽 작업 표시줄 _또는_&#x200B;을(를) 클릭하면 캔버스 오른쪽에 _콘텐츠 확인_ 패널이 열립니다. 이 패널에서는 자세한 브랜드 유효성 검사, 플랫폼 지침 및 접근성 표준 정보를 제공하고 개선 기회를 설명합니다.
+_콘텐츠 확인_ 요약 아이콘&#x200B;_에서 오른쪽 작업 표시줄_&#x200B;또는&#x200B;[_을(를) 클릭하면 캔버스 오른쪽에_&#x200B;콘텐츠 확인](#content-check-summary) 패널이 열립니다. 이 패널에서는 자세한 브랜드 유효성 검사, 플랫폼 지침 및 접근성 표준 정보를 제공하고 개선 기회를 설명합니다.
 
 ![콘텐츠 확인 패널](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
 _콘텐츠 검사_ 패널에 이미지 및 변형 섹션에 대한 유효성 검사 및 [준수 정보](/help/user-guide/guidelines/overview.md#compliance)가 표시됩니다.
 
-* [!DNL Brand]에 대한 _콘텐츠 검사_ 요약 정보 표시, 플랫폼 지침 및 접근성 표준
+* _에 대한_&#x200B;콘텐츠 검사[!DNL Brand] 요약 정보 표시, 플랫폼 지침 및 접근성 표준
 * 실패한 지침의 수와 수정이 필요한 각 지침에 대한 자세한 정보를 표시하는 _검토 필요_ 섹션
 * _통과_ 섹션에 전달된 지침의 수와 각 통과 지침에 대한 자세한 정보가 표시됩니다.
 
-_콘텐츠 확인_ 패널 점수를 개선하는 방법을 알아보려면 [브랜드 정렬 개선](#improve-brand-alignment)을 참조하세요.
+[콘텐츠 확인](#improve-brand-alignment) 패널 점수를 개선하는 방법을 알아보려면 _브랜드 정렬 개선_&#x200B;을 참조하세요.
 
 ### 컨텐츠 유형
 
 _콘텐츠 검사_ 패널에서 수행할 지침 및 접근성 표준 검사를 전환할 수 있습니다. 패널 상단의 _콘텐츠 형식_ 아이콘(수준 아이콘)을 클릭하여 켜거나 끕니다.
 
 * **[!DNL Brand]** - [!DNL Brand] 지침과 관련된 검사를 수행합니다.
-* **플랫폼 지침**—메타와 같은 채널별 플랫폼과 관련된 검사를 수행합니다.
+* **플랫폼 지침** - Meta과 같은 채널별 플랫폼과 관련된 검사를 수행합니다.
 * **접근성**—ADA 접근성 표준과 관련된 검사를 수행합니다.
 
 **수행할 검사에 대해 콘텐츠 형식을 설정**&#x200B;하려면 사용 가능한 형식을 해제하거나 켜려면 클릭하고 **적용**&#x200B;을 클릭합니다.

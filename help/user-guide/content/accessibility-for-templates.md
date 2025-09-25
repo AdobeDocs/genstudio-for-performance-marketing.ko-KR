@@ -3,9 +3,9 @@ title: 액세스 가능한 템플릿 만들기
 description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 Adobe GenStudio for Performance Marketing의 템플릿을 작성합니다.
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 28c128ad6f3d173b7516a6b1309555c12e6a4e2d
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing에서 다양한 경험을 위해 콘텐츠�
 
 텍스트와 배경 간의 적절한 대비를 제공합니다. 어두운 배경에는 어두운 텍스트를, 밝은 배경에는 밝은 텍스트를 생성하는 글꼴 색상을 사용하지 마십시오. 최적의 비율에 대한 대비 지침을 고려하십시오.
 
-- 텍스트 및 이미지 텍스트: 대비 비율 최소 4.5:1
+- 텍스트 및 텍스트 이미지: 대비 비율 최소 4.5:1
 - 큰 텍스트 및 큰 텍스트 이미지: 대비 비율 최소 3:1
 
 ## 링크 목적(링크만)

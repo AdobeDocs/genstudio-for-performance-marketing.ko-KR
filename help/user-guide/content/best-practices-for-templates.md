@@ -1,11 +1,11 @@
 ---
-title: 템플릿에 대한 우수 사례
+title: 템플릿 우수 사례
 description: Adobe GenStudio for Performance Marketing에서 템플릿을 사용할 때 모범 사례를 따르십시오.
 level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: e2b2e3b541c4d07530b9e725fceebabccbf6c84d
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -58,4 +58,4 @@ GenStudio for Performance Marketing에서 템플릿을 사용할 때 다음 권�
 - [이메일](/help/user-guide/templates/email-template.md)
 - [광고 표시 및 배너](/help/user-guide/templates/display-template.md)
 - [LinkedIn](/help/user-guide/templates/linkedin-template.md)
-- [메타 광고](/help/user-guide/templates/meta-template.md)
+- [Meta 광고](/help/user-guide/templates/meta-template.md)

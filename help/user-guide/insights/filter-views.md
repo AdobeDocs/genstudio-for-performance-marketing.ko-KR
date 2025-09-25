@@ -4,7 +4,7 @@ description: Insights와 함께 향상된 필터 기능을 사용하는 방법�
 level: Intermediate
 feature: Reporting and Insights
 exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
-source-git-commit: 04bc6f911394d0f4c324abc347ce125203011960
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '868'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 필터 기본 사항
 
-[!DNL Insights]의 각 보기는 필터 옵션 목록을 제공합니다. 왼쪽의 필터(단계) 전환은 **[!UICONTROL 필터]** 메뉴를 엽니다. 테이블이나 갤러리를 보던 간에 적용된 필터가 테이블이나 갤러리 위의 **[!UICONTROL 필터 기준]** 목록에 나타납니다. 기본적으로 채널과 계정이 선택됩니다.
+[!DNL Insights]의 각 보기는 필터 옵션 목록을 제공합니다. 왼쪽의 필터(funnel) 전환은 **[!UICONTROL 필터]** 메뉴를 엽니다. 테이블이나 갤러리를 보던 간에 적용된 필터가 테이블이나 갤러리 위의 **[!UICONTROL 필터 기준]** 목록에 나타납니다. 기본적으로 채널과 계정이 선택됩니다.
 
 ![필터링 기준](/help/assets/insights-filter-by.png "필터링 기준"){width=600 zoomable="yes"}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ### 검색 필드
 
-검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 [!UICONTROL 광고] 표에 `Gear` 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
+검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 `Gear`광고[!UICONTROL  표에 ] 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
 
 ![검색 필드 예제](/help/assets/insights-search.png "이름에 기어가 있는 광고 검색"){width=600 zoomable="yes"}
 
@@ -57,11 +57,11 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 
 **캠페인 필터를 사용하여 광고 테이블을 세분화하려면**:
 
-1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 광고]**&#x200B;보기를 선택하십시오.
+1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 광고]**보기를 선택하십시오.
 
    ![광고 필터 및 표](/help/assets/insights-ads-filter.png "필터 메뉴가 있는 광고 보기"){zoomable="yes"}
 
-1. 테이블 왼쪽 위에 있는 필터(단계) 전환을 클릭하여 **[!UICONTROL 필터]** 메뉴를 엽니다.
+1. 표의 왼쪽 위에 있는 필터(funnel) 전환을 클릭하여 **[!UICONTROL 필터]** 메뉴를 엽니다.
 
 1. 올바른 `Filter by` 채널 및 계정을 선택했는지 확인하십시오.
 

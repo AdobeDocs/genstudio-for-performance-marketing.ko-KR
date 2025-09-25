@@ -1,11 +1,11 @@
 ---
-title: 유효한 프롬프트 작성
+title: 유효 프롬프트 작성
 description: 성과 마케팅을 위한 Adobe GenStudio에서 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 2%
@@ -43,7 +43,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)에서는 프롬프트 서랍에서 **[!UICONTROL 프롬프트 기준]**([_매개 변수_](/help/user-guide/create/overview.md#parameters) 및 프롬프트)을 사용하여 선택을 통해 세부 정보를 추가하여 AI 해석을 개선할 수 있습니다.
 
-[이메일](/help/user-guide/create/email-experiences.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 [지침](/help/user-guide/guidelines/overview.md) 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [메타데이터](/help/user-guide/create/create-meta-ad.md)의 경우 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
+[이메일](/help/user-guide/create/email-experiences.md)의 경우, 프롬프트 기준에는 [매개 변수](/help/user-guide/guidelines/overview.md)의 _지침_ 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [Meta 광고](/help/user-guide/create/create-meta-ad.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
 
 >[!NOTE]
 >
@@ -79,7 +79,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 - 먼저 일반 사용자 프롬프트를 참조한 다음 섹션별 지시문을 참조하십시오.
 - 콜론, 하이픈, 쉼표 또는 기타 구분(`,:;#$!~|@=-%&*^_`)을 섹션 이름 참조와 지시문을 구분하여 사용하십시오. 예를 들어 다음 명령을 섹션별 프롬프트 지시문으로 사용할 수 있습니다. `Pod1; Describe how to easily edit text and swap images.`
 
-다음은 권장 프롬프트 구조를 명확히 하고 `Pod1`, `Pod2` 및 `Pod3`과(와) 같이 식별 용어 `Pod`을(를) 사용하는 이메일 템플릿을 활용하는 샘플 프롬프트입니다.
+다음은 권장 프롬프트 구조를 명확히 하고 `Pod`, `Pod1` 및 `Pod2`과(와) 같이 식별 용어 `Pod3`을(를) 사용하는 이메일 템플릿을 활용하는 샘플 프롬프트입니다.
 
 ```properties
 Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.

@@ -5,7 +5,7 @@ level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights, Delivery and Activation
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 2f18b273684a9fe9b9b8903838ae09f5cd2b7842
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -29,7 +29,7 @@ _유료 미디어 계정_&#x200B;은(는) 사업자가 유료 광고 캠페인�
 1. 사전 요구 사항을 검토하고 연결 단계를 계속하려면 선택한 다음 커넥터 유형을 참조하십시오.
 
    - [Google Campaign Manager 360](google-cm360.md)
-   - [메타 광고](meta-ads.md)
+   - [Meta 광고](meta-ads.md)
 
 ## 유료 미디어 연결
 

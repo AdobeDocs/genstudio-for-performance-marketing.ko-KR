@@ -2,7 +2,8 @@
 title: LinkedIn 광고 활성화
 description: LinkedIn 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
-source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
+exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -93,7 +94,7 @@ _검토_ 페이지에서는 게시하기 전에 활성화를 검토할 수 있�
 
 **환경을 검토하고 게시하려면**:
 
-1. (선택 사항) 편집할 경험 또는 플랫폼 세부 정보 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭합니다.
+1. (선택 사항) 편집할 경험 또는 플랫폼 세부 정보 옆에 있는 **[!UICONTROL 섹션 편집]**을 클릭합니다.
 선택한 섹션에 따라 _경험 설정_ 또는 _플랫폼 설정_ 보기가 열립니다.
 
 1. (선택 사항) 세부 정보를 편집한 다음 **[!UICONTROL 다음]**&#x200B;을 클릭하여 _검토_ 보기로 돌아갑니다.

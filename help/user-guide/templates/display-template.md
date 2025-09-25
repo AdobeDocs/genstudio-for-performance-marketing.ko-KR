@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
-source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 1%

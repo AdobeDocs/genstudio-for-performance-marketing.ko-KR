@@ -3,7 +3,7 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 2cf3bd4cb01f75dbff9fcf0cca7239256fc81129
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 변형 관리
 
-Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디지털 마케팅 이니셔티브에서 사용할 수 있도록 생성된 변형—[이메일](/help/user-guide/create/email-experiences.md), [메타 광고](/help/user-guide/create/meta-experiences.md) 등을 사용자 정의하고 향상시킬 수 있습니다.
+Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디지털 마케팅 이니셔티브에서 사용할 수 있도록 생성된 변형—[이메일](/help/user-guide/create/email-experiences.md), [Meta 광고](/help/user-guide/create/meta-experiences.md) 등을 사용자 정의하고 향상시킬 수 있습니다.
 
 [경험 만들기](/help/user-guide/create/overview.md)를 할 때 생성된 변형의 콘텐츠와 에셋을 개별적으로 또는 일괄적으로 수정할 수 있습니다. 개별 마이크로 수준에서 변형을 관리할 수 있으므로 생성된 각 콘텐츠를 관리할 수 있습니다.
 
@@ -20,7 +20,7 @@ Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디
 
 생성된 변형 초안의 기본 이름은 캔버스 상단에 표시됩니다. 기본 초안 이름은 채널 유형, 생성 날짜 및 시간을 포함하는 다음 규칙을 사용합니다.
 
-*예*: &quot;메타: 제목 없는 초안 - 09.5.24, 오전 9:56&quot;
+*예*: &quot;Meta: 제목 없는 초안 - 09.5.24, 오전 9:56&quot;
 
 **기본 이름을 변경하려면**:
 
@@ -41,7 +41,7 @@ Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디
 * 텍스트 크기
 * 링크
 
-텍스트 서식 옵션은 채널(메타, 이메일 등)마다 다릅니다.
+텍스트 서식 옵션은 채널(Meta, 이메일 등)마다 다릅니다.
 
 **생성된 변형에서 수동으로 텍스트를 편집하려면**:
 
@@ -69,7 +69,7 @@ Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디
 
 GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생성하는 내장 기능이 있습니다. 텍스트를 다시 만들거나, 줄이거나, 늘리거나, 새 프롬프트를 추가하여 새 콘텐츠를 생성할 수 있습니다.
 
-예를 들어 하나의 메타 광고 변형의 헤드라인 섹션을 다시 생성하여 특정 배경 자산과 어떻게 보이는지 확인할 수 있습니다. 섹션 콘텐츠를 _[!UICONTROL 다시 구문]_, _[!UICONTROL 짧게]_ 또는 _[!UICONTROL 길게]_&#x200B;하거나 _[!UICONTROL 새 텍스트를 생성]_&#x200B;하여 새 프롬프트를 추가할 수 있습니다.
+예를 들어 하나의 Meta 광고 변형의 헤드라인 섹션을 다시 생성하여 특정 배경 자산과 어떻게 보이는지 확인할 수 있습니다. 섹션 콘텐츠를 _[!UICONTROL 다시 구문]_, _[!UICONTROL 짧게]_ 또는 _[!UICONTROL 길게]_&#x200B;하거나 _[!UICONTROL 새 텍스트를 생성]_&#x200B;하여 새 프롬프트를 추가할 수 있습니다.
 
 ![섹션 다시 생성](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
@@ -130,7 +130,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 ## 생성 확장 사용
 
-이미지 차원을 확장하고 생성 확장을 사용하여 생성 콘텐츠를 추가합니다. 생성 확장을 사용하면 맞지 않는 이미지를 배너, 메타 광고, LinkedIn 광고 또는 디스플레이 광고 템플릿에 가장 적합한 종횡비로 변환할 수 있습니다.
+이미지 차원을 확장하고 생성 확장을 사용하여 생성 콘텐츠를 추가합니다. 생성 확장을 사용하면 맞지 않는 이미지를 배너, Meta 광고, LinkedIn 광고 또는 디스플레이 광고 템플릿에 가장 적합한 종횡비로 변환할 수 있습니다.
 
 이 생성 확장 기능은 자르기 도구와 결합하여 유료 미디어 채널에 대한 다양한 종횡비로 자산을 완전히 제어할 수 있도록 합니다.
 
@@ -162,13 +162,13 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 ## 종횡비 변경
 
-원하는 광고 크기를 수용할 수 있도록 [메타 광고 종횡비](/help/user-guide/templates/meta-template.md#supported-aspect-ratios)를 빠르게 변경할 수 있습니다. 템플릿 치수와 거의 일치하는 이미지 종횡비를 선택하여 원하지 않는 자르기 또는 늘이기를 방지합니다. 예를 들어 템플릿이 1200×628픽셀(넓은 사각형)인 경우 1:1 정사각형 이미지를 사용하면 측면이 잘려 중요한 콘텐츠가 잘릴 수 있습니다. 최적의 이미지 크기는 628 x 628 픽셀이 되며 템플릿의 높이와 일치합니다.
+원하는 광고 크기 조정을 수용하도록 Meta 광고의 [종횡비](/help/user-guide/templates/meta-template.md#supported-aspect-ratios)를 빠르게 변경할 수 있습니다. 템플릿 치수와 거의 일치하는 이미지 종횡비를 선택하여 원하지 않는 자르기 또는 늘이기를 방지합니다. 예를 들어 템플릿이 1200×628픽셀(넓은 사각형)인 경우 1:1 정사각형 이미지를 사용하면 측면이 잘려 중요한 콘텐츠가 잘릴 수 있습니다. 최적의 이미지 크기는 628 x 628 픽셀이 되며 템플릿의 높이와 일치합니다.
 
 >[!NOTE]
 >
 >다양한 종횡비 및 크기는 이용 가능한 템플릿에 기초하여 이용 가능할 수 있다.
 
-**생성된 메타 광고의 종횡비를 변경하려면**:
+**생성된 Meta 광고의 종횡비를 변경하려면**:
 
 1. 변형 집합을 생성한 후 캔버스의 왼쪽에 있는 **[!UICONTROL 종횡비 크기 조정]**(상자 모서리를 가리키는 화살표)을 클릭합니다.
 
@@ -196,7 +196,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 

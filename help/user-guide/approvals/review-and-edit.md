@@ -1,9 +1,9 @@
 ---
-title: 콘텐츠 검토 및 편집
+title: 컨텐츠 검토 및 편집
 description: Adobe GenStudio for Performance Marketing을 사용하여 콘텐츠를 반복적으로 검토하고 편집하는 방법에 대해 알아봅니다.
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
-source-git-commit: 8aa55fba08fa438ae2320c1159aa3c27877ee778
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 0%
@@ -64,7 +64,7 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
 ## Workfront Proof으로 콘텐츠 검토
 
-[!DNL Proofing Viewer]은(는) 증명에 주석을 달고 변경 내용을 추적할 수 있는 [강력한 마크업 도구](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1)를 제공합니다. 두 버전의 증명을 비교할 수도 있습니다.
+[!DNL Proofing Viewer]은(는) 증명에 주석을 달고 변경 내용을 추적할 수 있는 [강력한 마크업 도구](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1)를 제공합니다. 두 버전의 증명을 비교할 수도 있습니다.
 
 **콘텐츠를 검토하려면**:
 
@@ -84,7 +84,7 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
 ### 증명 비교
 
-[!DNL Proofing Viewer]에서 [증명 버전을 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)할 수 있습니다.
+[!DNL Proofing Viewer]에서 [증명 버전을 비교](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)할 수 있습니다.
 
 **증명을 비교하려면**:
 
@@ -94,4 +94,4 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
    증명이 나란히 표시되고 새 버전이 왼쪽에 표시됩니다.
 
-Workfront Proof은 자동 비교 도구를 포함하여 증명을 비교하기 위한 여러 도구를 제공합니다. [비교 도구 사용](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools)을 참조하세요.
+Workfront Proof은 자동 비교 도구를 포함하여 증명을 비교하기 위한 여러 도구를 제공합니다. [비교 도구 사용](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools)을 참조하세요.

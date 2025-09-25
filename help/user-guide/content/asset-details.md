@@ -3,7 +3,7 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Generative AI, Content Attributes, Content Management
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 **자산 세부 정보를 보려면**:
 
-1. _[!DNL Content]_&#x200B;에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽의 _[!UICONTROL 세부 정보]_ 섹션을 검토합니다.
 
@@ -32,7 +32,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 >[!NOTE]
 >
->AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [!DNL AEM Assets Content Hub] 자산 세부 정보를 구성하는 방법은 [자산 가시성 구성](connect-aem-repo.md#step-4-configure-asset-visibility)을 참조하세요.
+>AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [ 자산 세부 정보를 구성하는 방법은 ](connect-aem-repo.md#step-4-configure-asset-visibility)자산 가시성 구성[!DNL AEM Assets Content Hub]을 참조하세요.
 
 ## 시스템 메타데이터
 
@@ -56,7 +56,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 **사용자 정의 메타데이터를 편집하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽의 _[!UICONTROL 세부 정보]_ 섹션을 검토합니다.
 
@@ -87,13 +87,13 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 ## 생성 컨텍스트
 
-[!UICONTROL 생성 컨텍스트] 섹션은 [!DNL Create] 프로세스 중에 사용된 `Prompt`과 같이 경험을 생성하는 데 사용된 정보를 표시합니다. 이러한 통찰력은 훨씬 더 성공적인 변형을 구축하는 데 도움이 될 수 있습니다.
+[!UICONTROL 생성 컨텍스트] 섹션은 `Prompt` 프로세스 중에 사용된 [!DNL Create]과 같이 경험을 생성하는 데 사용된 정보를 표시합니다. 이 insight은 훨씬 더 성공적인 변형을 작성하는 데 도움이 될 수 있습니다.
 
 정보는 다음과 같습니다.
 
-- [!DNL Create] 프로세스 중에 `Brand`, `Product` 및 `Persona` 매개 변수가 선택됨
+- `Brand` 프로세스 중에 `Product`, `Persona` 및 [!DNL Create] 매개 변수가 선택됨
 - 전자 메일 경험용 `Subject line` 및 `Preheader`
-- 메타 광고용 `Headline` 및 `Body`
+- Meta 광고용 `Headline` 및 `Body`
 
 ## 기록
 

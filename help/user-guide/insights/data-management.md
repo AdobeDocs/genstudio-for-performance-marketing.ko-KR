@@ -6,7 +6,7 @@ level: Experienced
 role: Admin, Data Architect
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
-source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing이 안정적으로 작동하는 데 필요�
 - AEP 연결: 데이터 흐름 앞에 `GS Insights`이(가) 붙습니다.
 - AEP 연결: GS Insights 계정
 
-AEP에서 데이터 구성 요소를 삭제하기 전에 _Customer Journey Analytics_ 안내서에서 [의미 삭제](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/technotes/deletion)를 참조하십시오.
+AEP에서 데이터 구성 요소를 삭제하기 전에 [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion) 안내서에서 _의미 삭제_&#x200B;를 참조하십시오.
 
 >[!ENDSHADEBOX]
 

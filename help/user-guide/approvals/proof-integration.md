@@ -2,7 +2,8 @@
 title: 검토 및 승인과 Workfront Proof 통합
 description: Adobe GenStudio for Performance Marketing과 Workfront Proof 통합.
 feature: Content Review, Content Management
-source-git-commit: f8508ee9440714137141e933cfe0f5761a510c7a
+exl-id: 149db773-4787-4cfb-b29e-c49f13abf39a
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
@@ -11,13 +12,13 @@ ht-degree: 0%
 
 # GenStudio for Performance Marketing과 Workfront Proof 통합
 
-Workfront Proof과 통합하면 승인 템플릿, 다단계 워크플로, [증명 버전 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)를 비롯한 고급 기능을 통해 GenStudio for Performance Marketing 검토 및 승인 수명 주기가 향상됩니다. 이러한 구조화된 버전 관리는 컨텐츠 검토 수명주기 전반에 걸쳐 투명성, 신뢰성 및 능률적인 협업을 보장합니다.
+Workfront Proof과 통합하면 승인 템플릿, 다단계 워크플로, [증명 버전 비교](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)를 비롯한 고급 기능을 통해 GenStudio for Performance Marketing 검토 및 승인 수명 주기가 향상됩니다. 이러한 구조화된 버전 관리는 컨텐츠 검토 수명주기 전반에 걸쳐 투명성, 신뢰성 및 능률적인 협업을 보장합니다.
 
 >[!BEGINSHADEBOX]
 
 **필수 구성 요소**:
 
-[Adobe Workfront 웹 뷰어 확장 설치](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
+[Adobe Workfront 웹 뷰어 확장 설치](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
 
 >[!ENDSHADEBOX]
 
@@ -44,7 +45,7 @@ Workfront Proof [!DNL Proofing Viewer]은(는) 증명을 보고, 댓글을 달�
 
 ### 라이선스 및 사용자 역할
 
-라이센스는 제품 내에서 사용자 권한 집합을 식별합니다. Workfront Proof은 GenStudio for Performance Marketing보다 더 많은 라이선스 유형 또는 사용자 역할을 제공합니다. [증명 역할 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)에서 Workfront Proof 검토 및 승인 워크플로와 연결된 사용자 역할을 소개합니다.
+라이센스는 제품 내에서 사용자 권한 집합을 식별합니다. Workfront Proof은 GenStudio for Performance Marketing보다 더 많은 라이선스 유형 또는 사용자 역할을 제공합니다. [증명 역할 개요](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)에서 Workfront Proof 검토 및 승인 워크플로와 연결된 사용자 역할을 소개합니다.
 
 | GenStudio for Performance Marketing 라이선스       | Workfront 라이선스                 | 설명                                                                                                                                                      |
 |---------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +57,7 @@ Adobe 시스템 관리자는 Adobe Admin Console에서 두 제품에 대한 사�
 
 >[!NOTE]
 >
-> Workfront Proof은 [추가 사용자 역할](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)을 제공합니다. 일부 역할이 성과 마케팅 내부에 표시되는 것은 아닙니다. 그러나 시스템은 Workfront Proof 템플릿 내에 설정된 모든 역할을 수행합니다.
+> Workfront Proof은 [추가 사용자 역할](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)을 제공합니다. 일부 역할이 성과 마케팅 내부에 표시되는 것은 아닙니다. 그러나 시스템은 Workfront Proof 템플릿 내에 설정된 모든 역할을 수행합니다.
 
 ### 초안 및 증명
 
@@ -78,9 +79,9 @@ Workfront Proof 승인 템플릿은 증명 승인 워크플로를 간소화할 �
 
 검토자는 증명의 특정 영역을 직접 클릭하여 정확하고 상황에 맞는 설명을 남길 수 있습니다. 모든 댓글은 타임스탬프가 지정되며 증명 버전 내역의 일부로 저장됩니다. GenStudio for Performance Marketing에서는 댓글 기록을 사용할 수 없습니다.
 
-[두 버전의 증명을 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)하여 리뷰 댓글과 내용을 평가할 수 있습니다.
+[두 버전의 증명을 비교](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)하여 리뷰 댓글과 내용을 평가할 수 있습니다.
 
 ## 알림 및 미리 알림
 
 검토에 새 증명을 사용할 수 있거나 진행 중인 검토 상태가 변경된 경우 검토자와 승인자가 이메일 알림을 받습니다.
-[증명 알림 및 미리 알림](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders)에는 증명에 대한 개인 맞춤화된 링크, 승인 프로세스를 통한 증명 및 진행 상황에 대한 세부 정보 및 버전 관리 정보가 포함되어 있습니다.
+[증명 알림 및 미리 알림](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders)에는 증명에 대한 개인 맞춤화된 링크, 승인 프로세스를 통한 증명 및 진행 상황에 대한 세부 정보 및 버전 관리 정보가 포함되어 있습니다.

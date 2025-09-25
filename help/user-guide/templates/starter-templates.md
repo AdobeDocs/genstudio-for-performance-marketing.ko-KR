@@ -6,9 +6,9 @@ feature: Media Templates
 badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."
 recommendations: noDisplay, noCatalog
 exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
-source-git-commit: a7c69659c348fad3e067a84c1d242809a83b42fb
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ _시작 템플릿_&#x200B;은(는) GenStudio for Performance Marketing을 빠르
 
 ### LinkedIn 광고 템플릿
 
-모든 종횡비는 정적 이미지에 대해 지원됩니다. 비디오의 경우 LinkedIn Stories에 9:16을 사용하고 비디오가 짧은 세로 형식에 최적화되어 있는지 확인하십시오.
+모든 종횡비는 정적 이미지에 대해 지원됩니다. 비디오의 경우 LinkedIn 스토리에 9:16을(를) 사용하고 비디오가 짧은 세로 형식에 맞게 최적화되었는지 확인하십시오.
 
 | 종횡비 | 방향 | 지침 |
 |--------------|--------------|------------------------------------------------------------------------------------------------|
@@ -43,7 +43,7 @@ _시작 템플릿_&#x200B;은(는) GenStudio for Performance Marketing을 빠르
 | 2:3, 4:5 | 세로 | 세로 형식에 적합하며 크리에이티브가 모바일 디바이스에서 돋보이는 데 도움이 됩니다. |
 | 9:16 | 세로 | LinkedIn 스토리(비디오에 대한 전체 화면 경험)에 적합합니다. |
 
-### 메타 광고 템플릿
+### Meta 광고 템플릿
 
 모든 종횡비는 정적 이미지 및 비디오 미디어 유형에 대해 지원됩니다.
 

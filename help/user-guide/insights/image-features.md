@@ -4,7 +4,7 @@ description: GenStudio for Performance Marketing에 사용되는 속성 범주�
 level: Intermediate
 feature: Reporting and Insights, Image Attributes, Generative AI
 exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
-source-git-commit: e3534ace3679e512cce6a137aadd4c483b5a868a
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '1056'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 _이미지 스타일_&#x200B;을(를) 확인하는 것은 다른 이미지 특성을 식별하기 위한 토대 역할을 합니다. AI가 적절한 분석 기법을 적용하고 관련 기능을 인식해 이미지에 대한 보다 포괄적인 이해를 유도할 수 있다. 각 스타일은 이미지 인식 및 분석 방법에 영향을 미치는 뚜렷한 시각적 특성을 가지고 있습니다.
 
-이미지 스타일이 `photograph`(으)로 식별되는 경우, AI는 `camera settings`, `camera proximity` 및 `Photography genres`에 대한 추가 트레이트를 분석합니다. 이러한 트레이트는 사진에만 해당되며 이미지의 구성 및 품질에 대한 심층적인 통찰력을 제공합니다. Adobe의 _사진 학습_&#x200B;에서 [28가지 사진 스타일 유형](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)을 확인하고 인기 있는 사진 유형 및 기본 용어에 대해 알아봅니다.
+이미지 스타일이 `photograph`(으)로 식별되는 경우, AI는 `camera settings`, `camera proximity` 및 `Photography genres`에 대한 추가 트레이트를 분석합니다. 이러한 트레이트는 사진에만 해당되며 이미지의 구성 및 품질에 대한 심층적인 통찰력을 제공합니다. Adobe의 [사진 학습](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)에서 _28가지 사진 스타일 유형_&#x200B;을 확인하고 인기 있는 사진 유형 및 기본 용어에 대해 알아봅니다.
 
 이미지 스타일이 `sketch` 또는 `digital cartoon`(으)로 식별되는 경우, 서로 다른 특성 집합이 관련될 수 있습니다. 이러한 계층적 접근 방식은 분석이 상황적으로 정확하고 검사되는 이미지의 특정 유형에 맞게 조정되도록 보장한다.
 
@@ -27,7 +27,7 @@ _이미지 스타일_&#x200B;을(를) 확인하는 것은 다른 이미지 특�
 
 **특정 특성 범주의 이미지를 보려면**:
 
-1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 특성]**&#x200B;보기를 선택하십시오.
+1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 특성]**보기를 선택하십시오.
 
 1. **[!UICONTROL 이미지]**&#x200B;를 선택하여 테이블 보기를 변경합니다.
 

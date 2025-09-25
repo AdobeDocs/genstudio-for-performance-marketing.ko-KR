@@ -4,10 +4,11 @@ description: Adobe GenStudio for Performance Marketing에서 LinkedIn 템플릿�
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 35a519a8d28e260bfa6d9ed671bd5bf1cfeda931
+exl-id: 85432185-8311-411b-b57b-f482c3d45854
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '297'
+ht-degree: 2%
 
 ---
 
@@ -42,7 +43,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 | 종횡비 | Platform | 최소 크기(픽셀) | 최대 크기(px) | 메모 |
 |-------------------|-----------------|---------------|----------------|-------------------------------------------------------------------------------------|
-| 정사각형 1:1 | 데스크탑, 모바일 | 360 x 360 | 4320 x 4320 | 가장 다재다능합니다. 여러 장치와 배치에서 일관된 모습에 이상적입니다. |
+| 사각형 1:1 | 데스크탑, 모바일 | 360 x 360 | 4320 x 4320 | 가장 다재다능합니다. 여러 장치와 배치에서 일관된 모습에 이상적입니다. |
 | 가로 1.91:1 | 데스크탑 | 640 x 360 | 7680 x 4320 | 표준 가로 형식. 스폰서 콘텐츠 및 뉴스 피드 광고에 일반적으로 사용됩니다. |
 | 세로 1:1.91 | 모바일 | 360 x 640 | 2430 x 4320 | 세로 긴 형식입니다. 모바일 보기에 최적화되어 더 많은 화면을 제공합니다. |
 | 세로 2:3 | 모바일 | 360 x 640 | 2430 x 4320 | 키가 1:1.91보다 약간 작습니다. 모바일 우선 캠페인에 적합합니다. |

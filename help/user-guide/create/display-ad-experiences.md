@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하여 [성공적인 디스플레이 광고 경험 만들기](/help/user-guide/create/create-display-ad.md)를 간소화할 수 있습니다.
 
-[!DNL Create]은(는) [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [브랜드 일관된 디스플레이 광고 경험을 만들 수 있도록 최신 마케터를 지원합니다](/help/user-guide/create/create-display-ad.md).
+[!DNL Create]은(는) [지침](/help/user-guide/create/create-display-ad.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/guidelines/overview.md)를 사용하여 [브랜드 일관된 디스플레이 광고 경험을 만들 수 있도록 최신 마케터를 지원합니다](/help/user-guide/effective-prompts.md).
 
 디스플레이 광고 경험을 생성할 때 캔버스에 4개의 변형이 만들어져 표시됩니다.
 
