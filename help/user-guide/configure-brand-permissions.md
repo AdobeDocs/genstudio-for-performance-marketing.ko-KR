@@ -21,7 +21,7 @@ ht-degree: 1%
 
 이 비디오 연습을 시청하거나 아래 단계를 따르십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475004?learn=on&enablevpops&captions=kor)
 
 ## 1단계: 사용자 그룹 만들기
 
