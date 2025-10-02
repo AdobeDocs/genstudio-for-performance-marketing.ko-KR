@@ -6,7 +6,7 @@ role: Admin, Data Engineer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
-source-git-commit: fb5fe4885340639f8179c8de6944ac21bfe009ec
+source-git-commit: 40c7d2d40f1c4bea9794e706d8e1ce7bf92042e3
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -84,7 +84,7 @@ ht-degree: 0%
 1. 계정으로 로그인합니다. 계정에는 비즈니스 관리자에 대한 관리자 액세스 권한이 있어야 합니다.
 1. Business Portfolio 설정으로 이동하려면 왼쪽 하단의 **[!UICONTROL 설정]** 톱니바퀴 아이콘을 클릭합니다.
 1. 왼쪽 메뉴에서 **[!UICONTROL 통합]**&#x200B;을 클릭합니다.
-1. **[!UICONTROL 연결된 앱]**&#x200B;을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
+1. **[!UICONTROL 연결된 앱]**을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
    ![Meta Business Manager 연결된 앱](./meta-connected-apps.png "Meta Business Manager 연결된 앱 창")
 1. 앱 이름을 클릭합니다.
 1. **[!UICONTROL 제거]**&#x200B;를 클릭합니다.
