@@ -6,9 +6,9 @@ role: Admin, Data Engineer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
-source-git-commit: 40c7d2d40f1c4bea9794e706d8e1ce7bf92042e3
+source-git-commit: dce3d9bbf3ed2d26872b324c04ab7e78bbb034dc
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -22,15 +22,14 @@ ht-degree: 0%
 **필수 구성 요소**:
 
 - 모든 Meta 서비스에 액세스할 수 있는 Facebook/Meta 로그인
-
 - 다음을 포함한 Meta Business Portfolio 및 광고 계정에 대한 _모든 권한_:
-
    - 캠페인 관리
    - 성능 보기
    - Creative Hub mockup 관리
    - 고급 분석
-
 - 브라우저에서 팝업 차단기 비활성화
+- 연결을 시도하기 전에 Meta Business Manager에서 Instagram 계정 페이지 연결을 확인하십시오
+- 연결 중인 모든 자산에 대한 관리자 액세스 확인
 
 >[!ENDSHADEBOX]
 
@@ -69,6 +68,16 @@ ht-degree: 0%
 
 **[!UICONTROL 계정 추가]**&#x200B;를 사용하여 목록에 계정을 더 추가하십시오. 동일한 Meta 비즈니스 프로필에 연결된 계정을 추가할 때 인증 흐름이 약간 달라질 수 있습니다. 연결 프로세스 중에 새 Meta 광고 계정만 선택합니다.
 
+## 연결 우수 사례
+
+오류를 방지하려면 연결을 설정할 때 다음 모범 사례를 고려하십시오.
+
+- [ ] 초기 연결에 대해 최소 자산 선택으로 시작합니다(단일 페이지만).
+- [ ] 페이지 액세스가 작동하는지 확인한 후에만 Instagram 계정 추가
+- [ ] Instagram 계정이 Meta Business Manager에서 선택한 Facebook 페이지와 제대로 연결되어 있는지 확인합니다.
+- [ ] 단계별 접근 방법 사용: 먼저 기본 연결을 설정한 다음 자산을 확장합니다.
+- [ ] 연결을 시도하기 전에 모든 자산에 대한 관리자 권한을 확인하십시오.
+
 ## Meta 광고 통합 연결 해제 및 문제 해결
 
 경우에 따라 GenStudio for Performance Marketing 인스턴스가 Meta 광고 계정에 잘못 연결되어 있습니다. 문제를 일으킬 수 있는 일반적인 설정은 다음과 같습니다.
@@ -84,10 +93,31 @@ ht-degree: 0%
 1. 계정으로 로그인합니다. 계정에는 비즈니스 관리자에 대한 관리자 액세스 권한이 있어야 합니다.
 1. Business Portfolio 설정으로 이동하려면 왼쪽 하단의 **[!UICONTROL 설정]** 톱니바퀴 아이콘을 클릭합니다.
 1. 왼쪽 메뉴에서 **[!UICONTROL 통합]**&#x200B;을 클릭합니다.
-1. **[!UICONTROL 연결된 앱]**&#x200B;을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
+1. **[!UICONTROL 연결된 앱]**을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
    ![Meta Business Manager 연결된 앱](./meta-connected-apps.png "Meta Business Manager 연결된 앱 창")
 1. 앱 이름을 클릭합니다.
 1. **[!UICONTROL 제거]**&#x200B;를 클릭합니다.
 1. 메시지가 표시되면 제거를 확인합니다.
 
 이제 Meta 광고 계정, Instagram 프로필 및 Facebook 페이지를 다시 연결할 수 있습니다.
+
+## Instagram 계정 연결 문제
+
+연결 설정 중에 연결된 Facebook 페이지를 연결하지 않고 Instagram 계정을 선택하면 문제가 발생할 수 있습니다. 이로 인해 다음과 같은 오류가 발생할 수 있습니다.
+
+- &quot;{Page_Name}&quot;에 연결할 수 없거나 일반 연결 오류가 발생했습니다.
+- 비즈니스 흐름을 위한 Facebook 로그인 중 연결 시간 초과.
+- 여러 자산을 선택할 때 자동 오류가 발생합니다.
+- Instagram, 페이지 및 광고 계정을 동시에 선택할 때 연결이 실패합니다.
+
+### 해결 단계:
+
+1. [Meta Business Manager](https://business.facebook.com) > 통합 > 연결된 앱으로 이동합니다.
+1. 기존 &quot;Adobe GenStudio&quot; 통합이 있는 경우 제거합니다. **제거**&#x200B;를 클릭합니다.
+1. GenStudio으로 돌아가서 연결 프로세스를 다시 시도하십시오.
+1. 초기 연결 중에 대상 Facebook 페이지만 선택합니다.
+1. 첫 번째 연결 시도 중에는 Instagram 계정을 선택하지 마십시오.
+1. 다른 자산을 추가하기 전에 연결이 성공했는지 확인하십시오.
+1. 페이지 연결이 안정적이면 Instagram 계정을 별도로 추가합니다.
+
+
