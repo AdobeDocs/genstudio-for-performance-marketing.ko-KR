@@ -38,4 +38,4 @@ ht-degree: 1%
 
 1. **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
 
-초안 작성자에게 승인 알림이 전송되고 작업이 완료됩니다. [ 또는 ](/help/user-guide/approvals/publish-content.md)게시[!DNL Content]에 저장하는 프로세스에 대한 개요는 _콘텐츠 게시_&#x200B;를 참조하십시오.
+초안 작성자에게 승인 알림이 전송되고 작업이 완료됩니다. [&#x200B; 또는 &#x200B;](/help/user-guide/approvals/publish-content.md)게시[!DNL Content]에 저장하는 프로세스에 대한 개요는 _콘텐츠 게시_&#x200B;를 참조하십시오.

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # LinkedIn 경험 만들기
 
-이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 지침을 준수하는 ](/help/user-guide/create/meta-experiences.md)LinkedIn 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 지침을 준수하는 &#x200B;](/help/user-guide/create/meta-experiences.md)LinkedIn 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
 
 LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketing에서 [지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항을 알아보는 것이 중요합니다.
 

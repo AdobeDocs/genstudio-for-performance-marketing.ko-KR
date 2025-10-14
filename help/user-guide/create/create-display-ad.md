@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 디스플레이 광고 경험 만들기
 
-이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)를 사용하여 브랜드 ](display-ad-experiences.md)디스플레이 광고 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
+이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)를 사용하여 브랜드 &#x200B;](display-ad-experiences.md)디스플레이 광고 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
 
 매력적인 디스플레이 광고 경험을 디자인하려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **디스플레이 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **디스플레이 광고를 수동으로 편집하려면[ 디스플레이 광고 섹션 또는 필드(예: 제목 줄, 머리글 또는 본문 복사본)를 두 번 클릭하고 필요에 따라 편집합니다.](/help/user-guide/create/manage-variants.md#manually-edit-text)**
+* **디스플레이 광고를 수동으로 편집하려면[&#x200B; 디스플레이 광고 섹션 또는 필드(예: 제목 줄, 머리글 또는 본문 복사본)를 두 번 클릭하고 필요에 따라 편집합니다.](/help/user-guide/create/manage-variants.md#manually-edit-text)**
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 온라인 이미지 텍스트나 인라인 링크를 클릭한 다음 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.

@@ -155,4 +155,4 @@ Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드�
 
 >[!ENDSHADEBOX]
 
-다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/content/customize-template.md)합니다. [템플릿을 ](#add-a-template) 저장소에 추가[!DNL Content]하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.
+다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/content/customize-template.md)합니다. [템플릿을 &#x200B;](#add-a-template) 저장소에 추가[!DNL Content]하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.

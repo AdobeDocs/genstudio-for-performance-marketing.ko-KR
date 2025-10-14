@@ -64,9 +64,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
-[ 리포지토리를 AEM에 추가하는 방법에 대한 지침은 ](connect-aem-repo.md)GenStudio for Performance Marketing 리포지토리 연결[!DNL AEM Assets Content Hub]을 참조하십시오.
+[&#x200B; 리포지토리를 AEM에 추가하는 방법에 대한 지침은 &#x200B;](connect-aem-repo.md)GenStudio for Performance Marketing 리포지토리 연결[!DNL AEM Assets Content Hub]을 참조하십시오.
 
-AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 `GenStudio assets`시스템 메타데이터[를 사용하여 ](asset-details.md#system-metadata) 저장소에 저장됩니다.
+AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 `GenStudio assets`시스템 메타데이터[를 사용하여 &#x200B;](asset-details.md#system-metadata) 저장소에 저장됩니다.
 
 {{note-aem-assets}}
 

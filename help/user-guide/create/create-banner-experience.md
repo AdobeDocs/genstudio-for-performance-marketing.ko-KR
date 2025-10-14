@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 배너 경험 만들기
 
-이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 ](banner-experiences.md)배너 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 만드는 방법을 보여줍니다.
+이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 &#x200B;](banner-experiences.md)배너 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 만드는 방법을 보여줍니다.
 
 매력적인 배너 경험을 디자인하려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 

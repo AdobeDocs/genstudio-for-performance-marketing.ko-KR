@@ -34,7 +34,7 @@ _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ -->은(는) 집합 지�
 
 ### 참조 이미지 선택
 
-_[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [ 차원에 대한 자세한 내용은 ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)템플릿 모범 사례[!DNL on-brand image]를 참조하세요.
+_[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [&#x200B; 차원에 대한 자세한 내용은 &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)템플릿 모범 사례[!DNL on-brand image]를 참조하세요.
 
 **참조 이미지를 선택하려면**:
 

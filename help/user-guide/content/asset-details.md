@@ -32,7 +32,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 >[!NOTE]
 >
->AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [ 자산 세부 정보를 구성하는 방법은 ](connect-aem-repo.md#step-4-configure-asset-visibility)자산 가시성 구성[!DNL AEM Assets Content Hub]을 참조하세요.
+>AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [&#x200B; 자산 세부 정보를 구성하는 방법은 &#x200B;](connect-aem-repo.md#step-4-configure-asset-visibility)자산 가시성 구성[!DNL AEM Assets Content Hub]을 참조하세요.
 
 ## 시스템 메타데이터
 

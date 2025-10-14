@@ -27,7 +27,7 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 ## 1단계: [!DNL AEM Assets Content Hub] 사용
 
-**Content Hub 배포** 셀프서비스 프로세스에 따라 Cloud Manager에서 기존 AEM Assets에 대해 [!DNL Content Hub]을(를) 사용하도록 설정하십시오. [AEM as a Cloud Service [!DNL Content Hub] 설명서에서 ](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub)배포&#x200B;__&#x200B;를 참조하십시오.
+**Content Hub 배포** 셀프서비스 프로세스에 따라 Cloud Manager에서 기존 AEM Assets에 대해 [!DNL Content Hub]을(를) 사용하도록 설정하십시오. [AEM as a Cloud Service [!DNL Content Hub] 설명서에서 &#x200B;](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub)배포&#x200B;__&#x200B;를 참조하십시오.
 
 [!DNL AEM Assets Content Hub]을(를) 사용하도록 설정하면 Admin Console에서 `contenthub` 내에 [!DNL AEM Assets as a Cloud Service] 접미사를 사용하는 새 인스턴스가 생깁니다.
 

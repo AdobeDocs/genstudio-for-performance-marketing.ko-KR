@@ -80,7 +80,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
    - _이 브랜드를 사용하는 시기_: **[!UICONTROL 추가]**&#x200B;를 클릭하고(또는 텍스트 필드를 클릭하여 기존 텍스트를 변경) 브랜드에 대한 개요 및 사용 정보를 입력하십시오. **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭합니다.
    - [_[!DNL Brand] 음성 지침&#x200B;_](brands.md#brand-voice-guidelines): 각 지침 필드에 적용 가능한 정보를 추가합니다.
 
-     ![[!DNL Brand] 음성 지침 추가 ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
+     ![[!DNL Brand] 음성 지침 추가 &#x200B;](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
 
    - [_이미지 지침_](brands.md#image-guidelines): &quot;일반 미술 지침&quot; 또는 &quot;제품 사진&quot; 등의 지침 범주를 추가하려면 **[!UICONTROL 범주 추가]**&#x200B;를 클릭하십시오. 추가된 각 카테고리에 지침을 입력합니다.
    - [_채널 지침_](brands.md#channel-guidelines): 사용 가능한 각 채널을 클릭하고 적절한 지침을 추가하십시오.
@@ -91,7 +91,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 만든 [!DNL Brands]을(를) 보려면 _[!UICONTROL 브랜드]_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!UICONTROL 브랜드]_ 홈으로 다시 이동합니다.
 
-정보에 액세스할 수 있도록 [을(를) ](#publish-brand)게시[!DNL Brand]하지 않아도 됩니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketing의 [!DNL Brand] 정보를 사용하려면 게시해야 합니다. 만든 [!DNL Brand]은(는) 게시될 때까지 초안 양식에서 사용할 수 있습니다.
+정보에 액세스할 수 있도록 [을(를) &#x200B;](#publish-brand)게시[!DNL Brand]하지 않아도 됩니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketing의 [!DNL Brand] 정보를 사용하려면 게시해야 합니다. 만든 [!DNL Brand]은(는) 게시될 때까지 초안 양식에서 사용할 수 있습니다.
 
 ### 브랜드 썸네일 변경
 
