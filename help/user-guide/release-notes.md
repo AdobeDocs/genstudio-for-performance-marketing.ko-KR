@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 06f273d520c39042e180b5acaec33004df1cd5fe
+source-git-commit: a294111abbe89030a7095458c4b08de18722230f
 workflow-type: tm+mt
-source-wordcount: '3502'
+source-wordcount: '3763'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,54 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2025.09.11 {#latest}
+## 2025.10.26 {#latest}
+
+### Photoshop 및 Figma용 새로운 GenStudio 플러그인
+
+* Adobe Photoshop 및 Figma 디자인 도구에 대한 새로운 GenStudio 플러그인 을 사용하여 바로 온브랜드 및 개인화 광고를 제작할 수 있습니다.
+
+### 확장된 비디오 기능
+
+* 이제 마케터는 미리 제작된 브랜딩 또는 메시지가 있는 프레임 비디오 광고에 인트로 및 아웃트로 클립을 쉽게 추가할 수 있습니다.
+* 비디오 길이 전체에서 이미지, 텍스트 및 로고 오버레이를 추가합니다
+
+### LinkedIn, Meta 및 TikTok에 대한 확장된 통찰력
+
+* 이제 GenStudio Insights에는 LinkedIn Ads 성과 보고가 포함되어 있어 마케터는 플랫폼 내에서 직접 캠페인과 광고의 성과를 보고 분석할 수 있습니다.
+   * LinkedIn 광고
+   * Meta 광고
+   * TikTok 광고
+
+### Amazon Ads 활성화
+
+* GenStudio은 이제 Amazon 광고 플랫폼으로 바로 디스플레이 광고 활성화를 지원합니다.
+
+### Flashtalk 활성화
+
+* GenStudio은 이제 Flashtalking(Innovid) 광고 서비스 제공 플랫폼으로 직접 디스플레이 광고 활성화를 지원합니다.
+* 사용자는 엔지니어링 활성화 팀과 협력하여 Flashtalking API 토큰을 수동으로 구성해야 합니다. 향후 릴리스에서 셀프서비스 토큰 구성이 추가됩니다.
+
+### Adobe Campaign V8과 통합
+
+* 이제 GenStudio for Performance Marketing은 Adobe Campaign V8과 통합되어 마케터는 Campaign의 고급 오케스트레이션 기능과 함께 AI 기반의 콘텐츠 생성을 원활하게 활용할 수 있습니다.
+
+### 비디오 자동 재생
+
+* 이제 [!DNL Create], [!DNL Content] 및 [!DNL Insights] 모듈에서 비디오가 자동으로 재생되므로 원활한 미리 보기 환경을 제공합니다.
+
+### 서드파티 이메일 템플릿 가져오기
+
+* GenStudio for Performance Marketing은 이제 확장성 프레임워크를 통해 서드파티 이메일 디자인 시스템과의 원활한 통합을 지원합니다. 주요 기능은 다음과 같습니다.
+
+   * 콘텐츠를 만드는 동안 서드파티 이메일 디자인 시스템에서 템플릿을 자동으로 가져오기
+   * 가져온 템플릿과 함께 템플릿 메타데이터 가져오기
+   * 서드파티 시스템에 직접 연결하여 신뢰할 수 있는 단일 소스 유지
+   * 사용자 정의 통합 구축을 위해 제공된 SDK 및 샘플 앱
+
+
+## 이전 릴리스 노트
+
++++2025.09.11 릴리스 정보
 
 ### 새로운 생성적 유료 미디어에 대한 AI 기능 확장
 
@@ -23,7 +70,7 @@ ht-degree: 0%
 
 이 기능은 GenStudio for Performance Marketing에서 직접 이미지 편집 및 크기 조정 프로세스를 간소화합니다. 자세한 내용은 [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand)를 참조하십시오.
 
-## 이전 릴리스 노트
++++
 
 +++2025.08.15 릴리스 정보
 
@@ -85,7 +132,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 ### 메타에 대한 다중 자산 활성화
 
-메타 광고에 대한 다중 종횡비 이미지 활성화를 사용하면 광고주가 단일 광고 크리에이티브 하에 여러 종횡비로 여러 이미지 에셋을 업로드하고 활성화할 수 있습니다. 이 기능을 사용하면 한 개의 광고가 피드, 스토리 및 릴과 같은 다양한 메타 배치에 맞게 창의적으로 적합한 것을 제공할 수 있습니다. 광고주는 배치 간에 각 이미지가 어떻게 렌더링될지 미리 보고 단일 API 호출에서 메타에 모든 버전을 게시할 수 있습니다.
+Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고주가 단일 광고 크리에이티브 하에 여러 종횡비로 여러 이미지 에셋을 업로드하고 활성화할 수 있습니다. 이 기능을 사용하면 한 개의 광고가 피드, 스토리 및 릴과 같은 다양한 Meta 배치에 맞게 창의적인 피팅을 제공할 수 있습니다. 광고주는 배치 간에 각 이미지가 어떻게 렌더링될지 미리 보고 단일 API 호출에서 메타에 모든 버전을 게시할 수 있습니다.
 
 ### 변형의 서식 있는 텍스트 서식
 
@@ -105,7 +152,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 [!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
-이제 메타데이터 광고에서 템플릿 선택을 선택 사항으로 하여 사용자가 미디어 상단에 텍스트와 로고를 사용하지 않고도 광고를 만들 수 있습니다. 이 향상된 기능을 통해 텍스트 오버레이 또는 로고 배치가 필요하지 않은 애니메이션 GIF 및 비디오와 같은 다른 미디어 유형을 사용할 수 있습니다.
+이제 Meta 광고에서 템플릿 선택이 선택 사항이므로 사용자는 미디어 상단에 텍스트와 로고를 입력하지 않고도 광고를 만들 수 있습니다. 이 향상된 기능을 통해 텍스트 오버레이 또는 로고 배치가 필요하지 않은 애니메이션 GIF 및 비디오와 같은 다른 미디어 유형을 사용할 수 있습니다.
 
 +++
 
@@ -139,7 +186,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 * 영어가 아닌 언어로 [브랜드 지침](/help/user-guide/guidelines/brands.md)을 추가하거나 개정하면 GenStudio for Performance Marketing에서 이러한 지침을 동일한 언어로 표시합니다.
 
-* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [&#x200B; 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 &#x200B;](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
+* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [ 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 ](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
 
 * 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
 
@@ -154,7 +201,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 ### 수정 사항 및 개선 사항
 
 * 개별 변형의 이미지에 [대체(alt) 텍스트를 추가](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)하는 기능을 사용하도록 설정했습니다.
-* [새로운 메타 종횡비](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
+* [새로운 Meta 종횡비](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
 * 이제 내보내기 또는 다운로드를 위해 두 개 이상의 경험을 선택할 수 있습니다. [경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 참조하십시오.
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -208,12 +255,12 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 ### 수정 사항 및 개선 사항
 
-* [을(를) 위해 &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, &#x200B;](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, &#x200B;](/help/user-guide/guidelines/brands.md#logos)로고[&#x200B; 및 &#x200B;](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
+* [을(를) 위해 ](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, ](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, ](/help/user-guide/guidelines/brands.md#logos)로고[ 및 ](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
 * 변형 내에서 [이미지에 링크를 추가](/help/user-guide/create/manage-variants.md#add-image-link)하는 기능이 추가되었습니다.
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 &#x200B;](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 ](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
@@ -246,7 +293,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 수정 사항 및 개선 사항
 
-* 이제 표시 광고의 생성된 모든 필드 및 수동 필드에 문자 수가 표시됩니다. _메타 경험_&#x200B;에서 [문자 수](/help/user-guide/create/meta-experiences.md#character-counts)를 참조하십시오. <!-- GS-7732 -->
+* 이제 표시 광고의 생성된 모든 필드 및 수동 필드에 문자 수가 표시됩니다. _Meta 경험_&#x200B;에서 [문자 수](/help/user-guide/create/meta-experiences.md#character-counts)를 참조하십시오. <!-- GS-7732 -->
 
 * _공동 작업자_&#x200B;가 이제 자산을 볼 수 있지만 이러한 자산을 만들거나 편집하거나 삭제할 수는 없습니다. 이전에는 [!DNL Create]에서 예상대로 Collaborator 권한이 적용되지 않았습니다. <!-- GS-7614 -->
 
@@ -338,11 +385,11 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 편집자는 [!DNL Create] _최근 작업_ 영역에서 초안이 로드되지 않을 때 예상대로 오류 메시지를 볼 수 있습니다.  <!-- GS-8081 -->
 
-* 이제 캔버스에 크기 조정된 메타 광고가 표시되고 올바른 순서로 광고가 표시됩니다.  <!-- GS-7375 -->
+* 이제 캔버스에 크기 조정된 Meta 광고가 표시되고 광고가 올바른 순서로 표시됩니다.  <!-- GS-7375 -->
 
 * 이제 편집자는 이메일의 필드를 한 번 클릭하고 광고를 표시할 수 있습니다. <!-- GS-6297 -->
 
-* 이메일 및 메타 광고에 대한 조각 편집 기능이 이제 한 번의 클릭으로 예상대로 트리거됩니다. <!-- GS-8081 -->
+* 이메일 및 Meta 광고에 대한 조각 편집 기능이 이제 한 번의 클릭으로 예상대로 트리거됩니다. <!-- GS-8081 -->
 
 * [!DNL Create] **[!UICONTROL 뒤로]** 단추의 성능이 향상되었습니다. <!-- GS-6767 -->
 
@@ -392,19 +439,19 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * **[!UICONTROL 작업 메뉴(...)에서]**&#x200B;삭제[!DNL Create]을(를) 선택하면 이제 예상대로 작동합니다. <!-- GS-6871 -->
 
-* 이제 사용자는 키보드만으로 모든 메타데이터 템플릿 대화형 요소를 제어할 수 있습니다. <!-- GS-4066 -->
+* 이제 사용자는 키보드만으로 모든 Meta 광고 템플릿 대화형 요소를 제어할 수 있습니다. <!-- GS-4066 -->
 
 * 디스플레이 광고 템플릿에 템플릿 이미지 필드의 이미지 차원 추출을 추가했습니다. 이제 전체 템플릿이 아닌 실제 이미지 차원에 대해 스마트 자르기 요청이 전송됩니다. <!-- GS-6926 -->
 
-* 생성된 이메일 및 메타 광고에서 `Zoom to fit to screen` 문자열을 지역화했습니다. <!-- GS-5063 -->
+* 생성된 이메일 및 Meta 광고에서 `Zoom to fit to screen` 문자열을 지역화했습니다. <!-- GS-5063 -->
 
 * 이제 사용자가 클릭하여 나가면 [!DNL Create] 프롬프트 창이 예상대로 닫힙니다. <!-- GS-5254 -->
 
-* 이제 메타 광고 내보내기에 선택한 call-to-action 레이블이 예상대로 포함됩니다. <!-- GS-6504 -->
+* 이제 Meta 광고 내보내기에 선택한 call-to-action 레이블이 예상대로 포함됩니다. <!-- GS-6504 -->
 
 * 이제 브랜드 점수가 다시 생성된 경험에 대해 예상대로 업데이트되고 유지됩니다. <!-- GS-6535 -->
 
-* 메타 광고 및 디스플레이 광고의 HTML 내보내기에 더 이상 래퍼 `div` 및 `chrome` 요소가 포함되지 않습니다. <!-- GS-7116 -->
+* Meta 광고 및 디스플레이 광고의 HTML 내보내기에 더 이상 래퍼 `div` 및 `chrome` 요소가 포함되지 않습니다. <!-- GS-7116 -->
 
 * 이제 게시 중 이메일 초안 렌더링 문제가 해결되었습니다. <!-- GS-6394 -->
 
@@ -418,7 +465,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 조각 재생성이 크기 조정된 경험에 대해 예상대로 작동합니다. <!-- GS-6836 -->
 
-* 메타데이터 이미지를 크기 조정한 후 재생성해도 더 이상 오류가 발생하지 않습니다. 이전에는 재생성 전에 이미지 크기를 조정하면 채널 메타데이터가 `meta`에서 `facebook`(으)로 변경되었습니다. <!-- GS-7042 -->
+* Meta 광고 이미지 크기를 조정한 후 다시 생성해도 더 이상 오류가 발생하지 않습니다. 이전에는 재생성 전에 이미지 크기를 조정하면 채널 메타데이터가 `meta`에서 `facebook`(으)로 변경되었습니다. <!-- GS-7042 -->
 
 +++
 
