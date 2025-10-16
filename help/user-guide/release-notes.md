@@ -186,7 +186,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 * 영어가 아닌 언어로 [브랜드 지침](/help/user-guide/guidelines/brands.md)을 추가하거나 개정하면 GenStudio for Performance Marketing에서 이러한 지침을 동일한 언어로 표시합니다.
 
-* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [ 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 ](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
+* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [&#x200B; 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 &#x200B;](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
 
 * 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
 
@@ -255,12 +255,12 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 수정 사항 및 개선 사항
 
-* [을(를) 위해 ](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, ](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, ](/help/user-guide/guidelines/brands.md#logos)로고[ 및 ](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
+* [을(를) 위해 &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, &#x200B;](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, &#x200B;](/help/user-guide/guidelines/brands.md#logos)로고[&#x200B; 및 &#x200B;](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
 * 변형 내에서 [이미지에 링크를 추가](/help/user-guide/create/manage-variants.md#add-image-link)하는 기능이 추가되었습니다.
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 ](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 &#x200B;](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
