@@ -2,7 +2,7 @@
 title: GenStudio Experience Selector MFE
 description: GenStudio 앱 및 추가 기능에 대한 Experience Selector Micro FrontEnd를 이해하고 구현합니다.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: d6e580763d85df6d9d295d4e87501af4b022f57b
+source-git-commit: d9d6d3825cd953245049de119c66f54274f20fd9
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 6%
@@ -107,15 +107,15 @@ import { renderExperienceSelectorWithSUSI } from 'https://experience-stage.adobe
 
 이 저장소에는 다양한 프레임워크의 작업 예가 포함됩니다.
 
-- [Vite 빌드 시스템과의 통합을 보여 주는 전체 React 응용 프로그램](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [Vite 빌드 시스템과의 통합을 보여 주는 **완전한 React 응용 프로그램**](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
-- [컴퍼지션 API가 통합된 Vue 3 응용 프로그램](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
+- [컴퍼지션 API가 통합된 **Vue 3 응용 프로그램**](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
-- [두 개의 바닐라 JavaScript 구현](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
+- [두 개의 **바닐라 JavaScript 구현**](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
 
-- [이 바닐라 ESM 버전은 ES6 모듈과 최신 JavaScript을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
+   - [이 **바닐라 ESM** 버전은 ES6 모듈과 최신 JavaScript을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
 
-- [이 바닐라 UMD 버전은 스크립트 태그를 통해 로드된 UMD 번들을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
+   - [이 **바닐라 UMD** 버전은 스크립트 태그를 통해 로드된 UMD 번들을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
 
 ## 인증 흐름
 
