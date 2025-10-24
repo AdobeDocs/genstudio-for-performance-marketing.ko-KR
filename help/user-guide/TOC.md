@@ -5,9 +5,9 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 69915cf03785c3a916bab75cbc34d0126749cddc
+source-git-commit: 48dae1e6ce14a7dc1f2cc5fbad60eefebe99bf4e
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '242'
 ht-degree: 19%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 19%
    + 유료 미디어 계정 {#connect-account}
       + [Google 캠페인 관리자 360](connectors/google-cm360.md)
       + [LinkedIn](connectors/linkedin-ads.md)
-      + [메타 광고](connectors/meta-ads.md)
+      + [Meta 광고](connectors/meta-ads.md)
 + 지침 {#guidelines}
    + [지침 개요](guidelines/overview.md)
    + [브랜드](guidelines/brands.md)
@@ -40,13 +40,13 @@ ht-degree: 19%
 + 만들기 {#create}
    + [[!DNL Create] 개요](create/overview.md)
    + [전자 메일 환경](create/email-experiences.md)
-   + [메타 경험](create/meta-experiences.md)
+   + [Meta 경험](create/meta-experiences.md)
    + [LinkedIn 경험](create/linkedin-experiences.md)
    + [광고 경험 표시](create/display-ad-experiences.md)
    + [배너 경험](create/banner-experiences.md)
    + [변형 관리](create/manage-variants.md)
    + [전자 메일 환경 만들기](create/create-email-experience.md)
-   + [메타 광고 경험 만들기](create/create-meta-ad.md)
+   + [Meta 광고 경험 만들기](create/create-meta-ad.md)
    + [LinkedIn 경험 만들기](create/create-linkedin.md)
    + [디스플레이 광고 경험 만들기](create/create-display-ad.md)
    + [배너 경험 만들기](create/create-banner-experience.md)
@@ -63,6 +63,7 @@ ht-degree: 19%
    + [자산 및 경험 관리](content/manage-assets.md)
    + [AEM 저장소 연결](content/connect-aem-repo.md)
    + [자산 세부 정보](content/asset-details.md)
+   + [Content Credentials](content/content-credentials.md)
 + 템플릿 {#templates}
    + [템플릿 작업](content/use-templates.md)
    + [시작 템플릿](templates/starter-templates.md)
@@ -74,7 +75,7 @@ ht-degree: 19%
       + [디스플레이 광고 가이드](templates/display-template.md)
       + [전자 메일 안내서](templates/email-template.md)
       + [LinkedIn 광고 안내서](templates/linkedin-template.md)
-      + [메타 광고 안내서](templates/meta-template.md)
+      + [Meta 광고 안내서](templates/meta-template.md)
 + 캠페인 {#campaigns}
    + [캠페인 개요](campaigns/overview.md)
    + [캠페인 만들기](campaigns/create-campaign.md)
