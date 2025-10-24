@@ -3,9 +3,9 @@ title: 조직용 Content Credentials
 description: GenStudio for Performance Marketing에서 Content Credentials을 적용하고 검토하는 방법에 대해 알아봅니다.
 level: Intermediate
 feature: Content Management, Content Attributes
-source-git-commit: b7e3d1c3b20149eee85670098ddd100b41e27f2c
+source-git-commit: 9023c86d45e6fdc8b6ddd0bdedd23eed05e87aae
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!WARNING]
 >
->이 기능은 현재 베타 버전이며 액세스 권한이 부여된 조직에서만 사용할 수 있습니다. 관심이 있는 경우, 등록하려면 Adobe 계정 팀 담당자에게 문의하십시오.
+> 이 기능은 현재 베타 버전이며 액세스 권한이 부여된 조직에서만 사용할 수 있습니다. 관심이 있는 경우 Adobe 계정 팀 담당자에게 연락하거나 [이 링크를 사용하여 등록을 요청](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr)하십시오.
 
 
 ## Content Credentials 시작
@@ -33,7 +33,7 @@ Content Credentials이 Admin Console에서 활성화되면 GenStudio for Perform
 
 ## Content Credentials란? 
 
-Content Credentials은 콘텐츠 제작 방법과 크리에이터에 대한 ID 정보에 대한 세부 정보가 포함된 지속적이고 업계 표준 유형의 메타데이터입니다. Content Credentials은 지원 플랫폼에 콘텐츠를 온라인으로 게시할 때 또는 [Adobe의 검사 도구](https://contentauthenticity.adobe.com/inspect) 또는 [Adobe Content Authenticity Chrome 브라우저 확장](https://helpx.adobe.com/kr/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html)과 같은 도구를 사용하여 볼 수 있습니다.  
+Content Credentials은 콘텐츠 제작 방법과 크리에이터에 대한 ID 정보에 대한 세부 정보가 포함된 지속적이고 업계 표준 유형의 메타데이터입니다. Content Credentials은 지원 플랫폼에 콘텐츠를 온라인으로 게시할 때 또는 [Adobe의 검사 도구](https://contentauthenticity.adobe.com/inspect) 또는 [Adobe Content Authenticity Chrome 브라우저 확장](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html)과 같은 도구를 사용하여 볼 수 있습니다.  
 
 Content Credentials을 적용하면 콘텐츠 제작 방식에 대한 투명도를 높이고 사용자가 콘텐츠에 직접 연결할 수 있습니다.
 
@@ -55,7 +55,7 @@ Content Credentials을 적용하는 것은 가져오기 및 콘텐츠 검색에�
 
 썸네일의 오른쪽 위 모서리에 있는 Content Credential 배지는 &quot;Brand Signed&quot; 콘텐츠를 나타냅니다.
 
-![자격 증명이 있는 가져온 자산](./images/import-discovery1.png){width="350"}
+![자격 증명이 있는 가져온 자산](./images/import-discovery1.png)
 
 서명된 콘텐츠를 선택하면 자세한 메타데이터(게시된 브랜드, 레코더, 도구 사용, 타임스탬프)가 표시됩니다.
 
@@ -75,13 +75,13 @@ Content Credential 배지는 캔버스 에셋 선택기에 표시됩니다.
 
 초안에서 내보내는 동안 수정된 자산은 자동으로 다시 서명되고 새 자격 증명이 원본에 연결됩니다.
 
-![내보낸 에셋의 자격 증명 데이터](./images/edit-and-transformation1.png){width="300"}
+![내보낸 에셋의 자격 증명 데이터](./images/edit-and-transformation1.png){width="60%"}
 
 ### 검토 및 승인
 
 검토 및 승인 미리 보기에서 오른쪽 레일의 에셋에 대한 자격 증명 상태가 표시됩니다.
 
-![승인된 자산의 자격 증명 데이터](./images/review-and-approve1.png){width="300"}
+![승인된 자산의 자격 증명 데이터](./images/review-and-approve1.png){width="60%"}
 
 변형별 자격 증명 세부 정보는 검토자가 자산을 검사할 때 표시됩니다. 사용자가 **[!UICONTROL 콘텐츠에 저장]**&#x200B;을 클릭하면 승인된 경험이 다시 서명됩니다.
 
@@ -91,7 +91,7 @@ Content Credential 배지는 캔버스 에셋 선택기에 표시됩니다.
 
 활성화 중에 경험 선택기에 자격 증명 상태가 표시됩니다.
 
-![활성화된 자산에 대한 자격 증명 데이터](./images/activate-export1.png){width="350"}
+![활성화된 자산에 대한 자격 증명 데이터](./images/activate-export1.png){width="60%"}
 
 내보낸 파일에는 C2PA 호환 자격 증명이 포함됩니다.
 
