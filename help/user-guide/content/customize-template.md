@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 2c5a16f0767958d09cfe5bbaa7a5538ca1b4fe75
+source-git-commit: 730e8f89f466ab457670cefe98833f5f4732636c
 workflow-type: tm+mt
 source-wordcount: '1613'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _[!DNL Handlebars]_&#x200B;템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은_ Handlebars 언어 안내서&#x200B;_의 [기능 [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars)을 참조하세요.
+다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은 [Handlebars 언어 안내서 [!DNL Handlebars]의 ](https://handlebarsjs.com/guide/#what-is-handlebars)기능__을 참조하세요.
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
@@ -30,7 +30,7 @@ GenStudio for Performance Marketing은 템플릿 내의 특정 유형의 콘텐�
 
 HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사용하여 GenStudio for Performance Marketing에서 템플릿을 실제 콘텐츠로 채워야 하는 콘텐츠 자리 표시자를 삽입할 수 있습니다. GenStudio for Performance Marketing은 [인식된 _필드_ 이름](#recognized-field-names)을(를) 기반으로 이러한 자리 표시자를 인식하고 해석합니다. 각 필드 이름은 콘텐츠가 생성되고 템플릿에 삽입되는 방법을 결정하는 특정 규칙 및 동작과 연결되어 있습니다.
 
-예를 들어 [!DNL Handlebars] 구문과 함께 `{{headline}}`을(를) 사용하여 전자 메일의 제목을 배치할 위치를 나타낼 수 있습니다. GenStudio은 이 필드를 인식하고 지침 및 프롬프트 기준에 따라 관련 헤드라인을 생성한 다음 이 위치에 헤드라인을 삽입합니다.
+예를 들어 `{{headline}}` 구문과 함께 [!DNL Handlebars]을(를) 사용하여 전자 메일의 제목을 배치할 위치를 나타낼 수 있습니다. GenStudio은 이 필드를 인식하고 지침 및 프롬프트 기준에 따라 관련 헤드라인을 생성한 다음 이 위치에 헤드라인을 삽입합니다.
 
 ```handlebars
 <div>{{headline}}</div>
@@ -43,13 +43,13 @@ HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사
 | 필드 | 역할 | 채널 템플릿 |
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}` | 사전 머리글 | 이메일 |
-| `{{headline}}` | 제목 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
+| `{{headline}}` | 제목 | 이메일 <br>Meta 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
 | `{{sub_headline}}` | 하위 헤드라인 | 이메일<br>배너 및 디스플레이 광고 |
 | `{{introductory_text}}` | 소개 텍스트 | LinkedIn 광고 |
-| `{{body}}` | 본문 복사 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 |
-| `{{cta}}` | 콜 투 액션<br>참조: [콜 투 액션](#calls-to-action) | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
-| `{{image}}` | 이미지—[!DNL Content]에서 선택 | 이메일 <br>메타 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
-| `{{on_image_text}}` | 이미지 텍스트에서<br>[이미지 텍스트에서](#on-image-text)을(를) 참조하십시오. | 메타 광고 <br>LinkedIn 광고 |
+| `{{body}}` | 본문 복사 | 이메일 <br>Meta 광고 <br>배너 및 디스플레이 광고 |
+| `{{cta}}` | Call to action<br>[콜 투 액션](#calls-to-action) 보기 | 이메일 <br>Meta 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
+| `{{image}}` | 이미지—[!DNL Content]에서 선택 | 이메일 <br>Meta 광고 <br>배너 및 디스플레이 광고 <br>LinkedIn 광고 |
+| `{{on_image_text}}` | 이미지 텍스트에서<br>[이미지 텍스트에서](#on-image-text)을(를) 참조하십시오. | Meta 광고 <br>LinkedIn 광고 |
 | `{{link}}` | 이미지의 call to action<br>이미지의 [링크](#link-on-image)를 참조하십시오. | 이메일 |
 
 <!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
@@ -57,7 +57,7 @@ HTML 템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 사
 GenStudio for Performance Marketing은 다음 템플릿에서 특정 필드를 자동으로 생성합니다.
 
 - **전자 메일 템플릿**&#x200B;에서는 `subject` 필드를 식별할 필요가 없습니다.
-- **메타 광고 템플릿**&#x200B;에서는 `headline`, `body` 및 `CTA` 필드를 식별할 필요가 없습니다.
+- **Meta 광고 템플릿**&#x200B;에서는 `headline`, `body` 및 `CTA` 필드를 식별할 필요가 없습니다.
 - **배너 및 디스플레이 광고 템플릿**&#x200B;에서는 `CTA` 필드를 식별할 필요가 없습니다.
 - **LinkedIn 광고 템플릿**&#x200B;에서는 `headline`, `introductory_text` 및 `CTA` 필드를 식별할 필요가 없습니다.
 
@@ -73,7 +73,7 @@ GenStudio for Performance Marketing에 템플릿을 업로드할 때에는 20개
 
 ### 콜 투 액션
 
-콜 투 액션(CTA)에는 구문 및 링크가 포함되어 있습니다. 변형 생성 프로세스 중에 _[!UICONTROL 구문 변경]_ 및 _[!UICONTROL 링크 추가]_ 기능이 제대로 작동하려면 템플릿에 링크 및 구문에 대한 자리 표시자를 포함해야 합니다.
+call to action(CTA)에는 구문 및 링크가 포함되어 있습니다. 변형 생성 프로세스 중에 _[!UICONTROL 구문 변경]_ 및 _[!UICONTROL 링크 추가]_ 기능이 제대로 작동하려면 템플릿에 링크 및 구문에 대한 자리 표시자를 포함해야 합니다.
 
 CTA 자리 표시자를 설정하려면 다음 지침을 따르십시오.
 
@@ -113,7 +113,7 @@ GenStudio for Performance Marketing은 변형 콜 투 액션 구문도 제공할
 
 ### 대체 텍스트
 
-사용자 정의 필드 이름을 자리 표시자로 사용하여 이미지에 대한 대체 텍스트(HTML `alt="text"` 특성) 설명을 생성합니다. 다음 `{{imageDescription}}` 자리 표시자가 동일한 `<img>` 태그 내의 `{{image}}` 필드와 함께 사용되므로 이미지와 설명 간의 관계가 유지됩니다.
+사용자 정의 필드 이름을 자리 표시자로 사용하여 이미지에 대한 대체 텍스트(HTML `alt="text"` 특성) 설명을 생성합니다. 다음 `{{imageDescription}}` 자리 표시자가 동일한 `{{image}}` 태그 내의 `<img>` 필드와 함께 사용되므로 이미지와 설명 간의 관계가 유지됩니다.
 
 ```html
 <img src="{{image}}" alt="{{imageDescription}}">
@@ -192,7 +192,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시자를 사용하는 경우 해당 필드에 대해 서식 있는 텍스트 편집이 지원되지 않습니다.
 
-`alt` 콘텐츠에 대해 서식 있는 텍스트 편집을 **사용할 수 없음**:
+**콘텐츠에 대해 서식 있는 텍스트 편집을**&#x200B;사용할 수 없음`alt`:
 
 ```html
 <img src="image.jpg" alt="{{image_description}}">
@@ -200,7 +200,7 @@ HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시�
 
 필드가 두 번 이상 표시되면 인스턴스에서 HTML 속성으로 사용되는지 여부에 따라 서식 있는 텍스트 기능이 결정됩니다. 예를 들어 헤드라인을 머리글로 사용하고 이미지의 대체 텍스트로 사용하는 경우 `alt` 태그가 우선합니다.
 
-서식 있는 텍스트 편집은 `alt` 콘텐츠로 사용되므로 `headline`에서 사용할 수 **없음**&#x200B;입니다.
+서식 있는 텍스트 편집은 **콘텐츠로 사용되므로**&#x200B;에서 사용할 수 `headline`없음`alt`입니다.
 
 ```html
 <h1>{{headline}}</h1>
@@ -213,7 +213,7 @@ HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시�
 
 이메일 템플릿에 여러 오퍼 또는 스토리와 같은 여러 콘텐츠 영역이 필요한 경우 섹션 또는 그룹을 사용하여 구성할 수 있습니다. _섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio for Performance Marketing에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
-선택한 그룹 이름을 접두사로 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 밑줄(`_`) 뒤에 필드 이름(예: `headline`, `body`, `image` 또는 `cta`)을 사용하십시오.
+선택한 그룹 이름을 접두사로 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 밑줄(`headline`) 뒤에 필드 이름(예: `body`, `image`, `cta` 또는 `_`)을 사용하십시오.
 
 구문: `groupname_fieldname`
 
@@ -229,7 +229,7 @@ HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시�
 
 이 규칙 때문에 섹션을 중첩할 수 없습니다.
 
-이메일 또는 메타 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. _템플릿 사용 모범 사례_ 항목에서 [채널별 지침](/help/user-guide/content/best-practices-for-templates.md)을 참조하세요.
+이메일 또는 Meta 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. [템플릿 사용 모범 사례](/help/user-guide/content/best-practices-for-templates.md) 항목에서 _채널별 지침_&#x200B;을 참조하세요.
 
 예를 들어 이메일 템플릿에는 최대 3개의 섹션을 포함할 수 있으므로 다음과 같은 3개의 헤드라인 및 본문 섹션이 있을 수 있습니다.
 
@@ -239,7 +239,7 @@ HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시�
 - `pod3_headline`, `pod3_body`
 - `cta`
 
-GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
+GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod1_body`보다 `pod2_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 >[!TIP]
 >
@@ -259,7 +259,7 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
 
 기본 제공 도우미(특정 작업을 수행하는 [!DNL Handlebars] 템플릿 언어의 특수 표현식)를 사용하여 특수 콘텐츠의 가시성을 제어할 수 있습니다. 예를 들어 미리 보기 링크를 깔끔하게 유지하면서 내보낸 템플릿의 링크에 추적 매개 변수를 추가하는 조건문을 추가할 수 있습니다.
 
-템플릿을 렌더링할 때는 `_genStudio.browser` 값이 설정되고, 템플릿을 내보낼 때는 `genStudio.export` 값이 설정됩니다. 조건부 래퍼를 사용하여 이메일 상단에 특정 콘텐츠를 포함하도록 결정할 수 있습니다. 예를 들어 템플릿을 내보내기에 사용하는 경우 다음과 같습니다.
+템플릿을 렌더링할 때는 `_genStudio.canvas` 값이 설정되고, 템플릿을 내보낼 때는 `genStudio.export` 값이 설정됩니다. 조건부 래퍼를 사용하여 이메일 상단에 특정 콘텐츠를 포함하도록 결정할 수 있습니다. 예를 들어 템플릿을 내보내기에 사용하는 경우 다음과 같습니다.
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -270,7 +270,7 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
 또 다른 예는 GenStudio for Performance Marketing에서 템플릿을 미리 볼 때 추적 코드를 사용하지 못하도록 하는 것일 수 있다. 다음 예제는 미리 보기 링크를 깔끔하게 유지하면서 내보낸 템플릿의 링크에 추적 매개 변수를 추가하는 방법을 보여 줍니다.
 
 ```html
-<a class="button" {{#if _genStudio.browser }}
+<a class="button" {{#if _genStudio.canvas }}
    href="{{link}}"{{/if}}{{#if _genStudio.export }}
    href="{{link}}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
    target="_blank">{{cta}}</a>
@@ -278,7 +278,7 @@ GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다
 
 ## 정적 콘텐츠
 
-이메일 및 메타 템플릿은 종종 다른 도메인에서 호스팅되는 이미지 및 CSS 파일에 연결됩니다. GenStudio for Performance Marketing은 템플릿 미리 보기 또는 템플릿에서 파생된 경험에 대한 썸네일을 생성할 때 컨텐츠 소스의 유효성을 확인하고 미리 보기 목적으로 사본을 임베드합니다.
+이메일 및 Meta 템플릿은 종종 다른 도메인에서 호스팅된 이미지 및 CSS 파일에 연결됩니다. GenStudio for Performance Marketing은 템플릿 미리 보기 또는 템플릿에서 파생된 경험에 대한 썸네일을 생성할 때 컨텐츠 소스의 유효성을 확인하고 미리 보기 목적으로 사본을 임베드합니다.
 
 외부 파일은 템플릿 미리 보기를 만들기 위한 목적으로만 임시로 포함되므로 미리 보기가 생성 시 표시되는 내용을 정확하게 반영할 수 있습니다. 이러한 외부 파일은 GenStudio for Performance Marketing에 영구적으로 저장되지 **않습니다**. 템플릿 미리 보기가 만들어지면 GenStudio for Performance Marketing에서 템플릿에 제공된 원본 소스 링크를 계속 참조합니다.
 
