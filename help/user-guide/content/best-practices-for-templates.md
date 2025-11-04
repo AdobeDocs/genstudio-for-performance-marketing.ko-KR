@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 3fe6e235b774cf5a99627d981230f96d5e51ac02
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,45 @@ GenStudio for Performance Marketing에서 템플릿을 사용할 때 다음 권�
 ![본문 사양](/help/assets/channel-email-body.png)
 
 [브랜드, 제품 및 가상 사용자 지침](/help/user-guide/guidelines/overview.md)이 생성된 콘텐츠에 어떻게 영향을 미치며 마케팅 목표에 맞게 콘텐츠를 조정하는 방법을 알아봅니다.
+
+## 템플릿에 대한 이미지 업로드
+
+템플릿에 사용되는 이미지는 컨텐츠 리포지토리에서 가져와야 하며, 이미지가 정확하게 표시되도록 하려면 올바르게 업로드해야 합니다.
+
+템플릿에 가장자리에서 가장자리로(전체 도련) 이미지가 있으면 선택한 이미지의 크기가 전체 템플릿 크기에 맞게 자동으로 조정됩니다. 그러나 이미지가 템플릿 종횡비와 일치하지 않으면 이미지가 템플릿 크기에 맞게 잘리며 예상대로 표시되지 않을 수 있습니다.
+
+템플릿에 포함된 이미지에 대한 &quot;자동 맞춤&quot; 기능은 없습니다.
+
+이미지 자르기를 해결하려면 사용자는 콘텐츠 저장소에 업로드할 때 템플릿에 사용할 이미지의 종횡비를 정의해야 합니다. 승인된 템플릿을 업로드할 때:
+
+1. [템플릿 업로드 프로세스를 계속 진행](/help/user-guide/content/use-templates.md#add-a-template)한 다음 **[!UICONTROL 세부 정보 추가]** 페이지에 액세스합니다.
+
+2. 템플릿에 사용할 이미지의 종횡비를 **[!UICONTROL 광고 너비(px)]** 및 **[!UICONTROL 광고 높이(px)]**&#x200B;로 정의합니다. 이렇게 하면 이미지가 표시되는 템플릿의 섹션에 대한 이미지 창이 정의됩니다.
+
+3. **[!UICONTROL 추가 세부 정보]** 섹션에서 **[!UICONTROL 이미지 크기]** 드롭다운을 선택하고 _고정 크기로 자르기_를 선택합니다.
+   ![고정 크기로 자르기](./images/crop-to-fixed-size.png "고정 크기로 자르기"){width="80%"}
+
+브라우저에서 이미지의 크기 및 종횡비를 결정하려면 다음을 수행하십시오.
+
+1. 이미지를 검사합니다.
+   - Windows/Linux:
+      - F12 키를 누릅니다.
+   - macOS:
+      - Command + Option + I를 누릅니다.
+
+1. 이미지 위로 마우스를 가져갑니다.
+
+1. 종횡비를 확인합니다. 템플릿에서 이미지의 종횡비를 정의할 때 사용합니다.
+
+이러한 세부 사항이 업로드 중에 적용되지 않으면 이미지는 템플릿의 전체 종횡비로 간주되며 해당 종횡비와 일치하지 않는 이미지는 잘린 것으로 표시됩니다.
+
+![디스플레이 광고에서 자른 이미지](./images/cropped-display.png "이미지 자르기"){width="60%"}
+
+디스플레이 광고 템플릿에서 잘린 **❌이미지**
+
+![디스플레이 광고에 표시되는 이미지](./images/full-fit.png "디스플레이 광고에 표시되는 이미지"){width="60%"}
+
+**✅이미지가 완전히 표시됨**
 
 ## 채널별 템플릿 지침 준수
 
