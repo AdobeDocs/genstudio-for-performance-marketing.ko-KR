@@ -17,7 +17,7 @@ GenStudio for Performance Marketing 지침을 업로드하거나 GenStudio for P
 
 다음 지침은 AI 생성 콘텐츠가 브랜드 정체성 및 접근성 사양에 맞게 맞춤화되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 데 도움이 됩니다.
 
-* 업계 모범 사례 및 개별 플랫폼 사양에 따라 [에 대한 ](/help/user-guide/guidelines/brands.md#default-channel-guidelines)기본 채널 지침[!DNL Brands]
+* 업계 모범 사례 및 개별 플랫폼 사양에 따라 [에 대한 &#x200B;](/help/user-guide/guidelines/brands.md#default-channel-guidelines)기본 채널 지침[!DNL Brands]
 * 사용자 정의 지침([!DNL Brands], [!DNL Products] 및 [!DNL Personas])
 * Meta, LinkedIn 등과 같은 채널에 대한 플랫폼 지침
 * [ADA(American Disabled Act) 접근성 지침](#compliance)

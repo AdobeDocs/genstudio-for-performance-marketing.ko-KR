@@ -19,7 +19,7 @@ GenStudio for Performance Marketing의 [!DNL Products]은(는) 제품 사양, �
 **제품을 보거나 수정하려면**:
 
 1. 왼쪽 탐색 영역에서 **[!UICONTROL 제품]**&#x200B;을 클릭합니다.
-1. [개별 세부 정보를 보거나 제품을 수정하려면](add-guidelines.md#manage-products)_[!DNL Products]_동작 메뉴를 클릭하고&#x200B;**[!UICONTROL 열기]**를 선택합니다.
+1. [개별 세부 정보를 보거나 제품을 수정하려면](add-guidelines.md#manage-products)_[!DNL Products]_&#x200B;동작 메뉴를 클릭하고&#x200B;**[!UICONTROL 열기]**&#x200B;를 선택합니다.
 1. 지침 범주 텍스트 필드를 클릭하여 제품 지침을 수정합니다.
 
 GenStudio for Performance Marketing에서 제품을 추가하거나 수정하는 방법은 [지침 추가](add-guidelines.md)를 참조하세요.
