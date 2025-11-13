@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing의 브랜드 유효성 검사
 description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 436e2d7c02cef91eee7f4180f049b71b42ec76d5
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 0%
@@ -18,8 +18,9 @@ GenStudio for Performance Marketing은 다음을 포함하여 다양한 측면�
 
 * 정의된 또는 기본 [!DNL Brand] 지침
 * 플랫폼 지침
-<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 * 미국 장애인 법(ADA) 표준
+<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
+
 
 ## 콘텐츠 확인 요약
 
@@ -27,7 +28,7 @@ GenStudio for Performance Marketing은 다음을 포함하여 다양한 측면�
 
 _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
-* 유효성 검사를 통과한 [[!DNL Brand]](brands.md)지침[과(와) 테스트한 지침의 수로 계산된 &#x200B;](overview.md)에 대한 준수 비율
+* 유효성 검사를 통과한 [[!DNL Brand]](brands.md)지침[과(와) 테스트한 지침의 수로 계산된 ](overview.md)에 대한 준수 비율
 * Meta 또는 LinkedIn과 같은 플랫폼 지침에 대한 `Pass` 또는 `Fail` 결과
 * ADA 접근성 표준에 대한 `Pass` 또는 `Fail` 결과
 

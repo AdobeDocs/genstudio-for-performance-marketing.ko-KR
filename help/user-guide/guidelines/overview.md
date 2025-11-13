@@ -1,24 +1,24 @@
 ---
-title: ' [!DNL Brands], [!DNL Products] 및 [!DNL Personas] 개요'
-description: GenStudio for Performance Marketing에  [!DNL Brands], [!DNL Products], and [!DNL Personas] 을(를) 추가하여 브랜드 표현의 모든 측면을 포함하는 포괄적인 브랜드 프로필을 만듭니다.
+title: 채널 지침 개요
+description: GenStudio for Performance Marketing에 채널 지침을 추가하여 브랜드 표현의 모든 측면을 포함하는 포괄적인 브랜드 프로필을 만듭니다.
 level: Beginner
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: dcd347dedd17497a080989df9e92dbf175cd2b2e
+source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
 
 # GenStudio for Performance Marketing 지침
 
-GenStudio for Performance Marketing 지침—**[!DNL Brands]**, **[!DNL Products]** 및 **[!DNL Personas]**&#x200B;을(를) 업로드하거나 GenStudio for Performance Marketing에 수동으로 추가할 수 있으므로 사용자가 브랜드 정체성의 본질을 파악하는 브랜드 지침을 설정할 수 있습니다.
+GenStudio for Performance Marketing 지침을 업로드하거나 GenStudio for Performance Marketing에 수동으로 추가하여 사용자가 브랜드 정체성의 본질을 파악하는 브랜드 지침을 설정할 수 있습니다.
 
 다음 지침은 AI 생성 콘텐츠가 브랜드 정체성 및 접근성 사양에 맞게 맞춤화되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 데 도움이 됩니다.
 
-* 업계 모범 사례 및 개별 플랫폼 사양에 따라 [!DNL Brands]에 대한 [기본 채널 지침](/help/user-guide/guidelines/brands.md#default-channel-guidelines)
-* [!DNL Brands], [!DNL Products] 및 [!DNL Personas]에 대한 사용자 정의 지침
+* 업계 모범 사례 및 개별 플랫폼 사양에 따라 [에 대한 ](/help/user-guide/guidelines/brands.md#default-channel-guidelines)기본 채널 지침[!DNL Brands]
+* 사용자 정의 지침([!DNL Brands], [!DNL Products] 및 [!DNL Personas])
 * Meta, LinkedIn 등과 같은 채널에 대한 플랫폼 지침
 * [ADA(American Disabled Act) 접근성 지침](#compliance)
 
@@ -28,7 +28,7 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
 
 GenStudio for Performance Marketing을 사용하여 매력적인 마케팅 콘텐츠를 만들려면 [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)을(를) 추가하여 포괄적인 브랜드 프로필을 만드는 것부터 시작하십시오.
 
-[!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 추가하는 방법은 [지침 추가](/help/user-guide/guidelines/add-guidelines.md)를 참조하세요.
+각 유형을 추가하는 방법을 알아보려면 [지침 추가](/help/user-guide/guidelines/add-guidelines.md)를 참조하십시오.
 
 ## 기능
 
@@ -44,9 +44,9 @@ GenStudio for Performance Marketing 지침:
 
 ## 사용 사례
 
-[!DNL Brands], [!DNL Products] 및 [!DNL Personas] 지침은 생성된 모든 콘텐츠가 브랜드의 원하는 표현을 준수하는지 확인하기 위해 두 가지 기본 사용 사례를 활성화합니다.
+채널 지침을 사용하면 두 가지 주요 사용 사례를 통해 생성된 모든 콘텐츠가 브랜드의 원하는 표현을 준수하는지 확인할 수 있습니다.
 
-* [[!DNL Create]](/help/user-guide/create/overview.md) 또는 [콘텐츠](/help/user-guide/content/overview.md)의 **콘텐츠 생성**
+* **또는**&#x200B;콘텐츠[[!DNL Create]](/help/user-guide/create/overview.md)의 [콘텐츠 생성](/help/user-guide/content/overview.md)
 * [**브랜드 유효성 검사**](#content-checks)(콘텐츠 만들기 프로세스의 일부로 발생)
 
 ## 콘텐츠 확인

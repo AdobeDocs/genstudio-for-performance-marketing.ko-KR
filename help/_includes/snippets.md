@@ -1,5 +1,5 @@
 ---
-source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
+source-git-commit: 436e2d7c02cef91eee7f4180f049b71b42ec76d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)&#x200B;(으)로 이 주제에 대한 기술을 보강하세요.
+>[Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)을(를) 통해 이 주제에 대한 이해를 높이십시오.
 
 ## 필터링 표에 대한 팁 {#filter-table}
 

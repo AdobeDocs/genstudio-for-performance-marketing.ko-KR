@@ -5,7 +5,7 @@ role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
+source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 2%
@@ -47,7 +47,7 @@ GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/over
 
 >[!NOTE]
 >
->프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 콘텐츠 생성에서 해당 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 활용합니다.
+>프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 컨텐츠 생성 시 이러한 기능을 자동으로 활용합니다.
 
 ### 지침
 
