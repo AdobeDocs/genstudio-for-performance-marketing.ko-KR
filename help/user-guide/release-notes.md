@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 015f2f14edfb05cab11a66a8e5bc9b357f2e3ab9
+source-git-commit: f6dc843acc6d29b107f5165dfd2ee1d2c9e72f0f
 workflow-type: tm+mt
-source-wordcount: '3763'
+source-wordcount: '4162'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,53 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2025.10.16 {#latest}
+## 2025.11.14 {#latest}
+
+### Real-Time CDP 대상 통합
+
+* 이제 GenStudio for Performance Marketing이 Adobe Real-Time Customer Data Platform(RTCDP)와 통합되어 마케터가 [!DNL Create] 워크플로우에서 직접 대상 정의를 활용할 수 있습니다.
+* 마케터는 콘텐츠 생성 중 [!DNL Audience]개의 매개 변수를 선택하여 메시지 환경 설정, 구매자 세그먼트, 여정 단계 및 동작 데이터를 포함하여 고객 컨텍스트에서 정보를 얻은 개인화된 광고 및 이메일 복사본을 만들 수 있습니다.
+
+### 디스플레이 광고를 위한 Innovid Insights
+
+* 이제 [!DNL Insights]에는 Innovid(이전 Flashtalking)가 디스플레이 광고 채널로 포함되어 마케터는 통합 플랫폼에서 Meta, LinkedIn 및 TikTok과 함께 캠페인 성과를 분석할 수 있습니다.
+* 일일 데이터 새로 고침과 노출 횟수, 클릭 수, CTR을 포함한 주요 성능 지표에 대한 액세스를 통해 마케터는 도구 간에 전환하지 않고도 더 빠른 최적화 결정을 내릴 수 있습니다.
+
+### 유료 미디어 및 이메일에 대한 기본 번역
+
+* 승인된 유료 미디어 및 이메일 경험을 GenStudio for Performance Marketing 내에서 40개 이상의 언어로 즉시 번역합니다.
+* 팀은 Azure Open AI 번역 서비스를 사용하여 콘텐츠를 동시에 여러 타겟 언어로 대량 번역할 수 있습니다.
+
+### 경험을 위한 PDF 내보내기
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+* 이제 마케터는 검토, 승인 및 보관을 위해 경험을 [PDF 형식으로 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)할 수 있습니다.
+
+### Firefly Image Model 4의 사용자 정의 모델
+
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[에서 훈련된 ](/help/user-guide/create/generate-assets.md)사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+
+### Meta 단일 비디오 광고 활성화
+
+* 마케터는 이제 Meta에서 Meta Ads Manager로 직접 [단일 비디오 자산으로 GenStudio for Performance Marketing 광고를 활성화](/help/user-guide/activation/activate-meta-ad.md)할 수 있습니다. 이렇게 하면 미디어 구매자, 성능 마케터 및 크리에이티브 팀이 비디오 광고 경험을 원활하게 게시하여 정적 광고 활성화에 사용되는 것과 동일한 간소화된 워크플로우를 유지할 수 있습니다.
+* 사용자는 비디오 광고 크리에이티브 세부 사항을 구성하고, 비디오가 표시되는 방식을 미리 보고, Meta 플랫폼에 대한 비디오 광고를 활성화할 수 있습니다.
+
+### Meta 캠페인에 대한 작업 유형별 CPA
+
+* Meta 광고 캠페인에 대한 유연한 전환 추적을 사용하여 [CPA(작업당 비용)를 분석](/help/user-guide/insights/ads.md)합니다.
+* 하나의 고정된 지표 대신 구매, 장바구니에 추가 이벤트, 리드, 비디오 보기 또는 사용자 지정 전환과 같은 여러 작업 유형 중에서 선택하여 [!DNL Insights]의 캠페인, 광고, 자산 및 특성에 대한 CPA를 계산하고 봅니다.
+
+### 수정 사항 및 개선 사항
+
+* 컨텐츠 생성 중에 자산에 대한 기본값으로 AEM Assets을 사용하는 대신 고객이 자신의 DAM에 연결할 수 있도록 하는 SDK 확장이 추가되었습니다.
+* 이제 [!DNL Brand]별로 [!DNL Product] 및 [!DNL Persona] 레코드를 그룹화하기 위해 [!DNL Brand] 태그를 적용할 수 있습니다.
+* [!DNL Experience Translations] 흐름이 유료 미디어 및 전자 메일의 새로운 번역 기능과 함께 최적화되었습니다.
+
+
+## 이전 릴리스 노트
+
++++2025.10.16 릴리스 정보
 
 ### Photoshop 및 Figma용 새로운 GenStudio 플러그인
 
@@ -59,8 +105,9 @@ ht-degree: 0%
    * 서드파티 시스템에 직접 연결하여 신뢰할 수 있는 단일 소스 유지
    * 사용자 정의 통합 구축을 위해 제공된 SDK 및 샘플 앱
 
++++
 
-## 이전 릴리스 노트
+
 
 +++2025.09.11 릴리스 정보
 
@@ -148,7 +195,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 프롬프트 서랍에 있는 새 언어 선택기 드롭다운 메뉴는 다국어 콘텐츠 생성을 지원하여 지역 마케터가 로컬 대상자를 위한 브랜드 내 콘텐츠를 개발할 수 있도록 합니다. 이 기능은 현재 12개의 GA 언어와 5개의 Beta 언어를 지원하며, 언어 목록은 보다 일관된 출력을 위해 LLM에 정의된 워크플로우와 명확한 언어 지시문을 제공합니다.
 
-### 메타 광고에 대한 템플릿 선택 옵션
+### Meta 광고의 템플릿 선택 옵션
 
 [!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
@@ -186,7 +233,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 * 영어가 아닌 언어로 [브랜드 지침](/help/user-guide/guidelines/brands.md)을 추가하거나 개정하면 GenStudio for Performance Marketing에서 이러한 지침을 동일한 언어로 표시합니다.
 
-* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [&#x200B; 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 &#x200B;](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
+* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [ 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 ](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
 
 * 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
 
@@ -222,7 +269,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 메타 광고 활성화
 
-이제 마케터는 GenStudio for Performance Marketing에서 메타 광고 관리자로 광고 경험을 [게시](/help/user-guide/activation/overview.md)할 수 있습니다. [!DNL Activate]은(는) 배포 전에 자세한 메타데이터 미리 보기를 지원합니다. [!DNL Activate]을(를) 통해 게시된 메타 광고는 라이브 상태가 되면 자동으로 [!DNL Insights]&#x200B;(으)로 가져와서 사용자가 광고 성능을 추적하고 보고할 수 있습니다.
+이제 마케터는 GenStudio for Performance Marketing에서 메타 광고 관리자로 광고 경험을 [게시](/help/user-guide/activation/overview.md)할 수 있습니다. [!DNL Activate]은(는) 배포 전에 자세한 Meta 광고 미리 보기를 지원합니다. [!DNL Activate]을(를) 통해 게시된 Meta 광고는 라이브가 되면 자동으로 [!DNL Insights]&#x200B;(으)로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
 
 ### LinkedIn 경험 만들기
 
@@ -238,7 +285,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 규정 준수
 
-브랜드 유효성 검사 프로세스의 일부로 [콘텐츠 검사](/help/user-guide/guidelines/overview.md)에 [준수 표준](/help/user-guide/guidelines/brand-validation.md)이 도입되었습니다. 이러한 검사는 [!DNL Brand] 지침, 플랫폼 지침(예: 메타의 경우) 및 ADA 표준에 대해 경험의 각 변형을 검토합니다. 이 프로세스에서는 규정 준수 향상을 위해 개정이 필요한 지침과 표준을 포괄적으로 요약하여 제공합니다.
+브랜드 유효성 검사 프로세스의 일부로 [콘텐츠 검사](/help/user-guide/guidelines/overview.md)에 [준수 표준](/help/user-guide/guidelines/brand-validation.md)이 도입되었습니다. 이러한 검사는 [!DNL Brand] 지침, 플랫폼 지침(예: Meta) 및 ADA 표준에 대해 경험의 각 변형을 검토합니다. 이 프로세스에서는 규정 준수 향상을 위해 개정이 필요한 지침과 표준을 포괄적으로 요약하여 제공합니다.
 
 ### 확장성
 
@@ -255,12 +302,12 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 수정 사항 및 개선 사항
 
-* [을(를) 위해 &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, &#x200B;](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, &#x200B;](/help/user-guide/guidelines/brands.md#logos)로고[&#x200B; 및 &#x200B;](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
+* [을(를) 위해 ](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, ](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, ](/help/user-guide/guidelines/brands.md#logos)로고[ 및 ](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
 * 변형 내에서 [이미지에 링크를 추가](/help/user-guide/create/manage-variants.md#add-image-link)하는 기능이 추가되었습니다.
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 &#x200B;](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 ](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
@@ -299,7 +346,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 콘텐츠 편집기에서 에셋, 경험 및 템플릿 메타데이터를 편집할 수 있습니다. <!-- GS-4905 -->
 
-* 이제 메타데이터 템플릿 내의 사용자 지정 이미지 크기가 지원됩니다. <!-- GS-7512 -->
+* 이제 Meta 광고 템플릿 내의 사용자 지정 이미지 크기가 지원됩니다. <!-- GS-7512 -->
 
 * 이제 템플릿 생성 중 사용자, 브랜드 및 제품 선택이 미리 로드됩니다. <!-- GS-8069 -->
 
@@ -313,7 +360,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이제 콘텐츠 편집기에서 [!DNL Create]에서 템플릿을 선택할 수 있습니다. 이전에는 편집기가 템플릿을 선택할 때 애플리케이션에서 콘솔 오류가 발생했습니다.  <!-- GS-8798 -->
 
-* 메타 광고에 대한 크기 조정 및 재생성 작업 관련 문제가 해결되었습니다. <!-- GS-8900 -->
+* Meta 광고의 크기 조정 및 재생성 작업 문제가 해결되었습니다. <!-- GS-8900 -->
 
 * 이제 **[!UICONTROL 뒤로]** 단추가 예상대로 사용자를 이전 페이지 또는 [!DNL Create] 랜딩 페이지로 돌아갑니다. <!-- GS-8622 -->
 
