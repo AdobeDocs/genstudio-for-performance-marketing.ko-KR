@@ -62,7 +62,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 <!-- Does this need to be a precise size? -->
 
-다음은 Meta 광고 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 인라인 CSS가 포함되어 있습니다. 본문에서는 [ 및 ](#content-placeholders)과(와) 같은 `image`콘텐츠 자리 표시자`on_image_text`를 사용하여 GenStudio for Performance Marketing에서 콘텐츠를 생성할 수 있는 위치를 나타냅니다.
+다음은 Meta 광고 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 인라인 CSS가 포함되어 있습니다. 본문에서는 [&#x200B; 및 &#x200B;](#content-placeholders)과(와) 같은 `image`콘텐츠 자리 표시자`on_image_text`를 사용하여 GenStudio for Performance Marketing에서 콘텐츠를 생성할 수 있는 위치를 나타냅니다.
 
 ```html {line-numbers="true" highlight="33"}
 <!DOCTYPE html>

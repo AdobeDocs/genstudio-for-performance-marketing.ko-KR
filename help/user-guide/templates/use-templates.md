@@ -59,7 +59,7 @@ GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플
 
 ## 템플릿 관리
 
-_[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
+_[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에서 경험을 생성하기 위해 사용자 지정된 템플릿 인벤토리가 표시됩니다.
 
 ### 템플릿 검색
 
@@ -82,7 +82,7 @@ _[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경�
 
 **템플릿을 추가하려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
 
 2. **[!UICONTROL 템플릿 추가]**&#x200B;를 클릭합니다.
 
@@ -117,7 +117,7 @@ _[!DNL Templates]_갤러리에는 GenStudio for Performance Marketing에서 경�
 
 **템플릿을 새로 고치려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
 
 2. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
@@ -129,7 +129,7 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 
 **템플릿을 사용하여 환경을 만들려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
 
 2. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 클릭합니다.
 
@@ -155,4 +155,4 @@ Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드�
 
 >[!ENDSHADEBOX]
 
-다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/templates/customize-template.md)합니다. [템플릿을 ](#add-a-template) 저장소에 추가[!DNL Content]하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.
+다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/templates/customize-template.md)합니다. [템플릿을 &#x200B;](#add-a-template) 저장소에 추가[!DNL Content]하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.

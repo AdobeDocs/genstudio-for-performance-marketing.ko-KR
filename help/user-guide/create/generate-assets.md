@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # 이미지 생성
 
-GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(페인트 브러쉬 아이콘)을 사용하면 선택한 이미지에서 영감을 얻어 시각적 효과와 전반적인 미적 효과를 캡처하는 _[!DNL On-brand images]_을(를) 생성할 수 있습니다.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
+GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(페인트 브러쉬 아이콘)을 사용하면 선택한 이미지에서 영감을 얻어 시각적 효과와 전반적인 미적 효과를 캡처하는 _[!DNL On-brand images]_&#x200B;을(를) 생성할 수 있습니다.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
 
 눈길을 끄는 효과적인 이미지를 디자인하려면 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 
 ## 이미지 유형
 
-_[!DNL On-brand images]_은(는) 선택한 이미지에서 영감을 얻어 생성되는 에셋으로 시각적 효과와 전반적인 미적 효과를 캡처합니다. 이러한 이미지는 [!DNL Content]에서 이미 사용할 수 있는 이미지와 디자인을 안내하는 정교하게 만들어진 프롬프트를 사용하여 만들어집니다. 생성 프로세스 중에 선택한 브랜드 지침과 매개 변수를 모두 엄격히 따릅니다.
+_[!DNL On-brand images]_&#x200B;은(는) 선택한 이미지에서 영감을 얻어 생성되는 에셋으로 시각적 효과와 전반적인 미적 효과를 캡처합니다. 이러한 이미지는 [!DNL Content]에서 이미 사용할 수 있는 이미지와 디자인을 안내하는 정교하게 만들어진 프롬프트를 사용하여 만들어집니다. 생성 프로세스 중에 선택한 브랜드 지침과 매개 변수를 모두 엄격히 따릅니다.
 
 _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ -->은(는) 집합 지침, 매개 변수 및 [신중하게 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 통합하여 눈길을 끄는 이미지 에셋을 제공합니다.
 
@@ -34,11 +34,11 @@ _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ -->은(는) 집합 지�
 
 ### 참조 이미지 선택
 
-_[!DNL On-brand images]_을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [ 차원에 대한 자세한 내용은 ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)템플릿 모범 사례[!DNL on-brand image]를 참조하세요.
+_[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [&#x200B; 차원에 대한 자세한 내용은 &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)템플릿 모범 사례[!DNL on-brand image]를 참조하세요.
 
 **참조 이미지를 선택하려면**:
 
-1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 브랜드 이미지 사용]**을 클릭하세요.
+1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 브랜드 이미지 사용]**&#x200B;을 클릭하세요.
 1. _필터_ 옆의 검색 옵션을 사용하여 특정 이미지를 찾습니다.
 
    ![참조 이미지 선택](/help/assets/select-img.png){width="400" zoomable="yes"}

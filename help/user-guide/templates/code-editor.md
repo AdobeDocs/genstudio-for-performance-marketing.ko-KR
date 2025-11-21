@@ -63,7 +63,7 @@ _[!UICONTROL 검색된 필드 확인]_ 창이 업데이트되어 변경 내용�
 | 잘못된 단일 그룹 | 이메일 템플릿에 잘못된 그룹이 하나만 있습니다. | 기본 전자 메일 템플릿에 [섹션 또는 그룹](/help/user-guide/templates/customize-template.md#sections-or-groups)에 정의된 그룹 명명 규칙이 필요하지 않은 단일 템플릿 요소 집합이 포함되어 있습니다. 그룹 이름 지정 구문을 제거하여 템플릿이 0개의 섹션을 갖도록 조정합니다. |
 | 필드 없음 | 템플릿에 필드가 없습니다. | Handlebars 구문을 사용하여 [인식된 필드 이름](/help/user-guide/templates/customize-template.md#recognized-field-names)을(를) 템플릿에 추가하십시오. 여기서 특정 유형의 콘텐츠를 생성하려면 GenStudio for Performance Marketing이 필요합니다. |
 | 필수 속성 누락 | 일부 필수 메타데이터 속성이 누락되었습니다. | 각 템플릿 유형에는 채널 지침을 기반으로 하는 요구 사항과 제한 사항이 있습니다. 예를 들어 Meta에는 종횡비가 필요하고 디스플레이 광고에는 차원이 필요합니다. [채널별 템플릿 지침을 따르세요](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines). |
-| 예약된 이름이 사용됨 | 금지되거나 예약된 필드 이름이 사용되고 있습니다. | [ 또는 ](/help/user-guide/templates/customize-template.md#recognized-field-names)과(와) 같은 특정 `subject`필드 이름`introductory_text`은(는) 예약되어 있습니다. 예약되거나 금지된 이름을 사용하는 필드의 이름을 변경합니다. |
+| 예약된 이름이 사용됨 | 금지되거나 예약된 필드 이름이 사용되고 있습니다. | [&#x200B; 또는 &#x200B;](/help/user-guide/templates/customize-template.md#recognized-field-names)과(와) 같은 특정 `subject`필드 이름`introductory_text`은(는) 예약되어 있습니다. 예약되거나 금지된 이름을 사용하는 필드의 이름을 변경합니다. |
 | 필드가 너무 많음 | 필드 수가 전역 제한인 20개를 초과합니다. | 합계가 20을 초과하지 않도록 불필요한 필드를 제거하십시오. |
 | 그룹이 너무 많음 | 그룹 수가 채널의 허용 최대값을 초과합니다. | Meta, display 및 LinkedIn 템플릿에서는 여러 섹션을 사용할 수 없습니다. 이메일을 사용하려면 두 개 또는 세 개의 섹션을 정의할 때 그룹 이름을 지정해야 합니다. [채널의 요구 사항](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)을 충족하도록 템플릿의 그룹 수를 줄이십시오. |
 | 지원되지 않는 필드 | 템플릿에서 채널이 지원하지 않는 필드를 사용하고 있습니다. | [인식된 필드 이름](/help/user-guide/templates/customize-template.md#recognized-field-names)에 따라 지원되지 않는 필드를 바꾸거나 제거합니다. |
