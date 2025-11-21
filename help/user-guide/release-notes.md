@@ -4,7 +4,7 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: f6dc843acc6d29b107f5165dfd2ee1d2c9e72f0f
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '4162'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[에서 훈련된 &#x200B;](/help/user-guide/create/generate-assets.md)사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[에서 훈련된 ](/help/user-guide/create/generate-assets.md)사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -149,7 +149,7 @@ Adobe GenStudio의 텍스트 속성 인사이트는 광고 카피에 사용되�
 
 이제 복잡한 고객 템플릿에 대해 동일한 역할의 여러 텍스트 필드(예: &#39;body&#39;, &#39;cta&#39;, &#39;이미지 텍스트 상&#39; 등)가 지원됩니다.
 
-[템플릿 코드 편집기에 대한 지침](/help/user-guide/content/code-editor.md)에서 자세한 내용을 살펴보십시오.
+[템플릿 코드 편집기에 대한 지침](/help/user-guide/templates/code-editor.md)에서 자세한 내용을 살펴보십시오.
 
 ### 지원되는 새로운 Firefly 이미지 생성 모델
 
@@ -233,7 +233,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 * 영어가 아닌 언어로 [브랜드 지침](/help/user-guide/guidelines/brands.md)을 추가하거나 개정하면 GenStudio for Performance Marketing에서 이러한 지침을 동일한 언어로 표시합니다.
 
-* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [&#x200B; 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 &#x200B;](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
+* [!DNL Brand]을(를) 수동으로 추가하거나 문서에서 수동으로 추출하여 [!DNL Brand]을(를) 만든 후에는 [ 목록 내에서 각 브랜드를 쉽게 구분할 수 있도록 ](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)브랜드 썸네일 이미지를 변경하거나 추가[!DNL Brands]할 수 있습니다.
 
 * 이제 생성된 변형에서 [텍스트에 대한 서식 있는 텍스트 편집 형식을 사용](/help/user-guide/create/manage-variants.md#manually-edit-text)할 수 있습니다. 색상, 크기, 목록 등과 같은 변형 텍스트에 대한 무수한 서식 옵션을 테스트합니다.
 
@@ -248,7 +248,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 ### 수정 사항 및 개선 사항
 
 * 개별 변형의 이미지에 [대체(alt) 텍스트를 추가](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)하는 기능을 사용하도록 설정했습니다.
-* [새로운 Meta 종횡비](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
+* [새로운 Meta 종횡비](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
 * 이제 내보내기 또는 다운로드를 위해 두 개 이상의 경험을 선택할 수 있습니다. [경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 참조하십시오.
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -258,9 +258,9 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 수정 사항 및 개선 사항
 
-* 템플릿에 대한 새로운 필터 옵션! 이제 _[!UICONTROL 및]_&#x200B;콘텐츠[!DNL Create] > _[!UICONTROL 템플릿]_&#x200B;에서 _[!UICONTROL 템플릿 선택]_ 목록을 개선할 수 있습니다. [템플릿 검색](/help/user-guide/content/use-templates.md#search-templates)을 참조하세요. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
+* 템플릿에 대한 새로운 필터 옵션! 이제 _[!UICONTROL 및]_&#x200B;콘텐츠[!DNL Create] > _[!UICONTROL 템플릿]_&#x200B;에서 _[!UICONTROL 템플릿 선택]_ 목록을 개선할 수 있습니다. [템플릿 검색](/help/user-guide/templates/use-templates.md#search-templates)을 참조하세요. 이러한 필터를 통해 검색할 수 있도록 템플릿에 메타데이터가 올바르게 태그 지정되었는지 확인합니다.
 * 콘텐츠 재생성이나 이미지 자르기 등 수정 시 강조할 수 있도록 경험의 [개별 레이어(편집 가능한 텍스트 필드 또는 편집 가능한 이미지)를 보고 선택하는 기능을 활성화했습니다](/help/user-guide/create/manage-variants.md#view-layers).
-* 대상자의 관심을 끌고 마케팅 메시지를 강조하기 위해 경험의 추가 텍스트에 대해 [새 템플릿 필드](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`을(를) 추가했습니다.
+* 대상자의 관심을 끌고 마케팅 메시지를 강조하기 위해 경험의 추가 텍스트에 대해 [새 템플릿 필드](/help/user-guide/templates/use-templates.md#template-elements), `sub-headline`을(를) 추가했습니다.
 * GenStudio for Performance Marketing에서 Google Campaign Manager 360으로 [광고 경험 게시](/help/user-guide/activation/overview.md)에 대한 지원을 추가했습니다. [활성화]는 Campaign Manager 360 광고주에게 게시하기 전에 자세한 Google Campaign Manager 360 광고 미리보기를 지원합니다. [활성화]를 통해 게시된 광고는 라이브가 되면 자동으로 Insights로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
 
 +++
@@ -275,13 +275,13 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 [!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
-[LinkedIn 경험 만들기](/help/user-guide/create/create-linkedin.md)에 대한 지원이 추가되었습니다. 채널별 지침에서 [LinkedIn 광고](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) 탭을 참조하십시오.
+[LinkedIn 경험 만들기](/help/user-guide/create/create-linkedin.md)에 대한 지원이 추가되었습니다. 채널별 지침에서 [LinkedIn 광고](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) 탭을 참조하십시오.
 
 ### 배너 경험 만들기
 
 [!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
 
-[배너 경험 만들기](/help/user-guide/create/create-banner-experience.md)에 대한 지원을 추가했습니다. 채널별 지침에서 [배너](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) 탭을 참조하십시오.
+[배너 경험 만들기](/help/user-guide/create/create-banner-experience.md)에 대한 지원을 추가했습니다. 채널별 지침에서 [배너](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) 탭을 참조하십시오.
 
 ### 규정 준수
 
@@ -293,21 +293,21 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 템플릿
 
-* **템플릿 코드 편집기**—새로운 [템플릿 코드 편집기](/help/user-guide/content/code-editor.md)를 사용하면 GenStudio for Performance Marketing으로 새로운 경험을 생성할 때 최적의 사용을 위해 템플릿을 확인하고 구체화할 수 있습니다.
+* **템플릿 코드 편집기**—새로운 [템플릿 코드 편집기](/help/user-guide/templates/code-editor.md)를 사용하면 GenStudio for Performance Marketing으로 새로운 경험을 생성할 때 최적의 사용을 위해 템플릿을 확인하고 구체화할 수 있습니다.
 
   ![코드 편집기 보기](/help/assets/template-detected-fields.png "검색된 필드 확인"){width="500" zoomable="yes"}
 
-* **이미지에 있는 링크**—이미지 링크를 활성화하여 전자 메일 템플릿을 사용자 지정합니다. [템플릿 사용자 지정: 이미지에 대한 링크](/help/user-guide/content/customize-template.md#link-on-image)를 참조하십시오.
-* **AJO 및 Marketo 템플릿** - Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드합니다. [AJO 및 Marketo의 템플릿 작업](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo)을 참조하세요.
+* **이미지에 있는 링크**—이미지 링크를 활성화하여 전자 메일 템플릿을 사용자 지정합니다. [템플릿 사용자 지정: 이미지에 대한 링크](/help/user-guide/templates/customize-template.md#link-on-image)를 참조하십시오.
+* **AJO 및 Marketo 템플릿** - Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드합니다. [AJO 및 Marketo의 템플릿 작업](/help/user-guide/templates/use-templates.md#templates-from-ajo-and-marketo)을 참조하세요.
 
 ### 수정 사항 및 개선 사항
 
-* [을(를) 위해 &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, &#x200B;](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, &#x200B;](/help/user-guide/guidelines/brands.md#logos)로고[&#x200B; 및 &#x200B;](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
+* [을(를) 위해 ](/help/user-guide/guidelines/brands.md#channel-guidelines)기본 채널[, ](/help/user-guide/guidelines/brands.md#image-guidelines)이미지[, ](/help/user-guide/guidelines/brands.md#logos)로고[ 및 ](/help/user-guide/guidelines/brands.md#colors)색상[[!DNL Brands]](/help/user-guide/guidelines/brands.md) 지침에 대한 기능을 활성화했습니다.
 * 변형 내에서 [이미지에 링크를 추가](/help/user-guide/create/manage-variants.md#add-image-link)하는 기능이 추가되었습니다.
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 &#x200B;](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[에서 채널 범주 ](/help/user-guide/create/overview.md)의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
@@ -336,7 +336,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 새 콜 투 액션 생성
 
-이제 변형을 관리할 때 새 call-to-action(CTA) 구문을 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/content/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [Call to action 개정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
+이제 변형을 관리할 때 새 call-to-action(CTA) 구문을 생성할 수 있습니다. 새 _구문 변경_ 및 _링크 추가_ 옵션을 사용하여 새 구문을 생성하고 CTA 링크를 편집합니다. 이러한 새로운 CTA 기능을 사용하려면 템플릿을 올바르게 설정해야 합니다. _템플릿 사용자 지정_&#x200B;의 지침을 따르십시오. [작업 호출](/help/user-guide/templates/customize-template.md#calls-to-action). 변형의 CTA 관리에 대한 지침은 [Call to action 개정](/help/user-guide/create/manage-variants.md#revise-call-to-action)을 참조하십시오. <!-- GS-6676 -->
 
 ### 수정 사항 및 개선 사항
 
@@ -382,7 +382,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 * 이미지를 업로드하는 동안 디스플레이 광고 경험의 이미지에 대한 차원입니다.<!-- GS-7166 -->
 
-* [템플릿 모범 사례](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)에서 채널별 지침을 참조하십시오.
+* [템플릿 모범 사례](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)에서 채널별 지침을 참조하십시오.
 
 이제 내보내기 옵션에 포함되는 사항:
 
@@ -446,7 +446,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 ### 새로운 기능
 
-외부 도메인에 호스팅된 정적 콘텐츠 표시에 대한 지원을 추가했습니다. GenStudio for Performance Marketing은 템플릿에 정의된 콘텐츠 소스의 유효성을 검사하고 사본을 임베드하여 템플릿 미리 보기를 생성합니다. [정적 콘텐츠](/help/user-guide/content/customize-template.md#static-content)를 참조하십시오. <!-- GS-6107 -->
+외부 도메인에 호스팅된 정적 콘텐츠 표시에 대한 지원을 추가했습니다. GenStudio for Performance Marketing은 템플릿에 정의된 콘텐츠 소스의 유효성을 검사하고 사본을 임베드하여 템플릿 미리 보기를 생성합니다. [정적 콘텐츠](/help/user-guide/templates/customize-template.md#static-content)를 참조하십시오. <!-- GS-6107 -->
 
 ### 수정 사항 및 개선 사항
 

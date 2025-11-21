@@ -5,7 +5,7 @@ role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 2%
@@ -59,7 +59,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 
 ### 구조화된 프롬프트
 
-여러 섹션 이메일의 경우 이메일의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/content/customize-template.md#sections-or-groups)을(를) 직접 참조해야 합니다.
+여러 섹션 이메일의 경우 이메일의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/templates/customize-template.md#sections-or-groups)을(를) 직접 참조해야 합니다.
 
 예를 들어 첫 번째 섹션에서 새 제품을 홍보하고 두 번째 섹션에서 비용 절감 혜택을 자세히 설명하는 이메일 콘텐츠를 생성하도록 GenStudio for Performance Marketing에 지시할 수 있습니다.
 
@@ -93,7 +93,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-[템플릿 사용 모범 사례](/help/user-guide/content/best-practices-for-templates.md)를 참조하세요.
+[템플릿 사용 모범 사례](/help/user-guide/templates/best-practices-for-templates.md)를 참조하세요.
 
 ## 다시 시도
 

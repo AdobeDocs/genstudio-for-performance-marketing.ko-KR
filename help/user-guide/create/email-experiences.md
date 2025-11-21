@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 * Call to action(CTA)
 * 이미지
 
-[템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.
+[템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
 <!-- ## Email capabilities
 
@@ -39,7 +39,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 이메일 경험은 여러 섹션을 포함할 수 있으므로 브랜드 및 목표에 맞게 전체 맞춤화를 구현할 수 있습니다. [각 섹션의 시각적 자산을 선택 [!DNL Products] 하고](/help/user-guide/create/create-email-experience.md#add-parameters)한 다음 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 사용하여 고유한 콘텐츠를 만듭니다. 각 섹션은 하나의 시각적 자산을 지원합니다.
 
-다중 섹션 템플릿을 만드는 방법은 [섹션을 사용하여 템플릿 사용자 지정](/help/user-guide/content/customize-template.md#sections-or-groups)을 참조하세요.
+다중 섹션 템플릿을 만드는 방법은 [섹션을 사용하여 템플릿 사용자 지정](/help/user-guide/templates/customize-template.md#sections-or-groups)을 참조하세요.
 
 ## 점진적 로드
 

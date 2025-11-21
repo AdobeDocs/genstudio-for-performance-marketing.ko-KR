@@ -3,7 +3,7 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -196,7 +196,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -204,7 +204,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 ## 링크 추가
 
-변형 내에 텍스트, 이미지 및 CTA 단추에 대한 링크를 추가할 수 있습니다. _must_ 변형을 생성하는 데 사용한 템플릿에 이 기능을 사용하려면 [링크에 대한 콘텐츠 자리 표시자가 있어야 합니다](/help/user-guide/content/customize-template.md#content-placeholders).
+변형 내에 텍스트, 이미지 및 CTA 단추에 대한 링크를 추가할 수 있습니다. _must_ 변형을 생성하는 데 사용한 템플릿에 이 기능을 사용하려면 [링크에 대한 콘텐츠 자리 표시자가 있어야 합니다](/help/user-guide/templates/customize-template.md#content-placeholders).
 
 **변형에 링크를 추가하려면**:
 
@@ -221,7 +221,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 작성 프로세스 중에 컨텐츠(이미지)를 추가하면 포함된 모든 이미지에 대해 대체 텍스트를 정의할 수 있습니다. 이미지에 대체 텍스트를 추가하면 접근성, 검색 엔진 최적화 및 사용자 경험이 향상됩니다.
 
-대체 텍스트 기능을 사용하려면 [콘텐츠 자리 표시자를 추가](/help/user-guide/content/customize-template.md#alternative-text)하십시오.
+대체 텍스트 기능을 사용하려면 [콘텐츠 자리 표시자를 추가](/help/user-guide/templates/customize-template.md#alternative-text)하십시오.
 
 **생성된 변형의 이미지에 대체 텍스트를 추가하려면**:
 
@@ -247,7 +247,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. 텍스트 상자를 클릭하고 링크 또는 버튼의 기능에 대해 설명하는 간단한 설명을 추가합니다. 예를 들어 call to action 버튼 링크에 대해 &quot;WKND의 공식 사이트에서 쇼핑&quot;을 사용할 수 있습니다.
 1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
-접근성 레이블 기능을 사용하려면 [콘텐츠 자리 표시자를 추가](/help/user-guide/content/customize-template.md)하십시오.
+접근성 레이블 기능을 사용하려면 [콘텐츠 자리 표시자를 추가](/help/user-guide/templates/customize-template.md)하십시오.
 
 ## 장치 미리 보기
 

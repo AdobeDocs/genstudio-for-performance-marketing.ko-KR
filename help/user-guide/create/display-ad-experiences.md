@@ -5,10 +5,10 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 * Call to action(CTA)
 * 이미지
 
-[템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.
+[템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
 <!-- ## Character counts
 

@@ -6,10 +6,10 @@ badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일�
 role: User
 level: Beginner
 exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하
 
 배너 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다.
 
-지원되는 차원, 인식된 필드 이름 등에 대한 정보는 [채널별 템플릿 지침 준수](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하십시오.
+지원되는 차원, 인식된 필드 이름 등에 대한 정보는 [채널별 템플릿 지침 준수](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하십시오.
 
 디스플레이 광고 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 
@@ -31,7 +31,7 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하
 * Call to action(CTA)
 * 이미지
 
-[템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.
+[템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
 <!-- ## Character counts
 

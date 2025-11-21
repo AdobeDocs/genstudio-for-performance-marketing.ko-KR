@@ -3,7 +3,7 @@ title: Assets 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 279bf9e1fab24c286df4a0600b472c456231ddb6
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '1509'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 갤러리에는 선택한 보기에 따라 승인된 에셋, 경험 또는 템플릿의 인벤토리가 표시됩니다. 표의 왼쪽 위에 있는 필터(funnel) 전환은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 범주 중 선택하여 갤러리에 표시되는 콘텐츠를 필터링할 수 있습니다. _[!UICONTROL Assets]_ 보기에서 검색(돋보기) 아이콘을 클릭하여 키워드를 사용하여 자산을 찾습니다.
 
-다음은 `space`Assets[!UICONTROL &#x200B; 갤러리에서 &#x200B;]이라는 용어에 대한 검색을 보여 줍니다.
+다음은 `space`Assets[!UICONTROL  갤러리에서 ]이라는 용어에 대한 검색을 보여 줍니다.
 
 ![스페이스에서 검색이 있는 Assets 보기](/help/assets/content-assets-filter.png "스페이스 특성이 있는 에셋 검색")
 
@@ -36,7 +36,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 **재사용할 콘텐츠를 검색하려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL Assets]**&#x200B;섹션을 선택합니다.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL Assets]**섹션을 선택합니다.
 
 1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets`이(가) 기본 리포지토리입니다.
 
@@ -64,9 +64,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
-[&#x200B; 리포지토리를 AEM에 추가하는 방법에 대한 지침은 &#x200B;](connect-aem-repo.md)GenStudio for Performance Marketing 리포지토리 연결[!DNL AEM Assets Content Hub]을 참조하십시오.
+[ 리포지토리를 AEM에 추가하는 방법에 대한 지침은 ](connect-aem-repo.md)GenStudio for Performance Marketing 리포지토리 연결[!DNL AEM Assets Content Hub]을 참조하십시오.
 
-AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 `GenStudio assets`시스템 메타데이터[를 사용하여 &#x200B;](asset-details.md#system-metadata) 저장소에 저장됩니다.
+AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 `GenStudio assets`시스템 메타데이터[를 사용하여 ](asset-details.md#system-metadata) 저장소에 저장됩니다.
 
 {{note-aem-assets}}
 
@@ -84,7 +84,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 | [경험 만들기](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [Adobe Express에서 편집](#edit-in-express) | ✓ |             |           |
 | [경험 내보내기](#export-experiences) |        | ✓ |           |
-| [새로 고침](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
+| [새로 고침](/help/user-guide/templates/use-templates.md#refresh-template) |   |      | ✓ |
 | [다운로드](#download-assets) | ✓ |             | ✓ |
 | [삭제](#delete-assets) | ✓ | ✓ | ✓ |
 
@@ -96,7 +96,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **하나 이상의 자산을 추가하려면**:
 
-1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 자산 추가]**&#x200B;를 클릭합니다.
+1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 자산 추가]**를 클릭합니다.
 
 2. _승인된 에셋 추가_ 보기에서 드롭 공간에 파일을 드롭합니다. 필요한 경우 **[!UICONTROL 찾아보기]**&#x200B;를 사용하여 로컬 파일에서 선택하거나 Dropbox 또는 Microsoft OneDrive에서 파일을 가져올 수 있습니다.
 
@@ -120,7 +120,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **자산을 다운로드하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL 다운로드]** 아이콘(아래쪽을 가리키는 화살표)을 클릭합니다.
 
@@ -130,7 +130,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **자산을 삭제하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽 상단의 **[!UICONTROL 삭제]**(휴지통)을 클릭합니다.
 
@@ -146,7 +146,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **경험을 내보내거나 다운로드하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 경험을 하나 이상 선택하십시오.
+1. _[!DNL Content]_에서 경험을 하나 이상 선택하십시오.
 
    배너는 왼쪽에 선택한 경험 수와 오른쪽에 [!UICONTROL 활성화], [!UICONTROL 다운로드] 또는 [!UICONTROL 삭제]에 대한 옵션이 표시됩니다.
 
@@ -179,7 +179,7 @@ Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직�
 
 **Express로 자산을 편집하려면**:
 
-1. _[!DNL Content]_&#x200B;에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL Adobe Express에서 편집]** 아이콘을 클릭합니다.
 

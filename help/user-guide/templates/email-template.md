@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 49d8d5daa2f3c93c18cd9132dab5207871b51237
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
@@ -40,11 +40,11 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 - `pre_header`
 - `subject`
 
-템플릿에서 허용되는 최대 필드는 20개입니다. 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
+템플릿에서 허용되는 최대 필드는 20개입니다. 템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](/help/user-guide/templates/customize-template.md#content-placeholders)를 참조하십시오.
 
 ## 여러 섹션 이메일
 
-_섹션_&#x200B;을(를) 사용하면 콘텐츠를 개별 그룹으로 구성하여 더 복잡한 레이아웃을 지원할 수 있습니다. GenStudio for Performance Marketing에서 그룹 이름 지정 규칙을 사용하여 각 섹션을 정의할 수 있습니다. [템플릿 섹션 사용자 지정](/help/user-guide/content/customize-template.md#sections-or-groups)을 참조하세요.
+_섹션_&#x200B;을(를) 사용하면 콘텐츠를 개별 그룹으로 구성하여 더 복잡한 레이아웃을 지원할 수 있습니다. GenStudio for Performance Marketing에서 그룹 이름 지정 규칙을 사용하여 각 섹션을 정의할 수 있습니다. [템플릿 섹션 사용자 지정](/help/user-guide/templates/customize-template.md#sections-or-groups)을 참조하세요.
 
 다중 섹션 템플릿에는 0, 2 또는 3개의 섹션이 있을 수 있습니다.
 

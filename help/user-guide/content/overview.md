@@ -4,7 +4,7 @@ description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋�
 level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 650a32a1bbb10c17ff25c5bbb36f12cead218dfc
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 1%
@@ -13,63 +13,116 @@ ht-degree: 1%
 
 # Adobe GenStudio for Performance Marketing [!DNL Content]
 
-GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승인한 모든 자산, 경험 및 템플릿을 저장하고, 찾고, 공유할 수 있는 중앙 위치를 제공합니다. 컨텐츠를 편집 및 리믹스하고, 컨텐츠 사용 및 감성에 대한 통찰력을 얻고, 생성 AI를 사용하여 기존 자산을 새로 고치고 용도를 변경할 수 있습니다.
+GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승인한 모든 자산, 경험 및 템플릿을 저장하고, 찾고, 공유할 수 있는 중앙 위치를 제공합니다. 컨텐츠를 편집 및 리믹스하고, 컨텐츠 사용 및 정서에 대한 insight을 얻고, 생성 AI를 사용하여 기존 자산을 새로 고치고 용도를 변경할 수 있습니다.
 
 ## [!DNL Content] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md#search">
+
          <img alt="돋보기" src="../../assets/icons/icon-search.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md#search-content">
+
          <strong>콘텐츠 찾기</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md">
+
          <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md">
+
          <strong>에셋 추가</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/asset-details.md#edit-in-express">
+
          <img alt="Adobe Express에서 편집" src="../../assets/icons/icon-editExpress.png">
+
       </a>
+
       <p>
+
          <a href="../content/asset-details.md#edit-in-express">
+
          <strong>Adobe Express에서 에셋 편집</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="../content/customize-template.md">
+
+      <a href="../templates/customize-template.md">
+
          <img alt="자산의 번개" src="../../assets/icons/icon-template.png">
+
       </a>
+
       <p>
-         <a href="../content/customize-template.md">
+
+         <a href="../templates/customize-template.md">
+
          <strong>템플릿 사용자 지정</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="../content/use-templates.md">
+
+      <a href="../templates/use-templates.md">
+
          <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate.png">
+
       </a>
+
       <p>
-         <a href="../content/use-templates.md#upload-a-template">
+
+         <a href="../templates/use-templates.md#upload-a-template">
+
          <strong>템플릿 업로드</strong>
+
          </a>
+
       </p>
+
    </td>
+
 </tr>
+
 </table>
 
 ## [!DNL Content] 기능
@@ -86,4 +139,4 @@ GenStudio for Performance Marketing [!DNL Content]을(를) 사용하면 승인�
 
 ### 템플릿 작업
 
-템플릿은 생성 프로세스의 속도를 높여 여러 채널에서 일관된 콘텐츠를 생성할 수 있도록 합니다. 미리 구성된 레이아웃 및 디자인 요소를 사용하여 만들기 프로세스의 시작점으로 사용할 사용자 지정 템플릿을 업로드합니다. [템플릿 작업](use-templates.md)에서 기본 템플릿 요소 및 절차에 대해 알아봅니다. [템플릿 사용자 지정](customize-template.md) 항목을 사용하여 템플릿 빌드에 대해 자세히 알아봅니다.
+템플릿은 생성 프로세스의 속도를 높여 여러 채널에서 일관된 콘텐츠를 생성할 수 있도록 합니다. 미리 구성된 레이아웃 및 디자인 요소를 사용하여 만들기 프로세스의 시작점으로 사용할 사용자 지정 템플릿을 업로드합니다. [템플릿 작업](../templates/use-templates.md)에서 기본 템플릿 요소 및 절차에 대해 알아봅니다. [템플릿 사용자 지정](../templates/customize-template.md) 항목을 사용하여 템플릿 빌드에 대해 자세히 알아봅니다.

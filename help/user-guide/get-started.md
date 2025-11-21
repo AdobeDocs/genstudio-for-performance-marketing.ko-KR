@@ -5,7 +5,7 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '638'
 ht-degree: 0%
@@ -59,7 +59,7 @@ GenStudio 시스템 관리자는 조직의 특정 브랜드 요구 사항을 수
 
 템플릿은 콘텐츠 작성 시간을 단축합니다. 템플릿에는 머리글과 바닥글과 같은 승인된 기능이 포함되어 있으며 특정 채널에 최적화되어 있습니다. 시스템 관리자는 일반적으로 조직의 템플릿을 업로드하고 관리합니다. 콘텐츠 편집자는 템플릿을 사용하여 조직 브랜드의 정해진 경계 내에서 콘텐츠 작성 프로세스를 바로 시작할 수 있습니다.
 
-[템플릿 작업](/help/user-guide/content/use-templates.md)을 참조하세요.
+[템플릿 작업](/help/user-guide/templates/use-templates.md)을 참조하세요.
 
 ### 4단계: 승인된 에셋 업로드
 

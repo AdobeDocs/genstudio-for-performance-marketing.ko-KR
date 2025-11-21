@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
-source-git-commit: 85cc8ee51bd6b934811583dc0a8460d6d7083a70
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 - `cta`
 
-템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
+템플릿에서 필드 이름을 사용하는 방법에 대한 자세한 내용은 [콘텐츠 자리 표시자](/help/user-guide/templates/customize-template.md#content-placeholders)를 참조하십시오.
 
 ## 지원되는 차원
 

@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하여 [영향력이 큰 Meta 경험 만들기](/help/user-guide/create/create-meta-ad.md)를 간소화할 수 있습니다. [!DNL Create]을(를) 사용하면 콘텐츠 작성자가 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [잘 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [Meta 광고 경험을 빠르게 만들기](/help/user-guide/create/create-meta-ad.md)할 수 있습니다.
 
-Meta 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다. GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 Meta 광고](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 모두 지원합니다.
+Meta 경험을 생성할 때 4개의 변형이 만들어져 캔버스에 표시됩니다. GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 Meta 광고](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 모두 지원합니다.
 
 Meta 경험을 생성할 때 캔버스에 4개의 변형이 만들어져 표시됩니다.
 
@@ -30,7 +30,7 @@ GenStudio for Performance Marketing은 [표준 및 사용자 지정 크기 Meta 
 * 이미지 내 텍스트
 * 이미지/비디오
 
-[템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.
+[템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
 ## Meta 광고 채널
 

@@ -6,7 +6,7 @@ badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일�
 role: User
 level: Beginner
 exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # LinkedIn 경험
 
-Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하여 [강력한 LinkedIn 경험을 효율적으로 &#x200B;](/help/user-guide/create/create-linkedin.md)할 수 있습니다. [!DNL Create]을(를) 사용하면 콘텐츠 작성자 및 마케터가 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [지침 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [브랜드에 연결된 LinkedIn 경험을 생성](/help/user-guide/create/create-email-experience.md)할 수 있습니다.
+Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 활용하여 [강력한 LinkedIn 경험을 효율적으로 ](/help/user-guide/create/create-linkedin.md)할 수 있습니다. [!DNL Create]을(를) 사용하면 콘텐츠 작성자 및 마케터가 [지침](/help/user-guide/guidelines/overview.md), 이미지 에셋 및 [지침 프롬프트](/help/user-guide/effective-prompts.md)를 사용하여 [브랜드에 연결된 LinkedIn 경험을 생성](/help/user-guide/create/create-email-experience.md)할 수 있습니다.
 
 LinkedIn 경험을 생성할 때 네 가지 변형이 만들어져 캔버스에 표시됩니다.
 
@@ -27,7 +27,7 @@ LinkedIn 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 * Call to action(CTA)
 * 이미지/비디오
 
-[템플릿 요소](/help/user-guide/content/use-templates.md#template-elements)를 참조하십시오.
+[템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
 ## 점진적 로드
 

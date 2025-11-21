@@ -5,7 +5,7 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 826e5e2f5e78805c43872e828b5ac3eafb5a5ffa
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 19%
@@ -65,12 +65,12 @@ ht-degree: 19%
    + [자산 세부 정보](content/asset-details.md)
    + [Content Credentials](content/content-credentials.md)
 + 템플릿 {#templates}
-   + [템플릿 작업](content/use-templates.md)
+   + [템플릿 작업](templates/use-templates.md)
    + [시작 템플릿](templates/starter-templates.md)
-   + [템플릿 사용자 지정](content/customize-template.md)
-   + [템플릿 코드 편집기](content/code-editor.md)
-   + [액세스 가능한 템플릿 만들기](content/accessibility-for-templates.md)
-   + [템플릿 모범 사례](content/best-practices-for-templates.md)
+   + [템플릿 사용자 지정](templates/customize-template.md)
+   + [템플릿 코드 편집기](templates/code-editor.md)
+   + [액세스 가능한 템플릿 만들기](templates/accessibility-for-templates.md)
+   + [템플릿 모범 사례](templates/best-practices-for-templates.md)
    + 채널 모범 사례 {#channel-best-practice}
       + [디스플레이 광고 가이드](templates/display-template.md)
       + [전자 메일 안내서](templates/email-template.md)
