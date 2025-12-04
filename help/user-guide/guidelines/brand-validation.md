@@ -1,11 +1,11 @@
 ---
 title: Adobe GenStudio for Performance Marketing의 브랜드 유효성 검사
-description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
+description: GenStudio for Performance Marketing의 기본 제공 브랜드 유효성 검사 시스템에 대해 알아봅니다.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: e2acf90ef5fef6af03a756882caf53ab125055c4
+source-git-commit: 6a33f7e3a769eda459f70e6ab4e8559064ede2b4
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ GenStudio for Performance Marketing은 다음을 포함하여 다양한 측면�
 
 * 정의된 또는 기본 [!DNL Brand] 지침
 * 플랫폼 지침
-* [미국 장애인 법(ADA) 표준](/help/user-guide/guidelines/brand-validation.md#american-with-disabilities-act-ada-validation)
+* [접근성 지원](/help/user-guide/guidelines/brand-validation.md#supporting-your-accessibility-strategy)
 <!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 
 
@@ -28,7 +28,7 @@ GenStudio for Performance Marketing은 다음을 포함하여 다양한 측면�
 
 _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
-* 유효성 검사를 통과한 [[!DNL Brand]](brands.md)지침[과(와) 테스트한 지침의 수로 계산된 &#x200B;](overview.md)에 대한 준수 비율
+* 유효성 검사를 통과한 [[!DNL Brand]](brands.md)지침[과(와) 테스트한 지침의 수로 계산된 ](overview.md)에 대한 준수 비율
 * Meta 또는 LinkedIn과 같은 플랫폼 지침에 대한 `Pass` 또는 `Fail` 결과
 * ADA 접근성 표준에 대한 `Pass` 또는 `Fail` 결과
 
@@ -87,13 +87,16 @@ _콘텐츠 검사_ 패널에서 수행할 지침 및 접근성 표준 검사를 
 
 1. 섹션을 계속 수정하여 전체 변형이 유효성 검사 및 접근성 검사를 통과하도록 합니다. 캔버스에서 개별 변형 옆에 있는 화살표를 사용하여 각 변형을 탐색합니다.
 
-## 미국 장애인 법(ADA) 유효성 검사
+## 접근성 전략 지원
 
-이러한 접근성 검사는 미국 장애인 법(ADA)의 법적 준수를 위해 포함됩니다.
+GenStudio for Performance Marketing에는 고객이 자체 접근성 모범 사례를 지원할 수 있도록 설계된 컨텐츠 검사가 포함되어 있습니다.
 
-[WCAG 1.1.1 텍스트가 아닌 콘텐츠](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) - 이미지가 `<alt>` 특성을 제공하도록 합니다.
-[WCAG 1.4.3 대비(최소)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - 생성된 텍스트가 배경에 대해 4.5:1 대비를 갖는지 확인합니다.
-[WCAG 3.1.3 특수 단어](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html) - 관용어와 전문어를 포함하여 일반적이거나 제한된 방식으로 사용되는 단어 또는 구를 식별합니다.
-[WCAG 3.1.4 약어](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html) - 확장된 약어의 형식 또는 의미를 식별하는 메커니즘입니다.
-[WCAG 3.1.5 읽기 수준](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) - 낮은 중등교육 수준에서 콘텐츠를 읽을 수 있도록 합니다.
+이 기능에는 다음과 같은 콘텐츠 검사가 포함됩니다.
 
+* 이미지는 `<alt>` 특성을 제공합니다.
+* 생성된 텍스트의 배경에 대한 대비는 4.5:1입니다.
+* 관용어와 전문어를 포함하여 일반적이지 않거나 제한된 방식으로 사용되는 단어나 구문은 피합니다.
+* 확장된 양식 또는 약어의 의미를 사용할 수 있습니다.
+* 낮은 중등 교육 수준에서 콘텐츠를 읽을 수 있습니다.
+
+고객은 광범위한 접근성 전략의 일환으로 이러한 기능을 사용하는 것이 좋습니다. 단, 고객은 자신의 법적 및 접근성 준수에 대한 책임을 집니다.
