@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+source-git-commit: 8fb4a0e3acaf1a45d8f0f00f975247fc8fb746e3
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -46,10 +46,10 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 _섹션_&#x200B;을(를) 사용하면 콘텐츠를 개별 그룹으로 구성하여 더 복잡한 레이아웃을 지원할 수 있습니다. GenStudio for Performance Marketing에서 그룹 이름 지정 규칙을 사용하여 각 섹션을 정의할 수 있습니다. [템플릿 섹션 사용자 지정](/help/user-guide/templates/customize-template.md#sections-or-groups)을 참조하세요.
 
-다중 섹션 템플릿에는 0, 2 또는 3개의 섹션이 있을 수 있습니다.
+다중 섹션 이메일 템플릿에는 최대 10개의 섹션이 포함될 수 있습니다.
 
 - 기본 템플릿(섹션 없음)은 그룹 명명 규칙이 필요하지 않은 단일 템플릿 요소 집합을 생성할 수 있습니다.
-- 복합 템플릿(여러 섹션)은 최대 3개의 템플릿 요소 집합을 생성할 수 있으므로 그룹 명명 규칙을 준수해야 합니다. `<groupname_fieldname>`.
+- 복합 템플릿(여러 섹션)은 템플릿 요소 집합을 생성할 수 있으므로 그룹 명명 규칙 `<groupname_fieldname>`을(를) 준수해야 합니다.
 - 여러 섹션을 사용하는 경우 섹션 외부에 독립 실행형으로 남아 있는 요소가 채워지지 않습니다.
 
 다음은 두 섹션에 대한 그룹 이름 지정 규칙을 사용한 필드 이름의 예입니다.

@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 9f4cfd470590b2971c615a6437e6ae730cde5c18
+source-git-commit: 8fb4a0e3acaf1a45d8f0f00f975247fc8fb746e3
 workflow-type: tm+mt
-source-wordcount: '1633'
+source-wordcount: '1612'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 템플릿을 사용자 지정할 수 있습니다.
 
-다음 몇 섹션에서는 _[!DNL Handlebars]_&#x200B;템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은 [Handlebars 언어 안내서 [!DNL Handlebars]의 &#x200B;](https://handlebarsjs.com/guide/#what-is-handlebars)기능__을 참조하세요.
+다음 몇 섹션에서는 _[!DNL Handlebars]_템플릿 언어를 사용하여 GenStudio for Performance Marketing에 대한 HTML 템플릿을 적용하는 방법에 대해 설명합니다. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은 [Handlebars 언어 안내서 [!DNL Handlebars]의 ](https://handlebarsjs.com/guide/#what-is-handlebars)기능__을 참조하세요.
 
 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
@@ -222,26 +222,18 @@ HTML 특성(예: `alt`, `href` 또는 `src`) 내에서 콘텐츠 자리 표시�
 - _수정_(👍): `pod1_body`
 - _잘못됨_(❌): `pod1body`
 
-각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다. 예를 들어 다음 필드는 `pod1` 섹션에 속합니다.
+각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다.이 규칙 때문에 섹션은 중첩될 수 없습니다.
+
+예를 들어 다음 필드는 `pod1` 섹션에 속합니다.
 
 - `pod1_headline`
 - `pod1_body`
 - `pod1_image`
 - `pod1_cta`
 
-이 규칙 때문에 섹션을 중첩할 수 없습니다.
+GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod1_body`보다 `pod2_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 이메일 또는 Meta 광고와 같은 각 템플릿 유형에는 섹션 사용에 대한 채널별 제한 사항이 있습니다. [템플릿 사용 모범 사례](/help/user-guide/templates/best-practices-for-templates.md) 항목에서 _채널별 지침_&#x200B;을 참조하세요.
-
-예를 들어 이메일 템플릿에는 최대 3개의 섹션을 포함할 수 있으므로 다음과 같은 3개의 헤드라인 및 본문 섹션이 있을 수 있습니다.
-
-- `pre_header`
-- `pod1_headline`, `pod1_body`
-- `pod2_headline`, `pod2_body`
-- `pod3_headline`, `pod3_body`
-- `cta`
-
-GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod1_body`보다 `pod2_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 >[!TIP]
 >
