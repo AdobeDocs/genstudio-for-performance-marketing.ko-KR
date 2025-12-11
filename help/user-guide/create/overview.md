@@ -190,7 +190,7 @@ AI 생성 콘텐츠를 만들려면 프롬프트 창에 생성하려는 컨텍�
 
 ### 콘텐츠 확인
 
-GenStudio for Performance Marketing은 [, 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 ](/help/user-guide/guidelines/brand-validation.md#content-check-panel)브랜드 지침[, 플랫폼 지침 및 ](/help/user-guide/guidelines/brands.md)접근성 표준[에 대해 ](/help/user-guide/guidelines/overview.md#compliance)콘텐츠 확인[!DNL Brand]을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
+GenStudio for Performance Marketing은 [, 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)브랜드 지침[, 플랫폼 지침 및 &#x200B;](/help/user-guide/guidelines/brands.md)접근성 표준[에 대해 &#x200B;](/help/user-guide/guidelines/overview.md#compliance)콘텐츠 확인[!DNL Brand]을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
 
 ### 검토 및 승인
 
