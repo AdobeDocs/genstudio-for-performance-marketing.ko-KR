@@ -4,9 +4,9 @@ description: Adobe GenStudio for Performance Marketing [!DNL Create]에서 생�
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: c8b9e0b1b78195a648774d383c94ed9974fa8bcd
+source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '709'
 ht-degree: 1%
 
 ---
@@ -35,68 +35,131 @@ GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능�
 ## [!DNL Create] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="새 콘텐츠 만들기" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>전자 메일 환경 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Meta 광고 경험 만들기" src="../../assets/icons/icon-addContent.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>Meta 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="LinkedIn 광고 경험 만들기" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong>LinkedIn 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="디스플레이 광고 경험 만들기" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>디스플레이 광고 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="배너 경험 만들기" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong>배너 경험 만들기</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/generate-assets.md">
+
       <img alt="이미지 만들기" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/generate-assets.md">
+
          <strong>이미지 생성</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
@@ -113,11 +176,11 @@ _에서 제작할 채널을 선택한 후 오늘 제작할 내용을 선택하�
 
 ### 매개변수
 
-프롬프트 서랍에서 _,_, [!DNL Brands] 및 [!DNL Products]과(와) 같은 [!DNL Personas]매개 변수[!DNL Content]을(를) 추가하여 생성된 경험을 구체화할 수 있습니다.
+프롬프트 서랍에서 _,_, [!DNL Brands]&#x200B;(지침) 및 [!DNL Products]&#x200B;(자산)과 같은 [!DNL Personas]매개 변수[!DNL Content]을(를) 추가하여 생성된 경험을 형성할 수 있습니다.
 
-이렇게 추가된 매개 변수는 [지침](/help/user-guide/guidelines/overview.md)을 삽입하고 [!DNL Content]은(는) 생성 프로세스에 자산을 제공하여 브랜드의 포괄적인 ID에 맞게 사용자 지정된 출력을 보장합니다. GenStudio for Performance Marketing에 지침을 추가하고 컨텐츠 생성 중에 사용하면 적절한 온브랜드 컨텐츠 생성을 크게 향상시킬 수 있습니다.
+이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적합한 온브랜드 콘텐츠 생성을 크게 향상시키므로 GenStudio for Performance Marketing에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
 
-_매개 변수_&#x200B;의 콘텐츠 —업로드되거나 추가된 이미지 에셋— 은 생성된 변형에 사용되며 변형에 대해 생성된 복사본(텍스트)을 알립니다. [!DNL Content] 또는 연결된 AEM Content Hub 저장소에 이미 있는 자산을 업로드하거나 선택할 수 있습니다.
+_매개 변수_&#x200B;에서 업로드되거나 추가된 콘텐츠(이미지 에셋)는 생성된 변형에 사용되며 변형에 대해 생성된 콘텐츠(텍스트) 복사에 알립니다. [!DNL Content] 또는 연결된 AEM Content Hub 저장소에 이미 있는 자산을 업로드하거나 선택할 수 있습니다.
 
 ### 프롬프트
 
@@ -127,7 +190,7 @@ AI 생성 콘텐츠를 만들려면 프롬프트 창에 생성하려는 컨텍�
 
 ### 콘텐츠 확인
 
-GenStudio for Performance Marketing은 [, 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)브랜드 지침[, 플랫폼 지침 및 &#x200B;](/help/user-guide/guidelines/brands.md)접근성 표준[에 대해 &#x200B;](/help/user-guide/guidelines/overview.md#compliance)콘텐츠 확인[!DNL Brand]을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
+GenStudio for Performance Marketing은 [, 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 ](/help/user-guide/guidelines/brand-validation.md#content-check-panel)브랜드 지침[, 플랫폼 지침 및 ](/help/user-guide/guidelines/brands.md)접근성 표준[에 대해 ](/help/user-guide/guidelines/overview.md#compliance)콘텐츠 확인[!DNL Brand]을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
 
 ### 검토 및 승인
 
