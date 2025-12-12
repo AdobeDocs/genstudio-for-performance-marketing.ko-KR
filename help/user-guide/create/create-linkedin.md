@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # LinkedIn 경험 만들기
 
-이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 지침을 준수하는 ](/help/user-guide/create/meta-experiences.md)LinkedIn 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 지침을 준수하는 &#x200B;](/help/user-guide/create/meta-experiences.md)LinkedIn 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
 
 LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketing에서 [지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항을 알아보는 것이 중요합니다.
 
@@ -28,7 +28,7 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 
 **LinkedIn 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서&#x200B;**[!UICONTROL LinkedIn]**을(를) 클릭합니다.
+1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL LinkedIn]**&#x200B;을(를) 클릭합니다.
 1. **[!UICONTROL 사용자 지정 템플릿]**&#x200B;을(를) 선택하여 업로드한 템플릿을 찾아보거나 **[!UICONTROL 시작 템플릿]**&#x200B;을(를) 선택하여 미리 빌드한 템플릿을 찾아봅니다.
 
    Meta 변형에 비디오 자산을 추가하려면 시작 템플릿을 선택해야 합니다. 여기에는 비디오를 쉽게 사용할 수 있도록 하는 시스템 정의 콘텐츠 영역이 미리 로드됩니다.
@@ -88,13 +88,13 @@ LinkedIn 광고 생성을 시작하기 전에 GenStudio for Performance Marketin
 **생성된 변형을 수정하려면**:
 
 * **LinkedIn 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **LinkedIn 광고를 수동으로 편집하려면[](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
+* **LinkedIn 광고를 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;하려면 제목 줄, 머리글 또는 본문 복사와 같은 광고 섹션을 클릭하고 필요에 따라 편집하십시오.
 * **call to action을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **[이미지 크기를 조정하고 맞추는 [생성 확장]을 사용](/help/user-guide/create/manage-variants.md#use-generative-expand)하려면** 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 모양 아이콘)을 클릭한 다음 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 필요한 종횡비와 템플릿에 맞게 이미지를 조정합니다.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
-* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **변형에서 자산(이미지 또는 비디오)을 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 자산(또는 자산 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
