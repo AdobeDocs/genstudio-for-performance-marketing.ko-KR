@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 168ea3d21f5771aeb05553ffe992dc9648b0e4e4
+source-git-commit: 4172d58660b0242976f73d7575142456ae8c4ae1
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 이메일 경험 만들기
 
-이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 &#x200B;](/help/user-guide/create/email-experiences.md)이메일 경험[[!DNL Create]](/help/user-guide/create/overview.md)을(를) 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 ](/help/user-guide/create/email-experiences.md)이메일 경험[[!DNL Create]](/help/user-guide/create/overview.md)을(를) 생성하는 방법을 보여 줍니다.
 
 효과적인 이메일 경험을 만들려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **전자 메일 서식 파일을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 전자 메일]**을 클릭하세요.
 1. 특정 전자 메일 서식 파일을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 전자 메일 서식 파일을 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 1. 프롬프트 창을 확장하려면 _매개 변수_ 아이콘을 클릭하십시오.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
-   ![사용자 선택](/help/assets/persona-select-email2.png){width="300" align="center"}
+   ![사용자 선택](/help/assets/persona-select-email2.png){width="50%" align="center"}
 
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **전자 메일을 수동으로 편집하려면[&#x200B; 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다](/help/user-guide/create/manage-variants.md#manually-edit-text)**
+* **전자 메일을 수동으로 편집하려면[ 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다](/help/user-guide/create/manage-variants.md#manually-edit-text)**
 * **Call to action을 변경 또는 선택하려면[call-to-action 단추를 클릭하고](/help/user-guide/create/manage-variants.md#revise-call-to-action)**&#x200B;구문 변경&#x200B;_[!UICONTROL 또는]_&#x200B;링크 추가&#x200B;_[!UICONTROL 를 선택하십시오.]_
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
@@ -110,9 +110,9 @@ ht-degree: 0%
 
 1. 오른쪽 작업 표시줄의 _콘텐츠 확인_ 패널 아이콘을 클릭하여 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 엽니다. 개선이 필요한 섹션 및 지침을 확인하기 위해 *검토 필요* 및 *합격* 검사에 대한 요약을 봅니다.
 
-   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){width="300"}
 
-1. [변형을 수동으로 수정](#revise-generated-variants)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
+2. [변형을 수동으로 수정](#revise-generated-variants)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
