@@ -6,16 +6,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
+source-git-commit: 81923bf493ec6fa2ed1a2fa655a76b01d7c87bc7
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1135'
 ht-degree: 0%
 
 ---
 
 # 디스플레이 광고 경험 만들기
 
-이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)를 사용하여 브랜드 &#x200B;](display-ad-experiences.md)디스플레이 광고 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
+이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)를 사용하여 브랜드 ](display-ad-experiences.md)디스플레이 광고 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 생성하는 방법을 보여 줍니다.
 
 매력적인 디스플레이 광고 경험을 디자인하려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **디스플레이 광고 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 광고 표시]**&#x200B;를 클릭합니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 광고 표시]**를 클릭합니다.
 1. 특정 디스플레이 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. _템플릿 선택_ 보기에서 디스플레이 광고 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
@@ -37,6 +37,8 @@ ht-degree: 0%
 프롬프트 창에 [지침](/help/user-guide/guidelines/overview.md) 및 _매개 변수_&#x200B;의 자산을 추가하면 콘텐츠 생성 프로세스가 대체되며 디스플레이 광고 경험을 생성하기 위한 필수 준비 단계입니다.
 
 미리 정의된 지침([!DNL Brands], [!DNL Personas] 또는 [!DNL Products])이 있는 템플릿을 사용하는 경우 이러한 지침은 변형에 적용됩니다. 원하는 경우 변경할 수 있습니다.
+
+![프롬프트 서랍에 매개 변수를 입력하십시오](/help/assets/prompt-displayad2.png){width="300" align="center"}
 
 **매개 변수 및 자산을 추가하려면**:
 
@@ -59,14 +61,12 @@ ht-degree: 0%
 
 지침을 선택한 후 자연어를 사용하여 프롬프트를 만들고 새 디스플레이 광고 경험을 위한 콘텐츠를 생성합니다. 생성된 디스플레이 광고 경험의 품질을 향상시키려면 세부적이고 설명적인 프롬프트를 작성하는 것이 중요합니다.
 
-![프롬프트 입력](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
-
 프롬프트 작성에 대한 자세한 내용은 [유효한 프롬프트 작성](/help/user-guide/effective-prompts.md)을 참조하십시오.
 
 **프롬프트를 입력하려면**:
 
 1. _&quot;생성할 경험 설명&quot;_ 프롬프트 상자에 프롬프트를 입력하십시오.
-1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
+2. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
 
 기본적으로 프롬프트, 지침 및 추가한 컨텐츠에 의해 유발되는 네 가지 변형이 생성되어 캔버스에 표시됩니다.
 
@@ -79,14 +79,14 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **디스플레이 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **디스플레이 광고를 수동으로 편집하려면[&#x200B; 디스플레이 광고 섹션 또는 필드(예: 제목 줄, 머리글 또는 본문 복사본)를 두 번 클릭하고 필요에 따라 편집합니다.](/help/user-guide/create/manage-variants.md#manually-edit-text)**
+* **디스플레이 광고를 수동으로 편집하려면[ 디스플레이 광고 섹션 또는 필드(예: 제목 줄, 머리글 또는 본문 복사본)를 두 번 클릭하고 필요에 따라 편집합니다.](/help/user-guide/create/manage-variants.md#manually-edit-text)**
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 온라인 이미지 텍스트나 인라인 링크를 클릭한 다음 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
 * **변형의 이미지에 링크를 추가하려면[이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.](/help/user-guide/create/manage-variants.md#add-image-link)**
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
-* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 아이콘)을 클릭한 다음 **[!UICONTROL 자르기]**&#x200B;를 클릭합니다. 이미지 크기와 배치를 조정합니다.
 * **[이미지 크기를 조정하고 맞추는 [생성 확장]을 사용](/help/user-guide/create/manage-variants.md#use-generative-expand)하려면** 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 모양 아이콘)을 클릭한 다음 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 필요한 종횡비와 템플릿에 맞게 이미지를 조정합니다.
 
@@ -106,9 +106,9 @@ When revising and preparing email experiences, you can toggle between previews f
 
 1. 오른쪽 작업 표시줄의 _콘텐츠 확인_ 패널 아이콘을 클릭하여 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 엽니다. 개선이 필요한 섹션 및 지침을 확인하기 위해 *검토 필요* 및 *합격* 검사에 대한 요약을 봅니다.
 
-   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){width="300"}
 
-1. [변형을 수동으로 수정](#revise-generated-variants)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
+2. [변형을 수동으로 수정](#revise-generated-variants)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
@@ -130,7 +130,7 @@ When revising and preparing email experiences, you can toggle between previews f
 생성된 디스플레이 광고를 현재 및 향후 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
 1. **새 디스플레이 광고 환경을 게시하려면**&#x200B;상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
-   1. _[!UICONTROL [!DNL Campaigns]]_&#x200B;을(를) 선택하고 필요한 경우&#x200B;_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_&#x200B;를 추가하십시오.
+   1. _[!UICONTROL [!DNL Campaigns]]_을(를) 선택하고 필요한 경우_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_를 추가하십시오.
    1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
       ![디스플레이 광고 게시](/help/assets/publish-displayad.png){width="450" zoomable="yes"}

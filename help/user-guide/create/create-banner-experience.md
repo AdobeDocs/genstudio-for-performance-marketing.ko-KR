@@ -7,16 +7,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
-source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
+source-git-commit: 4d3022fa302b5e198a7e9dc91b63319a25fb5a31
 workflow-type: tm+mt
-source-wordcount: '1078'
+source-wordcount: '1081'
 ht-degree: 0%
 
 ---
 
 # 배너 경험 만들기
 
-이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 &#x200B;](banner-experiences.md)배너 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 만드는 방법을 보여줍니다.
+이 자습서에서는 GenStudio for Performance Marketing [(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 ](banner-experiences.md)배너 경험[[!DNL Create]](/help/user-guide/create/overview.md)을 만드는 방법을 보여줍니다.
 
 매력적인 배너 경험을 디자인하려면 시작하기 전에 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **배너 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 배너]**&#x200B;를 클릭합니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 배너]**를 클릭합니다.
 1. _필터_ 옆의 검색 옵션을 사용하여 특정 배너 템플릿을 찾습니다.
 1. _템플릿 선택_ 보기에서 배너 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
@@ -36,6 +36,8 @@ ht-degree: 0%
 ## 매개 변수 추가
 
 프롬프트 서랍에서 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 _매개 변수_&#x200B;에 통합하면 콘텐츠 생성 프로세스가 향상되며 배너 경험을 만드는 중요한 준비 단계입니다.
+
+![프롬프트 서랍에 매개 변수를 입력하십시오](/help/assets/prompt-displayad2.png){width="300" align="center"}
 
 **매개 변수 및 자산을 추가하려면**:
 
@@ -57,8 +59,6 @@ ht-degree: 0%
 ## 프롬프트 입력
 
 지침을 선택한 후에는 자연어를 사용하여 새 배너 경험을 위한 콘텐츠 생성을 시작하라는 메시지를 표시하십시오. 고품질 결과를 보장하려면 세부적이고 설명적인 프롬프트를 작성하는 것이 중요합니다.
-
-![프롬프트 입력](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
 프롬프트 작성에 대한 자세한 내용은 [유효한 프롬프트 작성](/help/user-guide/effective-prompts.md)을 참조하십시오.
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 * **변형의 이미지에 링크를 추가하려면[이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.](/help/user-guide/create/manage-variants.md#add-image-link)**
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
-* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 아이콘)을 클릭한 다음 **[!UICONTROL 자르기]**&#x200B;를 클릭합니다. 이미지 크기와 배치를 조정합니다.
 * **[이미지 크기를 조정하고 맞추는 [생성 확장]을 사용](/help/user-guide/create/manage-variants.md#use-generative-expand)하려면** 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 모양 아이콘)을 클릭한 다음 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 필요한 종횡비와 템플릿에 맞게 이미지를 조정합니다.
 
@@ -103,9 +103,9 @@ When revising and preparing email experiences, you can toggle between previews f
 
 1. 오른쪽 작업 표시줄의 _콘텐츠 확인_ 패널 아이콘을 클릭하여 [_콘텐츠 확인_ 패널](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 엽니다. 개선이 필요한 섹션 및 지침을 확인하기 위해 _검토 필요_ 및 _합격_ 검사에 대한 요약을 봅니다.
 
-   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_콘텐츠 확인_ 패널](/help/assets/content-check-panel.png){width="300"}
 
-1. [변형을 수동으로 수정](#revise-generated-banners)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
+2. [변형을 수동으로 수정](#revise-generated-banners)하여 수행된 콘텐츠 검사와 변형이 일치하는지 확인합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
@@ -127,7 +127,7 @@ When revising and preparing email experiences, you can toggle between previews f
 생성된 배너를 현재 및 나중에 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
 1. **새 배너 환경을 게시하려면**, 상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
-   1. _[!UICONTROL [!DNL Campaigns]]_&#x200B;을(를) 선택하고 필요한 경우&#x200B;_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_&#x200B;를 추가하십시오.
+   1. _[!UICONTROL [!DNL Campaigns]]_을(를) 선택하고 필요한 경우_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_를 추가하십시오.
    1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
       ![배너 게시](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
