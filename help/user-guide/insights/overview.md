@@ -4,9 +4,9 @@ description: 실시간 콘텐츠 성능 지표를 기반으로 광고를 최적�
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 42a211956854126798024a97fc0befc3626160b7
+source-git-commit: 8bdfe52173b93e55f627f37cb1d6c5b16827d899
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,16 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 
 {{connect-insights}}
 
+## 지원되는 채널
+
+Insights에서 지원되는 채널에는 Meta, LinkedIn, TikTok, DV360 및 Innovid가 포함됩니다.
+
+Meta, LinkedIn 및 TikTok은 캠페인, 광고, 미디어 및 속성에 대한 전체 가시성을 제공합니다. DV360과 Innovid는 현재 더 제한된 데이터 범위를 제공합니다.
+
+현재 DV360 및 Innovid에는 미디어 데이터를 사용할 수 없습니다. 즉, 이러한 채널에 대해 속성 탭도 표시되지 않습니다. 속성 탭은 경험에서 추출한 특성을 표시하기 위해 미디어 수준 데이터에 따라 다릅니다.
+
+이 제한은 유료 미디어 플랫폼 자체의 제한 때문이며 GenStudio for Performance Marketing의 문제는 아닙니다.
+
 ## 대시보드
 
 [!DNL Insights] 대시보드에는 각 콘텐츠 형식에 대해 구성 가능한 테이블이 있습니다. [!UICONTROL 채널], [!UICONTROL 광고], [!UICONTROL 미디어] 및 [!UICONTROL 특성].
@@ -39,17 +49,17 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 
 [!UICONTROL 광고], [!UICONTROL 미디어] 및 [!UICONTROL 특성]에는 이미지 또는 비디오 썸네일이 있는 카드를 사용하여 자산을 검색하고 정렬할 수 있는 갤러리 보기가 포함되어 있습니다. 각 카드에 세 개의 주요 지표 중 하나를 표시할 수 있는 옵션이 있습니다. `Click-through rate`, `Cost per click` 및 `Spend`.
 
-### 채널
+### 캠페인
 
-[[!DNL Insights] _[!UICONTROL 채널&#x200B;]_&#x200B;보기](channels.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](/help/user-guide/connectors/connect-channel.md)하세요.
+[[!DNL Insights] _[!UICONTROL 캠페인&#x200B;]_보기](campaigns.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](/help/user-guide/connectors/connect-channel.md)하세요.
 
 ### 광고
 
-[[!DNL Insights] _[!UICONTROL 광고&#x200B;]_&#x200B;보기](ads.md)는 광고의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 광고] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 광고의 지표를 분석할 수 있습니다._[!UICONTROL &#x200B;광고 이름&#x200B;]_&#x200B;을 클릭하면 광고 성능 지표, 광고 배치별 성능 및 특성을 볼 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 광고&#x200B;]_보기](ads.md)는 광고의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 광고] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 광고의 지표를 분석할 수 있습니다._[!UICONTROL &#x200B;광고 이름&#x200B;]_을 클릭하면 광고 성능 지표, 광고 배치별 성능 및 특성을 볼 수 있습니다.
 
 ### 미디어
 
-[[!DNL Insights] _[!UICONTROL 미디어&#x200B;]_&#x200B;보기](media.md)는 크리에이티브 콘텐츠의 성능을 분석하는 데 도움이 되도록 설계되었습니다. 클릭이나 노출과 같이 선택한 지표를 개선하는 데 기여하는 미디어 속성을 식별할 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 미디어&#x200B;]_보기](media.md)는 크리에이티브 콘텐츠의 성능을 분석하는 데 도움이 되도록 설계되었습니다. 클릭이나 노출과 같이 선택한 지표를 개선하는 데 기여하는 미디어 속성을 식별할 수 있습니다.
 
 미디어 콘텐츠를 클릭하면 다양한 광고 및 광고 배치에 대한 성능에 대한 추가 컨텍스트를 제공합니다.
 
@@ -61,4 +71,4 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 
 미디어 _특성_&#x200B;은(는) 색상, 색조, 컴포지션(예: 주제, 글꼴, 시각적 요소) 및 기타 주요 구성 요소와 같은 고유한 세부 사항으로 크리에이티브 콘텐츠를 식별하는 데 도움이 됩니다. 속성은 종종 가장 적게 측정되고 분석되는 콘텐츠 정보 세트입니다.
 
-[[!DNL Insights] _[!UICONTROL 특성&#x200B;]_&#x200B;보기](attributes.md)를 통해 특정 대상, 채널, 지역에서 어떤 특성이 더 잘 작동하는지 조사하고 식별하는 데 도움이 되며, 계절별 트렌드를 강조 표시하는 데 도움이 될 수 있습니다. 이러한 통찰력을 통해 수행자 속성을 사용하여 변형을 만들거나 특정 대상을 타기팅하거나 다른 캠페인 전략으로 실험할 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 특성&#x200B;]_보기](attributes.md)를 통해 특정 대상, 채널, 지역에서 어떤 특성이 더 잘 작동하는지 조사하고 식별하는 데 도움이 되며, 계절별 트렌드를 강조 표시하는 데 도움이 될 수 있습니다. 이러한 통찰력을 통해 수행자 속성을 사용하여 변형을 만들거나 특정 대상을 타기팅하거나 다른 캠페인 전략으로 실험할 수 있습니다.

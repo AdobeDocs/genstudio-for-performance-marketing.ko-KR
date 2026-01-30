@@ -4,9 +4,9 @@ description: Insights와 함께 향상된 필터 기능을 사용하는 방법�
 level: Intermediate
 feature: Reporting and Insights
 exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 0eeb41597d547bf806b1728541ca85b598d2aa1c
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ### 검색 필드
 
-검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 `Gear`광고[!UICONTROL &#x200B; 표에 &#x200B;] 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
+검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 `Gear`광고[!UICONTROL  표에 ] 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
 
 ![검색 필드 예제](/help/assets/insights-search.png "이름에 기어가 있는 광고 검색"){width=600 zoomable="yes"}
 
@@ -57,7 +57,7 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 
 **캠페인 필터를 사용하여 광고 테이블을 세분화하려면**:
 
-1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 광고]**&#x200B;보기를 선택하십시오.
+1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 광고]**보기를 선택하십시오.
 
    ![광고 필터 및 표](/help/assets/insights-ads-filter.png "필터 메뉴가 있는 광고 보기"){zoomable="yes"}
 
@@ -89,7 +89,7 @@ _[!UICONTROL 캠페인]_ 및 _[!UICONTROL 광고]_ 필터를 사용하면 정확
 
    ![캠페인 목록](/help/assets/insights-select-campaigns-list.png "포함할 캠페인 선택")
 
-이제 선택한 캠페인이 광고 테이블 또는 갤러리 위의 _[!UICONTROL 필터링 기준]_ 목록에 나타납니다. 선택한 캠페인에 연결된 광고에만 집중할 수 있습니다. 이 예에서, 필터링된 결과는 분석을 위한 더 많은 타겟팅된 보기를 제공하는 6개의 광고를 포함합니다.
+이제 선택한 캠페인이 광고 테이블 또는 갤러리 위의 _[!UICONTROL 필터링 기준]_ 목록에 나타납니다. 선택한 캠페인에 연결된 광고에만 집중할 수 있습니다. 이 예에서, 필터링된 결과는 분석을 위한 더 많은 타겟팅된 뷰를 제공한다.
 
 ![캠페인으로 필터링된 테이블](/help/assets/insights-filter-by-campaigns.png "캠페인이 있는 테이블 필터"){zoomable="yes"}
 
