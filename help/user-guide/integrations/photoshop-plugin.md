@@ -60,7 +60,7 @@ GenStudio 지원 템플릿을 만들려면 다음 작업을 수행하십시오.
 1. Photoshop에서 문서를 엽니다.
 1. 생성된 콘텐츠에 대한 텍스트 레이어를 식별합니다.
 1. 필드 이름 규칙 형식 `{<name_of_generated_field>}`을(를) 사용하여 레이어 이름을 바꾸십시오. (예: `{body}`, `{headline}`, `{cta}`)
-1. 템플릿 유형[에 필요한 채널에 필요한 모든 ](../../user-guide/templates/customize-template.md#recognized-field-names)필드의 레이어 이름을 바꾸십시오.
+1. 템플릿 유형[에 필요한 채널에 필요한 모든 &#x200B;](../../user-guide/templates/customize-template.md#recognized-field-names)필드의 레이어 이름을 바꾸십시오.
 
 | 채널 | 생성을 위한 필수 필드 | 생성을 위한 선택적 필드 |
 | --- | --- | --- |
