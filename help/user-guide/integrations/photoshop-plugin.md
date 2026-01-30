@@ -27,7 +27,7 @@ GenStudio for Performance Marketing Photoshop 플러그인은 Adobe Photoshop에
 * 온브랜드 콘텐츠 번역 만들기
 * 생성된 [!DNL Experiences]을(를) GenStudio for Performance Marketing으로 내보내기
 
->[!VIDEO](https://video.tv.adobe.com/v/3478808?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478827?captions=kor&learn=on)
 
 ## 플러그인 설치
 
