@@ -154,9 +154,9 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x200B;(으)로 내보낼 수 있습니다.
 
 1. 다음 중 하나를 수행하여 그림 캔버스에서 내보낼 콘텐츠를 선택합니다.
-   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**를 클릭합니다.
+   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**&#x200B;를 클릭합니다.
      ![생성 섹션 선택](./select-generation-section.png){width="200" zoomable="yes"}
-   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**를 클릭합니다.
+   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**&#x200B;를 클릭합니다.
      ![개별 생성 선택](./select-generation.png){width="200" zoomable="yes"}
 1. 사이드바 메뉴에서 내보내기 항목을 선택합니다.
    ![Meta 광고에 대해 [내보내기 표시] 단추가 표시됨](./mark-for-export.png){width="60%" zoomable="yes"}
