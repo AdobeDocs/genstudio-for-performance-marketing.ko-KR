@@ -4,9 +4,9 @@ description: GenStudio for Performance Marketing용 Figma 플러그인을 구성
 feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
-source-git-commit: e585c6ff70198fe572b21252ab00b9b1ad368d02
+source-git-commit: 4ab7e82336bfa6907331b0684253e48066e7d021
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1192'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 0%
 # GenStudio for Performance Marketing용 Figma 플러그인
 
 GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이션에 온-브랜드 콘텐츠를 생성할 수 있는 새 패널을 추가합니다.
+[Figma 커뮤니티 마켓플레이스에서 플러그인을 찾아 설치합니다](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio).
 
 이 페이지에서는 플러그인을 구성하고 사용하는 방법에 대해 설명합니다.
 
@@ -28,7 +29,7 @@ GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이�
 * 생성된 [!DNL Experiences]을(를) GenStudio for Performance Marketing으로 내보냅니다.
 * 그림 캔버스에서 선택한 요소에 맞게 조정하는 플러그인 옵션을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478816?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## 템플릿 만들기
 
@@ -153,9 +154,9 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x200B;(으)로 내보낼 수 있습니다.
 
 1. 다음 중 하나를 수행하여 그림 캔버스에서 내보낼 콘텐츠를 선택합니다.
-   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**&#x200B;를 클릭합니다.
+   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**를 클릭합니다.
      ![생성 섹션 선택](./select-generation-section.png){width="200" zoomable="yes"}
-   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**&#x200B;를 클릭합니다.
+   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**를 클릭합니다.
      ![개별 생성 선택](./select-generation.png){width="200" zoomable="yes"}
 1. 사이드바 메뉴에서 내보내기 항목을 선택합니다.
    ![Meta 광고에 대해 [내보내기 표시] 단추가 표시됨](./mark-for-export.png){width="60%" zoomable="yes"}
