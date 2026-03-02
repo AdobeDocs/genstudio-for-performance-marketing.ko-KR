@@ -2,13 +2,13 @@
 title: Meta 광고에 연결
 description: Meta 광고 계정을 연결하여 Adobe GenStudio for Performance Marketing으로 광고와 미디어를 활성화하고 모니터링합니다.
 level: Intermediate
-role: Admin, Data Engineer
+role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
-source-git-commit: dce3d9bbf3ed2d26872b324c04ab7e78bbb034dc
+source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL 자세히]** > **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
-1. _Data Connectors_ 섹션의 **[!UICONTROL Meta 광고]** 카드에서 _연결_&#x200B;을 클릭합니다.
+1. _Data Connectors_ 섹션의 _Meta 광고_ 카드에서 **[!UICONTROL 연결]**&#x200B;을 클릭합니다.
 
 1. Facebook 계정에 로그인합니다.
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 1. 계정으로 로그인합니다. 계정에는 비즈니스 관리자에 대한 관리자 액세스 권한이 있어야 합니다.
 1. Business Portfolio 설정으로 이동하려면 왼쪽 하단의 **[!UICONTROL 설정]** 톱니바퀴 아이콘을 클릭합니다.
 1. 왼쪽 메뉴에서 **[!UICONTROL 통합]**&#x200B;을 클릭합니다.
-1. **[!UICONTROL 연결된 앱]**&#x200B;을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
+1. **[!UICONTROL 연결된 앱]**을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
    ![Meta Business Manager 연결된 앱](./meta-connected-apps.png "Meta Business Manager 연결된 앱 창")
 1. 앱 이름을 클릭합니다.
 1. **[!UICONTROL 제거]**&#x200B;를 클릭합니다.

@@ -2,12 +2,13 @@
 title: LinkedIn 광고에 연결
 description: LinkedIn Ads 계정을 연결하여 Adobe GenStudio for Performance Marketing으로 광고 및 미디어를 활성화하고 모니터링합니다.
 level: Intermediate
-role: Admin, Data Engineer
+role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
-source-git-commit: c720a7c34250caa6aefea19149fcd33c8fd5f37f
+exl-id: 8ad10ce2-8558-430c-8cc3-4c29bfa970c6
+source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---

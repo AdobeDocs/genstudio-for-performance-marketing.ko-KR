@@ -2,12 +2,13 @@
 title: Google Campaign Manager 360에 연결
 description: Google Campaign Manager 360 계정을 연결하여 Adobe GenStudio for Performance Marketing으로 광고 및 미디어를 활성화하고 모니터링합니다.
 level: Intermediate
-role: Admin, Data Engineer
+role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
-source-git-commit: 2f18b273684a9fe9b9b8903838ae09f5cd2b7842
+exl-id: a25b5988-545d-49a8-8c2f-e306d276afbf
+source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
