@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # 보관됨
 
-이 리포지토리는 GHEC로 마이그레이션되었습니다. <https://github.com/Adobe-Enterprise-Docs/genstudio-for-performance-marketing.en>
+이 리포지토리는 GHEC로 마이그레이션되었습니다. <https://github.com/Adobe-Enterprise-Docs/genstudio-for-performance-marketing.ko-KR>
