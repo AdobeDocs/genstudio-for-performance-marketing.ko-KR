@@ -107,5 +107,5 @@ ht-degree: 19%
    + [통합 개요](integrations/overview.md)
    + [Photoshop 플러그인](integrations/photoshop-plugin.md)
    + [Figma 플러그인](integrations/figma-plugin.md)
-+ {hide-from-toc}[GenStudio Academy - 숨김](genstudioacademy.md)
-+ {hide-from-toc}[Markdown 테스트 - 숨김](test-markdown.md)
++ [hide-from-tocGenStudio Academy - 숨김](genstudioacademy.md)
++ [hide-from-tocMarkdown 테스트 - 숨김](test-markdown.md)
