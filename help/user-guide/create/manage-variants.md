@@ -4,11 +4,24 @@ description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 �
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
 TQID: https://experienceleague.adobe.com/2VdZdQv90JGEpCM7BE4egbz933eotbeePy3ze35mM0o
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e6ff21d3-dec6-4298-8590-7c749fffaf78
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 2125
@@ -96,7 +109,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 >[!NOTE]
 >
-레이블 텍스트가 템플릿에서 하드 코딩되지 않은 생성된 템플릿 필드인 경우 _[!UICONTROL 구문 변경]_ 옵션을 사용하여 CTA 레이블 텍스트를 편집할 수 있습니다. 링크가 존재하고 편집 가능한 경우( 템플릿에서 하드 코딩되지 않음) _[!UICONTROL 링크 편집]_ 옵션을 사용하여 CTA 링크를 편집할 수 있습니다.
+>레이블 텍스트가 템플릿에서 하드 코딩되지 않은 생성된 템플릿 필드인 경우 _[!UICONTROL 구문 변경]_ 옵션을 사용하여 CTA 레이블 텍스트를 편집할 수 있습니다. 링크가 존재하고 편집 가능한 경우( 템플릿에서 하드 코딩되지 않음) _[!UICONTROL 링크 편집]_ 옵션을 사용하여 CTA 링크를 편집할 수 있습니다.
 
 **변형에서 CTA을 개정하려면**:
 
@@ -172,7 +185,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 >[!NOTE]
 >
-다양한 종횡비 및 크기는 이용 가능한 템플릿에 기초하여 이용 가능할 수 있다.
+>다양한 종횡비 및 크기는 이용 가능한 템플릿에 기초하여 이용 가능할 수 있다.
 
 **생성된 Meta 광고의 종횡비를 변경하려면**:
 
@@ -202,7 +215,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 

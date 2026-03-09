@@ -5,10 +5,16 @@ feature: Generative AI
 role: User
 exl-id: e3f57acd-f2dd-4957-aa5e-c97595a29899
 TQID: https://experienceleague.adobe.com/9p-ohsF1gIVKv3vwjnP9o675l3gJT3tVxx34PefFzCQ
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 816
@@ -66,7 +72,7 @@ GenStudio 지원 템플릿을 만들려면 다음 작업을 수행하십시오.
 1. Photoshop에서 문서를 엽니다.
 1. 생성된 콘텐츠에 대한 텍스트 레이어를 식별합니다.
 1. 필드 이름 규칙 형식 `{<name_of_generated_field>}`을(를) 사용하여 레이어 이름을 바꾸십시오. (예: `{body}`, `{headline}`, `{cta}`)
-1. 템플릿 유형](../../user-guide/templates/customize-template.md#recognized-field-names)에 필요한 채널에 필요한 모든 [필드의 레이어 이름을 바꾸십시오.
+1. 템플릿 유형[&#128279;](../../user-guide/templates/customize-template.md#recognized-field-names)에 필요한 채널에 필요한 모든 필드의 레이어 이름을 바꾸십시오.
 
 | 채널 | 생성을 위한 필수 필드 | 생성을 위한 선택적 필드 |
 | --- | --- | --- |

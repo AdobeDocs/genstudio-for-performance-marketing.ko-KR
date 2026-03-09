@@ -6,11 +6,18 @@ role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
 TQID: https://experienceleague.adobe.com/QtGu-GaR4LMNGa4IrtYKzk1EjL1g9y08hF-kAm4rLJM
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 787
@@ -68,7 +75,7 @@ _[!UICONTROL 검색된 필드 확인]_ 창이 업데이트되어 변경 내용�
 | 이미지 누락 | 필수 이미지 필드가 누락되었습니다. | Meta, 디스플레이 또는 배너 광고와 같은 특정 템플릿 유형에 대해 정확히 하나의 `image` 필드가 필요합니다. 필요한 `image` 필드를 템플릿에 추가합니다. |
 | 잘못된 단일 그룹 | 이메일 템플릿에 잘못된 그룹이 하나만 있습니다. | 기본 전자 메일 템플릿에 [섹션 또는 그룹](/help/user-guide/templates/customize-template.md#sections-or-groups)에 정의된 그룹 명명 규칙이 필요하지 않은 단일 템플릿 요소 집합이 포함되어 있습니다. 그룹 이름 지정 구문을 제거하여 템플릿이 0개의 섹션을 갖도록 조정합니다. |
 | 필드 없음 | 템플릿에 필드가 없습니다. | Handlebars 구문을 사용하여 [인식된 필드 이름](/help/user-guide/templates/customize-template.md#recognized-field-names)을(를) 템플릿에 추가하십시오. 여기서 특정 유형의 콘텐츠를 생성하려면 GenStudio for Performance Marketing이 필요합니다. |
-| 필수 속성 누락 | 일부 필수 메타데이터 속성이 누락되었습니다. | 각 템플릿 유형에는 채널 지침을 기반으로 하는 요구 사항과 제한 사항이 있습니다. 예를 들어 Meta에는 종횡비가 필요하고 디스플레이 광고에는 차원이 필요합니다. [채널별 템플릿 지침 ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)을(를) 따릅니다. |
+| 필수 속성 누락 | 일부 필수 메타데이터 속성이 누락되었습니다. | 각 템플릿 유형에는 채널 지침을 기반으로 하는 요구 사항과 제한 사항이 있습니다. 예를 들어 Meta에는 종횡비가 필요하고 디스플레이 광고에는 차원이 필요합니다. [채널별 템플릿 지침 &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)을(를) 따릅니다. |
 | 예약된 이름이 사용됨 | 금지되거나 예약된 필드 이름이 사용되고 있습니다. | `subject` 또는 `introductory_text`과(와) 같은 특정 [필드 이름](/help/user-guide/templates/customize-template.md#recognized-field-names)은(는) 예약되어 있습니다. 예약되거나 금지된 이름을 사용하는 필드의 이름을 변경합니다. |
 | 필드가 너무 많음 | 필드 수가 전역 제한인 20개를 초과합니다. | 합계가 20을 초과하지 않도록 불필요한 필드를 제거하십시오. |
 | 그룹이 너무 많음 | 그룹 수가 채널의 허용 최대값을 초과합니다. | Meta, display 및 LinkedIn 템플릿에서는 여러 섹션을 사용할 수 없습니다. 이메일을 사용하려면 두 개 또는 세 개의 섹션을 정의할 때 그룹 이름을 지정해야 합니다. [채널의 요구 사항](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)을 충족하도록 템플릿의 그룹 수를 줄이십시오. |

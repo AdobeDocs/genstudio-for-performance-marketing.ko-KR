@@ -5,11 +5,17 @@ level: Beginner
 feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
 TQID: https://experienceleague.adobe.com/2oFwfqVPlW24irHth-mkEx-ciO5tQgNv2hwAYmkfi-g
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 890
@@ -23,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-이 기능은 [Adobe Workfront Proof와의 통합](/help/user-guide/approvals/proof-integration.md)으로도 사용할 수 있습니다. 이 통합은 GenStudio for Performance Marketing 캔버스에서 증명 기능을 제공합니다. Workfront Proof 통합을 통해 GenStudio for Performance Marketing은 보다 체계적이고 투명하며 공동 검토 프로세스를 향상시켜 팀이 더 높은 신뢰도와 선명도로 초안에서 결승으로 이동할 수 있도록 지원합니다.
+>이 기능은 [Adobe Workfront Proof와의 통합](/help/user-guide/approvals/proof-integration.md)으로도 사용할 수 있습니다. 이 통합은 GenStudio for Performance Marketing 캔버스에서 증명 기능을 제공합니다. Workfront Proof 통합을 통해 GenStudio for Performance Marketing은 보다 체계적이고 투명하며 공동 검토 프로세스를 향상시켜 팀이 더 높은 신뢰도와 선명도로 초안에서 결승으로 이동할 수 있도록 지원합니다.
 
 ## 검토 및 승인 워크플로우 이점
 
@@ -33,7 +39,7 @@ ht-degree: 0%
 
 * **캠페인 목표 및 법적 요구 사항 준수**. 승인 프로세스는 콘텐츠가 캠페인 목표를 지원하는지 확인하는 데 도움이 됩니다. 모든 마케팅 자료가 법률 및 규제 표준을 준수하도록 하여 위험과 잠재적인 법적 문제를 최소화합니다.
 
-* **Adobe Workfront 증명과 통합**. 사용자는 GenStudio for Performance Marketing 내에서 Workfront Proof의 강력한 검토 및 승인 기능에 액세스할 수 있습니다. GenStudio for Performance Marketing에서 검토한 콘텐츠는 Workfront Proof에 동기화되며 검토 주석 및 상태가 유지됩니다. [통합은 ](/help/user-guide/approvals/proof-integration.md)을(를) 강조하여 Proof이 GenStudio for Performance Marketing의 승인 워크플로를 확장하는 방법을 식별합니다.
+* **Adobe Workfront 증명과 통합**. 사용자는 GenStudio for Performance Marketing 내에서 Workfront Proof의 강력한 검토 및 승인 기능에 액세스할 수 있습니다. GenStudio for Performance Marketing에서 검토한 콘텐츠는 Workfront Proof에 동기화되며 검토 주석 및 상태가 유지됩니다. [통합은 &#x200B;](/help/user-guide/approvals/proof-integration.md)을(를) 강조하여 Proof이 GenStudio for Performance Marketing의 승인 워크플로를 확장하는 방법을 식별합니다.
 
 ## 검토 및 승인 주기
 
@@ -63,7 +69,7 @@ _초안_&#x200B;은(는) 검토 및 승인 프로세스를 완료하지 않은 �
 
 >[!NOTE]
 >
-초안은 Workfront Proof 통합 사용자의 _증명_&#x200B;에 해당합니다. [초안 및 증명 ](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs)은(는) 지속성 및 버전 관리 측면에서 다릅니다.
+>초안은 Workfront Proof 통합 사용자의 _증명_&#x200B;에 해당합니다. [초안 및 증명 &#x200B;](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs)은(는) 지속성 및 버전 관리 측면에서 다릅니다.
 
 ## 승인 역할
 

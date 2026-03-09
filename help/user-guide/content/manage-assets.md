@@ -4,11 +4,23 @@ description: 디지털 마케팅 여정에서 사용하고 재사용하기 위�
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
 TQID: https://experienceleague.adobe.com/G9pgYplVoU0cVTOveP57W7MtUehg1E5GAiuGzjL8wRc
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f321b88b-6bb7-49cc-a16a-ae2b665ebd32id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 1518
@@ -42,13 +54,13 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 **재사용할 콘텐츠를 검색하려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL Assets]**섹션을 선택합니다.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL Assets]**&#x200B;섹션을 선택합니다.
 
 1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets` 는 기본 저장소입니다.
 
    >[!IMPORTANT]
    >
-   _위치_ 목록은 [AEM 저장소에 연결](connect-aem-repo.md)하는 경우에만 사용할 수 있습니다.
+   >_위치_ 목록은 [AEM 저장소에 연결](connect-aem-repo.md)하는 경우에만 사용할 수 있습니다.
 
 1. 키워드나 설명을 입력하려면 **[!UICONTROL 검색]**(돋보기)을 클릭하십시오.
 
@@ -102,7 +114,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **하나 이상의 자산을 추가하려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 자산 추가]**를 클릭합니다.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 자산 추가]**&#x200B;를 클릭합니다.
 
 2. _승인된 에셋 추가_ 보기에서 드롭 공간에 파일을 드롭합니다. 필요한 경우 **[!UICONTROL 찾아보기]**&#x200B;를 사용하여 로컬 파일에서 선택하거나 Dropbox 또는 Microsoft OneDrive에서 파일을 가져올 수 있습니다.
 
@@ -126,7 +138,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **자산을 다운로드하려면**:
 
-1. _[!DNL Content]_에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_&#x200B;에서 에셋 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL 다운로드]** 아이콘(아래쪽을 가리키는 화살표)을 클릭합니다.
 
@@ -136,7 +148,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 **자산을 삭제하려면**:
 
-1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_&#x200B;에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽 상단의 **[!UICONTROL 삭제]**(휴지통)을 클릭합니다.
 
@@ -148,11 +160,11 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 >[!WARNING]
 >
-검색된 에셋은 삭제하지 않고 표시하는 것은 안전하지 않습니다. 모든 사용자는 입력 정리 기술을 사용하여 템플릿에서 XSS(크로스 사이트 스크립팅)를 처리해야 합니다.
+>검색된 에셋은 삭제하지 않고 표시하는 것은 안전하지 않습니다. 모든 사용자는 입력 정리 기술을 사용하여 템플릿에서 XSS(크로스 사이트 스크립팅)를 처리해야 합니다.
 
 **경험을 내보내거나 다운로드하려면**:
 
-1. _[!DNL Content]_에서 경험을 하나 이상 선택하십시오.
+1. _[!DNL Content]_&#x200B;에서 경험을 하나 이상 선택하십시오.
 
    배너는 왼쪽에 선택한 경험 수와 오른쪽에 [!UICONTROL 활성화], [!UICONTROL 다운로드] 또는 [!UICONTROL 삭제]에 대한 옵션이 표시됩니다.
 
@@ -185,7 +197,7 @@ Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직�
 
 **Express로 자산을 편집하려면**:
 
-1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_&#x200B;에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL Adobe Express에서 편집]** 아이콘을 클릭합니다.
 
@@ -203,6 +215,6 @@ Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직�
 
    >[!TIP]
    >
-   자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
+   >자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
 
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
