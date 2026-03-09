@@ -3,9 +3,13 @@ title: App Builder 앱 만들기
 description: 앱 또는 추가 기능 빌드를 시작하여 GenStudio for Performance Marketing을 확장합니다.
 feature: Extensibility
 exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
-source-git-commit: 04a4f6432c5db87489e39f9396a7782c86441695
+TQID: https://experienceleague.adobe.com/-GBttZv63YVWezBz1o9yrxvd-Uu5mbP-Aqh7Tm-kco4
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: 496
 ht-degree: 0%
 
 ---
@@ -108,7 +112,7 @@ App Builder 앱의 주요 구성 요소에는 이러한 빌드 및 구성 파일
 
 `AdditionalContextDialog.tsx` 및 `RightPanel.tsx` 파일에 추가 기능 코드를 정의합니다. 이 두 파일은 사용자가 추가 기능에 액세스할 때 팝업 모양과 동작을 정의합니다.
 
-* `AdditionalContextDialog.tsx`: _컨텍스트 추가_ 추가 기능을 사용하려면 이 구성 요소를 정의하십시오. 사용자가 _의 프롬프트 창에서_&#x200B;추가 기능[!DNL Create]을(를) 클릭하면 이 구성 요소와 상호 작용합니다.
+* `AdditionalContextDialog.tsx`: _컨텍스트 추가_ 추가 기능을 사용하려면 이 구성 요소를 정의하십시오. 사용자가 [!DNL Create]의 프롬프트 창에서 _추가 기능_&#x200B;을(를) 클릭하면 이 구성 요소와 상호 작용합니다.
 
 * `RightPanel.tsx`: _오른쪽 패널_ 추가 기능(경험 유효성 검사)을 사용하려면 이 구성 요소를 정의하십시오. 사용자가 [!DNL Create] 경험 초안의 오른쪽 패널에서 유효성 검사 추가 기능을 클릭하면 이 구성 요소와 상호 작용합니다.
 

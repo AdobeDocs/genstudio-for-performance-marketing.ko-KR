@@ -5,9 +5,14 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 85432185-8311-411b-b57b-f482c3d45854
-source-git-commit: ff694925dea4741d13ae71a68e23a5e604134521
+TQID: https://experienceleague.adobe.com/YyG3WuMkdVAaACX03qLKzzw-fFA3WfT9K2ohjnQNPcI
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: 287
 ht-degree: 2%
 
 ---
@@ -43,7 +48,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 모든 LinkedIn 템플릿 너비는 1200픽셀로 하드코딩됩니다.
 
-| 종횡비 | Platform | 치수(픽셀) | 메모 |
+| 종횡비 | Platform | 치수(픽셀) | 참고 |
 |-------------------|-----------------|------------|-------------------------------------------------------------------------------------|
 | 사각형 1:1 | 데스크탑, 모바일 | 1200 x 1200 | 가장 다재다능합니다. 여러 장치와 배치에서 일관된 모습에 이상적입니다. |
 | 가로 1.91:1 | 데스크탑 | 1200 x 628 | 표준 가로 형식. 스폰서 콘텐츠 및 뉴스 피드 광고에 일반적으로 사용됩니다. |

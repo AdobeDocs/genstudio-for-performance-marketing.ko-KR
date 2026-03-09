@@ -6,9 +6,16 @@ role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
-source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
+TQID: https://experienceleague.adobe.com/egZtqgG24xRPuMu7QAnuo25ZgUr-q7hGL9-k1x-PCQ0
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c1579802-ddd4-4214-8a91-97b2066abe11id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: 750
 ht-degree: 0%
 
 ---
@@ -93,7 +100,7 @@ ht-degree: 0%
 1. 계정으로 로그인합니다. 계정에는 비즈니스 관리자에 대한 관리자 액세스 권한이 있어야 합니다.
 1. Business Portfolio 설정으로 이동하려면 왼쪽 하단의 **[!UICONTROL 설정]** 톱니바퀴 아이콘을 클릭합니다.
 1. 왼쪽 메뉴에서 **[!UICONTROL 통합]**&#x200B;을 클릭합니다.
-1. **[!UICONTROL 연결된 앱]**&#x200B;을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
+1. **[!UICONTROL 연결된 앱]**을 선택하세요. 연결된 앱 목록에 Adobe GenStudio이 표시됩니다.
    ![Meta Business Manager 연결된 앱](./meta-connected-apps.png "Meta Business Manager 연결된 앱 창")
 1. 앱 이름을 클릭합니다.
 1. **[!UICONTROL 제거]**&#x200B;를 클릭합니다.

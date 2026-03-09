@@ -3,9 +3,15 @@ title: 텍스트 기능
 description: GenStudio for Performance Marketing에 사용되는 속성 범주의 텍스트 기능에 대해 알아봅니다.
 feature: Reporting and Insights, Text Attributes, Generative AI
 exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
-source-git-commit: 3ccc6313a7c559f1c0846c144d23b783da0aecfa
+TQID: https://experienceleague.adobe.com/Oec5q249StCtuG-2-n1dYmJoEDRPaqLF2QANpwClQ3A
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1290'
+source-wordcount: 1298
 ht-degree: 1%
 
 ---
@@ -41,7 +47,7 @@ GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 �
 | 시적 | 예술적이고 표현력이 풍부합니다. | `Embrace the dawn of a new opportunity.` |
 | 양적- | 숫자 데이터 기반. | `99% of users loved this offer, and you will too.` |
 | 감각 | 감각을 사로잡는 거지 | `Feel the excitement with this incredible offer!` |
-| 스토리텔링 | 메시지를 전달하기 위해 스토리의 내레이션. | `Once upon a time, there was an offer you couldn't refuse.` |
+| Storytelling | 메시지를 전달하기 위해 스토리의 내레이션. | `Once upon a time, there was an offer you couldn't refuse.` |
 
 ## 감정적 호소
 

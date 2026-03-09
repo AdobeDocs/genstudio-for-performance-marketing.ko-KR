@@ -5,9 +5,15 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/-WHH1xjWFaizXTKjuF-K9UtaR12V3QpMezSqRfwbMIU
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: 376
 ht-degree: 1%
 
 ---
@@ -25,7 +31,7 @@ GenStudio for Performance Marketing에서 작동하도록 Meta 광고 템플릿�
 - 뷰포트를 **정의 안 함**
 - JavaScript을 사용하지 **않음**
 - CSS에서 HTML 요소를 재정의하지 **마십시오**
-- `<img>` 대신 `background-image` 태그 사용
+- `background-image` 대신 `<img>` 태그 사용
 - 배경 이미지에 대한 텍스트 가독성을 향상시키려면 마스킹을 사용하십시오
 - 섹션을 하나만 사용하여 단일 템플릿 요소 세트를 생성할 수 있습니다
 
@@ -46,7 +52,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 ## 지원되는 종횡비
 
-| 종횡비 | 치수(픽셀) | 메모 |
+| 종횡비 | 치수(픽셀) | 참고 |
 |------------------|----------------------------|-----------------------------------------------------------------------|
 | 사각형 1:1 | 1080 x 1080 | 대부분의 Meta 배치에 대한 표준, 광범위한 호환성에 권장됩니다. |
 | 세로 4:5 | 1080 x 1350 | 모바일 피드에 최적화되었습니다. 더 많은 수직 공간을 제공합니다. |
@@ -62,7 +68,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 <!-- Does this need to be a precise size? -->
 
-다음은 Meta 광고 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 인라인 CSS가 포함되어 있습니다. 본문에서는 [&#x200B; 및 &#x200B;](#content-placeholders)과(와) 같은 `image`콘텐츠 자리 표시자`on_image_text`를 사용하여 GenStudio for Performance Marketing에서 콘텐츠를 생성할 수 있는 위치를 나타냅니다.
+다음은 Meta 광고 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 인라인 CSS가 포함되어 있습니다. 본문에서는 `image` 및 `on_image_text`과(와) 같은 [콘텐츠 자리 표시자](#content-placeholders)를 사용하여 GenStudio for Performance Marketing에서 콘텐츠를 생성할 수 있는 위치를 나타냅니다.
 
 ```html {line-numbers="true" highlight="33"}
 <!DOCTYPE html>

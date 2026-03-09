@@ -3,9 +3,15 @@ title: Adobe GenStudio for Performance Marketing의 브랜드 유효성 검사
 description: GenStudio for Performance Marketing의 기본 제공 브랜드 유효성 검사 시스템에 대해 알아봅니다.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 6a33f7e3a769eda459f70e6ab4e8559064ede2b4
+TQID: https://experienceleague.adobe.com/0avyL5lvm9hWdlxGE0RwPhP0dX2bA91GNnlKLG1oqEY
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: f54ee13b-9545-4d68-9842-a12026e60aafid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: 786
 ht-degree: 0%
 
 ---
@@ -28,7 +34,7 @@ GenStudio for Performance Marketing은 다음을 포함하여 다양한 측면�
 
 _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
-* 유효성 검사를 통과한 [[!DNL Brand]](brands.md)지침[과(와) 테스트한 지침의 수로 계산된 &#x200B;](overview.md)에 대한 준수 비율
+* 유효성 검사를 통과한 [지침](overview.md)과(와) 테스트한 지침의 수로 계산된 [[!DNL Brand]](brands.md)에 대한 준수 비율
 * Meta 또는 LinkedIn과 같은 플랫폼 지침에 대한 `Pass` 또는 `Fail` 결과
 * ADA 접근성 표준에 대한 `Pass` 또는 `Fail` 결과
 
@@ -40,17 +46,17 @@ _콘텐츠 확인_ 요약에 다음이 표시됩니다.
 
 ## 컨텐츠 확인 패널
 
-_콘텐츠 확인_ 요약 아이콘&#x200B;_에서 오른쪽 작업 표시줄_&#x200B;또는&#x200B;[_을(를) 클릭하면 캔버스 오른쪽에_&#x200B;콘텐츠 확인](#content-check-summary) 패널이 열립니다. 이 패널에서는 자세한 브랜드 유효성 검사, 플랫폼 지침 및 접근성 표준 정보를 제공하고 개선 기회를 설명합니다.
+[_콘텐츠 확인_ 요약 아이콘](#content-check-summary)에서 오른쪽 작업 표시줄 _또는_&#x200B;을(를) 클릭하면 캔버스 오른쪽에 _콘텐츠 확인_ 패널이 열립니다. 이 패널에서는 자세한 브랜드 유효성 검사, 플랫폼 지침 및 접근성 표준 정보를 제공하고 개선 기회를 설명합니다.
 
 ![콘텐츠 확인 패널](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
 _콘텐츠 검사_ 패널에 이미지 및 변형 섹션에 대한 유효성 검사 및 [준수 정보](/help/user-guide/guidelines/overview.md#compliance)가 표시됩니다.
 
-* _에 대한_&#x200B;콘텐츠 검사[!DNL Brand] 요약 정보 표시, 플랫폼 지침 및 접근성 표준
+* [!DNL Brand]에 대한 _콘텐츠 검사_ 요약 정보 표시, 플랫폼 지침 및 접근성 표준
 * 실패한 지침의 수와 수정이 필요한 각 지침에 대한 자세한 정보를 표시하는 _검토 필요_ 섹션
 * _통과_ 섹션에 전달된 지침의 수와 각 통과 지침에 대한 자세한 정보가 표시됩니다.
 
-[콘텐츠 확인](#improve-brand-alignment) 패널 점수를 개선하는 방법을 알아보려면 _브랜드 정렬 개선_&#x200B;을 참조하세요.
+_콘텐츠 확인_ 패널 점수를 개선하는 방법을 알아보려면 [브랜드 정렬 개선](#improve-brand-alignment)을 참조하세요.
 
 ### 컨텐츠 유형
 
@@ -74,7 +80,7 @@ _콘텐츠 검사_ 패널에서 수행할 지침 및 접근성 표준 검사를 
 
    >[!NOTE]
    >
-   > _콘텐츠 확인_ 패널에 언급된 _브랜드 음성_ 지침은 개별 섹션이 아닌 전체 변형에 적용됩니다. 전체 콘텐츠 변형은 제안된 개선 사항을 위해 강조 표시됩니다.
+   _콘텐츠 확인_ 패널에 언급된 _브랜드 음성_ 지침은 개별 섹션이 아닌 전체 변형에 적용됩니다. 전체 콘텐츠 변형은 제안된 개선 사항을 위해 강조 표시됩니다.
 
 1. 현재 준수하지 않는 지침을 수정하려면 클릭하십시오.
 1. _제목_, _색상_, _브랜드 음성_ 등의 사용 가능한 섹션에서 검토해야 하는 각 검사를 확장하고 검사하려면 클릭하십시오.

@@ -3,9 +3,15 @@ title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/2VdZdQv90JGEpCM7BE4egbz933eotbeePy3ze35mM0o
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e6ff21d3-dec6-4298-8590-7c749fffaf78
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2125
 ht-degree: 0%
 
 ---
@@ -49,7 +55,7 @@ Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디
 1. 새 텍스트를 입력합니다.
 1. 텍스트 서식을 지정하려면 해당 텍스트를 강조 표시하고 **[!UICONTROL 텍스트 서식**]을 클릭합니다.
 
-   사용 가능한 서식 옵션 중 일부(또는 모두!)를 텍스트에 적용합니다.
+   모두 적용 텍스트 서식 지정 옵션 중 하나를 선택할 수 있습니다.
 
 1. 텍스트 필드를 클릭하여 저장합니다.
 
@@ -90,7 +96,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 >[!NOTE]
 >
->레이블 텍스트가 템플릿에서 하드 코딩되지 않은 생성된 템플릿 필드인 경우 _[!UICONTROL 구문 변경]_ 옵션을 사용하여 CTA 레이블 텍스트를 편집할 수 있습니다. 링크가 존재하고 편집 가능한 경우( 템플릿에서 하드 코딩되지 않음) _[!UICONTROL 링크 편집]_ 옵션을 사용하여 CTA 링크를 편집할 수 있습니다.
+레이블 텍스트가 템플릿에서 하드 코딩되지 않은 생성된 템플릿 필드인 경우 _[!UICONTROL 구문 변경]_ 옵션을 사용하여 CTA 레이블 텍스트를 편집할 수 있습니다. 링크가 존재하고 편집 가능한 경우( 템플릿에서 하드 코딩되지 않음) _[!UICONTROL 링크 편집]_ 옵션을 사용하여 CTA 링크를 편집할 수 있습니다.
 
 **변형에서 CTA을 개정하려면**:
 
@@ -166,7 +172,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
 >[!NOTE]
 >
->다양한 종횡비 및 크기는 이용 가능한 템플릿에 기초하여 이용 가능할 수 있다.
+다양한 종횡비 및 크기는 이용 가능한 템플릿에 기초하여 이용 가능할 수 있다.
 
 **생성된 Meta 광고의 종횡비를 변경하려면**:
 
@@ -174,7 +180,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
    현재 광고에 사용되는 종횡비는 _[!UICONTROL 크기 조정]_ 창의 맨 위에 표시됩니다.
 
-   이 개정의 영향을 받는 변형의 수는 창의 오른쪽 상단 모서리에 표시됩니다. _예_: &quot;4개 변형 중 4개&quot;
+   이 개정의 영향을 받는 변형의 수는 창의 오른쪽 상단 모서리에 표시됩니다. _예제_: &quot;4개 변형 중 4개&quot;
 
 1. [사용 가능한 종횡비](/help/user-guide/templates/meta-template.md#supported-aspect-ratios)를 선택하십시오.
 
@@ -196,7 +202,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 1. **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭합니다.
 1. GenStudio 자산 [!DNL Content] 보기의 필터 및 검색 기능을 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
 
-   [**[!UICONTROL 위치&#x200B;]**&#x200B;메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
+   [**[!UICONTROL 위치&#x200B;]**메뉴](/help/user-guide/content/manage-assets.md#location)에서 해당 저장소를 선택하여 연결된 Adobe Experience Manager(AEM) Assets Content Hub 저장소에서 사용할 수 있는 이미지를 사용할 수도 있습니다.
 
 1. 이미지를 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -297,8 +303,8 @@ _콘텐츠 확인_ 패널을 사용하여 일관된 브랜드 ID, [ADA 접근성
 
 1. 피드백 팝업에 다음 정보를 추가합니다.
    1. _[!UICONTROL 참조 내용 및 레이어 데이터도 포함]_ 옵션을 선택하여 수집된 피드백에 추가 참조 정보를 포함시킵니다.
-   1. _[!UICONTROL 부터 어떤 작업이 잘 수행되었습니까?]_ 또는 _[!UICONTROL 무엇이 잘못되었습니까?]_ 섹션에서 콘텐츠 생성 품질을 높이거나 낮게하는 이유를 설명하는 옵션을 선택하십시오.
+   1. _[!UICONTROL 잘 작동한 항목]_&#x200B;부터 또는 _[!UICONTROL 무엇이 잘못되었습니까?]_ 섹션에서 콘텐츠 생성을 높이거나 낮은 품질로 만드는 요소를 설명하는 옵션을 선택합니다.
    1. _[!UICONTROL 메모]_ 필드에 다른 유용한 정보나 관련 정보를 추가하십시오.
-1. **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL 제출을 클릭합니다]**.
 
    피드백을 제출했음을 확인하는 배너가 나타납니다.

@@ -3,9 +3,15 @@ title: LinkedIn 광고 활성화
 description: LinkedIn 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/1mcxWePqYd8tYp3e1D2UTSeBHSvPj4WrqeSyiUCxD8c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: 863
 ht-degree: 0%
 
 ---
@@ -60,7 +66,7 @@ _미리 보기 패널_&#x200B;은(는) 특정 광고 배치 컨텍스트에서 �
 
 **경험을 선택하려면**:
 
-1. [!DNL Content] 갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다. 또는 한 개의 경험을 선택하고 기타(...) 메뉴에서 **[!UICONTROL 활성화]**&#x200B;를 선택할 수 있습니다.
+1. [!DNL Content] 갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다. 또는 한 개의 경험을 선택하고 기타(...)에서 **[!UICONTROL 활성화]**&#x200B;를 선택할 수 있습니다. 메뉴 아래의 제품에서 사용할 수 있습니다.
 
    이 경험에 대한 LinkedIn 광고 _경험 설정_ 페이지가 열립니다. 선택한 경험의 세부 정보로 미리 채워집니다. 활성화를 계속하기 전에 플랫폼을 선택하라는 메시지가 표시될 수 있습니다.
 
@@ -94,7 +100,7 @@ _검토_ 페이지에서는 게시하기 전에 활성화를 검토할 수 있�
 
 **환경을 검토하고 게시하려면**:
 
-1. (선택 사항) 편집할 경험 또는 플랫폼 세부 정보 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭합니다.
+1. (선택 사항) 편집할 경험 또는 플랫폼 세부 정보 옆에 있는 **[!UICONTROL 섹션 편집]**을 클릭합니다.
 선택한 섹션에 따라 _경험 설정_ 또는 _플랫폼 설정_ 보기가 열립니다.
 
 1. (선택 사항) 세부 정보를 편집한 다음 **[!UICONTROL 다음]**&#x200B;을 클릭하여 _검토_ 보기로 돌아갑니다.

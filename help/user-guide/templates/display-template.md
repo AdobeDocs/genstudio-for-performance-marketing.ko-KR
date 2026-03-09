@@ -5,10 +5,15 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/HjkLWiyqK1quHoZB5lEE-qyB3zci12KlRAZC8ME-9Ao
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: 300
+ht-degree: 1%
 
 ---
 
@@ -45,7 +50,7 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 
 너비 x 높이(픽셀)를 설정해야 합니다.
 
-| 방향 | 치수(픽셀) | 메모 |
+| 방향 | 치수(픽셀) | 참고 |
 |--------------|-------------------------------------------------------------|------------------------------------------------------------------|
 | 세로 | 300 x 600<br>160 x 600 | 고층빌딩과 반 페이지 배너에 대한 일반적인. |
 | 가로 | 300 x 250<br>728 x 90<br>336 x 280<br>320 x 50<br>970 x 250 | 표준 순위표, 중간 사각형 및 배너 크기. |

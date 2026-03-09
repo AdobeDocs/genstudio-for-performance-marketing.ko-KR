@@ -4,9 +4,16 @@ description: GenStudio for Performance Marketing에 사용되는 속성 범주�
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
+TQID: https://experienceleague.adobe.com/s-8h3ODnNuRyebiDTLZGQORJzPnPOcPzQjIhWBmpk-c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: 572
 ht-degree: 1%
 
 ---
@@ -23,7 +30,7 @@ GenStudio for Performance Marketing의 오디오 감지에는 다양한 속성�
 
 **비디오를 미리 보고 오디오 샘플을 들으려면**:
 
-1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 특성]**&#x200B;보기를 선택하십시오.
+1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 특성]**보기를 선택하십시오.
 
 1. **[!UICONTROL 비디오]**&#x200B;를 선택하여 테이블 보기를 변경합니다.
 
@@ -48,7 +55,7 @@ GenStudio for Performance Marketing의 오디오 감지에는 다양한 속성�
 | 카테고리 | 비디오를 하나 이상의 광범위한 콘텐츠 카테고리로 분류합니다. | `Entertainment`, `Sports`, `Music`, `Gaming`, `Howto tutorials`, `Fashion and style`, `Film and animation`, `Science and technology`, `Autos and vehicles`, `Pets and animals`, `People and blogs`, `News and politics`, `Social causes and activism`, `Travel and events`, `Education`, `Sales and offers` |
 | 음악 카테고리 | 비디오에 음악이 있는 경우 음악 장르의 광범위한 분류. 장르는 `contemporary` 또는 `traditional` 스타일과 같은 일반적인 음악 형식을 식별하는 데 도움이 됩니다. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
 | 음악 장르 | 비디오에 음악이 있는 경우 음악 스타일의 특정 분류로, `electronic` 또는 `jazz`과 같이 음악에 대한 보다 자세한 식별을 제공합니다. | `electronic`, `hip-hop`, `dance`, `novelty`, `rock`, `world`, `reggae`, `pop`, `film`, `jazz`, `background`, `latin` |
-| 오브젝트 | 비디오에 나타나는 하나 이상의 항목, 엔티티 및 요소를 식별합니다. | 값이 너무 많지만 `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` 등이 있습니다. |
+| 개체 | 비디오에 나타나는 하나 이상의 항목, 엔티티 및 요소를 식별합니다. | 값이 너무 많지만 `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` 등이 있습니다. |
 | 방향 | 폭 및 높이를 기준으로 한 비디오 맞춤입니다. 큰 키보다 넓은지(가로), 넓은 키보다 큰지(세로) 또는 폭과 높이가 같은지(사각형) 여부를 검색합니다. | `landscape`, `portrait`, `square` |
 | 사람 | 적어도 하나의 사람이 존재하는 경우, 하나 이상의 속성은 사람, 또는 비디오 내에 존재하는 사람을 기술할 수 있다. | `person`, `woman`, `man`, `girl`, `boy`, `social group`, `kid`, `crowd`, `people` |
 | 장면 | 비디오 내의 설정이나 환경을 식별하여 비디오가 만들어진 위치나 묘사된 위치 유형에 대한 컨텍스트를 제공합니다. | 값이 너무 많지만 `lake`, `underwater`, `highway`, `hill`, `log cabin`, `island`, `beach`, `lounge` 등이 있습니다. |

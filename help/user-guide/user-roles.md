@@ -5,16 +5,23 @@ level: Beginner
 feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 4bef680734ee3369c13b10088fd39f22995a5f0f
+TQID: https://experienceleague.adobe.com/H1MbYm5RniRbZBous-F4nBi-2h5RD1AG4IgydlP22-c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1123'
-ht-degree: 1%
+source-wordcount: 1155
+ht-degree: 10%
 
 ---
 
 # 사용자 역할 및 권한
 
-최신 마케팅 캠페인을 만들고 배포하려면 다양한 책임과 기술을 가진 관련자 간의 협업이 필요합니다. _사용자 역할_&#x200B;은(는) GenStudio for Performance Marketing의 다양한 기능에 대한 이해 당사자 액세스를 제어합니다. 할당된 사용자 역할에 따라 이 플랫폼을 사용하여 수행할 수 있는 작업이 결정됩니다. Adobe 시스템 관리자는 사용자를 Adobe Admin Console의 GenStudio 제품 프로필에 있는 역할에 할당합니다. 시작 이메일은 할당된 역할을 식별합니다.
+최신 마케팅 캠페인을 만들고 배포하려면 다양한 책임과 기술을 가진 관련자 간의 협업이 필요합니다. _사용자 역할_&#x200B;은(는) GenStudio for Performance Marketing의 다양한 기능에 대한 관련자 액세스를 제어합니다. 할당된 사용자 역할에 따라 이 플랫폼을 사용하여 수행할 수 있는 작업이 결정됩니다. Adobe 시스템 관리자는 사용자를 Adobe Admin Console의 GenStudio 제품 프로필에 있는 역할에 할당합니다. 시작 이메일은 할당된 역할을 식별합니다.
 
 >[!NOTE]
 >
@@ -26,9 +33,9 @@ ht-degree: 1%
 
 **Adobe 시스템 관리자**&#x200B;는 Adobe Admin Console에서 고급 사용자 권한을 가지며 사용자 추가 또는 삭제와 같은 모든 사용자 관리 작업을 수행합니다. 이 시스템 관리자 역할은 GenStudio for Performance Marketing 애플리케이션에서 권한을 제공하지 않으므로 Adobe 시스템 관리자가 GenStudio에 대한 라이선스를 필요로 하지 않는 이유를 설명합니다. Adobe 시스템 관리자는 일반적으로 Admin Console을 사용하여 GenStudio 배포에서 사용자 계정을 추가 및 삭제하고 개별 사용자 또는 사용자 그룹에서 권한 또는 권한을 할당하거나 제거합니다.
 
-**GenStudio 시스템 관리자**&#x200B;는 GenStudio for Performance Marketing의 고급 사용자이지만 Adobe Admin Console에서 작업을 수행할 수 있는 권한이 없습니다. 이 시스템 관리자 역할에는 GenStudio 제품 라이선스가 필요하며 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)의 고급 사용자에 해당합니다. GenStudio 시스템 관리자에게는 [!DNL Brands], [!DNL Persona] 및 [!DNL Product] 생성, 삭제, 업데이트 및 게시를 비롯한 GenStudio for Performance Marketing 기능에 대한 모든 권한이 있습니다. [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에서는 GenStudio 사용자 역할이 제품 라이선스와 어떤 관련이 있는지 설명합니다.
+**GenStudio 시스템 관리자**&#x200B;는 GenStudio for Performance Marketing의 고급 사용자이지만 Adobe Admin Console에서 작업을 수행할 수 있는 권한이 없습니다. 이 시스템 관리자 역할에는 GenStudio 제품 라이선스가 필요하며 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)의 고급 사용자에 해당합니다. GenStudio 시스템 관리자에게는 [!DNL Brands], [!DNL Persona] 및 [!DNL Product] 생성, 삭제, 업데이트 및 게시를 비롯한 GenStudio for Performance Marketing 기능에 대한 모든 권한이 있습니다. [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에서는 GenStudio 사용자 역할이 제품 라이선스와 어떤 관련이 있는지 설명합니다.
 
-[엔터프라이즈 및 팀 관리 가이드](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html#enterprise)에서 _관리 역할_&#x200B;을 참조하세요.
+_엔터프라이즈 및 팀 관리 가이드_&#x200B;에서 [관리 역할](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise)을 참조하세요.
 
 ## 권한 부여
 
@@ -58,7 +65,7 @@ _편집자_ 또는 콘텐츠 작성자는 GenStudio for Performance Marketing [!
 
 | 기능 | 만들기 | 업데이트 | 삭제 | 보기 |
 |-----------|----------------|----------------|----------------|----------------|
-| [!DNL Brands] | 아니요 | 아니요 | 아니요 | 예 |
+| [!DNL Brands] | 아니오 | 아니오 | 아니오 | 예 |
 | [!DNL Campaigns] | 예 | 예 | 예 | 예 |
 | [!DNL Content] | 예 | 예 | 예 | 예 |
 | [!DNL Create] | 예 | 예 | 예 | 예 |
@@ -66,13 +73,13 @@ _편집자_ 또는 콘텐츠 작성자는 GenStudio for Performance Marketing [!
 | [!DNL Personas] | 예 | 예 | 예 | 예 |
 | [!DNL Products] | 예 | 예 | 예 | 예 |
 | [!DNL Reviews and approvals] | 예 | 예 | 예 | 예 |
-| [!DNL Templates] | 아니요 | 아니요 | 아니요 | 예 |
+| [!DNL Templates] | 아니오 | 아니오 | 아니오 | 예 |
 
 GenStudio 시스템 관리자는 편집자에게 [!DNL Brand]을(를) 편집하고 삭제할 권한을 부여할 수 있습니다.
 
 ### GenStudio 공동 작업자
 
-_공동 작업자_&#x200B;는 GenStudio for Performance Marketing에서 자산을 볼 수 있지만 이러한 자산을 만들거나 편집하거나 삭제할 수는 없습니다. 예를 들어 공동 작업자가 *에 액세스하려고 하면 &quot;*&#x200B;이 컨텐츠에 대한 액세스 권한이 없습니다[[!DNL Create]](/help/user-guide/create/overview.md)&quot; 메시지가 표시됩니다.
+_공동 작업자_&#x200B;는 GenStudio for Performance Marketing에서 자산을 볼 수 있지만 이러한 자산을 만들거나 편집하거나 삭제할 수는 없습니다. 예를 들어 공동 작업자가 [[!DNL Create]](/help/user-guide/create/overview.md)에 액세스하려고 하면 &quot;*이 컨텐츠에 대한 액세스 권한이 없습니다*&quot; 메시지가 표시됩니다.
 
 공동 작업자에는 콘텐츠에 대한 검토 및 승인 프로세스의 성공에 필수적이지만 콘텐츠를 만들거나 직접 편집할 필요가 없는 관련자가 포함됩니다. 법률전문가와 창작 경영자는 잠재적 공동 작업자의 사례이다. GenStudio for Performance Marketing 공동 작업자는 다른 Creative Cloud 제품에서 에셋을 만들고 볼 수 있는 권한을 가질 수 있습니다.
 
@@ -80,15 +87,15 @@ _공동 작업자_&#x200B;는 GenStudio for Performance Marketing에서 자산�
 
 | 기능 | 만들기 | 업데이트 | 삭제 | 보기 |
 |-----------|----------------|----------------|----------------|----------------|
-| [!DNL Brands] | 아니요 | 아니요 | 아니요 | 예 |
+| [!DNL Brands] | 아니오 | 아니오 | 아니오 | 예 |
 | [!DNL Campaigns] | 예 | 예 | 예 | 예 |
-| [!DNL Content] | 아니요 | 아니요 | 아니요 | 예 |
-| [!DNL Create] | 아니요 | 아니요 | 아니요 | 예 |
-| [!DNL Insights] | 아니요 | 아니요 | 아니요 | 예 |
+| [!DNL Content] | 아니오 | 아니오 | 아니오 | 예 |
+| [!DNL Create] | 아니오 | 아니오 | 아니오 | 예 |
+| [!DNL Insights] | 아니오 | 아니오 | 아니오 | 예 |
 | [!DNL Personas] | 예 | 예 | 예 | 예 |
 | [!DNL Products] | 예 | 예 | 예 | 예 |
-| [!DNL Reviews and approvals] | 아니요 | 아니요 | 아니요 | 예 |
-| [!DNL Templates] | 아니요 | 아니요 | 아니요 | 예 |
+| [!DNL Reviews and approvals] | 아니오 | 아니오 | 아니오 | 예 |
+| [!DNL Templates] | 아니오 | 아니오 | 아니오 | 예 |
 
 ### GenStudio 시스템 관리자
 

@@ -4,9 +4,15 @@ description: GenStudio for Performance Marketing 검토 및 승인 프로세스�
 level: Beginner
 feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
-source-git-commit: 7955796949c17f7cd877b115cba45c58cdd614a7
+TQID: https://experienceleague.adobe.com/2oFwfqVPlW24irHth-mkEx-ciO5tQgNv2hwAYmkfi-g
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: 890
 ht-degree: 0%
 
 ---
@@ -17,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 이 기능은 [Adobe Workfront Proof와의 통합](/help/user-guide/approvals/proof-integration.md)으로도 사용할 수 있습니다. 이 통합은 GenStudio for Performance Marketing 캔버스에서 증명 기능을 제공합니다. Workfront Proof 통합을 통해 GenStudio for Performance Marketing은 보다 체계적이고 투명하며 공동 검토 프로세스를 향상시켜 팀이 더 높은 신뢰도와 선명도로 초안에서 결승으로 이동할 수 있도록 지원합니다.
+이 기능은 [Adobe Workfront Proof와의 통합](/help/user-guide/approvals/proof-integration.md)으로도 사용할 수 있습니다. 이 통합은 GenStudio for Performance Marketing 캔버스에서 증명 기능을 제공합니다. Workfront Proof 통합을 통해 GenStudio for Performance Marketing은 보다 체계적이고 투명하며 공동 검토 프로세스를 향상시켜 팀이 더 높은 신뢰도와 선명도로 초안에서 결승으로 이동할 수 있도록 지원합니다.
 
 ## 검토 및 승인 워크플로우 이점
 
@@ -27,7 +33,7 @@ ht-degree: 0%
 
 * **캠페인 목표 및 법적 요구 사항 준수**. 승인 프로세스는 콘텐츠가 캠페인 목표를 지원하는지 확인하는 데 도움이 됩니다. 모든 마케팅 자료가 법률 및 규제 표준을 준수하도록 하여 위험과 잠재적인 법적 문제를 최소화합니다.
 
-* **Adobe Workfront 증명과 통합**. 사용자는 GenStudio for Performance Marketing 내에서 Workfront Proof의 강력한 검토 및 승인 기능에 액세스할 수 있습니다. GenStudio for Performance Marketing에서 검토한 콘텐츠는 Workfront Proof에 동기화되며 검토 주석 및 상태가 유지됩니다. [통합 하이라이트](/help/user-guide/approvals/proof-integration.md)는 Proof이 GenStudio for Performance Marketing의 승인 워크플로를 확장하는 방법을 식별합니다.
+* **Adobe Workfront 증명과 통합**. 사용자는 GenStudio for Performance Marketing 내에서 Workfront Proof의 강력한 검토 및 승인 기능에 액세스할 수 있습니다. GenStudio for Performance Marketing에서 검토한 콘텐츠는 Workfront Proof에 동기화되며 검토 주석 및 상태가 유지됩니다. [통합은 ](/help/user-guide/approvals/proof-integration.md)을(를) 강조하여 Proof이 GenStudio for Performance Marketing의 승인 워크플로를 확장하는 방법을 식별합니다.
 
 ## 검토 및 승인 주기
 
@@ -53,21 +59,21 @@ _초안_&#x200B;은(는) 검토 및 승인 프로세스를 완료하지 않은 �
 
 **알림**: 콘텐츠 편집기가 승인자에게 초안을 검토할 준비가 되었음을 알려 검토 및 승인 프로세스를 시작했습니다.
 **작업 필요**: 하나 이상의 승인자가 콘텐츠 초안에 대한 변경을 요청했음을 나타냅니다. 이 상태의 콘텐츠를 [!DNL Content]에 저장할 수 없습니다.
-**승인됨**: 모든 지정 승인자가 자산 또는 경험을 승인했습니다. 이제 콘텐츠 편집기에서 에셋 또는 경험에 메타데이터를 추가하고 [!DNL Content]에 저장할 수 있습니다.
+**승인됨**: 지정된 모든 승인자가 자산 또는 경험을 승인했습니다. 이제 콘텐츠 편집기에서 에셋 또는 경험에 메타데이터를 추가하고 [!DNL Content]에 저장할 수 있습니다.
 
 >[!NOTE]
 >
-> 초안은 Workfront Proof 통합 사용자의 _증명_&#x200B;에 해당합니다. [초안 및 증명](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs)은(는) 지속성 및 버전 관리 측면에서 다릅니다.
+초안은 Workfront Proof 통합 사용자의 _증명_&#x200B;에 해당합니다. [초안 및 증명 ](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs)은(는) 지속성 및 버전 관리 측면에서 다릅니다.
 
 ## 승인 역할
 
-_검토자_&#x200B;이(가) 댓글을 추가할 수 있지만 콘텐츠를 승인할 수 없습니다. 검토자 참여는 도움이 되지만 반드시 필요한 것은 아닙니다. _승인자_&#x200B;이(가) 승인 프로세스를 진행하려면 먼저 콘텐츠를 승인해야 합니다. Workfront Proof 통합은 더 넓은 범위의 사용자 역할을 지원합니다.
+_검토자_&#x200B;이(가) 댓글을 추가할 수 있지만 콘텐츠를 승인할 수 없습니다. 검토자 참여는 도움이 되지만 반드시 필요한 것은 아닙니다. _승인 프로세스를 진행하려면 승인자_&#x200B;이(가) 콘텐츠를 승인해야 합니다. Workfront Proof 통합은 더 넓은 범위의 사용자 역할을 지원합니다.
 
 ## 알림
 
 GenStudio for Performance Marketing 제품 내 알림은 자산 상태 변경 및 `@mention`개의 댓글을 실시간으로 승인자 및 콘텐츠 편집자를 업데이트합니다. 알림은 여러 검토, 편집 및 승인 주기를 통해 신속한 반복을 지원합니다.
 
-콘텐츠 편집자 및 승인자는 Slack에서 이러한 알림을 수신하기 위해 등록할 수 있습니다. [Experience Cloud에서 서비스 구독](https://experienceleague.adobe.com/ko/docs/core-services/interface/services/customer-attributes/subscription)을 참조하세요.
+콘텐츠 편집자 및 승인자는 Slack에서 이러한 알림을 수신하기 위해 등록할 수 있습니다. [Experience Cloud에서 서비스 구독](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/subscription)을 참조하세요.
 
 승인 참가자가 취한 작업은 자동 제품 내 알림 및 이메일 알림을 트리거합니다. 승인 프로세스를 시작하면 지정된 승인자가 이메일과 제품 내 알림을 모두 받습니다. 승인자가 `@mention`개의 댓글을 추가하거나 결정을 내릴 때마다 제품 내 및 이메일 알림이 반복됩니다. 알림에는 콘텐츠 초안에 대한 링크가 포함되어 있습니다.
 

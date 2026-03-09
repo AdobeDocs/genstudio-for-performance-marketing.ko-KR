@@ -1,14 +1,21 @@
 ---
 title: 유효 프롬프트 작성
-description: 성과 마케팅을 위한 Adobe GenStudio에서 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
+description: Adobe GenStudio for Performance Marketing에 대한 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/ESQljlBQv9vk7Zz-SU-hMNkY2zFy6qawEfkonjXaCkQ
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 2%
+source-wordcount: 758
+ht-degree: 0%
 
 ---
 
@@ -43,11 +50,11 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)에서는 프롬프트 서랍에서 **[!UICONTROL 프롬프트 기준]**([_매개 변수_](/help/user-guide/create/overview.md#parameters) 및 프롬프트)을 사용하여 선택을 통해 세부 정보를 추가하여 AI 해석을 개선할 수 있습니다.
 
-[이메일](/help/user-guide/create/email-experiences.md)의 경우, 프롬프트 기준에는 [매개 변수](/help/user-guide/guidelines/overview.md)의 _지침_ 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [Meta 광고](/help/user-guide/create/create-meta-ad.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
+[이메일](/help/user-guide/create/email-experiences.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 [지침](/help/user-guide/guidelines/overview.md) 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [Meta 광고](/help/user-guide/create/create-meta-ad.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
 
 >[!NOTE]
 >
->프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 컨텐츠 생성 시 이러한 기능을 자동으로 활용합니다.
+프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 컨텐츠 생성 시 이러한 기능을 자동으로 활용합니다.
 
 ### 지침
 
@@ -55,7 +62,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 
 >[!TIP]
 >
->GenStudio for Performance Marketing에서 [!DNL Brand] 지침을 사용하는 방법과 시기를 제어합니다. 브랜드 지침을 구성하고 관리하는 방법은 [지침](/help/user-guide/guidelines/overview.md)을 참조하세요.
+GenStudio for Performance Marketing에서 [!DNL Brand] 지침을 사용하는 방법과 시기를 제어합니다. 브랜드 지침을 구성하고 관리하는 방법은 [지침](/help/user-guide/guidelines/overview.md)을 참조하세요.
 
 ### 구조화된 프롬프트
 
@@ -79,7 +86,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 - 먼저 일반 사용자 프롬프트를 참조한 다음 섹션별 지시문을 참조하십시오.
 - 콜론, 하이픈, 쉼표 또는 기타 구분(`,:;#$!~|@=-%&*^_`)을 섹션 이름 참조와 지시문을 구분하여 사용하십시오. 예를 들어 다음 명령을 섹션별 프롬프트 지시문으로 사용할 수 있습니다. `Pod1; Describe how to easily edit text and swap images.`
 
-다음은 권장 프롬프트 구조를 명확히 하고 `Pod`, `Pod1` 및 `Pod2`과(와) 같이 식별 용어 `Pod3`을(를) 사용하는 이메일 템플릿을 활용하는 샘플 프롬프트입니다.
+다음은 권장 프롬프트 구조를 명확히 하고 `Pod1`, `Pod2` 및 `Pod3`과(와) 같이 식별 용어 `Pod`을(를) 사용하는 이메일 템플릿을 활용하는 샘플 프롬프트입니다.
 
 ```properties
 Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
