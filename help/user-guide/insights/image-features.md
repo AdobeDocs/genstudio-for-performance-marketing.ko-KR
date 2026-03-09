@@ -4,9 +4,26 @@ description: GenStudio for Performance Marketing에 사용되는 속성 범주�
 level: Intermediate
 feature: Reporting and Insights, Image Attributes, Generative AI
 exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+TQID: https://experienceleague.adobe.com/dFi5aYBN8Mr3cYF9tHcAEh2ncDiQdCZiQIPrksmSmdw
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: 1056
 ht-degree: 0%
 
 ---
@@ -19,7 +36,7 @@ ht-degree: 0%
 
 _이미지 스타일_&#x200B;을(를) 확인하는 것은 다른 이미지 특성을 식별하기 위한 토대 역할을 합니다. AI가 적절한 분석 기법을 적용하고 관련 기능을 인식해 이미지에 대한 보다 포괄적인 이해를 유도할 수 있다. 각 스타일은 이미지 인식 및 분석 방법에 영향을 미치는 뚜렷한 시각적 특성을 가지고 있습니다.
 
-이미지 스타일이 `photograph`(으)로 식별되는 경우, AI는 `camera settings`, `camera proximity` 및 `Photography genres`에 대한 추가 트레이트를 분석합니다. 이러한 트레이트는 사진에만 해당되며 이미지의 구성 및 품질에 대한 심층적인 통찰력을 제공합니다. Adobe의 [사진 학습](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)에서 _28가지 사진 스타일 유형_&#x200B;을 확인하고 인기 있는 사진 유형 및 기본 용어에 대해 알아봅니다.
+이미지 스타일이 `photograph`(으)로 식별되는 경우, AI는 `camera settings`, `camera proximity` 및 `Photography genres`에 대한 추가 트레이트를 분석합니다. 이러한 트레이트는 사진에만 해당되며 이미지의 구성 및 품질에 대한 심층적인 통찰력을 제공합니다. Adobe의 _사진 학습_&#x200B;에서 [28가지 사진 스타일 유형](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)을 확인하고 인기 있는 사진 유형 및 기본 용어에 대해 알아봅니다.
 
 이미지 스타일이 `sketch` 또는 `digital cartoon`(으)로 식별되는 경우, 서로 다른 특성 집합이 관련될 수 있습니다. 이러한 계층적 접근 방식은 분석이 상황적으로 정확하고 검사되는 이미지의 특정 유형에 맞게 조정되도록 보장한다.
 
@@ -53,7 +70,7 @@ _이미지 스타일_&#x200B;을(를) 확인하는 것은 다른 이미지 특�
 | 컨텐츠 밀도 | 이미지 내의 시각적 요소 및 세부 정보의 집중으로, 얼마나 많은 정보가 시각적 공간에 채워지는지를 나타냅니다.<p>시청자 초점이 이미지의 여러 영역에 어떻게 분산되는지 측정하는 주의 분산과 달리 콘텐츠 밀도는 존재하는 시각적 정보의 양에 중점을 둡니다. 콘텐츠 밀도가 높을수록 더 많은 요소가 존재함을 의미합니다. | `high`, `medium`, `low`<p>왼쪽의 `low` 밀도 및 오른쪽의 `high` 밀도의 예:<p>![낮은 밀도와 높은 밀도의 공 놀이](/help/assets/category/image-attn-lowhigh.png "낮은 밀도와 높은 밀도의 차이"){width="200" zoomable="yes"} |
 | 이미지 스타일 | 사진이나 스케치와 같은 이미지의 시각적 처리. AI가 이미지 스타일을 결정하면 다른 트레이트를 식별할 수 있다. 예를 들어, 이미지가 사진이면, 카메라 설정, 카메라 근접, 및 조명 조건이 적용될 수 있다. | `Photograph`, `Photograph with text overlay`, `Sketch`, `Painting`, `Digital cartoon`, `Infographics`, `Graphic design`, `Collage`, `Software screenshot`<p>`digital cartoon` 이미지 스타일의 예![만화 이미지 스타일](/help/assets/category/image-style.png "고양이의 이미지 스타일 만화"){width="200" zoomable="yes"} |
 | 조명 상태 | 이미지의 기분, 색조 및 가시성에 영향을 주는 이미지의 품질 및 특성을 설명합니다. | `Golden hour`, `Blue hour`, `Midday`, `Overcast`, `Night`, `Daylighting`, `Incandescent`, `Fluorescent`, `Colorful`, `Studio`<p>`daylighting` 조건의 예:<p>![자연 채광 상태에서 인도에 있는 사람과 개](/help/assets/category/image-lighting.png "자연 채광 상태"){width="200" zoomable="yes"} |
-| 오브젝트 | 이미지를 구성하는 하나 이상의 항목, 엔티티 및 요소를 식별합니다. | 값이 너무 많지만 `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` 등이 있습니다.<p>`toucan` 및 `bird` 개체의 예:<p>![새, Toucan 개체](/help/assets/category/image-objects-bird.png "Toucan 새 개체의 그래픽 디자인"){width="200" zoomable="yes"} |
+| 개체 | 이미지를 구성하는 하나 이상의 항목, 엔티티 및 요소를 식별합니다. | 값이 너무 많지만 `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` 등이 있습니다.<p>`toucan` 및 `bird` 개체의 예:<p>![새, Toucan 개체](/help/assets/category/image-objects-bird.png "Toucan 새 개체의 그래픽 디자인"){width="200" zoomable="yes"} |
 | 방향 | 폭 및 높이를 기준으로 한 이미지 맞춤입니다. 큰 키보다 넓은지(가로), 넓은 키보다 큰지(세로) 또는 폭과 높이가 같은지(사각형) 여부를 검색합니다. | `landscape`, `portrait`, `square`<p>`square` 방향의 예:<p>![사각형 스케치](/help/assets/category/image-orientation-square.png "사각형 방향 꽃 스케치"){width="200" zoomable="yes"} |
 | 사람 | 적어도 한 사람이 존재하는 경우, 하나 이상의 속성은 이미지 내의 사람 또는 사람을 설명할 수 있다. | `person`, `woman`, `man`, `girl`, `boy`, `social group`, `kid`, `crowd`, `people`<p>사람 `woman` 및 `person` 범주의 예:<p>![카메라 있는 사용자](/help/assets/category/image-people.png "카메라 관리하는 사용자"){width="200" zoomable="yes"} |
 | 사진 장르 | `Abstract` 또는 `Landscape`과(와) 같이(가로 방향과 같지 않음) 이미지를 캡처하는 데 사용되는 제목 및 기술을 검색합니다. | `Architecture`, `Astro`, `Landscape`, `Pet`, `Interior`, `Wildlife`, `Night`, `Cityscape`, `Seascape`, `Underwater`, `Storm`, `Adventure sports`, `Fashion`, `Portrait`, `Sports`, `Food`, `Street`, `Event`, `Lifestyle`, `Commercial`, `Group`, `Abstract`, `Minimalist`, `Composite`, `Surreal` <p>[사진 종류](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)를 참조하세요.<p>`Adventure sports`의 예:<p>![카누로 서 있는 사람](/help/assets/category/image-photography-genres.png "카누로 서 있는 노 있는 사람"){width="200" zoomable="yes"} |

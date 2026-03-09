@@ -7,9 +7,29 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c1118ada-7fee-43cd-aff4-eab69539afb4
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/NXtN00EKTe0lGI8jJMJWJfWx6mHoMQI1of1mJhgrR5U
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: e4a0febc-5163-4017-82ce-fc7594509fb6
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: 836
 ht-degree: 0%
 
 ---
@@ -34,7 +54,7 @@ _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ -->은(는) 집합 지�
 
 ### 참조 이미지 선택
 
-_[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [&#x200B; 차원에 대한 자세한 내용은 &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)템플릿 모범 사례[!DNL on-brand image]를 참조하세요.
+_[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [!DNL on-brand image] 차원에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하세요.
 
 **참조 이미지를 선택하려면**:
 
@@ -72,7 +92,7 @@ _[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장�
    Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. -->
 
 1. _[!UICONTROL 종횡비]_&#x200B;에서 원하는 종횡비를 선택하십시오.
-1. 참조 이미지를 추가하려면 **[!UICONTROL 스타일 참조]**&#x200B;에서 _[!UICONTROL 콘텐츠에서 선택]_&#x200B;을 클릭하세요. 선택한 이미지는 사용자가 생성하는 이미지의 시각적 심미성과 깊이에 영향을 줍니다.
+1. 참조 이미지를 추가하려면 _[!UICONTROL 스타일 참조]_&#x200B;에서 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 선택한 이미지는 사용자가 생성하는 이미지의 시각적 심미성과 깊이에 영향을 줍니다.
 
    연결된 [!DNL AEM Assets Content Hub] 리포지토리의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 리포지토리를 선택하십시오. 이미지 하나를 필터링하고 선택합니다.
 
@@ -146,7 +166,7 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
 ## 이미지 게시 및 내보내기
 
-생성된 이미지 초안은 _홈의_&#x200B;최근 항목[!DNL Create] 섹션에 표시됩니다.
+생성된 이미지 초안은 [!DNL Create] 홈의 _최근 항목_ 섹션에 표시됩니다.
 
 생성된 이미지를 현재 및 나중에 사용할 수 있도록 하려면 이미지를 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 

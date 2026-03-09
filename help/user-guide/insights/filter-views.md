@@ -4,9 +4,27 @@ description: Insights와 함께 향상된 필터 기능을 사용하는 방법�
 level: Intermediate
 feature: Reporting and Insights
 exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
-source-git-commit: 0eeb41597d547bf806b1728541ca85b598d2aa1c
+TQID: https://experienceleague.adobe.com/67TI5R4hy9levkPkdXdQVCgLZl43YEq1oXV8kEEWWOs
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: 855
 ht-degree: 0%
 
 ---
@@ -25,7 +43,7 @@ ht-degree: 0%
 
 ### 검색 필드
 
-검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 `Gear`광고[!UICONTROL &#x200B; 표에 &#x200B;] 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
+검색(돋보기) 아이콘을 클릭하여 검색어를 입력하여 테이블이나 갤러리에서 특정 항목을 찾습니다. 예를 들어 [!UICONTROL 광고] 표에 `Gear` 용어를 입력하면 이름에 `Gear` 용어를 사용하여 광고만 표시하도록 결과가 필터링됩니다.
 
 ![검색 필드 예제](/help/assets/insights-search.png "이름에 기어가 있는 광고 검색"){width=600 zoomable="yes"}
 

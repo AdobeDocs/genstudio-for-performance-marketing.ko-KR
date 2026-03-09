@@ -3,10 +3,28 @@ title: Assets 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/G9pgYplVoU0cVTOveP57W7MtUehg1E5GAiuGzjL8wRc
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1509'
-ht-degree: 1%
+source-wordcount: 1518
+ht-degree: 0%
 
 ---
 
@@ -18,7 +36,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 갤러리에는 선택한 보기에 따라 승인된 에셋, 경험 또는 템플릿의 인벤토리가 표시됩니다. 표의 왼쪽 위에 있는 필터(funnel) 전환은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 범주 중 선택하여 갤러리에 표시되는 콘텐츠를 필터링할 수 있습니다. _[!UICONTROL Assets]_ 보기에서 검색(돋보기) 아이콘을 클릭하여 키워드를 사용하여 자산을 찾습니다.
 
-다음은 `space`Assets[!UICONTROL &#x200B; 갤러리에서 &#x200B;]이라는 용어에 대한 검색을 보여 줍니다.
+다음은 [!UICONTROL Assets] 갤러리에서 `space`이라는 용어에 대한 검색을 보여 줍니다.
 
 ![스페이스에서 검색이 있는 Assets 보기](/help/assets/content-assets-filter.png "스페이스 특성이 있는 에셋 검색")
 
@@ -38,7 +56,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL Assets]**&#x200B;섹션을 선택합니다.
 
-1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets`이(가) 기본 리포지토리입니다.
+1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets` 는 기본 저장소입니다.
 
    >[!IMPORTANT]
    >
@@ -56,17 +74,17 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 ### 위치
 
-기본적으로 [!DNL Content] 프로세스 또는 업로드를 통해 [!DNL Create]에 추가하는 자산은 `GenStudio assets` 저장소에 저장됩니다. `GenStudio assets` 리포지토리는 GenStudio for Performance Marketing의 읽기-쓰기 리포지토리입니다. 즉, `GenStudio assets` 저장소에서 에셋을 저장, 편집 및 삭제할 수 있습니다.
+기본적으로 [!DNL Create] 프로세스 또는 업로드를 통해 [!DNL Content]에 추가하는 자산은 `GenStudio assets` 저장소에 저장됩니다. `GenStudio assets` 리포지토리는 GenStudio for Performance Marketing의 읽기-쓰기 리포지토리입니다. 즉, `GenStudio assets` 저장소에서 에셋을 저장, 편집 및 삭제할 수 있습니다.
 
-오른쪽의 **[!UICONTROL Assets]** 갤러리 위에 있는 _[!UICONTROL 위치]_ 목록을 사용하면 연결된 Adobe Experience Manager(AEM) [!DNL Assets Content Hub] 리포지토리에서 선택할 수 있습니다.
+오른쪽의 _[!UICONTROL Assets]_ 갤러리 위에 있는 **[!UICONTROL 위치]** 목록을 사용하면 연결된 Adobe Experience Manager(AEM) [!DNL Assets Content Hub] 리포지토리에서 선택할 수 있습니다.
 
 ![저장소의 위치 목록](/help/assets/content-location-selection.png "콘텐츠 저장소 선택"){width="350"}
 
 AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
-[&#x200B; 리포지토리를 AEM에 추가하는 방법에 대한 지침은 &#x200B;](connect-aem-repo.md)GenStudio for Performance Marketing 리포지토리 연결[!DNL AEM Assets Content Hub]을 참조하십시오.
+[!DNL AEM Assets Content Hub] 리포지토리를 AEM에 추가하는 방법에 대한 지침은 [GenStudio for Performance Marketing 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
 
-AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 `GenStudio assets`시스템 메타데이터[를 사용하여 &#x200B;](asset-details.md#system-metadata) 저장소에 저장됩니다.
+AEM 저장소는 읽기 전용입니다. 즉, 콘텐츠에 액세스할 수 있지만 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수는 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 [시스템 메타데이터](asset-details.md#system-metadata)를 사용하여 `GenStudio assets` 저장소에 저장됩니다.
 
 {{note-aem-assets}}
 
@@ -102,7 +120,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 3. _세부 정보 추가_ 섹션에서 **[!UICONTROL 캠페인 이름]**&#x200B;을 선택하거나 새 이름을 입력하십시오.
 
-4. 검색 기능을 위해 _추가 정보_ 섹션에서 _브랜드 이름_, _가상 사용자_, _지역_ 및 **키워드**&#x200B;와 같은 선택적 세부 정보를 추가하십시오.
+4. 검색 기능을 위해 **추가 정보** 섹션에서 _브랜드 이름_, _가상 사용자_, _지역_ 및 _키워드_&#x200B;와 같은 선택적 세부 정보를 추가하십시오.
 
    자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
 
@@ -114,7 +132,7 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 
 6. 에셋 업로드가 완료되면 **완료**&#x200B;를 클릭하세요.
 
-7. 새로 업로드한 자산을 보려면 캔버스 하단의 **[!UICONTROL 사용 가능한 새 자산]** 알림에서 _새로 고침_&#x200B;을 클릭하세요.
+7. 새로 업로드한 자산을 보려면 캔버스 하단의 _사용 가능한 새 자산_ 알림에서 **[!UICONTROL 새로 고침]**&#x200B;을 클릭하세요.
 
 ### 자산 다운로드
 

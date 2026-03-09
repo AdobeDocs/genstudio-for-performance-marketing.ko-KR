@@ -3,9 +3,23 @@ title: Meta 광고 활성화
 description: Meta 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/hDR0ngNiGnCXCCOgNhVG8gX4kHGrNvfybPbuMLwYk7U
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1907'
+source-wordcount: 1931
 ht-degree: 1%
 
 ---
@@ -96,7 +110,7 @@ _미디어_ 섹션을 사용하여 경험에 포함할 하나 이상의 이미�
 
 **콘텐츠에서 에셋을 업로드하려면**:
 
-[!DNL Content]은(는) 조직의 승인된 에셋 및 경험에 대한 중앙 보기를 제공합니다. [[!DNL Content] 검색](/help/user-guide/content/manage-assets.md)(돋보기) 및 **[!UICONTROL 필터]** 메뉴 옵션을 사용하여 _갤러리_&#x200B;에 표시된 자산 인벤토리에 집중할 수 있습니다.
+[!DNL Content]은(는) 조직의 승인된 에셋 및 경험에 대한 중앙 보기를 제공합니다. **[!UICONTROL 검색]**(돋보기) 및 _필터_ 메뉴 옵션을 사용하여 [[!DNL Content] 갤러리](/help/user-guide/content/manage-assets.md)에 표시된 자산 인벤토리에 집중할 수 있습니다.
 
 1. [!DNL Activate]에서 채널 카드의 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭합니다. _경험 설정_ 보기가 열립니다.
 
@@ -130,14 +144,14 @@ Microsoft OneDrive 또는 Dropbox에서 [!DNL Content] 갤러리 외부에 있�
 
 _Meta 광고 활성화_ 페이지의 _텍스트_ 섹션을 사용하여 필수 텍스트 필드에 매력적인 브랜드 준수 텍스트를 추가하십시오. 텍스트에는 광고 및 call-to-action 텍스트에 대한 기본(본문) 텍스트가 포함됩니다. _기본 텍스트_, _헤드라인_ 및 _설명_ 필드를 편집할 수 없습니다. _Call-to-action_, _링크 표시_ 및 _웹 사이트 URL_ 필드를 편집할 수 있습니다.
 
-| 필드 | 필수 | 문자 제한(최대) |
+| 필드 | 필수 여부 | 문자 제한(최대) |
 |-----------------|---------------------------|---------------------------------|
 | 광고 이름 | 예 | 500 |
 | 기본 텍스트 | 예 | 500 |
 | 제목 | 예 | 255 |
-| 설명 | 아니요 | 125 |
+| 설명 | 아니오 | 125 |
 | Call to action | 예 | 드롭다운 메뉴 옵션만 |
-| URL 표시 | 아니요 | 1000년 |
+| URL 표시 | 아니오 | 1000 |
 | 웹 사이트 URL | 예 | 1000 |
 | 이미지 | 필요한 항목 하나 이상 |                                 |
 
@@ -152,7 +166,7 @@ GenStudio for Performance Marketing에는 Meta이 아닌 _기본 텍스트_ 및 
 | 캠페인 | 광고 경험이 속한 모든 GenStudio for Performance Marketing 캠페인 |
 | 브랜드 | 사용자가 브랜드 정체성의 본질을 캡처하는 브랜드 지침을 설정할 수 있도록 해주는 지침(사용자 정의 또는 기본값). |
 | 제품 | 조직과 연계되고 GenStudio for Performance Marketing에서 식별된 제품 |
-| 가상 사용자 | 조직과 연결되고 GenStudio for Performance Marketing에서 식별된 사용자 |
+| 페르소나 | 조직과 연결되고 GenStudio for Performance Marketing에서 식별된 사용자 |
 | 일정 | 광고 경험이 활성화된 분기, 시즌, 연도 또는 기타 조직에서 정의한 시간 단위입니다 |
 | 지역 | 경험이 시작되는 지리적 지역 |
 | 언어 | 광고 경험이 사용되는 언어 |
@@ -174,7 +188,7 @@ GenStudio for Performance Marketing에는 Meta이 아닌 _기본 텍스트_ 및 
 
 ### 새 광고 세트 만들기
 
-플랫폼 설정 중에 기존 광고 세트를 복제하여 플랫폼 설정 중에 새 광고 세트를 만들 수 있습니다. 메타 광고 세트는 특정 광고의 시간, 채널 세부 정보 및 대상을 정의합니다. 메타 캠페인에는 여러 광고 세트가 포함될 수 있지만 광고 세트는 하나의 캠페인에만 연결됩니다.
+플랫폼 설정 중에 기존 광고 세트를 복제하여 플랫폼 설정 중에 새 광고 세트를 만들 수 있습니다. Meta 광고 세트는 특정 광고의 시간, 채널 세부 정보 및 대상을 정의합니다. Meta 캠페인에는 여러 광고 세트가 포함될 수 있지만 광고 세트는 하나의 캠페인에만 연결됩니다.
 
 **새 광고 집합을 만들려면**:
 
@@ -208,7 +222,7 @@ GenStudio for Performance Marketing에는 Meta이 아닌 _기본 텍스트_ 및 
 
 ## 5단계: 광고 미리보기 및 활성화
 
-_검토_ 페이지에는 광고 경험이 _경험 설정_&#x200B;에 조합되어 표시되고 경험을 보고 편집할 수 있는 마지막 기회가 제공됩니다. 변경하려면 **[!UICONTROL 경험 설정]** 레이블 옆에 있는 _섹션 편집_&#x200B;을 클릭하세요. 오른쪽 상단의 **[!UICONTROL 뒤로]**&#x200B;를 클릭하여 _경험 설정_ 페이지로 돌아갈 수도 있습니다.
+_검토_ 페이지에는 광고 경험이 _경험 설정_&#x200B;에 조합되어 표시되고 경험을 보고 편집할 수 있는 마지막 기회가 제공됩니다. 변경하려면 _경험 설정_ 레이블 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭하세요. 오른쪽 상단의 **[!UICONTROL 뒤로]**&#x200B;를 클릭하여 _경험 설정_ 페이지로 돌아갈 수도 있습니다.
 
 ### 6단계: 광고 경험 활성화 완료
 

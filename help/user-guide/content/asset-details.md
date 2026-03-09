@@ -1,16 +1,38 @@
 ---
-title: 자산 세부 사항
+title: 자산 세부 정보
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Generative AI, Content Attributes, Content Management
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+TQID: https://experienceleague.adobe.com/Hm7qcrP6VcXf6IqZ2pYybduNyjjV8kdWj571gcRpglI
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: 732
 ht-degree: 1%
 
 ---
 
-# 자산 세부 사항
+# 자산 세부 정보
 
 Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 
@@ -32,7 +54,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 >[!NOTE]
 >
->AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [&#x200B; 자산 세부 정보를 구성하는 방법은 &#x200B;](connect-aem-repo.md#step-4-configure-asset-visibility)자산 가시성 구성[!DNL AEM Assets Content Hub]을 참조하세요.
+>AEM 저장소의 Assets에는 다른 메타데이터가 표시됩니다. [!DNL AEM Assets Content Hub] 자산 세부 정보를 구성하는 방법은 [자산 가시성 구성](connect-aem-repo.md#step-4-configure-asset-visibility)을 참조하세요.
 
 ## 시스템 메타데이터
 
@@ -87,11 +109,11 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 ## 생성 컨텍스트
 
-[!UICONTROL 생성 컨텍스트] 섹션은 `Prompt` 프로세스 중에 사용된 [!DNL Create]과 같이 경험을 생성하는 데 사용된 정보를 표시합니다. 이 insight은 훨씬 더 성공적인 변형을 작성하는 데 도움이 될 수 있습니다.
+[!UICONTROL 생성 컨텍스트] 섹션은 [!DNL Create] 프로세스 중에 사용된 `Prompt`과 같이 경험을 생성하는 데 사용된 정보를 표시합니다. 이 insight은 훨씬 더 성공적인 변형을 작성하는 데 도움이 될 수 있습니다.
 
 정보는 다음과 같습니다.
 
-- `Brand` 프로세스 중에 `Product`, `Persona` 및 [!DNL Create] 매개 변수가 선택됨
+- [!DNL Create] 프로세스 중에 `Brand`, `Product` 및 `Persona` 매개 변수가 선택됨
 - 전자 메일 경험용 `Subject line` 및 `Preheader`
 - Meta 광고용 `Headline` 및 `Body`
 

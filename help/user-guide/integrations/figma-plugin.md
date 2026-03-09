@@ -4,9 +4,22 @@ description: GenStudio for Performance Marketing용 Figma 플러그인을 구성
 feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
-source-git-commit: 4ab7e82336bfa6907331b0684253e48066e7d021
+TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2:
+  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: 1202
 ht-degree: 0%
 
 ---
@@ -14,7 +27,7 @@ ht-degree: 0%
 # GenStudio for Performance Marketing용 Figma 플러그인
 
 GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이션에 온-브랜드 콘텐츠를 생성할 수 있는 새 패널을 추가합니다.
-[Figma 커뮤니티 마켓플레이스에서 플러그인을 찾아 설치합니다](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio).
+[Figma 커뮤니티 마켓플레이스 &#x200B;](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio)에서 플러그인을 찾아 설치합니다.
 
 이 페이지에서는 플러그인을 구성하고 사용하는 방법에 대해 설명합니다.
 
@@ -102,7 +115,7 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 1. 광고 템플릿이 포함된 섹션 노드를 선택합니다. **레이어** 패널에서 수행하거나 캔버스의 섹션을 직접 클릭하여 수행할 수 있습니다.
    ![섹션 선택 또는 변형](./plugin-playground.png){width="500" zoomable="yes"}
 1. 플러그인 창에서 변형의 프로젝트 이름을 입력하고 컨텐츠의 플랫폼을 선택합니다.
-1. **[!UICONTROL 의 목표는 무엇입니까?]**, **[!UICONTROL 변형 생성]** 또는 **[!UICONTROL 번역]**&#x200B;을 선택한 다음 **[!UICONTROL 설치 완료]** 단추를 클릭하십시오.
+1. **[!UICONTROL 목표가 무엇입니까?]**&#x200B;에서 **[!UICONTROL 변형 생성]** 또는 **[!UICONTROL 번역]**&#x200B;을 선택한 다음 **[!UICONTROL 설정 완료]** 단추를 클릭합니다.
    ![프로젝트 설정 창](./setup-project.png){width="300" zoomable="yes"}
 1. 콘텐츠 생성에 사용할 [!DNL Brand], [!DNL Persona] 및 [!DNL Product]을(를) 선택하십시오.
 1. 생성할 변형 수를 선택합니다.
@@ -140,7 +153,7 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 * 텍스트를 직접 변경하려면 **[!UICONTROL 값]**&#x200B;을(를) 변경하십시오. 이 콘텐츠를 변경하면 선택한 모든 변형에 자동으로 적용됩니다.
 * AI는 다음을 포함한 많은 **[!UICONTROL 작업]** 옵션을 수행할 수 있습니다.
 
-| 액션 | 설명 |
+| 작업 | 설명 |
 | --- | --- |
 | **[!UICONTROL 생성]** | 텍스트의 새 변형을 생성합니다. |
 | **[!UICONTROL 구문 변경]** | 텍스트의 새 변형을 생성합니다. |

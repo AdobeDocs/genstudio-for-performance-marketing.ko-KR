@@ -5,16 +5,34 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: a18b4f89ffde43432885dc2c2e323eaf19361fc7
+TQID: https://experienceleague.adobe.com/kXXSni5VZMFH615A-Re1-QjLooEyfXcMwVBwXnxp58s
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1366'
+source-wordcount: 1374
 ht-degree: 1%
 
 ---
 
 # 템플릿 작업
 
-GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다. 시작하려면 [!DNL Content]에서 사용자 지정 템플릿을 업로드하거나 [!DNL Create]에서 시작 템플릿을 사용하십시오. [시작 템플릿](/help/user-guide/templates/starter-templates.md)은(는) 표준 디자인으로 빠르게 시작할 수 있는 방법을 제공하지만, 사용자 지정 템플릿을 사용하면 고유한 디자인과 레이아웃을 사용할 수 있습니다.
+GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다. 시작하려면 [!DNL Content]에서 사용자 지정 템플릿을 업로드하거나 [!DNL Create]에서 시작 템플릿을 사용하십시오. [시작 템플릿](/help/user-guide/templates/starter-templates.md)은(는) 표준 디자인으로 빠르게 시작할 수 있는 방법을 제공하는 반면, 사용자 지정 템플릿을 사용하면 고유한 디자인과 레이아웃을 사용할 수 있습니다.
 
 GenStudio for Performance Marketing에서는 애플리케이션 내에서 템플릿을 직접 만들 수 없지만 Adobe InDesign, Illustrator 또는 Express와 같이 인기 있는 디자인 도구를 사용하여 템플릿을 쉽게 디자인하고 준비할 수 있습니다. 디자인이 완료되면 GenStudio for Performance Marketing에서 사용하도록 조정할 수 있습니다. 다음 단계를 수행하여 템플릿 사용을 시작합니다.
 
@@ -113,7 +131,7 @@ _[!DNL Templates]_&#x200B;갤러리에는 GenStudio for Performance Marketing에
 
 ### 템플릿 새로 고침
 
-템플릿에는 아이콘 또는 로고와 같은 정적 파일이 포함될 수 있습니다. 템플릿 미리 보기를 만든 후 [정적 콘텐츠](/help/user-guide/templates/customize-template.md#static-content)이(가) 저장되지 않습니다. GenStudio for Performance Marketing은 템플릿에 제공된 소스 링크를 계속 참조합니다. 새로 고침을 사용하여 이러한 에셋의 최신 버전으로 템플릿 미리 보기를 업데이트합니다.
+템플릿에는 아이콘 또는 로고와 같은 정적 파일이 포함될 수 있습니다. [템플릿 미리 보기를 만든 후에는 정적 콘텐츠 &#x200B;](/help/user-guide/templates/customize-template.md#static-content)이(가) 저장되지 않습니다. GenStudio for Performance Marketing은 템플릿에 제공된 소스 링크를 계속 참조합니다. 새로 고침을 사용하여 이러한 에셋의 최신 버전으로 템플릿 미리 보기를 업데이트합니다.
 
 **템플릿을 새로 고치려면**:
 
@@ -155,4 +173,4 @@ Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드�
 
 >[!ENDSHADEBOX]
 
-다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/templates/customize-template.md)합니다. [템플릿을 &#x200B;](#add-a-template) 저장소에 추가[!DNL Content]하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.
+다음으로, GenStudio for Performance Marketing에서 콘텐츠를 생성할 위치를 나타내는 자리 표시자를 사용하여 [템플릿을 사용자 지정](/help/user-guide/templates/customize-template.md)합니다. [[!DNL Content] 저장소에 템플릿 &#x200B;](#add-a-template)을(를) 추가하고 템플릿의 유효성을 검사하십시오. 코드 편집기를 사용하여 사소한 사항을 수정합니다.

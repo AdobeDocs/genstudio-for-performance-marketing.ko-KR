@@ -2,10 +2,20 @@
 title: 시작하기
 description: GenStudio for Performance Marketing을 확장하는 추가 기능 또는 App Builder 앱 빌드를 시작합니다.
 exl-id: 755f1a40-add5-43e3-bf54-eaec36ef1e9a
-source-git-commit: 7acf7b0abf0737701083890a1d6a693bb64ffbbf
+TQID: https://experienceleague.adobe.com/069NojePrFEaIHs8-jM2w2CfH15X0veKs4XilrmTnlI
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: bfaa655b-e017-428d-80d0-09de2183b296
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 3%
+source-wordcount: 338
+ht-degree: 5%
 
 ---
 
@@ -40,9 +50,9 @@ GenStudio for Performance Marketing용 확장 가능한 앱 개발자는 표준 
 
 [Adobe GenStudio UI 확장성 SDK](https://github.com/adobe/genstudio-uix-sdk)
 
-[Adobe UIX SDK](https://github.com/adobe/uix-sdk)
+[ADOBE UIX SDK](https://github.com/adobe/uix-sdk)
 
-[React 스펙트럼](https://react-spectrum.adobe.com/react-spectrum/getting-started.html)
+[반응 스펙트럼](https://react-spectrum.adobe.com/react-spectrum/getting-started.html)
 
 ### 환경
 

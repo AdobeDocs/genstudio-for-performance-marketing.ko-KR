@@ -3,9 +3,21 @@ title: Google Campaign Manager 360 광고 활성화
 description: Google Campaign Manager 360 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/pQbT2OC7-jK33HhJWgTBBtJrmEvr48mGkl8v-fTkOLQ
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: 551
 ht-degree: 0%
 
 ---
@@ -34,7 +46,7 @@ _[!DNL Content]_&#x200B;경험 갤러리 또는&#x200B;_[!DNL Activate]_ 홈에�
 
 **경험을 선택하려면**:
 
-1. [!DNL Content] 갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음 **[!UICONTROL 사용]**&#x200B;을 클릭하세요. (또는 Google Campaign Manager 360 제품 카드에서 [!DNL Activate]새로 만들기&#x200B;**[!UICONTROL 를 클릭하여]**&#x200B;에서 환경을 선택할 수 있습니다.)
+1. [!DNL Content] 갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음 **[!UICONTROL 사용]**&#x200B;을 클릭하세요. (또는 Google Campaign Manager 360 제품 카드에서 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭하여 [!DNL Activate]에서 환경을 선택할 수 있습니다.)
 
    이 경험에 대한 Google Campaign Manager 360 _경험 설정_ 페이지가 열립니다. 경험의 세부 사항으로 미리 채워지므로 수정할 수 없습니다. 활성화를 계속하기 전에 플랫폼을 선택하라는 메시지가 표시될 수 있습니다.
 
@@ -58,7 +70,7 @@ _Platform 설치_ 보기가 열립니다. 이 보기는 구성된 Google Campaig
 
 _검토_ 페이지에서는 게시하기 전에 활성화를 검토할 수 있는 최종 기회를 제공합니다.
 
-1. (선택 사항) **[!UICONTROL 플랫폼 설정]** 레이블 옆에 있는 _섹션 편집_&#x200B;을 클릭하여 플랫폼 설정을 편집합니다. 경험 컨텐츠는 편집할 수 없습니다.
+1. (선택 사항) _플랫폼 설정_ 레이블 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭하여 플랫폼 설정을 편집합니다. 경험 컨텐츠는 편집할 수 없습니다.
 
 1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 Campaign Manager 360 광고 경험은 선택한 Campaign Manager 360 광고주 내의 크리에이티브 라이브러리에 직접 푸시됩니다.

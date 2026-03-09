@@ -3,9 +3,19 @@ title: 컨텐츠 검토 및 편집
 description: Adobe GenStudio for Performance Marketing을 사용하여 콘텐츠를 반복적으로 검토하고 편집하는 방법에 대해 알아봅니다.
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
-source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
+TQID: https://experienceleague.adobe.com/YAUeZkKC0UzOt1fCKgFfXLxGEi2896IpcRTdfwG8KXA
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: 694
 ht-degree: 0%
 
 ---
@@ -82,7 +92,7 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
    콘텐츠 작성자에게 사용자의 의견이 표시됩니다.
 
-### 증명 비교
+### 교정쇄 비교
 
 [!DNL Proofing Viewer]에서 [증명 버전을 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)할 수 있습니다.
 

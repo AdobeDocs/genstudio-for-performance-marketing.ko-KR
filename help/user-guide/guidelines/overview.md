@@ -4,9 +4,30 @@ description: GenStudio for Performance Marketing에 채널 지침을 추가하�
 level: Beginner
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
+TQID: https://experienceleague.adobe.com/npLTUIEvD5cUA7K4-awzRpJzgV9k0SRxobnavNaqUEY
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: afc6e550-6640-4eb4-a143-75ec86d23a66
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: cec71013-cf14-4e28-b808-3d3060935bcb
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: 505
 ht-degree: 0%
 
 ---
@@ -17,7 +38,7 @@ GenStudio for Performance Marketing 지침을 업로드하거나 GenStudio for P
 
 다음 지침은 AI 생성 콘텐츠가 브랜드 정체성 및 접근성 사양에 맞게 맞춤화되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 데 도움이 됩니다.
 
-* 업계 모범 사례 및 개별 플랫폼 사양에 따라 [에 대한 &#x200B;](/help/user-guide/guidelines/brands.md#default-channel-guidelines)기본 채널 지침[!DNL Brands]
+* 업계 모범 사례 및 개별 플랫폼 사양에 따라 [!DNL Brands]에 대한 [기본 채널 지침](/help/user-guide/guidelines/brands.md#default-channel-guidelines)
 * 사용자 정의 지침([!DNL Brands], [!DNL Products] 및 [!DNL Personas])
 * Meta, LinkedIn 등과 같은 채널에 대한 플랫폼 지침
 * [ADA(American Disabled Act) 접근성 지침](#compliance)
@@ -46,7 +67,7 @@ GenStudio for Performance Marketing 지침:
 
 채널 지침을 사용하면 두 가지 주요 사용 사례를 통해 생성된 모든 콘텐츠가 브랜드의 원하는 표현을 준수하는지 확인할 수 있습니다.
 
-* **또는**&#x200B;콘텐츠[[!DNL Create]](/help/user-guide/create/overview.md)의 [콘텐츠 생성](/help/user-guide/content/overview.md)
+* [[!DNL Create]](/help/user-guide/create/overview.md) 또는 [콘텐츠](/help/user-guide/content/overview.md)의 **콘텐츠 생성**
 * [**브랜드 유효성 검사**](#content-checks)(콘텐츠 만들기 프로세스의 일부로 발생)
 
 ## 콘텐츠 확인

@@ -2,9 +2,21 @@
 title: GenStudio Experience Selector MFE
 description: GenStudio 앱 및 추가 기능에 대한 Experience Selector Micro FrontEnd를 이해하고 구현합니다.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: 27e85e62f83bad391348c45da1558cd1a58204fc
+exl-id: 918d3772-406b-4e16-bddc-0d5b160978d3
+TQID: https://experienceleague.adobe.com/0KCx1agovbj3-ShbAZ6JiHnHchMI47F9g4mvE4NPpvc
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bfaa655b-e017-428d-80d0-09de2183b296
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: 601
 ht-degree: 4%
 
 ---
@@ -41,12 +53,12 @@ import { renderExperienceSelectorWithSUSI } from 'https://experience.adobe.com/s
 
 `renderExperienceSelectorWithSUSI` 함수는 다음 속성을 가진 구성 개체를 허용합니다.
 
-| 속성 | 유형 | 필수 | 설명 |
+| 속성 | 유형 | 필수 여부 | 설명 |
 |----------|------|----------|-------------|
 | `apiKey` | 문자열 | 예 | GenStudio 서비스용 API 키 |
 | `imsOrg` | 문자열 | 예 | IMS 조직 ID |
 | `env` | 문자열 | 예 | 환경(`stage`, `prod`) |
-| `susiConfig` | 오브젝트 | 예 | [SUSI 인증 구성](#susi-configuration) |
+| `susiConfig` | 개체 | 예 | [SUSI 인증 구성](#susi-configuration) |
 | `onSelectionConfirmed` | 함수 | 예 | 선택이 확인될 때의 콜백 |
 | `onDismiss` | 함수 | 예 | 대화 상자가 해제된 경우 콜백 |
 | `locale` | 문자열 | 아니요 | 언어 로케일(예: `en-US`) |

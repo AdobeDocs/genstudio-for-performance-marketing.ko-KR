@@ -4,10 +4,36 @@ description: Adobe GenStudio for Performance Marketing [!DNL Create]에서 생�
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
+TQID: https://experienceleague.adobe.com/Qgnbf7BVqsRFk5SmkQHkvwK-GAaUtLFfAVXb1HYLSw4
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 1%
+source-wordcount: 722
+ht-degree: 0%
 
 ---
 
@@ -107,13 +133,13 @@ GenStudio for Performance Marketing을 사용하면 마케터가 **새 마케팅
 
 ### 템플릿
 
-_에서 제작할 채널을 선택한 후 오늘 제작할 내용을 선택하십시오._ 섹션에서 콘텐츠 생성에 사용할 브랜드 승인 템플릿에 액세스할 수 있습니다. 템플릿을 사용하여 콘텐츠 작성 프로세스를 빠르게 시작하고 정의된 브랜드 정체성에 맞게 정렬하십시오.
+_지금 만들 채널을 선택한 후_ 섹션에서 콘텐츠 생성에 사용할 브랜드로 승인된 템플릿에 액세스할 수 있습니다. 템플릿을 사용하여 콘텐츠 작성 프로세스를 빠르게 시작하고 정의된 브랜드 정체성에 맞게 정렬하십시오.
 
 템플릿이 [업로드되어  [!DNL Content]](/help/user-guide/content/overview.md)에 저장되며 [!DNL Create]에서 액세스할 수 있습니다.
 
 ### 매개변수
 
-프롬프트 서랍에서 _,_, [!DNL Brands]&#x200B;(지침) 및 [!DNL Products]&#x200B;(자산)과 같은 [!DNL Personas]매개 변수[!DNL Content]을(를) 추가하여 생성된 경험을 형성할 수 있습니다.
+프롬프트 서랍에서 [!DNL Brands], [!DNL Products], [!DNL Personas]&#x200B;(지침) 및 [!DNL Content]&#x200B;(자산)과 같은 _매개 변수_&#x200B;을(를) 추가하여 생성된 경험을 형성할 수 있습니다.
 
 이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적합한 온브랜드 콘텐츠 생성을 크게 향상시키므로 GenStudio for Performance Marketing에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
 
@@ -127,7 +153,7 @@ AI 생성 콘텐츠를 만들려면 프롬프트 창에 생성하려는 컨텍�
 
 ### 콘텐츠 확인
 
-GenStudio for Performance Marketing은 [, 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)브랜드 지침[, 플랫폼 지침 및 &#x200B;](/help/user-guide/guidelines/brands.md)접근성 표준[에 대해 &#x200B;](/help/user-guide/guidelines/overview.md#compliance)콘텐츠 확인[!DNL Brand]을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
+GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 [브랜드 지침](/help/user-guide/guidelines/brands.md), 플랫폼 지침 및 [접근성 표준](/help/user-guide/guidelines/overview.md#compliance)에 대해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 수행합니다. [생성된 모든 컨텐츠에 대해 컨텐츠 검사](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보를 사용할 수 있으며, 이는 포괄적인 컨텐츠 검사 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
 
 ### 검토 및 승인
 
@@ -137,9 +163,9 @@ GenStudio for Performance Marketing은 [, 플랫폼 및 접근성 표준에서 �
 
 ### 초안
 
-_의_&#x200B;최근 항목[!DNL Create] 섹션에서 모든 최근 초안에 액세스하고 관리할 수 있습니다. 이전 작업을 보고 완료하여 [[!DNL Content]](/help/user-guide/content/overview.md)에 게시하거나 사용할 수 있도록 내보냅니다. 옵션(세 점) 아이콘을 클릭하여 초안을 삭제합니다.
+[!DNL Create]의 _최근 항목_ 섹션에서 모든 최근 초안에 액세스하고 관리할 수 있습니다. 이전 작업을 보고 완료하여 [[!DNL Content]](/help/user-guide/content/overview.md)에 게시하거나 사용할 수 있도록 내보냅니다. 옵션(세 점) 아이콘을 클릭하여 초안을 삭제합니다.
 
-초안은 자동으로 저장되고 _홈의_&#x200B;최근 항목[!DNL Create] 섹션에 표시됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
+초안은 자동으로 저장되고 [!DNL Create] 홈의 _최근 항목_ 섹션에 표시됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
 
 갤러리 보기(격자) 아이콘을 클릭하면 _최근 항목_&#x200B;이 격자 또는 표 보기로 표시됩니다.
 
