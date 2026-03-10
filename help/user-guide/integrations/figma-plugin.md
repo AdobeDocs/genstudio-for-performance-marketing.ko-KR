@@ -5,11 +5,18 @@ feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
 TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
-subfeature_v2: id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2:
+  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 hold: true
 source-git-commit: 77e11368c9e7a42a49501e346aff7eb9ffe3f8c8
 workflow-type: tm+mt
@@ -21,7 +28,7 @@ ht-degree: 0%
 # GenStudio for Performance Marketing용 Figma 플러그인
 
 GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이션에 온-브랜드 콘텐츠를 생성할 수 있는 새 패널을 추가합니다.
-[Figma 커뮤니티 마켓플레이스 ](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio)에서 플러그인을 찾아 설치합니다.
+[Figma 커뮤니티 마켓플레이스 &#x200B;](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio)에서 플러그인을 찾아 설치합니다.
 
 이 페이지에서는 플러그인을 구성하고 사용하는 방법에 대해 설명합니다.
 
@@ -163,9 +170,9 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x200B;(으)로 내보낼 수 있습니다.
 
 1. 다음 중 하나를 수행하여 그림 캔버스에서 내보낼 콘텐츠를 선택합니다.
-   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**를 클릭합니다.
+   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**&#x200B;를 클릭합니다.
      ![생성 섹션 선택](./select-generation-section.png){width="200" zoomable="yes"}
-   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**를 클릭합니다.
+   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**&#x200B;를 클릭합니다.
      ![개별 생성 선택](./select-generation.png){width="200" zoomable="yes"}
 1. 사이드바 메뉴에서 내보내기 항목을 선택합니다.
    ![Meta 광고에 대해 [내보내기 표시] 단추가 표시됨](./mark-for-export.png){width="60%" zoomable="yes"}
