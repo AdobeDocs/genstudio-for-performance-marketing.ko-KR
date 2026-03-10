@@ -43,7 +43,7 @@ GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이�
 * 생성된 [!DNL Experiences]을(를) GenStudio for Performance Marketing으로 내보냅니다.
 * 그림 캔버스에서 선택한 요소에 맞게 조정하는 플러그인 옵션을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478816?captions=kor&learn=on)
 
 ## 템플릿 만들기
 
