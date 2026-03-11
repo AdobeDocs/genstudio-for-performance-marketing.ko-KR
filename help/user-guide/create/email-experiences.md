@@ -6,22 +6,12 @@ role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
 TQID: https://experienceleague.adobe.com/-lwSfvc0TnVd8byNT-5OfoEsXz7yaeIifcHOJtp-n4c
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: be495d08-ecd1-455f-951e-c22de504e667id: dee4e9a9-78d1-4953-8179-f8da6117027did: ee4b6e5f-5b7a-421b-9859-0f964841a866
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 309
 ht-degree: 0%
@@ -47,13 +37,15 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 
 [템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
-<!-- ## Email capabilities
+<!-- 
+## Email capabilities
 
-Content creators and marketers can produce brand-consistent email experiences in GenStudio for Performance Marketing. -->
+Content creators and marketers can produce brand-consistent email experiences in GenStudio for Performance Marketing. 
+-->
 
 ## 여러 섹션 이메일
 
-이메일 경험은 여러 섹션을 포함할 수 있으므로 브랜드 및 목표에 맞게 전체 맞춤화를 구현할 수 있습니다. [&#x200B; [!DNL Products] 및 각 섹션의 시각적 자산](/help/user-guide/create/create-email-experience.md#add-parameters)을 선택하고 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 사용하여 고유한 콘텐츠를 제작합니다. 각 섹션은 하나의 시각적 자산을 지원합니다.
+이메일 경험은 여러 섹션을 포함할 수 있으므로 브랜드 및 목표에 맞게 전체 맞춤화를 구현할 수 있습니다. [ [!DNL Products] 및 각 섹션의 시각적 자산](/help/user-guide/create/create-email-experience.md#add-parameters)을 선택하고 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 사용하여 고유한 콘텐츠를 제작합니다. 각 섹션은 하나의 시각적 자산을 지원합니다.
 
 다중 섹션 템플릿을 만드는 방법은 [섹션을 사용하여 템플릿 사용자 지정](/help/user-guide/templates/customize-template.md#sections-or-groups)을 참조하세요.
 

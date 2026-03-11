@@ -8,26 +8,13 @@ level: Beginner
 recommendations: noDisplay
 exl-id: c1118ada-7fee-43cd-aff4-eab69539afb4
 TQID: https://experienceleague.adobe.com/NXtN00EKTe0lGI8jJMJWJfWx6mHoMQI1of1mJhgrR5U
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e4a0febc-5163-4017-82ce-fc7594509fb6
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e4a0febc-5163-4017-82ce-fc7594509fb6id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 836
 ht-degree: 0%
@@ -36,13 +23,13 @@ ht-degree: 0%
 
 # 이미지 생성
 
-GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(페인트 브러쉬 아이콘)을 사용하면 선택한 이미지에서 영감을 얻어 시각적 효과와 전반적인 미적 효과를 캡처하는 _[!DNL On-brand images]_&#x200B;을(를) 생성할 수 있습니다.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
+GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(페인트 브러쉬 아이콘)을 사용하면 선택한 이미지에서 영감을 얻어 시각적 효과와 전반적인 미적 효과를 캡처하는 _[!DNL On-brand images]_을(를) 생성할 수 있습니다.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
 
 눈길을 끄는 효과적인 이미지를 디자인하려면 [GenStudio for Performance Marketing에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 검토하는 것이 좋습니다.
 
 ## 이미지 유형
 
-_[!DNL On-brand images]_&#x200B;은(는) 선택한 이미지에서 영감을 얻어 생성되는 에셋으로 시각적 효과와 전반적인 미적 효과를 캡처합니다. 이러한 이미지는 [!DNL Content]에서 이미 사용할 수 있는 이미지와 디자인을 안내하는 정교하게 만들어진 프롬프트를 사용하여 만들어집니다. 생성 프로세스 중에 선택한 브랜드 지침과 매개 변수를 모두 엄격히 따릅니다.
+_[!DNL On-brand images]_은(는) 선택한 이미지에서 영감을 얻어 생성되는 에셋으로 시각적 효과와 전반적인 미적 효과를 캡처합니다. 이러한 이미지는 [!DNL Content]에서 이미 사용할 수 있는 이미지와 디자인을 안내하는 정교하게 만들어진 프롬프트를 사용하여 만들어집니다. 생성 프로세스 중에 선택한 브랜드 지침과 매개 변수를 모두 엄격히 따릅니다.
 
 _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ -->은(는) 집합 지침, 매개 변수 및 [신중하게 만들어진 프롬프트](/help/user-guide/effective-prompts.md)를 통합하여 눈길을 끄는 이미지 에셋을 제공합니다.
 
@@ -54,11 +41,11 @@ _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ -->은(는) 집합 지�
 
 ### 참조 이미지 선택
 
-_[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [!DNL on-brand image] 차원에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하세요.
+_[!DNL On-brand images]_을(를) 만들려면 [!DNL Content]에 저장된 기존 이미지를 선택하십시오. 지원되는 [!DNL on-brand image] 차원에 대한 자세한 내용은 [템플릿 모범 사례](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)를 참조하세요.
 
 **참조 이미지를 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 브랜드 이미지 사용]**&#x200B;을 클릭하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 브랜드 이미지 사용]**을 클릭하세요.
 1. _필터_ 옆의 검색 옵션을 사용하여 특정 이미지를 찾습니다.
 
    ![참조 이미지 선택](/help/assets/select-img.png){width="400" zoomable="yes"}
@@ -87,9 +74,11 @@ _[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장�
 
    [!DNL Brand]을(를) 선택한 경우 이미지 범주를 사용할 수 있습니다. 옵션은 선택한 [!DNL Brand]에 의해 결정됩니다.
 
-<!-- 1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
+<!-- 
+1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
 
-   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. -->
+   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. 
+-->
 
 1. _[!UICONTROL 종횡비]_&#x200B;에서 원하는 종횡비를 선택하십시오.
 1. 참조 이미지를 추가하려면 _[!UICONTROL 스타일 참조]_&#x200B;에서 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 선택한 이미지는 사용자가 생성하는 이미지의 시각적 심미성과 깊이에 영향을 줍니다.
@@ -125,9 +114,9 @@ _[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장�
 
    _Powered by Adobe Express_ 창이 나타납니다.
 
-1. [이미지 자르기](https://helpx.adobe.com/kr/express/create-and-edit-images/edit-images/crop-images.html), [개체 제거](https://helpx.adobe.com/kr/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), 효과 적용 등의 이미지 편집을 수행합니다.
+1. [이미지 자르기](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), [개체 제거](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), 효과 적용 등의 이미지 편집을 수행합니다.
 
-   Adobe Express을 사용하여 GenStudio for Performance Marketing에서 이미지를 수정하는 방법에 대해 알아보려면 [Adobe Express 설명서](https://helpx.adobe.com/kr/express/user-guide.html)를 참조하십시오.
+   Adobe Express을 사용하여 GenStudio for Performance Marketing에서 이미지를 수정하는 방법에 대해 알아보려면 [Adobe Express 설명서](https://helpx.adobe.com/express/user-guide.html)를 참조하십시오.
 
 1. _[!UICONTROL 변경 내용 적용]_&#x200B;을 클릭하여 편집 내용을 저장합니다.
 1. 원하는 대로 개별 이미지 변형을 계속 편집하고 변경 사항을 적용하여 진행률을 저장합니다.
@@ -146,7 +135,8 @@ _[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장�
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
-<!-- ## Generate Similar images
+<!-- 
+## Generate Similar images
 
 You can quickly generate images similar to a selected image within [!DNL Content] from the [!DNL Create] home.
 
@@ -162,7 +152,8 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
    The Canvas, which serves as the central hub for content creation, is displayed. Four image variations similar to the original selected image appear.
 
-   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} -->
+   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} 
+-->
 
 ## 이미지 게시 및 내보내기
 

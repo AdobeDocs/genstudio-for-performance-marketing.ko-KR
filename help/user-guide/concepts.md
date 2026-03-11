@@ -5,32 +5,12 @@ feature: Generative AI
 role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
 TQID: https://experienceleague.adobe.com/i3VF7S-ndAMDoF1akF3l20tStW-IPS--MSysxD-MArc
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-  - id: f912fa8d-7beb-4468-9ea7-1c0f198b59ef
-subfeature_v2:
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32id: f912fa8d-7beb-4468-9ea7-1c0f198b59ef
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: be495d08-ecd1-455f-951e-c22de504e667id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: 242ab858144fd152fd55645143f869fddf7b6fe0
 workflow-type: tm+mt
 source-wordcount: 754
 ht-degree: 0%
@@ -65,20 +45,22 @@ GenStudio for Performance Marketing은 Azure OpenAI를 통해 타사 LLM의 GPT 
 
 ## [!DNL Generative Actions]
 
-[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_&#x200B;은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
+[Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
 
-<!-- Add example about usage mode?
+<!-- 
+Add example about usage mode?
 Where users check how many generative actions they have left
 How they re-up their genactions
-If genactions roll over month to month or not -->
+If genactions roll over month to month or not 
+-->
 
 ### 비율
 
-[GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 설명된 대로 기본 [!DNL Generative Actions] 할당을 받습니다.
+[GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 설명된 대로 기본 [!DNL Generative Actions] 할당을 받습니다.
 
 >[!NOTE]
 >
->사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
+>사용률은 다를 수 있습니다. 계획은 변경될 수 있습니다. 업데이트된 요금 정보는 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)을 참조하세요.
 
 다음 함수는 지정된 비율로 [!DNL Generative Actions]을(를) 사용합니다.
 
@@ -89,10 +71,12 @@ If genactions roll over month to month or not -->
 | 디스플레이 광고 만들기 | 세대당 5개 |
 | 단면 재생성 | 세대당 1개 |
 
-<!-- | Generate on-brand images | 1 per prompt  |
+<!-- 
+| Generate on-brand images | 1 per prompt  |
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
-| Video: TTS + Avatar      | 1 per prompt  | -->
+| Video: TTS + Avatar      | 1 per prompt  | 
+-->
 
 다음 경우에 [!DNL Generative Actions] _은(는) 사용되지 않습니다_:
 
@@ -120,44 +104,85 @@ GenStudio for Performance Marketing은 Adobe 데이터 거버넌스 표준 및 �
 더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketing은 콘텐츠 supply chain을 마케터를 위해 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketing은 라이프사이클의 각 단계에서 Adobe 기술을 활용합니다.
 
 <table style="table-layout:auto">
+
 <tr style="border: 0;">
+
     <td>
+
        <p><strong>워크플로 및 계획</strong></p>
+
     </td>
+
     <td>
+
         <p>아이디어를 브레인스토밍하고, 지침을 정의하고, 콘텐츠를 중심으로 전략을 구축하여 대상자를 참여시킵니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>제작 및 프로덕션</strong></p>
+
     </td>
+
     <td>
+
         <p>플랜을 기반으로 콘텐츠를 생성합니다. 실시간으로 공동 작업하고, 피드백을 받고, 편집하고, 콘텐츠를 승인합니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>콘텐츠 관리</strong></p>
+
     </td>
+
     <td>
+
         <p>중앙 집중식 저장소에서 크리에이티브 자산을 저장, 공유 및 찾습니다. 성능을 기반으로 콘텐츠를 재사용하고 활성화할 수 있습니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>게재 및 활성화</strong></p>
+
     </td>
+
     <td>
+
         <p>콘텐츠를 활성화하고 여러 마케팅 채널에 게시할 수 있습니다.</P>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>보고 및 통찰력</strong></p>
+
     </td>
+
     <td>
+
         <p>자산 성능 최적화를 위한 데이터를 수집하고 통찰력을 도출합니다.</p>
+
     </td>
+
 </tr>
+
 </table>

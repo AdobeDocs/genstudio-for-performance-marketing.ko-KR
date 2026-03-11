@@ -8,26 +8,13 @@ level: Beginner
 recommendations: noDisplay
 exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
 TQID: https://experienceleague.adobe.com/bgBb1B5ZzEt-qvNn-U-N-95lrGjFGD9d9vE47vVV7jg
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 1089
 ht-degree: 0%
@@ -46,7 +33,7 @@ ht-degree: 0%
 
 **배너 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 배너]**&#x200B;를 클릭합니다.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 배너]**를 클릭합니다.
 1. _필터_ 옆의 검색 옵션을 사용하여 특정 배너 템플릿을 찾습니다.
 1. _템플릿 선택_ 보기에서 배너 템플릿을 클릭합니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
@@ -100,16 +87,18 @@ ht-degree: 0%
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 온라인 이미지 텍스트나 인라인 링크를 클릭한 다음 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 _[!UICONTROL 새 텍스트 생성_ 섹션]에 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
-* **변형의 이미지에 링크를 추가하려면[&#128279;](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.
+* **변형의 이미지에 링크를 추가하려면](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.[
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
-* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 아이콘)을 클릭한 다음 **[!UICONTROL 자르기]**&#x200B;를 클릭합니다. 이미지 크기와 배치를 조정합니다.
 * **[이미지 크기를 조정하고 맞추는 [생성 확장]을 사용](/help/user-guide/create/manage-variants.md#use-generative-expand)하려면** 이미지를 클릭하고 **[!UICONTROL 편집]**(연필 모양 아이콘)을 클릭한 다음 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 필요한 종횡비와 템플릿에 맞게 이미지를 조정합니다.
 
-<!-- # Preview for device
+<!-- 
+# Preview for device
 When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
-**To preview variants for desktop and mobile devices** toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear. -->
+**To preview variants for desktop and mobile devices** toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear. 
+-->
 
 ## 생성 피드백 제출
 
@@ -147,7 +136,7 @@ When revising and preparing email experiences, you can toggle between previews f
 생성된 배너를 현재 및 나중에 사용할 수 있도록 하려면 [!UICONTROL 콘텐츠]에 게시하고 마케팅 캠페인에서 사용하도록 내보내십시오.
 
 1. **새 배너 환경을 게시하려면**, 상단 도구 모음 또는 승인 흐름 내에서 **[!UICONTROL 게시]**&#x200B;를 클릭하십시오.
-   1. _[!UICONTROL [!DNL Campaigns]]_&#x200B;을(를) 선택하고 필요한 경우&#x200B;_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_&#x200B;를 추가하십시오.
+   1. _[!UICONTROL [!DNL Campaigns]]_을(를) 선택하고 필요한 경우_[!UICONTROL &#x200B;추가 세부 정보&#x200B;]_를 추가하십시오.
    1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
       ![배너 게시](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
