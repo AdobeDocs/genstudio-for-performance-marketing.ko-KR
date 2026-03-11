@@ -30,7 +30,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 242ab858144fd152fd55645143f869fddf7b6fe0
 workflow-type: tm+mt
 source-wordcount: 754
 ht-degree: 0%
@@ -67,10 +67,12 @@ GenStudio for Performance Marketing은 Azure OpenAI를 통해 타사 LLM의 GPT 
 
 [Adobe GenStudio for Performance Marketing 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)에 정의된 _[!DNL Generative Actions]_&#x200B;은(는) GenStudio for Performance Marketing에서 생성 AI 기능의 사용을 정량화하는 단위입니다.
 
-<!-- Add example about usage mode?
+<!-- 
+Add example about usage mode?
 Where users check how many generative actions they have left
 How they re-up their genactions
-If genactions roll over month to month or not -->
+If genactions roll over month to month or not 
+-->
 
 ### 비율
 
@@ -89,10 +91,12 @@ If genactions roll over month to month or not -->
 | 디스플레이 광고 만들기 | 세대당 5개 |
 | 단면 재생성 | 세대당 1개 |
 
-<!-- | Generate on-brand images | 1 per prompt  |
+<!-- 
+| Generate on-brand images | 1 per prompt  |
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
-| Video: TTS + Avatar      | 1 per prompt  | -->
+| Video: TTS + Avatar      | 1 per prompt  | 
+-->
 
 다음 경우에 [!DNL Generative Actions] _은(는) 사용되지 않습니다_:
 
@@ -120,44 +124,85 @@ GenStudio for Performance Marketing은 Adobe 데이터 거버넌스 표준 및 �
 더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketing은 콘텐츠 supply chain을 마케터를 위해 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketing은 라이프사이클의 각 단계에서 Adobe 기술을 활용합니다.
 
 <table style="table-layout:auto">
+
 <tr style="border: 0;">
+
     <td>
+
        <p><strong>워크플로 및 계획</strong></p>
+
     </td>
+
     <td>
+
         <p>아이디어를 브레인스토밍하고, 지침을 정의하고, 콘텐츠를 중심으로 전략을 구축하여 대상자를 참여시킵니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>제작 및 프로덕션</strong></p>
+
     </td>
+
     <td>
+
         <p>플랜을 기반으로 콘텐츠를 생성합니다. 실시간으로 공동 작업하고, 피드백을 받고, 편집하고, 콘텐츠를 승인합니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>콘텐츠 관리</strong></p>
+
     </td>
+
     <td>
+
         <p>중앙 집중식 저장소에서 크리에이티브 자산을 저장, 공유 및 찾습니다. 성능을 기반으로 콘텐츠를 재사용하고 활성화할 수 있습니다.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>게재 및 활성화</strong></p>
+
     </td>
+
     <td>
+
         <p>콘텐츠를 활성화하고 여러 마케팅 채널에 게시할 수 있습니다.</P>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>보고 및 통찰력</strong></p>
+
     </td>
+
     <td>
+
         <p>자산 성능 최적화를 위한 데이터를 수집하고 통찰력을 도출합니다.</p>
+
     </td>
+
 </tr>
+
 </table>

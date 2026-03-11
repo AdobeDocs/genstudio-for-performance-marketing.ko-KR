@@ -21,7 +21,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 309
 ht-degree: 0%
@@ -47,9 +47,11 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 
 [템플릿 요소](/help/user-guide/templates/use-templates.md#template-elements)를 참조하십시오.
 
-<!-- ## Email capabilities
+<!-- 
+## Email capabilities
 
-Content creators and marketers can produce brand-consistent email experiences in GenStudio for Performance Marketing. -->
+Content creators and marketers can produce brand-consistent email experiences in GenStudio for Performance Marketing. 
+-->
 
 ## 여러 섹션 이메일
 

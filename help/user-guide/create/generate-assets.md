@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 836
 ht-degree: 0%
@@ -87,9 +87,11 @@ _[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장�
 
    [!DNL Brand]을(를) 선택한 경우 이미지 범주를 사용할 수 있습니다. 옵션은 선택한 [!DNL Brand]에 의해 결정됩니다.
 
-<!-- 1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
+<!-- 
+1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
 
-   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. -->
+   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. 
+-->
 
 1. _[!UICONTROL 종횡비]_&#x200B;에서 원하는 종횡비를 선택하십시오.
 1. 참조 이미지를 추가하려면 _[!UICONTROL 스타일 참조]_&#x200B;에서 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 선택한 이미지는 사용자가 생성하는 이미지의 시각적 심미성과 깊이에 영향을 줍니다.
@@ -146,7 +148,8 @@ _[!DNL On-brand images]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장�
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.
 
-<!-- ## Generate Similar images
+<!-- 
+## Generate Similar images
 
 You can quickly generate images similar to a selected image within [!DNL Content] from the [!DNL Create] home.
 
@@ -162,7 +165,8 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
    The Canvas, which serves as the central hub for content creation, is displayed. Four image variations similar to the original selected image appear.
 
-   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} -->
+   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} 
+-->
 
 ## 이미지 게시 및 내보내기
 

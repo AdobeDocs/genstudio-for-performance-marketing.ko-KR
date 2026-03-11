@@ -17,7 +17,7 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 242ab858144fd152fd55645143f869fddf7b6fe0
 workflow-type: tm+mt
 source-wordcount: 287
 ht-degree: 2%
@@ -63,7 +63,8 @@ GenStudio for Performance Marketing은 자동으로 다음 필드를 생성합�
 | 세로 2:3 | 모바일 | 1200 x 1800 | 키가 1:1.91보다 약간 작습니다. 모바일 우선 캠페인에 적합합니다. |
 | 세로 4:5 | 모바일 | 1200 x 1500 | 모바일에 권장. 가시성과 콘텐츠의 균형을 맞추므로 종종 더 높은 영향을 미칩니다. |
 
-<!-- Potentially add an example
+<!-- 
+Potentially add an example
 
 ## Template example
 
