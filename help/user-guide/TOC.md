@@ -5,9 +5,9 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 9cd03372041056483e94ae324124e791a8c8d7ba
+source-git-commit: 689c259f8766848815850d38cc0b13d3669dd718
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '254'
 ht-degree: 19%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 19%
    + [템플릿 사용자 지정](templates/customize-template.md)
    + [템플릿 코드 편집기](templates/code-editor.md)
    + [액세스 가능한 템플릿 만들기](templates/accessibility-for-templates.md)
+   + [빠른 템플릿 사용](templates/express-templates.md)
    + [템플릿 모범 사례](templates/best-practices-for-templates.md)
    + 채널 모범 사례 {#channel-best-practice}
       + [디스플레이 광고 가이드](templates/display-template.md)
@@ -107,5 +108,5 @@ ht-degree: 19%
    + [통합 개요](integrations/overview.md)
    + [Photoshop 플러그인](integrations/photoshop-plugin.md)
    + [Figma 플러그인](integrations/figma-plugin.md)
-+ [hide-from-tocGenStudio Academy - 숨김](genstudioacademy.md)
-+ [hide-from-tocMarkdown 테스트 - 숨김](test-markdown.md)
++ {hide-from-toc}[GenStudio Academy - 숨김](genstudioacademy.md)
++ {hide-from-toc}[Markdown 테스트 - 숨김](test-markdown.md)
