@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: b3ebb731f7b9a7968a232fe2283b5ef2441c3f6c
 workflow-type: tm+mt
-source-wordcount: 4448
+source-wordcount: 4584
 ht-degree: 0%
 
 ---
@@ -50,7 +50,28 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.01 {#latest}
+## 2026.03 {#latest}
+
+### Meta, LinkedIn 및 Display용 고속 템플릿
+
+[!DNL Create]은(는) 이제 Meta, LinkedIn 및 Display에 대해 [Horizon Canvas의 빠른 템플릿](/help/user-guide/templates/express-templates.md)을 지원합니다. 시작 템플릿 및 사용자 지정 브랜드 레이아웃을 비롯한 Adobe Express 템플릿을 생성 워크플로우에서 바로 사용할 수 있습니다.
+
+캔버스는 다음을 포함한 템플릿 기능을 지원합니다.
+
+* 템플릿당 여러 크기
+* Express에서 설정된 레이어 잠금 및 잠금 해제 옵션
+* 템플릿 요소에 대한 WYSIWYG 편집
+* 텍스트, 미디어 교체, 로고 교체, 비디오 프레임 등에 대한 풍부한 컨트롤
+
+[GenStudio for Performance Marketing에서 Adobe Express 템플릿 사용](/help/user-guide/templates/express-templates.md)에서 세부 정보를 살펴보십시오.
+
+### GenStudio for Performance Marketing의 TikTok 콘텐츠
+
+이제 GenStudio for Performance Marketing에서 TikTok 인피드 비디오 광고를 만들고, 승인하고, 활성화할 수 있습니다. [!DNL Create] 워크플로에서 광고를 쉽게 생성한 다음 경험을 [!DNL Content]에 게시합니다. TikTok용 [!DNL Insights]을(를) 사용하여 성능을 모니터링하고 다음 창의적 새로 고침을 알립니다.
+
+## 이전 릴리스 노트
+
++++2026.01.15 릴리스 정보
 
 ### HTML 캔버스 프롬프트 패널 재디자인
 
@@ -66,7 +87,7 @@ ht-degree: 0%
 
 GenStudio for Performance Marketing은 이제 Content Credentials을 지원하므로 팀이 생성, 검토 및 내보내기 전반에 걸쳐 에셋에 대한 신뢰성 메타데이터를 적용하고 유지할 수 있습니다. 자격 증명 배지 및 세부 정보는 주요 워크플로에 표시되므로 조직은 콘텐츠를 공유할 때 provenance를 확인하고 신뢰를 유지할 수 있습니다.
 
-## 이전 릴리스 노트
++++
 
 +++2025.12.12 릴리스 정보
 
