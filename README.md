@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3af756e5bc0e2731187c3879c1593605706d6a2c
+source-git-commit: 28ad1f3a659fd1f44283c8e5913810f8637b87a2
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 81%
 
 ---
 # GenStudio for Performance Marketing 설명서
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ## Adobe Open Source 행동 수칙
 
-이 프로젝트는 [Adobe Open Source 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/about/policies/code-of-conduct)을 채택했습니다. [기여](contributing.md) 문서를 참조하십시오.
+이 프로젝트는 [Adobe Open Source 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/about/policies/code-of-conduct)을 채택했습니다. [기여](contributing.md) 페이지를 참조하세요.
 
 ### 사소한 변경 사항
 
