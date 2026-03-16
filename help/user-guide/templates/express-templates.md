@@ -4,7 +4,7 @@ description: Adobe Express 에셋을 통합할 수 있는 GenStudio for Performa
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 26d8f8a7f25679ced3fc3030a3e9d32b1ea554b0
+source-git-commit: 05bc285ff614c8d3e15beab3411c7666b01d1155
 workflow-type: tm+mt
 source-wordcount: '1701'
 ht-degree: 0%
@@ -243,3 +243,4 @@ _콘텐츠 검사_ 패널을 사용하여 일관된 브랜드 ID, ADA 접근성 
 ## 검토 및 승인
 
 변형을 편집하고 조정한 후 [검토 및 승인 워크플로](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/approve/overview)를 사용하여 콘텐츠를 승인하고 게시하십시오.
+
