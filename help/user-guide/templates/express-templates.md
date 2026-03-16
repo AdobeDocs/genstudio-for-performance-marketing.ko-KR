@@ -1,12 +1,12 @@
 ---
-title: GenStudio에서 Adobe Express 템플릿 사용
+title: GenStudio for Performance Marketing에서 Adobe Express 템플릿 사용
 description: Adobe Express 에셋을 통합할 수 있는 GenStudio for Performance Marketing 기능을 살펴봅니다.
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 161d6c46f7b20ac47caa6135e437ea48cb6d99db
+source-git-commit: 26d8f8a7f25679ced3fc3030a3e9d32b1ea554b0
 workflow-type: tm+mt
-source-wordcount: '1698'
+source-wordcount: '1701'
 ht-degree: 0%
 
 ---
