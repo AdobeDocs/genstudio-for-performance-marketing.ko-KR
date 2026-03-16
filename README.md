@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3af756e5bc0e2731187c3879c1593605706d6a2c
+source-git-commit: 28ad1f3a659fd1f44283c8e5913810f8637b87a2
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 81%
 
 ---
 # GenStudio for Performance Marketing 설명서
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ## Adobe Open Source 행동 수칙
 
-이 프로젝트는 [Adobe Open Source 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/about/policies/code-of-conduct)을 채택했습니다. [기여](contributing.md) 문서를 참조하십시오.
+이 프로젝트는 [Adobe Open Source 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/about/policies/code-of-conduct)을 채택했습니다. [기여](contributing.md) 페이지를 참조하세요.
 
 ### 사소한 변경 사항
 
-부분 업데이트에 기여하는 경우 문서를 열고 **편집** 링크를 클릭하면 문서에 대한 GitHub 소스로 이동하게 됩니다. GitHub UI를 사용하여 업데이트를 만듭니다. 일반 [Adobe 문서 콘텐츠 작가 가이드](https://experienceleague.adobe.com/ko/docs/contributor/contributor-guide/introduction)를 참조하세요.
+부분 업데이트에 기여하는 경우 문서를 열고 **편집** 링크를 클릭하면 문서에 대한 GitHub 소스로 이동하게 됩니다. GitHub UI를 사용하여 업데이트를 만듭니다. 일반 [Adobe 문서 콘텐츠 작가 가이드](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction)를 참조하세요.
 
 이 저장소의 설명서 및 코드 샘플에 대해 사용자가 제출하는 부분 수정 또는 설명은 Adobe 사용 약관의 적용을 받습니다.
 
@@ -31,7 +31,7 @@ Adobe 제품 팀의 테크니컬 라이터, 프로그램 관리자 또는 개발
 
 커뮤니티 기여자는 기본 편집에 GitHub UI를 사용하거나 리포지토리를 포크하여 크게 기여할 수 있습니다.
 
-자세한 내용은 [Adobe 문서 기여자 안내서](https://experienceleague.adobe.com/ko/docs/contributor/contributor-guide/introduction)를 참조하십시오.
+자세한 내용은 [Adobe 문서 기여자 안내서](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction)를 참조하십시오.
 
 ## Markdown
 
