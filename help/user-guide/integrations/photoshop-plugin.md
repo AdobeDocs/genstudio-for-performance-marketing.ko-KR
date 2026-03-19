@@ -15,9 +15,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 87ea02eca400ec5c2144126156ebf2450e3c3049
 workflow-type: tm+mt
-source-wordcount: 816
+source-wordcount: 856
 ht-degree: 1%
 
 ---
@@ -146,6 +146,10 @@ Instagram 및 Facebook 스토리:
 사용자는 콘텐츠 생성 또는 번역 후 내보내기를 선택할 수 있습니다. 내보낸 경험이 GenStudio for Performance Marketing의 콘텐츠 섹션에 채워집니다.
 
 ![콘텐츠 섹션에 표시된 내보낸 에셋](./content-assets.png){width="90%"}
+
+## 그림 프레임을 Photoshop으로 변환
+
+그림 프레임은 Photoshop 문서로 변환하고 Photoshop 플러그인과 함께 사용하도록 내보낼 수 있습니다. 프레임을 변환하는 방법을 이해하려면 Figma 플러그인 페이지의 [Figma 프레임을 Photoshop으로 변환](figma-plugin.md#convert-figma-frames-to-photoshop) 섹션을 참조하십시오.
 
 ## 문제 해결
 
