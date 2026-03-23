@@ -17,10 +17,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 4b3f2ae27b9368b95e440a58cb04f4b063da616e
+source-git-commit: 8c7ac98d651195c28a2c82341c68d40b067b2c76
 workflow-type: tm+mt
-source-wordcount: 1725
-ht-degree: 1%
+source-wordcount: 1713
+ht-degree: 93%
 
 ---
 
@@ -182,9 +182,9 @@ Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x2
 
 >[!NOTE]
 >
-> 이 작업을 수행하려면 Figma 플러그인과 GenStudio for Performance Marketing용 [Photoshop 플러그인](photoshop-plugin.md)이 모두 필요합니다.
+> 이 작업을 수행하려면 Figma 플러그인과 [GenStudio Photoshop](photoshop-plugin.md)이 모두 필요합니다.
 
-Figma 플러그인을 사용하여 Figma 프레임, 여러 프레임 또는 전체 문서를 Photoshop 형식으로 변환하고 [Photoshop 플러그인](photoshop-plugin.md)과 함께 사용하도록 내보낼 수 있습니다. 현재 변환 중에는 가시성, 글꼴 크기 및 기본 레이어 속성과 같은 주요 속성만 지원됩니다. 취소선, 위 첨자, 아래 첨자, 백분율 불투명도, 그라디언트 및 유사한 고급 속성과 같은 기능은 아직 지원되지 않습니다.
+Figma 플러그인을 사용하여 Figma 프레임, 여러 프레임 또는 전체 문서를 Photoshop 형식으로 변환하고 [GenStudio Photoshop](photoshop-plugin.md)에서 사용하도록 내보낼 수 있습니다. 현재 변환 중에는 가시성, 글꼴 크기 및 기본 레이어 속성과 같은 주요 속성만 지원됩니다. 취소선, 위 첨자, 아래 첨자, 백분율 불투명도, 그라디언트 및 유사한 고급 속성과 같은 기능은 아직 지원되지 않습니다.
 
 플러그인은 변환을 위해 다음 Figure 레이어 유형을 지원합니다.
 
@@ -215,8 +215,8 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 1. 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 내보내기]**&#x200B;를 클릭하여 변환된 파일을 선택한 위치로 내보내거나
-   * 변환된 파일을 Photoshop 플러그인에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL Photoshop 플러그인으로 전송]**&#x200B;을 클릭합니다.
-     ![Photoshop 플러그 인으로 전송 단추](./transfer-to-ps-button.png){width="60%"}
+   * 변환된 파일을 GenStudio Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을 클릭합니다.
+     ![GenStudio Photoshop으로 전송 단추](./transfer-to-ps-button.png){width="40%"}
 1. **[!UICONTROL 파일 키 필요]** 대화 상자가 나타나면 플러그 인에 변환을 완료하려면 Figma 파일 URL이 필요합니다. 문서의 URL을 추가합니다.
 
    1. 그림에서 캔버스의 오른쪽 위 모서리에 있는 **[!UICONTROL 공유]**&#x200B;를 클릭합니다.
@@ -224,14 +224,14 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
    1. 복사한 링크를 플러그 인 대화 상자의 **[!UICONTROL 그림 파일 URL]** 필드에 붙여 넣습니다.
 
 1. **[!UICONTROL 제출을 클릭합니다]**. 플러그인은 선택한 프레임을 Figure에서 읽고 파일 데이터의 중간 형식인 JSON 문서로 변환합니다.
-   ![파일 키 필요 대화 상자](./file-key-required.png){width="40%"}
-1. Photoshop에서 GenStudio 플러그인을 열고 **[!UICONTROL 가져오기]** 탭을 클릭합니다.
+   ![파일 키 필요 대화 상자](./file-key-required.png){width="35%"}
+1. Photoshop에서 GenStudio Photoshop을 열고 **[!UICONTROL 가져오기]** 탭을 클릭합니다.
 1. 다음 중 하나를 수행하십시오.
 
-   * **[!UICONTROL 플러그 인에서]**&#x200B;을(를) 클릭하여 캐시된 파일 목록에서 **[!UICONTROL Photoshop 플러그 인으로 전송]**&#x200B;을(를) 사용하여 변환된 파일을 선택하거나
+   * **[!UICONTROL 플러그 인에서]**&#x200B;을(를) 클릭하여 캐시된 파일 목록에서 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을(를) 사용하여 변환된 파일을 선택하거나
    * **[!UICONTROL JSON 업로드]**&#x200B;를 클릭하여 업로드할 JSON 파일을 찾아 선택합니다.
      ![JSON 업로드 단추](./upload-json.png){width="40%"}
-1. Photoshop의 GenStudio 플러그인은 JSON 문서의 정보를 열려 있는 Photoshop 문서로 변환합니다.
+1. GenStudio Photoshop은 JSON 문서의 정보를 열려 있는 Photoshop 문서로 변환합니다.
 1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다. 새 파일이 Photoshop에서 열리고 사용할 준비가 되었습니다. 또는 **[!UICONTROL 다른 이름으로 저장...]**&#x200B;을 클릭하여 파일을 저장할 위치를 선택하십시오.
    ![완료 단추 대화 상자](./import-done-button.png){width="40%"}
 

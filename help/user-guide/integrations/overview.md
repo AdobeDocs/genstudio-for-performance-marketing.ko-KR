@@ -19,9 +19,9 @@ role_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: a3045fbab1e26338bdfbed21f6a373d56719ee07
+source-git-commit: 8c7ac98d651195c28a2c82341c68d40b067b2c76
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: 195
 ht-degree: 0%
 
 ---
@@ -40,9 +40,8 @@ GenStudio for Performance Marketing Figma 플러그인은 사용자가 브랜드
 
 [Figma 플러그인](figma-plugin.md) 페이지에서 Figma 플러그인에 대해 자세히 알아보세요.
 
-## Photoshop 플러그인
+## GenStudio Photoshop
 
-GenStudio for Performance Marketing Photoshop 플러그인은 사용자가 Adobe Photoshop에서 컨텐츠 생성과 같은 GenStudio for Performance Marketing 작업을 수행할 수 있도록 해주는 새 패널을 에 추가합니다.
+GenStudio Photoshop은 Adobe Photoshop에 새 패널을 추가하여 사용자가 브랜드 내 컨텐츠 생성과 같은 GenStudio for Performance Marketing 작업을 수행할 수 있도록 합니다.
 
-[Photoshop 플러그인](photoshop-plugin.md) 페이지에서 Photoshop 플러그인에 대해 자세히 알아보세요.
-
+[GenStudio Photoshop](photoshop-plugin.md) 페이지에서 GenStudio Photoshop에 대해 자세히 알아보세요.

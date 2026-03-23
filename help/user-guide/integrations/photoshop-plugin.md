@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio for Performance Marketing용 Photoshop 플러그인
-description: GenStudio for Performance Marketing용 Photoshop 플러그인을 설치, 구성 및 사용하는 방법에 대해 알아봅니다.
+title: Adobe GenStudio for Performance Marketing용 GenStudio Photoshop
+description: GenStudio for Performance Marketing용 GenStudio Photoshop을 설치, 구성 및 사용하는 방법을 알아봅니다.
 feature: Generative AI
 role: User
 exl-id: e3f57acd-f2dd-4957-aa5e-c97595a29899
@@ -15,16 +15,16 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 87ea02eca400ec5c2144126156ebf2450e3c3049
+source-git-commit: 8c7ac98d651195c28a2c82341c68d40b067b2c76
 workflow-type: tm+mt
-source-wordcount: 856
-ht-degree: 1%
+source-wordcount: 847
+ht-degree: 92%
 
 ---
 
-# GenStudio for Performance Marketing용 Photoshop 플러그인
+# GenStudio for Performance Marketing용 GenStudio Photoshop
 
-GenStudio for Performance Marketing Photoshop 플러그인은 Adobe Photoshop에 패널을 추가하여 브랜드 내 콘텐츠를 생성할 수 있도록 합니다.
+GenStudio Photoshop은 Adobe Photoshop에 패널을 추가하여 브랜드 내 콘텐츠를 생성할 수 있습니다.
 
 이 페이지에서는 플러그인을 설치하고 구성하는 방법과 사용 방법에 대해 설명합니다.
 
@@ -53,7 +53,7 @@ GenStudio for Performance Marketing Photoshop 플러그인은 Adobe Photoshop에
 ### 설치 단계
 
 1. Adobe Exchange의 Creative Cloud 마켓플레이스에서 플러그인을 다운로드하고 업데이트합니다.
-1. Adobe Exchange에서 **Photoshop용 GenStudio 플러그인**&#x200B;을 검색합니다.
+1. Adobe Exchange에서 **GenStudio Photoshop**&#x200B;을(를) 검색합니다.
 1. 화면의 지침에 따라 플러그인을 설치합니다.
 
 ### 플러그인 제거
@@ -149,7 +149,7 @@ Instagram 및 Facebook 스토리:
 
 ## 그림 프레임을 Photoshop으로 변환
 
-그림 프레임은 Photoshop 문서로 변환하고 Photoshop 플러그인과 함께 사용하도록 내보낼 수 있습니다. 프레임을 변환하는 방법을 이해하려면 Figma 플러그인 페이지의 [Figma 프레임을 Photoshop으로 변환](figma-plugin.md#convert-figma-frames-to-photoshop) 섹션을 참조하십시오.
+그림 프레임은 Photoshop 문서로 변환하고 GenStudio Photoshop에서 사용할 수 있도록 내보낼 수 있습니다. 프레임을 변환하는 방법을 이해하려면 Figma 플러그인 페이지의 [Figma 프레임을 Photoshop으로 변환](figma-plugin.md#convert-figma-frames-to-photoshop) 섹션을 참조하십시오.
 
 ## 문제 해결
 
