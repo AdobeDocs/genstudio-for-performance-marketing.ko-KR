@@ -24,10 +24,10 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 59f51bf35c5ad81845d2cd11c6659a0833e4de7b
 workflow-type: tm+mt
-source-wordcount: 1449
-ht-degree: 0%
+source-wordcount: 1457
+ht-degree: 1%
 
 ---
 
@@ -73,7 +73,7 @@ GenStudio for Performance Marketing의 [!DNL Insights]은(는) 현재 사용 가
 | Meta | <ul><li>동적 광고</li><li>링크 광고</li><li>단순 이미지 광고</li><li>간단한 비디오 광고</li><li>쇼핑 광고</li></ul> | <ul><li>Advantage+ 카탈로그 광고</li><li>광고 회전</li><li>Messenger 광고</li><li>잠재 고객 광고</li><li>컬렉션 광고</li><li>광고 호출</li><li>소유한 페이지 게시물 광고</li><li>파트너 관계 광고</li><li>유연한 광고</li></ul> |
 | LinkedIn | <ul><li>단일 이미지 광고</li><li>단일 비디오 광고</li><li>문서 광고</li></ul> | <ul><li>광고 회전</li><li>문서 광고</li><li>이벤트 광고</li><li>사고 리더 광고</li><li>잠재 고객 광고</li><li>팔로워 광고</li><li>대화 광고</li><li>Spotlight 광고</li><li>작업 광고</li><li>컨텐츠 광고</li><li>메시지 광고</li></ul> |
 | TikTok | <ul><li>단일 이미지 광고</li><li>단일 비디오 광고</li></ul> | <ul><li>인피드 광고(비디오, 스파크, 회전 메뉴)</li><li>Premium 인식 광고(TopView, 브랜드 인계)</li><li>대화형 광고(해시태그 문제, 브랜드 효과)</li><li>Commerce 광고(쇼핑, 카탈로그, 라이브)</li><li>리드 및 메시징 광고</li><li>광고 유형을 결정할 수 있는 에셋이 없으므로 분류하기 어렵습니다</li></ul> |
-| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | 분류하기가 어렵습니다. 광고 유형을 결정할 자산이 없습니다. |
+| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | 유료 미디어 채널은 크리에이티브 자산을 검색할 수 있는 액세스 권한을 제공하지 않으므로 광고 유형을 정확하게 분류하기가 어렵습니다. |
 | 이노비드 | N/A | 광고 유형을 결정할 수 있는 자산이 없으므로 분류하기가 어렵습니다. |
 
 ### 광고 배치
