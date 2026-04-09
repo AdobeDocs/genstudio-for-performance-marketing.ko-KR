@@ -79,9 +79,9 @@ AJO **[!UICONTROL 권한]** > **[!UICONTROL 여정]**&#x200B;의 **[!UICONTROL �
 
 **참고 항목**(Journey Optimizer 액세스 제어):
 
-* [액세스 제어](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/access-control-landing-page)
-* [Journey Optimizer의 권한](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions)
-* [시스템 관리자용 시작하기](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/quick-start/administrator)
+* [액세스 제어](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/access-control/access-control-landing-page)
+* [Journey Optimizer의 권한](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/access-control/permissions)
+* [시스템 관리자용 시작하기](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/quick-start/administrator)
 
 ## GenStudio에서 AJO 템플릿 액세스
 
