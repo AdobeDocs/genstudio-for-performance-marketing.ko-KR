@@ -45,7 +45,7 @@ ht-degree: 0%
 ### LaunchPoint 서비스 만들기 또는 선택
 
 1. **[!UICONTROL 관리자]**&#x200B;의 **[!UICONTROL 통합]**&#x200B;에서 **[!UICONTROL LaunchPoint]**&#x200B;를 엽니다.
-1. 새 서비스를 만들거나 기존 사용자 지정 서비스를 사용하려면 **[!UICONTROL 만들기]**를 클릭하십시오.
+1. 새 서비스를 만들거나 기존 사용자 지정 서비스를 사용하려면 **[!UICONTROL 만들기]**&#x200B;를 클릭하십시오.
    ![LaunchPoint 사용자 지정 서비스](/help/extensibility/marketo-launchpoint-custom-service.png){width="80%"}
 1. 서비스에 대해 **[!UICONTROL 세부 정보 보기]**&#x200B;를 클릭하고 **[!UICONTROL 클라이언트 ID]** 및 **[!UICONTROL 클라이언트 암호]**&#x200B;를 복사합니다. Adobe Exchange **[!UICONTROL 구성]**&#x200B;에 입력하게 됩니다.
 
