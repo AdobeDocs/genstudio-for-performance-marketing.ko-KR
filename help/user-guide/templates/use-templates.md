@@ -23,9 +23,9 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 70984b2c03e14a14b36fca6dfc62dcda9138949e
+source-git-commit: 10f44078f4c1b5865006311f9b32eab479986722
 workflow-type: tm+mt
-source-wordcount: 1410
+source-wordcount: 1443
 ht-degree: 1%
 
 ---
@@ -160,6 +160,8 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 Adobe Journey Optimizer(AJO) 또는 Marketo에서 만든 템플릿을 업로드할 수 있습니다. GenStudio for Performance Marketing은 애플리케이션별 패턴을 감지하고 이를 무시하며 AJO 또는 Marketo에서 계속 사용할 수 있도록 원래 양식을 보존합니다. 원래 AJO 또는 Marketo 구문을 변경할 필요가 없습니다.
 
 이메일 경험을 만들 때 **[!UICONTROL AJO 템플릿]** 탭을 포함하여 GenStudio 내 Journey Optimizer 라이브러리의 AJO 템플릿을 사용하려면 조직에서 Adobe Exchange의 [GenStudio용 Journey Optimizer](/help/extensibility/journey-optimizer-for-genstudio.md) 앱을 설치하고 구성해야 합니다.
+
+이메일 경험을 만들 때 **[!UICONTROL Marketo 템플릿]** 탭을 포함하여 GenStudio 내의 Marketo Engage 라이브러리에서 Marketo 템플릿을 사용하려면 조직이 Adobe Exchange에서 [GenStudio용 Marketo](/help/extensibility/marketo-for-genstudio.md)을(를) 설치하고 구성해야 합니다.
 
 인식된 애플리케이션 패턴은 다음과 같습니다.
 
