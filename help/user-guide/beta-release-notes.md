@@ -4,9 +4,9 @@ description: 성과 마케팅을 위한 Adobe GenStudio의 최신 기능 및 개
 hidefromtoc: true
 hide: true
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 51b4eea1a1de48edc52b7f740638c2a2989d9c19
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '592'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 2%
 
 이 릴리스에는 다음과 같은 인터페이스 영역을 포함하여 제품 인터페이스 전반의 현지화에 대한 개선 사항이 포함되어 있습니다.
 
-* **[!UICONTROL 프롬프트 메뉴의]**&#x200B;자세히 알아보기[!DNL Create] 옵션 대상에 대한 URL. <!-- GS-5029 -->
+* [!DNL Create] 프롬프트 메뉴의 **[!UICONTROL 자세히 알아보기]** 옵션 대상에 대한 URL. <!-- GS-5029 -->
 
 * [!DNL Insights] > [!DNL Experience] 검색 입력 필드에 인접한 숫자 형식입니다. <!-- GS-4494 -->
 
