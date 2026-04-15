@@ -73,5 +73,5 @@ markdownlint --config markdownlint_custom.json "help/**/*.md"
 yarn lint
 ```
 
----
+&#x200B;---
 원한다면 리포지토리의 `.github/copilot-instructions.md`에 병합하거나 단어/길이를 조정할 수 있습니다. 무엇을 변경하거나 추가해야 합니까?
