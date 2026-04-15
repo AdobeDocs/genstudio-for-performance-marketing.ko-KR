@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b3ebb731f7b9a7968a232fe2283b5ef2441c3f6c
+source-git-commit: 90c6d3e24ec752f0cb23476e7fc407dee294a4c9
 workflow-type: tm+mt
-source-wordcount: 4584
+source-wordcount: 5224
 ht-degree: 0%
 
 ---
@@ -50,7 +50,77 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.03 {#latest}
+## 2026.04 {#latest}
+
+### Meta 광고 계정에 대한 작업 유형별 CPA
+
+[!DNL Insights]의 Meta 광고 캠페인의 경우 이제 단일 기본 지표 대신 캠페인이 최적화된 방식과 일치하는 전환 작업을 사용하여 CPA(작업당 비용)를 분석할 수 있습니다.
+
+사용 가능한 Meta 작업 유형(예: ) 중에서 선택합니다.
+
+* 구매
+* 장바구니에 추가 이벤트
+* 리드
+* 비디오 보기 횟수
+* 사용자 지정 전환
+
+광고, Assets(미디어) 및 특성 [!DNL Insights] 테이블에서 CPA를 일관되게 검토합니다.
+
+### 만들기 워크플로우의 RTCDP 대상
+
+[Adobe Real-Time Customer Data Platform(RTCDP) 대상](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences)은(는) [!DNL Create] 워크플로우에서 사용할 수 있으므로 생성된 경험을 기존 지침과 함께 대상 정의에 반영할 수 있습니다.
+
+### [!DNL Insights]의 Innovid 디스플레이 채널
+
+이제 Innovid가 [!DNL Insights]에 표시 채널로 표시되므로 Meta, LinkedIn, TikTok 및 기타 연결된 소스 옆에서 매일 새로 고침된 지표를 사용하여 한 곳에서 캠페인 및 광고 성과를 검토할 수 있습니다.
+
+Innovid를 사용하여 노출 횟수, 클릭 수 및 클릭스루 비율을 평가합니다.
+
+### 단일 비디오 자산으로 LinkedIn 활성화
+
+이제 GenStudio for Performance Marketing에서 단일 비디오 자산을 사용하는 LinkedIn 광고 경험을 [활성화](/help/user-guide/activation/activate-linkedin-ad.md)하여 LinkedIn Campaign Manager에 연결할 수 있습니다. 정적 LinkedIn 광고에 사용하는 것과 동일한 종단 간 활성화 흐름을 따를 수 있습니다.
+
+### 유료 미디어 및 이메일 경험에 대한 기본 번역
+
+이제 [홈 페이지 만들기](/help/user-guide/create/overview.md)에서 **[!UICONTROL 번역 및 지역화]** 카드를 사용하거나 [자산 및 경험 관리](/help/user-guide/content/manage-assets.md)에서 승인된 유료 미디어 경험 또는 이메일 경험의 작업 메뉴에서 **[!UICONTROL 번역]**&#x200B;을 선택하여 콘텐츠를 번역하세요.
+
+유료 미디어의 경우 한 흐름에서 콘텐츠를 **40+** 언어로 번역하십시오.
+
+전자 메일의 경우 콘텐츠를 단일 흐름에서 **10**&#x200B;개 이상의 지원되는 언어로 번역하십시오.
+
+### 템플릿 자산에 대한 서드파티 DAM 연결
+
+이제 조직에서 등록된 추가 기능을 사용하여 **자체 DAM(디지털 에셋 관리)을 연결** 리포지토리를 연결할 수 있으므로 작성자는 템플릿 매개 변수 흐름에서 해당 시스템의 미디어를 찾아보고 선택할 수 있습니다.
+
+추가 기능을 만들고 배포하는 방법은 [DAM 확장 찾기](/help/extensibility/deploy-app.md#find-dam-extensions) 및 [확장 가능한 앱 만들기 시작하기](/help/extensibility/setup.md)를 참조하십시오.
+
+### 통합을 위한 Experience Selector 마이크로 프론트엔드
+
+**경험 선택기**&#x200B;는 GenStudio을 파트너 및 사용자 지정 앱으로 가져옵니다. 마이크로 프론트엔드(MFE)를 포함하여 일관된 UI 및 통합에 적합한 로그인을 사용하여 파트너 또는 사용자 지정 앱에서 탐색, 필터링 및 선택을 제공합니다.
+
+[GenStudio 경험 선택기 MFE](/help/extensibility/experience-selector.md)에서 독립 실행형 번들, 구성 옵션 및 포함 패턴을 채택하십시오. 팀은 선택 UX를 처음부터 다시 빌드하지 않고 선택기 환경을 제공합니다.
+
+### Firefly Image Model 4의 사용자 정의 모델
+
+[!DNL Create]에서 [이미지 생성](/help/user-guide/create/generate-assets.md). **[!UICONTROL 모델] 목록에는 이제 이전 이미지 모델 3 기반 사용자 지정 모델뿐만 아니라 이미지 모델 4 교육을 반영하는** on-brand **및**&#x200B;텍스트 대 이미지&#x200B;**작업에 대한 Adobe Firefly에서 학습된 사용자 지정 모델**&#x200B;이 포함됩니다.
+
+동일한 [!DNL Create] 흐름을 유지하면서도 최신 Firefly 파운데이션은 이미지 모델 4 교육 모델을 통해 브랜드 안전 생성을 지원합니다. 매개변수와 프롬프트는 다른 모델 선택처럼 작동하므로 반올림할 평행 워크플로가 없습니다.
+
+### Horizon 캔버스에 템플릿 표현(Meta, LinkedIn 및 Display)
+
+**Horizon Canvas** + Adobe Express 템플릿이 이제 [!DNL Create]의 **Meta**, **LinkedIn** 및 **Display**&#x200B;에 **일반적으로 사용**&#x200B;됩니다. 다중 크기 레이아웃, 모션 준비가 가능한 Express 디자인(지원되는 경우), 레이어 잠금 및 WYSIWYG 편집은 이러한 채널의 기존 HTML 템플릿 병목 현상을 대체하므로 팀에서 더 빠르게 브랜드 크리에이티브를 제공합니다.
+
+지원되는 형식, 시작 및 사용자 지정 템플릿, 캔버스 기능에 대해서는 [GenStudio for Performance Marketing에서 Adobe Express 템플릿 사용](/help/user-guide/templates/express-templates.md)을 참조하십시오. 이 항목에서는 Express 레이아웃의 크기를 조정할 때 채널별 지원을 설명합니다.
+
+### 검토 및 보관을 위한 PDF 내보내기
+
+[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
+
+[!DNL Create] 캔버스의 초안 내보내기 및 [!DNL Content]의 승인된 경험에서 [PDF에 경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 수행하여 관련자 검토, 승인 레코드 및 보관을 위해 편집할 수 없는 문서를 만들 수 있습니다. 특히 팀에서 규정 준수 또는 규제 검토 워크플로에 대한 고정 스냅숏이 필요한 경우 더욱 그렇습니다.
+
+## 이전 릴리스 노트
+
++++2026.03.15 릴리스 정보
 
 ### Meta, LinkedIn 및 Display용 고속 템플릿
 
@@ -69,7 +139,7 @@ ht-degree: 0%
 
 이제 GenStudio for Performance Marketing에서 TikTok 인피드 비디오 광고를 만들고, 승인하고, 활성화할 수 있습니다. [!DNL Create] 워크플로에서 광고를 쉽게 생성한 다음 경험을 [!DNL Content]에 게시합니다. TikTok용 [!DNL Insights]을(를) 사용하여 성능을 모니터링하고 다음 창의적 새로 고침을 알립니다.
 
-## 이전 릴리스 노트
++++
 
 +++2026.01.15 릴리스 정보
 
@@ -306,7 +376,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### 수정 사항 및 개선 사항
 
-* GenStudio for Performance Marketing에서 LinkedIn Campaign Manager로 [광고 경험 게시](/help/user-guide/activation/activate-linkedin-ad.md)에 대한 지원이 추가되었습니다. [!DNL Activate] 에서는 LinkedIn Campaign Manager에 게시하기 전에 자세한 LinkedIn 광고 미리 보기를 지원합니다.
+* GenStudio for Performance Marketing에서 LinkedIn Campaign Manager로 [광고 경험 게시](/help/user-guide/activation/activate-linkedin-ad.md)에 대한 지원이 추가되었습니다. [!DNL Activate]은(는) LinkedIn Campaign Manager에 게시하기 전에 자세한 LinkedIn 광고 미리 보기를 지원합니다.
 
 * [Workfront Proof 통합](/help/user-guide/approvals/overview.md)은(는) Proof의 강력한 검토 및 승인 기능을 GenStudio for Performance Marketing에 제공합니다. GenStudio for Performance Marketing에서 검토한 콘텐츠는 Workfront Proof에 동기화되며 검토 주석 및 상태가 유지됩니다.
 
@@ -350,7 +420,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 
 ### Meta 광고 활성화
 
-이제 마케터는 GenStudio for Performance Marketing에서 Meta Ads Manager로 광고 경험을 [게시](/help/user-guide/activation/overview.md)할 수 있습니다. [!DNL Activate] 는 배포 전에 자세한 Meta 광고 미리 보기를 지원합니다. [!DNL Activate]을(를) 통해 게시된 Meta 광고는 라이브가 되면 자동으로 [!DNL Insights]&#x200B;(으)로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
+이제 마케터는 GenStudio for Performance Marketing에서 Meta Ads Manager로 광고 경험을 [게시](/help/user-guide/activation/overview.md)할 수 있습니다. [!DNL Activate]은(는) 배포 전에 자세한 Meta 광고 미리 보기를 지원합니다. [!DNL Activate]을(를) 통해 게시된 Meta 광고는 라이브가 되면 자동으로 [!DNL Insights]&#x200B;(으)로 가져와서 사용자가 광고 성과를 추적하고 보고할 수 있습니다.
 
 ### LinkedIn 경험 만들기
 
@@ -625,7 +695,7 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 주요 제품 기능은 다음과 같습니다.
 
-**[!DNL Create]**&#x200B;에서는 콘텐츠 편집기에서 콘텐츠와 변형을 빠르게 생성할 수 있도록 하는 구조화된 프롬프트 환경을 제공하는 캔버스를 소개합니다. 시스템 관리자는 조직의 브랜드 지침에 따라 제품을 교육합니다. [!DNL Create] 는 브랜딩, 고객 담당자 및 제품 설명과 같은 브랜드 가이드라인에 따라 모든 AI 생성 콘텐츠를 조정하고, 영향력이 높고 브랜드 일관적인 마케팅 콘텐츠 제작을 간소화합니다.
+**[!DNL Create]**&#x200B;에서는 콘텐츠 편집기에서 콘텐츠와 변형을 빠르게 생성할 수 있도록 하는 구조화된 프롬프트 환경을 제공하는 캔버스를 소개합니다. 시스템 관리자는 조직의 브랜드 지침에 따라 제품을 교육합니다. [!DNL Create]을(를) 사용하면 모든 AI 생성 콘텐츠가 브랜드 지침(브랜딩, 고객 담당자 및 제품 설명)에 맞게 조정되고 영향력이 큰 브랜드 일관된 마케팅 콘텐츠 프로덕션을 간소화할 수 있습니다.
 
 **[!DNL Content]**&#x200B;은(는) 조정된 브랜드 준수 승인 에셋 및 경험을 저장합니다. GenStudio for Performance Marketing 사용자는 승인된 에셋을 쉽게 찾고, 편집하고, 용도를 변경하고, 공유할 수 있으므로 모든 캠페인에 대해 콘텐츠를 처음부터 다시 만들 필요가 줄어듭니다.
 

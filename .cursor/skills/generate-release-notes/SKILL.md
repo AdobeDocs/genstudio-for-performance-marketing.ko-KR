@@ -1,0 +1,130 @@
+---
+name: generate-release-notes
+description: ""
+source-git-commit: 1a33b08048233c5f9a82b5f428082aa5c71b0052
+workflow-type: tm+mt
+source-wordcount: '673'
+ht-degree: 0%
+
+---
+
+
+# GenStudio 릴리스 노트 생성
+
+**정식 대상 파일:** [help/user-guide/release-notes.md](help/user-guide/release-notes.md)
+
+**전체 예:** [examples.md](examples.md)
+
+**KT/wiki 필드 매핑 및 문서 경로:** [reference.md](reference.md)
+
+## 워크플로우 체크리스트
+
+이 순서대로 작업하십시오. 체크리스트를 복사하고 여러 단계 편집에 대한 진행 상황을 추적합니다.
+
+1. [ ] `help/user-guide/release-notes.md`을(를) 열고 현재 `## YYYY.MM {#latest}` 블록과 **이전 릴리스 정보** 영역을 읽습니다.
+2. [ ] **새** 월별 릴리스를 추가하는 경우: 최신 버전을 보관합니다([이전 최신 버전 보관](#archive-previous-latest) 참조).
+3. [ ] 상위 `## YYYY.MM {#latest}` 섹션(릴리스 목록의 맨 위에 있는 최신 월)을 추가하거나 편집합니다.
+4. [ ] 각 항목에 대해 [의사 결정 규칙](#decision-rules)(기능 `###`과(와) **수정 사항 및 개선 사항**, Beta 배지 여부) 적용.
+5. [ ] 가장 관련성이 높은 구문에 설명서 링크를 추가하거나 확인합니다([reference.md](reference.md#documentation-linking) 참조).
+6. [ ] 완료하기 전에 [품질 검사](#quality-checks)를 실행하십시오.
+7. [ ] 작업이 메타데이터를 명시적으로 업데이트하지 않는 한 페이지에서 [frontmatter](reference.md#frontmatter)을(를) 유지합니다.
+
+## 의사 결정 규칙
+
+컨텐츠가 올바른 위치에 오도록 다음과 같은 if/then 규칙을 사용합니다.
+
+| 조건 | 그러면 |
+|----|------|
+| 이 기능은 Beta의 새로운 기능입니다 | `###` 제목 바로 아래에 Beta 배지 줄을 추가합니다([examples.md](examples.md) 참조). |
+| Source 자료는 명시적으로 항목을 **수정** 또는 **개선**(으)로 레이블을 지정합니다. | 글머리 기호 `*`개만 사용하여 `### Fixes and enhancements` 아래에 넣습니다. |
+| 항목이 완전히 새로운 기능 또는 기능 스토리입니다. | `###` 기능 섹션에 1~3개의 문장을 사용하십시오(수정 목록 아님). |
+| 무언가가 수정인지 기능인지 확실하지 않습니다. | 소스에 수정/개선 사항이 명확하게 표시되지 않는 한 기본적으로 `###` 기능 섹션으로 설정됩니다. |
+
+**섹션 규칙 수정:** 원본이 수정 또는 개선 사항으로 명시적으로 레이블이 지정되지 않은 경우 **수정 및 개선 사항에 글머리 기호를 추가하지 않음**.
+
+## 이전 최신 항목 보관
+
+새 `## YYYY.MM {#latest}`을(를) 도입할 때:
+
+1. 다음 `##` 또는 **이전 릴리스 정보** 이전에 해당 릴리스 컨텐츠의 머리글부터 끝까지 전체 `## YYYY.MM {#latest}` 섹션을 잘라냅니다.
+2. 축소 가능한 블록 안의 **이전 릴리스 정보**&#x200B;에 붙여 넣습니다.
+3. 이전 제목을 `+++Notes from YYYY.MM.DD+++`(으)로 바꿉니다(실제 릴리스 날짜 사용; 파일의 기존 메모와 같은 형식).
+4. 보관된 머리글에서 `{#latest}`을(를) 제거합니다. 새 상단 섹션에는 `{#latest}`이(가) 있는 유일한 섹션입니다.
+5. **이전 릴리스 정보**(파일에서 이미 다른 순서를 사용하지 않는 한 맨 위에 보관된 최신 블록) 내의 시간 순서를 유지합니다.**기존 파일과 일치**.
+
+## 필수 구조
+
+### 페이지 제목 및 소개
+
+Frontmatter 후 다음을 사용하십시오.
+
+```markdown
+# GenStudio for Performance Marketing release notes
+
+This release information details the latest updates to the GenStudio for Performance Marketing application.
+```
+
+파일에서 이미 약간 다른 도입 문장을 사용하는 경우(예: &quot;details&quot; 대신 &quot;provids&quot;) 페이지의 나머지 부분과 일관성을 유지하십시오.
+
+### 최신 릴리스 제목
+
+- 최신 릴리스 블록의 형식: `## YYYY.MM {#latest}`.
+- 페이지에 `{#latest}` 앵커가 하나만 있습니다.
+
+### 기능 섹션
+
+- 주요 기능 범주에 `###`을(를) 사용합니다.
+- 1~3개의 문장으로 구성된 시제, 유용한 경우 무엇을/왜 및 사용자 작업을 명확히 합니다.
+- 제품 이름: `[!DNL Create]`, `[!DNL Content]`, `[!DNL Insights]` 등
+- UI: 해당되는 경우 `[!UICONTROL Control Name]`.
+- 강조: UI 영역/섹션의 경우 `_italics_`이고, 주요 용어의 경우 `**bold**`입니다.
+
+### Beta 배지
+
+정확하게 사용:
+
+```markdown
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+```
+
+### 설명서 링크
+
+- 패턴: `[link text](/help/user-guide/section/page.md#anchor)`
+- 앵커를 선호합니다. &quot;여기를 클릭&quot;하는 대신 사용자가 중요하게 생각하는 구문을 연결합니다.
+
+### 수정 사항 및 개선 사항
+
+- 글머리 기호는 `*`을(를) 사용합니다.
+- 소스 자료에 명시적으로 수정/개선 레이블이 지정된 항목만 해당됩니다.
+- 기능과 동일한 링크 및 용어 규칙입니다.
+
+## 금지된 콘텐츠
+
+- 게시된 릴리스 노트에 Jira 키, 내부 문제 번호, 내부 전용 URL 또는 회사 Wiki 링크를 포함하지 **마십시오**.
+- **안 함**&#x200B;은(는) 기술 자료 전송 문서, 티켓 또는 내부 도구를 증명으로 인용하지 마십시오. 사용자가 직면한 결과만 요약하십시오.
+- 여러 섹션에서 **not** 중복 `{#latest}`을(를) 하지 마십시오.
+
+## 품질 검사
+
+작업을 완료하기 전에:
+
+- [ ] 새 링크 또는 변경된 모든 상대 링크는 가능한 경우 `help/`에서 실제 경로로 확인됩니다.
+- [ ] Beta 기능에는 필요한 경우 Beta 배지 코드 조각이 포함됩니다.
+- [ ] 용어가 기존 릴리스 정보(`[!DNL …]`, `[!UICONTROL …]`)와 일치합니다.
+- [ ] 초안에서 실수로 작성된 내부 ID(`[A-Z]+-\d+`), Wiki URL 또는 &quot;Jira 참조&quot; 언어를 검색하고 제거하십시오.
+- [ ] **수정 및 개선 사항**&#x200B;에는 명시적으로 레이블이 지정된 수정/개선 사항만 포함되어 있습니다.
+- [ 새 달이 추가되면 ] 이전 최신 섹션이 올바르게 보관됩니다.
+
+## 콘텐츠 소스(요약)
+
+기술 자료 전송 문서나 릴리스 Wiki를 내부적으로 가져올 때 [reference.md](reference.md#internal-sources-kt-and-release-wikis)에 설명된 대로 필드를 매핑합니다. 제공된 페이지는 독립형 사용자 설명서로 읽어야 합니다.
+
+## 선택 사항: 새 하위 섹션 폴리시
+
+`{#latest}`에 새 `###` 콘텐츠를 추가한 후, 해당 **새** 하위 섹션에 [폴란드어 릴리스 노트](../polish-release-notes/SKILL.md)를 실행합니다(권장 사항 색조, 단락당 **2-3개 문장**, 절차 방법 없음). **전용**(이전 릴리스 노트 또는 기존 텍스트에는 명시적으로 요청하지 않는 한 **아님**.
+
+## 추가 리소스
+
+- [examples.md](examples.md) — 붙여넣기 준비가 완료된 예제(기능, 수정 사항, 보관 블록).
+- [reference.md](reference.md) - 프론트마클, 문서 경로, 연결 전략.
+- [폴란드어 릴리스 정보](../polish-release-notes/SKILL.md) — `{#latest}`에 새로 추가된 `###`의 선택적 에디토리얼 패스
