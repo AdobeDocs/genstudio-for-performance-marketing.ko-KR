@@ -5,43 +5,14 @@ recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
-  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
-  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 90c6d3e24ec752f0cb23476e7fc407dee294a4c9
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: b286a442-6f0d-405a-adea-abb4a98e2d7bid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: be495d08-ecd1-455f-951e-c22de504e667id: d1558755-1618-43a0-bf5d-134ebe62e93bid: d87258a7-722c-4afd-b632-adddc447c7aaid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: ee4b6e5f-5b7a-421b-9859-0f964841a866id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3556becd6dc0417f4c36d28def7d5cb20cc10cec
 workflow-type: tm+mt
-source-wordcount: 5224
+source-wordcount: 4584
 ht-degree: 0%
 
 ---
@@ -50,77 +21,7 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.04 {#latest}
-
-### Meta 광고 계정에 대한 작업 유형별 CPA
-
-[!DNL Insights]의 Meta 광고 캠페인의 경우 이제 단일 기본 지표 대신 캠페인이 최적화된 방식과 일치하는 전환 작업을 사용하여 CPA(작업당 비용)를 분석할 수 있습니다.
-
-사용 가능한 Meta 작업 유형(예: ) 중에서 선택합니다.
-
-* 구매
-* 장바구니에 추가 이벤트
-* 리드
-* 비디오 보기 횟수
-* 사용자 지정 전환
-
-광고, Assets(미디어) 및 특성 [!DNL Insights] 테이블에서 CPA를 일관되게 검토합니다.
-
-### 만들기 워크플로우의 RTCDP 대상
-
-[Adobe Real-Time Customer Data Platform(RTCDP) 대상](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences)은(는) [!DNL Create] 워크플로우에서 사용할 수 있으므로 생성된 경험을 기존 지침과 함께 대상 정의에 반영할 수 있습니다.
-
-### [!DNL Insights]의 Innovid 디스플레이 채널
-
-이제 Innovid가 [!DNL Insights]에 표시 채널로 표시되므로 Meta, LinkedIn, TikTok 및 기타 연결된 소스 옆에서 매일 새로 고침된 지표를 사용하여 한 곳에서 캠페인 및 광고 성과를 검토할 수 있습니다.
-
-Innovid를 사용하여 노출 횟수, 클릭 수 및 클릭스루 비율을 평가합니다.
-
-### 단일 비디오 자산으로 LinkedIn 활성화
-
-이제 GenStudio for Performance Marketing에서 단일 비디오 자산을 사용하는 LinkedIn 광고 경험을 [활성화](/help/user-guide/activation/activate-linkedin-ad.md)하여 LinkedIn Campaign Manager에 연결할 수 있습니다. 정적 LinkedIn 광고에 사용하는 것과 동일한 종단 간 활성화 흐름을 따를 수 있습니다.
-
-### 유료 미디어 및 이메일 경험에 대한 기본 번역
-
-이제 [홈 페이지 만들기](/help/user-guide/create/overview.md)에서 **[!UICONTROL 번역 및 지역화]** 카드를 사용하거나 [자산 및 경험 관리](/help/user-guide/content/manage-assets.md)에서 승인된 유료 미디어 경험 또는 이메일 경험의 작업 메뉴에서 **[!UICONTROL 번역]**&#x200B;을 선택하여 콘텐츠를 번역하세요.
-
-유료 미디어의 경우 한 흐름에서 콘텐츠를 **40+** 언어로 번역하십시오.
-
-전자 메일의 경우 콘텐츠를 단일 흐름에서 **10**&#x200B;개 이상의 지원되는 언어로 번역하십시오.
-
-### 템플릿 자산에 대한 서드파티 DAM 연결
-
-이제 조직에서 등록된 추가 기능을 사용하여 **자체 DAM(디지털 에셋 관리)을 연결** 리포지토리를 연결할 수 있으므로 작성자는 템플릿 매개 변수 흐름에서 해당 시스템의 미디어를 찾아보고 선택할 수 있습니다.
-
-추가 기능을 만들고 배포하는 방법은 [DAM 확장 찾기](/help/extensibility/deploy-app.md#find-dam-extensions) 및 [확장 가능한 앱 만들기 시작하기](/help/extensibility/setup.md)를 참조하십시오.
-
-### 통합을 위한 Experience Selector 마이크로 프론트엔드
-
-**경험 선택기**&#x200B;는 GenStudio을 파트너 및 사용자 지정 앱으로 가져옵니다. 마이크로 프론트엔드(MFE)를 포함하여 일관된 UI 및 통합에 적합한 로그인을 사용하여 파트너 또는 사용자 지정 앱에서 탐색, 필터링 및 선택을 제공합니다.
-
-[GenStudio 경험 선택기 MFE](/help/extensibility/experience-selector.md)에서 독립 실행형 번들, 구성 옵션 및 포함 패턴을 채택하십시오. 팀은 선택 UX를 처음부터 다시 빌드하지 않고 선택기 환경을 제공합니다.
-
-### Firefly Image Model 4의 사용자 정의 모델
-
-[!DNL Create]에서 [이미지 생성](/help/user-guide/create/generate-assets.md). **[!UICONTROL 모델] 목록에는 이제 이전 이미지 모델 3 기반 사용자 지정 모델뿐만 아니라 이미지 모델 4 교육을 반영하는** on-brand **및**&#x200B;텍스트 대 이미지&#x200B;**작업에 대한 Adobe Firefly에서 학습된 사용자 지정 모델**&#x200B;이 포함됩니다.
-
-동일한 [!DNL Create] 흐름을 유지하면서도 최신 Firefly 파운데이션은 이미지 모델 4 교육 모델을 통해 브랜드 안전 생성을 지원합니다. 매개변수와 프롬프트는 다른 모델 선택처럼 작동하므로 반올림할 평행 워크플로가 없습니다.
-
-### Horizon 캔버스에 템플릿 표현(Meta, LinkedIn 및 Display)
-
-**Horizon Canvas** + Adobe Express 템플릿이 이제 [!DNL Create]의 **Meta**, **LinkedIn** 및 **Display**&#x200B;에 **일반적으로 사용**&#x200B;됩니다. 다중 크기 레이아웃, 모션 준비가 가능한 Express 디자인(지원되는 경우), 레이어 잠금 및 WYSIWYG 편집은 이러한 채널의 기존 HTML 템플릿 병목 현상을 대체하므로 팀에서 더 빠르게 브랜드 크리에이티브를 제공합니다.
-
-지원되는 형식, 시작 및 사용자 지정 템플릿, 캔버스 기능에 대해서는 [GenStudio for Performance Marketing에서 Adobe Express 템플릿 사용](/help/user-guide/templates/express-templates.md)을 참조하십시오. 이 항목에서는 Express 레이아웃의 크기를 조정할 때 채널별 지원을 설명합니다.
-
-### 검토 및 보관을 위한 PDF 내보내기
-
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
-
-[!DNL Create] 캔버스의 초안 내보내기 및 [!DNL Content]의 승인된 경험에서 [PDF에 경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 수행하여 관련자 검토, 승인 레코드 및 보관을 위해 편집할 수 없는 문서를 만들 수 있습니다. 특히 팀에서 규정 준수 또는 규제 검토 워크플로에 대한 고정 스냅숏이 필요한 경우 더욱 그렇습니다.
-
-## 이전 릴리스 노트
-
-+++2026.03.15 릴리스 정보
+## 2026.03.15 {#latest}
 
 ### Meta, LinkedIn 및 Display용 고속 템플릿
 
@@ -139,7 +40,7 @@ Innovid를 사용하여 노출 횟수, 클릭 수 및 클릭스루 비율을 평
 
 이제 GenStudio for Performance Marketing에서 TikTok 인피드 비디오 광고를 만들고, 승인하고, 활성화할 수 있습니다. [!DNL Create] 워크플로에서 광고를 쉽게 생성한 다음 경험을 [!DNL Content]에 게시합니다. TikTok용 [!DNL Insights]을(를) 사용하여 성능을 모니터링하고 다음 창의적 새로 고침을 알립니다.
 
-+++
+## 이전 릴리스 노트
 
 +++2026.01.15 릴리스 정보
 
@@ -192,7 +93,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[&#128279;](/help/user-guide/create/generate-assets.md)에서 훈련된 사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md)에서 훈련된 [사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -458,7 +359,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
