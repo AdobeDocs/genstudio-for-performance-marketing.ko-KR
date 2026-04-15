@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ### 만들기 워크플로우의 RTCDP 대상
 
-[Adobe Real-Time Customer Data Platform(RTCDP) 대상](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences)은(는) [!DNL Create] 워크플로우에서 사용할 수 있으므로 생성된 경험을 기존 지침과 함께 대상 정의에 반영할 수 있습니다.
+[Adobe Real-Time Customer Data Platform(RTCDP) 대상](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences)은(는) [!DNL Create] 워크플로우에서 사용할 수 있으므로 생성된 경험을 기존 지침과 함께 대상 정의에 반영할 수 있습니다.
 
 ### [!DNL Insights]의 Innovid 디스플레이 채널
 
