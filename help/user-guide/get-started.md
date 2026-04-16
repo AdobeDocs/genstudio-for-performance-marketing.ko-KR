@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 648
+source-wordcount: 665
 ht-degree: 0%
 
 ---
@@ -90,4 +90,4 @@ GenStudio 시스템 관리자는 조직의 특정 브랜드 요구 사항을 수
 
 ### 5단계: 유료 미디어 계정에 연결
 
-GenStudio for Performance Marketing과 유료 미디어 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받습니다. [!DNL Insights]을(를) 사용하여 채널 파생 데이터를 분석합니다. [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
+GenStudio for Performance Marketing과 유료 미디어 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받습니다. Meta 및 LinkedIn을 사용하여 작업할 때 **[!UICONTROL Insights 2.0]** 크로스 채널 개요를 포함하여 [!DNL Insights]을(를) 사용하여 채널 파생 데이터를 분석하십시오([Insights 개요](/help/user-guide/insights/overview.md#insights-20)). [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.

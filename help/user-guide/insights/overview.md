@@ -25,9 +25,9 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 675
+source-wordcount: 943
 ht-degree: 0%
 
 ---
@@ -42,6 +42,24 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 - **성과가 낮은 콘텐츠 최적화**: 성과가 좋지 않은 콘텐츠를 찾아 통합 생성 AI를 사용하여 즉시 변형을 만들어 처음부터 새로 시작하지 않고도 효과를 향상시킬 수 있습니다.
 - **성과가 좋은 콘텐츠 활성화**: 콘텐츠를 성공적으로 가져와서 수정하여 대상자를 위한 광고를 새로 고치거나 새로운 캠페인에 사용할 영웅 콘텐츠를 조정하여 수명 주기와 성능을 확장할 수 있습니다.
 
+[!DNL Insights] 모듈에는 유료 소셜을 위한 크로스 채널 성능 경험인 **[!UICONTROL Insights 2.0]**&#x200B;이(가) 포함되어 있습니다. 이 문서는 이 문서의 [대시보드](#dashboard) 섹션에서 자세한 테이블 및 갤러리 보기와 함께 작동합니다.
+
+## Insights 2.0 {#insights-20}
+
+**[!UICONTROL Insights 2.0]**&#x200B;은(는) 연결된 계정 간에 유료 소셜 마케팅이 수행되는 방식을 마케터에게 명확하게 볼 수 있도록 하는 성과 인텔리전스 계층을 제공합니다.
+
+**Insights 2.0에서 다음을 수행할 수 있습니다.**
+
+- **크로스 채널 또는 단일 채널 개요 검토(Meta 및 LinkedIn)**: 유료 소셜 채널 모두에서 통합 스냅숏을 보거나 하나의 채널로 드릴다운합니다.
+- **크로스 채널 성과 보고서 사용**: 총 지출(백분율 및 금액)과 CTR, CPC 및 CPM과 같은 성과 공유 지표를 포함하여 백분율 기여도 시각화를 사용하여 각 채널의 결과 공유를 봅니다.
+- **광고 성과 보고서 사용**: 최적화 결정을 지원하는 순위 및 지표를 사용하여 성과가 높은 광고와 낮은 광고를 식별합니다.
+- **Meta 전환 지표 분석**: GenStudio for Performance Marketing 단계 전반에 걸쳐 CPA에 대한 가시성이 있는 전환에 집중하고(예: 참여 방문, 정보 요청, 앱 시작, 잠재 고객 및 앱 완료), 시간에 따른 전환 트렌드를 검토하여 전환 데이터를 funnel에서 사용할 수 있습니다.
+- **광고 태그에서 인사이트 탐색**: 광고 추적 ID는 구조화된 태그로 구문 분석되므로 정의한 차원(예: call to action, 지역, 형식 또는 개념)별로 성과를 분석하고, 해당 차원의 예산 할당을 확인하고, 이름 지정 규칙을 수동으로 디코딩하는 데 드는 시간을 줄일 수 있습니다.
+
+>[!NOTE]
+>
+>**[!UICONTROL Insights 2.0]**&#x200B;에는 현재 **Meta** 및 **LinkedIn**&#x200B;만 포함됩니다. TikTok, DV360 및 Innovid는 현재 **[!UICONTROL Insights 2.0]** 개요에 포함되어 있지 않습니다. [대시보드](#dashboard) 섹션의 **[!UICONTROL 캠페인]**, **[!UICONTROL 광고]**, **[!UICONTROL 미디어]** 및 **[!UICONTROL 특성]** 보기는 [지원되는 채널](#channels-supported)에 설명된 더 광범위한 채널 집합을 계속 지원합니다.
+
 ## Data connectors
 
 [!DNL Insights]을(를) 처음 열면 Adobe GenStudio for Performance Marketing과 채널 계정을 연결할 수 있도록 안내하는 배너가 표시될 수 있습니다.
@@ -50,7 +68,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 
 {{connect-insights}}
 
-## 지원되는 채널
+## 지원되는 채널 {#channels-supported}
 
 Insights에서 지원되는 채널에는 Meta, LinkedIn, TikTok, DV360 및 Innovid가 포함됩니다.
 
@@ -60,7 +78,7 @@ Meta, LinkedIn 및 TikTok은 캠페인, 광고, 미디어 및 속성에 대한 �
 
 이 제한은 유료 미디어 플랫폼 자체의 제한 때문이며 GenStudio for Performance Marketing의 문제는 아닙니다.
 
-## 대시보드
+## 대시보드 {#dashboard}
 
 [!DNL Insights] 대시보드에는 각 콘텐츠 형식에 대해 구성 가능한 테이블이 있습니다. [!UICONTROL 채널], [!UICONTROL 광고], [!UICONTROL 미디어] 및 [!UICONTROL 특성].
 
