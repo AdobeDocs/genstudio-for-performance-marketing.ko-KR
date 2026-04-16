@@ -5,26 +5,15 @@ feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Conten
 role: User
 level: Beginner
 TQID: https://experienceleague.adobe.com/aK9mP2vR8xT4nW6yB1cF3hJ5kL7mN9pQ2rS4tU6vW8x
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 5f02a3076ca875f9819e5da55824bbf9c5337bb4
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 100%
+source-wordcount: 931
+ht-degree: 89%
 
 ---
 
@@ -32,7 +21,7 @@ ht-degree: 100%
 
 [!DNL GenStudio for Performance Marketing]을(를) 사용하여 [[!DNL Create]](/help/user-guide/create/overview.md) 워크플로우에서 유료 미디어 경험으로 TikTok 광고를 만들 수 있습니다. 최종 검토 및 실행을 위해 콘텐츠를 TikTok Ads Manager에 전달하도록 크리에이티브 변형을 생성하고, 브랜드 및 채널 검사를 실행하고, [!DNL Content]에 게시하고, [[!DNL Activate]](/help/user-guide/activation/overview.md)을(를) 통해 활성화하십시오.
 
-[!DNL GenStudio for Performance Marketing]의 TikTok은 더 광범위한 옴니채널 워크플로에 적합합니다. 별도의 보고 도구로 전환하는 대신 다른 소셜 및 디스플레이 채널(예: Meta 및 LinkedIn)과 함께 [[!DNL Insights]](/help/user-guide/insights/overview.md)의 TikTok 캠페인과 광고 성과를 분석할 수 있습니다.
+[!DNL GenStudio for Performance Marketing]의 TikTok은 더 광범위한 옴니채널 워크플로에 적합합니다. 별도의 보고 도구로 전환하는 대신 다른 소셜 및 디스플레이 채널(예: Meta 및 LinkedIn)과 함께 [[!DNL Insights]](/help/user-guide/insights/overview.md#dashboard)에서 표준 [!DNL Insights] 보기—[!UICONTROL 캠페인], [!UICONTROL 광고], [!UICONTROL 미디어] 및 [!UICONTROL 특성]&#x200B;(으)로 TikTok 캠페인과 광고 성과를 분석할 수 있습니다. **[!UICONTROL Insights 2.0]** 크로스 채널 개요([Insights 개요 — Insights 2.0](/help/user-guide/insights/overview.md#insights-20))는 Meta 및 LinkedIn에만 중점을 둡니다. 현재 TikTok은 여기에 포함되어 있지 않습니다.
 
 다음을 포함한 [!DNL Insights] 표면 지표:
 
@@ -77,7 +66,7 @@ GenStudio for Performance Marketing에 **편집기** 이상의 역할이 있는�
 
 ### TikTok 경험 시작
 
-![만들기 워크플로우의 TikTok 채널](../../assets/tiktok/create-tiktok-experience.png){width="90%"}
+만들기 워크플로의 ![TikTok 채널](../../assets/tiktok/create-tiktok-experience.png){width="90%"}
 **TikTok 환경을 시작하려면**:
 
 1. **[!UICONTROL 만들기]**(으)로 이동하여 **[!UICONTROL TikTok]**&#x200B;을(를) 선택하십시오.

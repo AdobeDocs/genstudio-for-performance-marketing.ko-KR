@@ -6,29 +6,15 @@ role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 TQID: https://experienceleague.adobe.com/HAKr2otOS5gyJA0PDkZL4zpDx2OjqjFMwZLtFPFQ2M0
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: be495d08-ecd1-455f-951e-c22de504e667id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 648
+source-wordcount: 665
 ht-degree: 0%
 
 ---
@@ -90,4 +76,4 @@ GenStudio 시스템 관리자는 조직의 특정 브랜드 요구 사항을 수
 
 ### 5단계: 유료 미디어 계정에 연결
 
-GenStudio for Performance Marketing과 유료 미디어 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받습니다. [!DNL Insights]을(를) 사용하여 채널 파생 데이터를 분석합니다. [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
+GenStudio for Performance Marketing과 유료 미디어 계정 간의 연결을 구성하여 활성 마케팅 캠페인, 에셋 및 경험에서 데이터를 받습니다. Meta 및 LinkedIn을 사용하여 작업할 때 **[!UICONTROL Insights 2.0]** 크로스 채널 개요를 포함하여 [!DNL Insights]을(를) 사용하여 채널 파생 데이터를 분석하십시오([Insights 개요](/help/user-guide/insights/overview.md#insights-20)). [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하세요.
