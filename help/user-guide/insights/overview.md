@@ -5,12 +5,26 @@ level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
 TQID: https://experienceleague.adobe.com/7ERGkM2wuM8JHYf-bi-SAVMSblhwpkt7NNuUNgCCcfc
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
+  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
 source-wordcount: 943
@@ -34,7 +48,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기�
 
 **[!UICONTROL Insights 2.0]**&#x200B;은(는) 연결된 계정 간에 유료 소셜 마케팅이 수행되는 방식을 마케터에게 명확하게 볼 수 있도록 하는 성과 인텔리전스 계층을 제공합니다.
 
-**Insights 2.0]에서 다음을 수행할 수 있습니다.**[!UICONTROL 
+**Insights 2.0에서 다음을 수행할 수 있습니다.**
 
 - **크로스 채널 또는 단일 채널 개요 검토(Meta 및 LinkedIn)**: 유료 소셜 채널 모두에서 통합 스냅숏을 보거나 하나의 채널로 드릴다운합니다.
 - **크로스 채널 성과 보고서 사용**: 총 지출(백분율 및 금액)과 CTR, CPC 및 CPM과 같은 성과 공유 지표를 포함하여 백분율 기여도 시각화를 사용하여 각 채널의 결과 공유를 봅니다.
@@ -76,15 +90,15 @@ Meta, LinkedIn 및 TikTok은 캠페인, 광고, 미디어 및 속성에 대한 �
 
 ### 캠페인
 
-[[!DNL Insights] _[!UICONTROL 캠페인&#x200B;]_보기](campaigns.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](/help/user-guide/connectors/connect-channel.md)하세요.
+[[!DNL Insights] _[!UICONTROL 캠페인&#x200B;]_&#x200B;보기](campaigns.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](/help/user-guide/connectors/connect-channel.md)하세요.
 
 ### 광고
 
-[[!DNL Insights] _[!UICONTROL 광고&#x200B;]_보기](ads.md)는 광고의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 광고] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 광고의 지표를 분석할 수 있습니다._[!UICONTROL &#x200B;광고 이름&#x200B;]_을 클릭하면 광고 성능 지표, 광고 배치별 성능 및 특성을 볼 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 광고&#x200B;]_&#x200B;보기](ads.md)는 광고의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 광고] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 광고의 지표를 분석할 수 있습니다._[!UICONTROL &#x200B;광고 이름&#x200B;]_&#x200B;을 클릭하면 광고 성능 지표, 광고 배치별 성능 및 특성을 볼 수 있습니다.
 
 ### 미디어
 
-[[!DNL Insights] _[!UICONTROL 미디어&#x200B;]_보기](media.md)는 크리에이티브 콘텐츠의 성능을 분석하는 데 도움이 되도록 설계되었습니다. 클릭이나 노출과 같이 선택한 지표를 개선하는 데 기여하는 미디어 속성을 식별할 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 미디어&#x200B;]_&#x200B;보기](media.md)는 크리에이티브 콘텐츠의 성능을 분석하는 데 도움이 되도록 설계되었습니다. 클릭이나 노출과 같이 선택한 지표를 개선하는 데 기여하는 미디어 속성을 식별할 수 있습니다.
 
 미디어 콘텐츠를 클릭하면 다양한 광고 및 광고 배치에 대한 성능에 대한 추가 컨텍스트를 제공합니다.
 
@@ -96,4 +110,4 @@ Meta, LinkedIn 및 TikTok은 캠페인, 광고, 미디어 및 속성에 대한 �
 
 미디어 _특성_&#x200B;은(는) 색상, 색조, 컴포지션(예: 주제, 글꼴, 시각적 요소) 및 기타 주요 구성 요소와 같은 고유한 세부 사항으로 크리에이티브 콘텐츠를 식별하는 데 도움이 됩니다. 속성은 종종 가장 적게 측정되고 분석되는 콘텐츠 정보 세트입니다.
 
-[[!DNL Insights] _[!UICONTROL 특성&#x200B;]_보기](attributes.md)를 통해 특정 대상, 채널, 지역에서 어떤 특성이 더 잘 작동하는지 조사하고 식별하는 데 도움이 되며, 계절별 트렌드를 강조 표시하는 데 도움이 될 수 있습니다. 이러한 통찰력을 통해 수행자 속성을 사용하여 변형을 만들거나 특정 대상을 타기팅하거나 다른 캠페인 전략으로 실험할 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 특성&#x200B;]_&#x200B;보기](attributes.md)를 통해 특정 대상, 채널, 지역에서 어떤 특성이 더 잘 작동하는지 조사하고 식별하는 데 도움이 되며, 계절별 트렌드를 강조 표시하는 데 도움이 될 수 있습니다. 이러한 통찰력을 통해 수행자 속성을 사용하여 변형을 만들거나 특정 대상을 타기팅하거나 다른 캠페인 전략으로 실험할 수 있습니다.
