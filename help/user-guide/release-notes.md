@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 45495ee2df117d6c9d87324fc1ac421387fd3032
+source-git-commit: f7f72c23c8bc7a52040af2c897b94d107a7c95bf
 workflow-type: tm+mt
-source-wordcount: 4994
+source-wordcount: 4727
 ht-degree: 0%
 
 ---
@@ -52,35 +52,11 @@ ht-degree: 0%
 
 ## 2026.04.16 {#latest}
 
-### 새 [!DNL Insights] 2.0 개요
-
-[[!DNL Insights]](/help/user-guide/insights/overview.md)의 버전 2.0은 **Meta** 및 **LinkedIn** 성능을 하나의 작업 영역에 통합합니다. 크로스 채널 및 채널별 스냅샷, 기여도 스타일 보고, 고성능 및 저성능 광고 보기를 통해 지출이 작동하는 위치를 보다 쉽게 확인할 수 있습니다.
-
-### 광고 태그의 [!DNL Insights]
-
-**광고 태그의 인사이트**&#x200B;는 광고 이름을 스프레드시트로 내보내지 않고 성과(비용, 참여, 전환 등)와 함께 분석할 수 있는 태그 차원으로 추적 ID를 나눕니다. 경험에서 점점 더 강력하고 약한 태그 값이 표시되므로 명명 규칙은 오프라인으로 디코딩하는 것이 아니라 사용자가 조종할 수 있는 것이 됩니다.
-
 ### [!DNL Create]의 컨텍스트 인식 권장 사항
 
 [만들기 워크플로](/help/user-guide/create/overview.md)에서 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;이(가) 이제 **[!UICONTROL 관련성]** 정렬로 열리므로 표 형태 창에 [!DNL Brands], [!DNL Products], [!DNL Personas] 및 언어가 반영됩니다.
 
 또는 상황에 맞는 맞춤 대신 최신으로 이끌어야 하는 경우 **[!UICONTROL 최근에 추가됨]**(으)로 전환하십시오.
-
-### HTML 캔버스의 컨텐츠 조각 교체
-
-HTML 캔버스에서 [이메일 경험](/help/user-guide/create/create-email-experience.md)의 경우 **단일 캔버스에서 세 개의 슬롯 유형을 사용하여 이메일 경험을 조합합니다**:
-
-* 생성 슬롯(AI 생성 복사본)
-* 콘텐츠 조각 슬롯(콘텐츠 관리자 MFE를 통해 연결된 AEM 저장소에서 선택한 사전 승인된 콘텐츠 조각)
-* 잠긴 슬롯(법적 면책조항과 같은 변경 불가능한 필드)
-
-이러한 컨텐츠 조각은 동일한 캔버스에 함께 존재하므로 모듈식으로 승인된 복사본은 수동으로 HTML을 다시 빌드하지 않고 제공됩니다.
-
-### URL에서 [!DNL Brands], [!DNL Products] 및 [!DNL Personas] 만들기
-
-브랜드가 온라인으로 게시하는 내용에 기반을 둔 출력으로 공개 브랜드 URL에서 시작하여 [!DNL Brands], [!DNL Products] 또는 [!DNL Personas]을(를) 만듭니다.
-
-브랜드 지침은 하나의 자동 패스에서 생성할 수 있습니다. 제품 및 가상 사용자는 전체 세부 정보가 생성되기 전에 확인한 추천 후보에서 시작합니다.
 
 ### [!DNL Create]에서 연결된 TV(CTV) 광고
 
@@ -91,12 +67,6 @@ HTML 캔버스에서 [이메일 경험](/help/user-guide/create/create-email-exp
 ### HTML5 표시 템플릿, 변형 및 크기 조정
 
 **DOM 기반 HTML5 zip 파일을 업로드하여 [!DNL Create]에서 표시 템플릿을 개발**&#x200B;하고, HTML5 광고 변형을 만들고, 추가 종횡비에 맞게 크리에이티브 크기를 조정할 수 있습니다. 완료된 경험은 [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) 및 [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md)에 활성화할 수 있습니다.
-
-### GenStudio의 Firefly Creative 프로덕션 워크플로
-
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 Beta에 있으므로 일부 기능이 제한되거나 변경될 수 있습니다."}
-
-**Firefly Creative 프로덕션** 워크플로우를 GenStudio for Performance Marketing에서 게시하고 실행할 수 있으므로 마케터는 적은 도구 홉으로 인앱 프로덕션 실행을 수행하고, 결과물을 다운로드하고, 완료된 자산을 [[!DNL Content]](/help/user-guide/content/overview.md)(으)로 라우팅할 수 있습니다.
 
 ## 이전 릴리스 노트
 
