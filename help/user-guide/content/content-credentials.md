@@ -17,10 +17,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 7aed06dbb249cfc7e0f15d792563699e63b1a390
 workflow-type: tm+mt
-source-wordcount: 700
-ht-degree: 1%
+source-wordcount: 723
+ht-degree: 0%
 
 ---
 
@@ -32,8 +32,12 @@ ht-degree: 1%
 >
 > 이 기능은 현재 베타 버전이며 액세스 권한이 부여된 조직에서만 사용할 수 있습니다. 관심이 있는 경우 Adobe 계정 팀 담당자에게 연락하거나 [이 링크를 사용하여 등록을 요청](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr)하십시오.
 
+## Content Credentials 시작 {#content-credentials}
 
-## Content Credentials 시작
+>[!CONTEXTUALHELP]
+>id="gspm_content_credentials"
+>title="[!DNL GenStudio for Performance Marketing]의 Content Credentials"
+>abstract="브랜드 신뢰성을 입증하고 규정 준수를 유도하는 컨텐츠에 대한 변조 불가능한 자격 증명을 마케팅 워크플로우에 직접 임베드할 수 있습니다."
 
 Content Credentials이 Admin Console에서 활성화되면 GenStudio for Performance Marketing 사용자는 앱에서 전역적으로 모든 자산에 대해 Content Credentials을 켤 수 있습니다. 자격 증명을 적용하는 전역 옵션이 꺼져 있는 경우 사용자는 각 개별 에셋에 대해 Content Credentials을 적용할 수 있습니다.
 
