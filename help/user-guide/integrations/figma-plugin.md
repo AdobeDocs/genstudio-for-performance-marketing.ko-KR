@@ -17,17 +17,17 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 8c7ac98d651195c28a2c82341c68d40b067b2c76
+source-git-commit: b6ee6bef6552cf0a48316c4ce788e7a22f9daf16
 workflow-type: tm+mt
-source-wordcount: 1713
-ht-degree: 93%
+source-wordcount: 1731
+ht-degree: 90%
 
 ---
 
 # GenStudio for Performance Marketing용 Figma 플러그인
 
 GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이션에 온-브랜드 콘텐츠를 생성할 수 있는 새 패널을 추가합니다.
-[Figma 커뮤니티 마켓플레이스 &#x200B;](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio)에서 플러그인을 찾아 설치합니다.
+[Figma 커뮤니티 마켓플레이스에서 플러그인을 찾아 설치합니다](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio).
 
 이 페이지에서는 플러그인을 구성하고 사용하는 방법에 대해 설명합니다.
 
@@ -84,6 +84,10 @@ Instagram 또는 Facebook 스토리:
 
 1. 템플릿에서 요소(텍스트, 이미지 등)를 선택합니다.
 1. 드롭다운 메뉴를 사용하여 역할을 할당합니다.
+
+>[!IMPORTANT]
+>
+> 이미지를 매핑해야 합니다. `image` 필드 역할을 템플릿에 있는 하나 이상의 이미지 요소에 할당하십시오.
 
 플러그인은 생성된 콘텐츠에 사용할 이러한 매핑을 기억합니다. 필드 역할은 여러 템플릿 요소에 매핑될 수 있습니다.
 
