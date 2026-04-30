@@ -5,22 +5,15 @@ feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
 TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-subfeature_v2:
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b6ee6bef6552cf0a48316c4ce788e7a22f9daf16
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2: id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 6b964da5bf0d0d10508a43f17f68faf1114270c1
 workflow-type: tm+mt
-source-wordcount: 1731
-ht-degree: 90%
+source-wordcount: 1835
+ht-degree: 85%
 
 ---
 
@@ -42,7 +35,7 @@ GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이�
 * 생성된 [!DNL Experiences]을(를) GenStudio for Performance Marketing으로 내보냅니다.
 * 그림 캔버스에서 선택한 요소에 맞게 조정하는 플러그인 옵션을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478816?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## 템플릿 만들기
 
@@ -80,20 +73,49 @@ Instagram 또는 Facebook 스토리:
 
 플러그인은 헤드라인, 본문 또는 이미지와 같은 템플릿의 다양한 요소를 이해해야 합니다.
 
+**Meta 필드 역할 포함**:
+
+* 이미지
+* 이미지 텍스트
+* CTA
+* 본문
+* 제목
+* 웹 사이트 URL
+* 링크 표시
+* 수동 필드
+
+아래에서 이러한 필드 역할 중 일부가 매핑되는 방식을 확인하십시오.
+
+| ![필드 역할이 표시된 Facebook 게시물](./facebook-post.png){width="50%" align="center"}<br> | ![필드 역할이 표시된 Facebook 스토리](./facebook-story.png){width="60%" align="center"}<br> |
+|:---:|:---:|
+| ![필드 역할이 표시된 Instagram 게시물](./instagram-post.png){width="50%" align="center"}<br> | ![필드 역할이 표시된 Instagram 스토리](./instagram-story.png){width="60%" align="center"}<br> |
+
+**LinkedIn 필드 역할에**&#x200B;이(가) 포함됩니다.
+
+* 이미지
+* 소개 텍스트
+* 이미지 텍스트
+* 제목
+* CTA
+* 웹 사이트 URL
+* 수동 필드
+
+아래에서 이러한 필드 역할 중 일부가 매핑되는 방식을 확인하십시오.
+
+![필드 역할이 표시된 LinkedIn 게시물](./linkedin-ad.png){width="20%" align="center"}
+
+플러그인은 생성된 콘텐츠에 사용할 이러한 매핑을 기억합니다. 필드 역할은 여러 템플릿 요소에 매핑될 수 있습니다. 수동 필드는 텍스트 편집 가능성을 유지하려는 요소에 대한 것이지만 생성을 위해 표시되지 않습니다.
+
+>[!IMPORTANT]
+>
+> **템플릿에 있는 하나 이상의 이미지 요소에 `image` 필드 역할을 할당하여**&#x200B;이미지를 매핑해야 합니다.
+
 요소 역할을 할당하려면
 
 1. 템플릿에서 요소(텍스트, 이미지 등)를 선택합니다.
 1. 드롭다운 메뉴를 사용하여 역할을 할당합니다.
 
->[!IMPORTANT]
->
-> 이미지를 매핑해야 합니다. `image` 필드 역할을 템플릿에 있는 하나 이상의 이미지 요소에 할당하십시오.
-
-플러그인은 생성된 콘텐츠에 사용할 이러한 매핑을 기억합니다. 필드 역할은 여러 템플릿 요소에 매핑될 수 있습니다.
-
 ![필드 역할 매핑](./field-role-mapping.png){width="60%"}
-
-### 필드 매핑 예외
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
@@ -171,9 +193,9 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x200B;(으)로 내보낼 수 있습니다.
 
 1. 다음 중 하나를 수행하여 그림 캔버스에서 내보낼 콘텐츠를 선택합니다.
-   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**&#x200B;를 클릭합니다.
+   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**를 클릭합니다.
      ![생성 섹션 선택](./select-generation-section.png){width="20%" zoomable="yes"}
-   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**&#x200B;를 클릭합니다.
+   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**를 클릭합니다.
      ![개별 생성 선택](./select-generation.png){width="20%" zoomable="yes"}
 1. 사이드바 메뉴에서 내보내기 항목을 선택합니다.
    ![Meta 광고에 대해 [내보내기 표시] 단추가 표시됨](./mark-for-export.png){width="60%" zoomable="yes"}
@@ -219,7 +241,7 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 1. 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 내보내기]**&#x200B;를 클릭하여 변환된 파일을 선택한 위치로 내보내거나
-   * 변환된 파일을 GenStudio Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을 클릭합니다.
+   * 변환된 파일을 GenStudio Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio Photoshop으로 전송]**을 클릭합니다.
      ![GenStudio Photoshop으로 전송 단추](./transfer-to-ps-button.png){width="40%"}
 1. **[!UICONTROL 파일 키 필요]** 대화 상자가 나타나면 플러그 인에 변환을 완료하려면 Figma 파일 URL이 필요합니다. 문서의 URL을 추가합니다.
 
@@ -233,10 +255,10 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 1. 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 플러그 인에서]**&#x200B;을(를) 클릭하여 캐시된 파일 목록에서 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을(를) 사용하여 변환된 파일을 선택하거나
-   * **[!UICONTROL JSON 업로드]**&#x200B;를 클릭하여 업로드할 JSON 파일을 찾아 선택합니다.
+   * **[!UICONTROL JSON 업로드]**를 클릭하여 업로드할 JSON 파일을 찾아 선택합니다.
      ![JSON 업로드 단추](./upload-json.png){width="40%"}
 1. GenStudio Photoshop은 JSON 문서의 정보를 열려 있는 Photoshop 문서로 변환합니다.
-1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다. 새 파일이 Photoshop에서 열리고 사용할 준비가 되었습니다. 또는 **[!UICONTROL 다른 이름으로 저장...]**&#x200B;을 클릭하여 파일을 저장할 위치를 선택하십시오.
+1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다. 새 파일이 Photoshop에서 열리고 사용할 준비가 되었습니다. 또는 **[!UICONTROL 다른 이름으로 저장...]**을 클릭하여 파일을 저장할 위치를 선택하십시오.
    ![완료 단추 대화 상자](./import-done-button.png){width="40%"}
 
 ## 생성 기록
