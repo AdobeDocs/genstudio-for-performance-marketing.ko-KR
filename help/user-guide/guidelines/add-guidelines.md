@@ -6,29 +6,15 @@ role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
 TQID: https://experienceleague.adobe.com/ZBEIHvBGmsFQ42jATObuO7IeANKc3CXCmhJ20p5-QCs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: afc6e550-6640-4eb4-a143-75ec86d23a66
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: cec71013-cf14-4e28-b808-3d3060935bcb
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: afc6e550-6640-4eb4-a143-75ec86d23a66id: be495d08-ecd1-455f-951e-c22de504e667id: cec71013-cf14-4e28-b808-3d3060935bcbid: f54ee13b-9545-4d68-9842-a12026e60aafid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7417595bdb075a49cdcfc988be5b900801816019
 workflow-type: tm+mt
-source-wordcount: 2499
+source-wordcount: 3052
 ht-degree: 0%
 
 ---
@@ -45,9 +31,29 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 {{in-academy}}
 
+## URL에서 추가할 때의 지침
+
+[!DNL GenStudio for Performance Marketing]의 URL에서 [!DNL Brand], [!DNL Product] 또는 [!DNL Persona]을(를) 추가하도록 선택한 경우 아래 정보를 고려하십시오.
+
+**URL 기반 워크플로의 필수 구성 요소**:
+
+- Brand Manager 이상의 권한이 있는 **활성 [!DNL GenStudio for Performance Marketing] 계정**&#x200B;이(가) 있습니다.
+- **URL은 공개적으로 액세스할 수 있습니다**. 암호로 보호되거나 로그인 게이트된 페이지는 제한된 출력을 생성합니다.
+- **최상의 결과를 얻으려면 retailer, 리셀러 또는 집계 대신 브랜드의 웹 사이트 URL**(홈 페이지 또는 제품/카테고리 페이지)을 사용하십시오.
+
+**URL 형식 및 예상 출력**:
+
+| URL 유형 | 기대 사항 |
+| --- | --- |
+| 브랜드 홈페이지 | 전체 브랜드 가이드라인이 제공되며, 시스템은 광범위한 제품 및 사용자 범위를 제공합니다. |
+| 제품 범주 페이지 | 제품 및 가상 사용자는 해당 페이지에 표시된 범주에 속합니다. |
+| 캠페인 랜딩 페이지 | 페르소나 신호는 특히 유용하지만 브랜드 결과는 전체 브랜드 대신 캠페인을 반영할 수 있습니다. |
+| Retailer 또는 파트너 페이지 | 시스템은 타사 콘텐츠를 우선 사용하므로 출력이 제한됩니다. |
+| 제어된/로그인 필요 페이지 | 페이지 콘텐츠를 사용할 수 없으므로 출력이 보존됩니다. |
+
 ## 브랜드 추가
 
-[!DNL Brand]을(를) 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-a-brand)하거나 [수동으로 브랜드 만들기](#manually-add-brand)하십시오. [&#x200B; [!DNL Brand]](#publish-brand)을(를) [!DNL Content]에 게시하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
+[!DNL Brand]을(를) 추가하려면 [브랜드 가이드를 업로드](#upload-a-brand), [수동으로 브랜드 만들기](#manually-add-brand) 또는 [URL에서 브랜드 만들기](#creating-a-brand-from-url)하세요. 파일을 업로드하거나 브랜드를 수동으로 추가할 때 지침을 선택하고 브랜드 세부 정보를 입력합니다. [향후 콘텐츠 생성에서 사용할 수 있도록  [!DNL Brand]](#publish-brand)을(를) [!DNL Content]에 게시합니다.
 
 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다.
 
@@ -67,7 +73,7 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
 
 **브랜드 문서를 업로드하려면**:
 
-1. _[!DNL Brands]_&#x200B;패널에서&#x200B;**[!UICONTROL 브랜드 추가]**&#x200B;단추를 선택합니다.
+1. _[!DNL Brands]_패널에서&#x200B;**[!UICONTROL 브랜드 추가]**단추를 선택합니다.
 1. **[!UICONTROL PDF 업로드]**&#x200B;를 선택하고 _브랜드를 추가하는 방법 선택_ 팝업에 브랜드 이름을 입력하십시오.
 1. **[!UICONTROL 계속]**&#x200B;을 선택합니다.
 1. 브랜드 가이드라인 문서를 검색하여 첨부하거나 드래그하여 _[!UICONTROL 브랜드 추가]_ 팝업에 추가하십시오.
@@ -101,7 +107,7 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
    - _이 브랜드를 사용하는 시기_: **[!UICONTROL 추가]**&#x200B;를 클릭하고(또는 텍스트 필드를 클릭하여 기존 텍스트를 변경) 브랜드에 대한 개요 및 사용 정보를 입력하십시오. **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭합니다.
    - [_[!DNL Brand] 음성 지침&#x200B;_](brands.md#brand-voice-guidelines): 각 지침 필드에 적용 가능한 정보를 추가합니다.
 
-     ![[!DNL Brand] 음성 지침 추가 &#x200B;](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
+     ![[!DNL Brand] 음성 지침 추가 ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
 
    - [_이미지 지침_](brands.md#image-guidelines): &quot;일반 미술 지침&quot; 또는 &quot;제품 사진&quot; 등의 지침 범주를 추가하려면 **[!UICONTROL 범주 추가]**&#x200B;를 클릭하십시오. 추가된 각 카테고리에 지침을 입력합니다.
    - [_채널 지침_](brands.md#channel-guidelines): 사용 가능한 각 채널을 클릭하고 적절한 지침을 추가하십시오.
@@ -113,6 +119,19 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
 만든 [!DNL Brands]을(를) 보려면 _[!UICONTROL 브랜드]_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!UICONTROL 브랜드]_ 홈으로 다시 이동합니다.
 
 정보에 액세스할 수 있도록 [!DNL Brand]을(를) [게시](#publish-brand)하지 않아도 됩니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketing의 [!DNL Brand] 정보를 사용하려면 게시해야 합니다. 만든 [!DNL Brand]은(는) 게시될 때까지 초안 양식에서 사용할 수 있습니다.
+
+### URL에서 브랜드 만들기
+
+**필수 구성 요소:** URL 기반 워크플로에 대한 [필수 구성 요소](#prerequisites-for-url-based-workflows)를 참조하십시오. 다양한 URL이 결과에 미치는 영향을 알아보려면 [URL 형식 및 예상 출력](#url-types-and-expected-output)을 참조하세요.
+
+**URL에서 브랜드를 만들려면:**
+
+1. GenStudio에서 **[!DNL Brands]**(으)로 이동한 다음 **[!UICONTROL +브랜드 추가]** 단추를 클릭합니다.
+1. _브랜드를 추가하는 방법 선택_&#x200B;하라는 메시지가 표시되면 **[!UICONTROL URL을 통해]**&#x200B;를 선택하십시오.
+1. 제공된 필드에 브랜드 URL을 입력합니다.
+1. 시스템은 페이지를 읽고 브랜드 지침을 자동으로 생성합니다. 이 프로세스는 일반적으로 1분 미만의 시간이 소요됩니다.
+1. 생성된 브랜드 지침 카드를 검토하고 필요에 따라 필드를 편집합니다.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. 이제 브랜드를 콘텐츠 생성에 사용할 수 있습니다.
 
 ### 브랜드 썸네일 변경
 
@@ -133,7 +152,7 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
 
 [!DNL Brand] 초안을 게시하기 전에 모든 지침 섹션을 클릭하여 채워진 모든 정보를 검토하십시오. 필요에 따라 브랜드 지침을 변경합니다.
 
-_[!DNL Brands]_&#x200B;에서 초안 또는 게시된 [!DNL Brands]은(는) 타일로 표시됩니다. 상태 배지(_&#x200B;게시됨&#x200B;_또는_&#x200B;초안&#x200B;_)와 마지막으로 브랜드를 수정한 시간이 각 타일 하단에 표시됩니다.
+_[!DNL Brands]_에서 초안 또는 게시된 [!DNL Brands]은(는) 타일로 표시됩니다. 상태 배지(_&#x200B;게시됨&#x200B;_또는_&#x200B;초안&#x200B;_)와 마지막으로 브랜드를 수정한 시간이 각 타일 하단에 표시됩니다.
 
 >[!TIP]
 >
@@ -159,7 +178,7 @@ _[!DNL Brands]_&#x200B;에서 초안 또는 게시된 [!DNL Brands]은(는) 타�
 
 ### 브랜드 관리
 
-_[!DNL Brands]_&#x200B;홈에서 이미 만든 브랜드를 관리하거나 게시하기 위해 클릭하여 열 수 있습니다.
+_[!DNL Brands]_홈에서 이미 만든 브랜드를 관리하거나 게시하기 위해 클릭하여 열 수 있습니다.
 
 **브랜드 정보를 보려면** 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭하고 클릭하여 기존 브랜드를 엽니다.
 
@@ -174,7 +193,7 @@ _[!DNL Brands]_&#x200B;홈에서 이미 만든 브랜드를 관리하거나 게�
    1. 로고 이름을 변경하려면 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택하십시오.
    1. 로고를 삭제하려면 **[!UICONTROL 삭제]**&#x200B;를 선택하십시오.
 1. 기존 브랜드의 이름을 바꾸려면 제목을 클릭하고 새 제목을 입력합니다.
-1. 기존 브랜드를 복제하려면 _[!DNL Brands]_&#x200B;작업 메뉴에서&#x200B;**[!UICONTROL 복제]**&#x200B;를 선택하십시오.
+1. 기존 브랜드를 복제하려면 _[!DNL Brands]_작업 메뉴에서&#x200B;**[!UICONTROL 복제]**를 선택하십시오.
    1. _중복 브랜드_ 팝업에 브랜드 이름을 입력하고 **[!UICONTROL 중복 브랜드]**&#x200B;을 클릭합니다.
 
       팝업에서 브랜드가 중복됨을 확인합니다.—&quot;새 브랜드가 생성됨&quot;. 복제된 브랜드는 처음에 _게시 취소_ 모드에 있습니다.
@@ -184,7 +203,7 @@ _[!DNL Brands]_&#x200B;홈에서 이미 만든 브랜드를 관리하거나 게�
 
 ## [!DNL Personas] 추가
 
-담당자를 추가하려면 지침을 선택하고 담당자의 세부 정보를 입력하여 [담당자를 업로드](#upload-a-persona) 또는 [담당자를 수동으로 생성](#manually-add-persona)하십시오.
+담당자를 추가하려면 [담당자를 업로드](#upload-a-persona), [담당자를 수동으로 만들기](#manually-add-persona) 또는 [URL에서 담당자를 추가](#adding-personas-from-url)하세요. 파일을 업로드하거나 담당자를 수동으로 추가하는 경우 지침을 선택하고 담당자의 세부 정보를 입력합니다.
 
 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다.
 
@@ -200,7 +219,7 @@ GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 �
 
 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)을(를) 참조하십시오.
 
-1. _[!DNL Personas]_&#x200B;패널에서&#x200B;**[!UICONTROL 사용자 추가]**&#x200B;단추를 선택합니다.
+1. _[!DNL Personas]_패널에서&#x200B;**[!UICONTROL 사용자 추가]**단추를 선택합니다.
 1. **[!UICONTROL 파일 업로드]**&#x200B;를 선택하고 _사용자 추가 방법 선택_ 팝업에 사용자 이름을 입력하십시오.
 1. **[!UICONTROL 계속]**&#x200B;을 선택합니다.
 1. 사용자 가이드라인 문서를 검색하여 첨부하거나 _[!UICONTROL 사용자 추가]_ 팝업에 끌어 놓으십시오.
@@ -242,11 +261,24 @@ GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 �
    1. **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
    1. 표지 이미지의 위치를 변경하려면 동작 메뉴에서 **[!UICONTROL 위치 변경]**&#x200B;을 클릭하고 이미지를 원하는 위치로 드래그한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_&#x200B;홈으로 다시 이동합니다.
+   만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_홈으로 다시 이동합니다.
+
+### URL에서 [!DNL Personas] 추가 중
+
+**필수 구성 요소:** URL 기반 워크플로에 대한 [필수 구성 요소](#prerequisites-for-url-based-workflows)를 참조하십시오. 다양한 URL이 결과에 미치는 영향을 알아보려면 [URL 형식 및 예상 출력](#url-types-and-expected-output)을 참조하세요.
+
+**URL에서 가상 사용자를 추가하려면:**
+
+1. GenStudio에서 **[!DNL Personas]**(으)로 이동한 다음 **[!UICONTROL +사용자 추가]** 단추를 클릭합니다.
+1. _사용자 추가 방법 선택_&#x200B;을 묻는 메시지가 표시되면 **[!UICONTROL URL을 통해]**&#x200B;을(를) 선택하십시오.
+1. 제공된 필드에 브랜드 URL을 입력합니다.
+1. 페이지에서 표시된 대상 세그먼트 목록을 검토합니다. 적용되지 않는 세그먼트를 제거하고 필요에 따라 이름을 변경한 다음 누락된 세그먼트를 추가합니다.
+1. 목록을 확인합니다. 시스템에서 확인된 각 세그먼트에 대해 전체 페르소나 카드를 생성하기 시작합니다.
+1. 완료 시 개인 카드가 라이브러리에 표시됩니다. 콘텐츠 생성에 사용하기 전에 각 담당자를 검토하고 편집합니다.
 
 ### [!DNL Personas] 관리
 
-_[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나&#x200B;**담당자를**&#x200B;목록에서 삭제할 수 있습니다.
+_[!DNL Personas]_홈에서 이미 만든&#x200B;[!DNL Persona]**을(를)**열어 편집하거나 검토하거나&#x200B;**담당자를**목록에서 삭제할 수 있습니다.
 
 - 기존 담당자를 수정하고 검토하려면 [!DNL Personas] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 - [!DNL Personas] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 담당자를 **삭제**&#x200B;합니다.
@@ -256,10 +288,10 @@ _[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**
 
 제품을 추가하려면 다음 작업을 수행하십시오.
 
-1. 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다.
+1. 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Products]**을(를) 클릭합니다.
    GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){width="650" zoomable="yes"}
-1. _[!DNL Products]_&#x200B;패널에서&#x200B;**제품 추가**&#x200B;를 선택합니다.
-1. 지침을 선택하고 제품 세부 정보를 입력하여 [제품을 업로드](#upload-a-product)하거나 [제품을 수동으로 생성](#manually-add-product)하도록 선택합니다.
+1. _[!DNL Products]_패널에서&#x200B;**[!UICONTROL 제품 추가]**를 선택합니다.
+1. [제품 업로드](#upload-a-product), [수동으로 제품 만들기](#manually-add-a-product) 또는 [URL에서 제품 추가](#adding-products-from-url)를 선택합니다. 파일을 업로드하거나 제품을 수동으로 추가할 때 지침을 선택하고 제품 세부 정보를 입력합니다.
 
 ![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} 추가
 
@@ -313,11 +345,24 @@ GenStudio for Performance Marketing에 [!DNL Product]을(를) 포함하면 특�
    1. **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
    1. 표지 이미지의 위치를 변경하려면 동작 메뉴에서 **[!UICONTROL 위치 변경]**&#x200B;을 클릭하고 이미지를 원하는 위치로 드래그한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL Products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_&#x200B;홈으로 다시 이동합니다.
+   만든 [!DNL Products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_홈으로 다시 이동합니다.
+
+### URL에서 제품 추가
+
+**필수 구성 요소:** URL 기반 워크플로에 대한 [필수 구성 요소](#prerequisites-for-url-based-workflows)를 참조하십시오. 다양한 URL이 결과에 미치는 영향을 알아보려면 [URL 형식 및 예상 출력](#url-types-and-expected-output)을 참조하세요.
+
+**URL에서 [!DNL Products]을(를) 추가하려면:**
+
+1. GenStudio에서 **[!DNL Products]**(으)로 이동한 다음 **[!UICONTROL +제품 추가]** 단추를 클릭합니다.
+1. _제품을 추가할 방법을 선택하십시오_. 메시지가 표시되면 **[!UICONTROL URL을 통해]**&#x200B;를 선택하십시오.
+1. URL을 입력합니다. 광범위한 제품 목록을 보려면 브랜드의 홈페이지를 사용하고, 결과의 범위를 지정하려면 카테고리 페이지를 사용하십시오.
+1. 페이지에서 표시된 제품 목록을 검토합니다. 속하지 않는 항목을 제거하고 필요한 경우 이름을 변경한 다음 누락된 제품을 추가합니다.
+1. 목록을 확인합니다. 확인된 각 제품에 대한 전체 제품 세부 정보 생성이 시작됩니다.
+1. 제품이 라이브러리에 표시됩니다. 콘텐츠 생성에서 사용하기 전에 각 제품을 검토하고 편집합니다.
 
 ### [!DNL Products] 관리
 
-_[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**&#x200B;할 수 있습니다.
+_[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**할 수 있습니다.
 
 - 기존 제품을 수정하고 검토하려면 [!DNL Products] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 - [!DNL Products] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 제품을 **삭제**&#x200B;합니다.
@@ -327,11 +372,11 @@ _[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**
 
 >[!NOTE]
 >
->[!DNL Audiences] 기능을 사용하려면 Adobe 팀이 GenStudio에 온보딩해야 합니다. _[!DNL Audiences]_&#x200B;이(가) 템플릿 매개 변수에 나타나지 않으면 Adobe 담당자에게 문의하십시오.
+>[!DNL Audiences] 기능을 사용하려면 Adobe 팀이 GenStudio에 온보딩해야 합니다. _[!DNL Audiences]_이(가) 템플릿 매개 변수에 나타나지 않으면 Adobe 담당자에게 문의하십시오.
 
 [!DNL Audiences]은(는) Adobe Real-Time Customer Data Platform(RTCDP)의 타깃팅된 고객 세그먼트를 제공하여 정확한 타깃팅 데이터를 콘텐츠 생성 워크플로우로 가져옵니다. GenStudio for Performance Marketing은 대상 정의를 활용하여 특정 고객 세그먼트에 맞게 맞춤화된 마케팅 콘텐츠를 만들 수 있도록 지원합니다.
 
-[!DNL Audiences]이(가) [_[!DNL Create]_&#x200B;워크플로](../create/overview.md#templates)의 매개 변수 창에 드롭다운으로 나타납니다._[!DNL Audiences]_ 두 지침을 모두 사용하는 경우 _[!DNL Personas]_&#x200B;에 특이성을 추가할 수 있지만 독립적으로 효과적으로 사용할 수도 있습니다.
+[!DNL Audiences]이(가) [_[!DNL Create]_워크플로](../create/overview.md#templates)의 매개 변수 창에 드롭다운으로 나타납니다._[!DNL Audiences]_&#x200B;은(는) 두 지침을 모두 사용할 때 _[!DNL Personas]_에 특이성을 추가할 수 있지만 독립적으로 효과적으로 사용할 수도 있습니다.
 
 온보딩 중에 대상자 정의를 가져와 GenStudio 호환 형식으로 변환합니다. 이 프로세스는 일반적으로 완료하는 데 며칠이 걸립니다. 시작하려면 Adobe 팀에 문의하십시오.
 
@@ -339,13 +384,13 @@ _[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**
 
 - Adobe Real-Time Customer Data Platform에 대한 조직 액세스
 - 기존 대상자가 RTCDP 샌드박스에 이미 구성됨
-- _[!DNL Audience]_&#x200B;통합에는 Adobe 팀에서 수동 온보딩 프로세스를 수행해야 합니다
+- _[!DNL Audience]_통합에는 Adobe 팀에서 수동 온보딩 프로세스를 수행해야 합니다
 
 **대상자를 선택하려면**:
 
-1. [_[!DNL Create]_&#x200B;워크플로](../create/overview.md#templates)에서 템플릿을 선택하고&#x200B;**[!UICONTROL 사용]**&#x200B;단추를 클릭하여 초안을 엽니다.
+1. [_[!DNL Create]_워크플로](../create/overview.md#templates)에서 템플릿을 선택하고&#x200B;**[!UICONTROL 사용]**단추를 클릭하여 초안을 엽니다.
 1. 매개 변수 목록에서 _[!UICONTROL 대상]_ 드롭다운을 클릭하여 사용 가능한 모든 대상을 봅니다.
    ![성향 매개 변수 창의 대상 드롭다운](./audience-dropdown.png){width=450}
 1. 목록에서 할당할 대상자를 선택합니다. [!DNL Persona]을(를) 선택한 경우 선택한 [!DNL Persona]과(와) 일치하는 권장 대상이 표시됩니다.
-1. 선택한 대상자에 대해 생성된 확장된 설명 및 메시징 환경 설정을 보려면 **[!UICONTROL 대상자 세부 정보 보기]**&#x200B;를 클릭하십시오. 대상 세부 사항은 콘텐츠 생성을 알려주며, 크리에이티브가 대상 세그먼트의 특정 특성 및 선호도에 맞게 조정되도록 합니다.
+1. 선택한 대상자에 대해 생성된 확장된 설명 및 메시징 환경 설정을 보려면 **[!UICONTROL 대상자 세부 정보 보기]**를 클릭하십시오. 대상 세부 사항은 콘텐츠 생성을 알려주며, 크리에이티브가 대상 세그먼트의 특정 특성 및 선호도에 맞게 조정되도록 합니다.
    ![대상 세부 정보 창](./audience-details.png){width=450}
