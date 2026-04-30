@@ -26,9 +26,9 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7417595bdb075a49cdcfc988be5b900801816019
+source-git-commit: e43c9569f3fc5a2353a6fc0e15189ac31f216050
 workflow-type: tm+mt
-source-wordcount: 3052
+source-wordcount: 3019
 ht-degree: 0%
 
 ---
@@ -44,26 +44,6 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 미리 정의된 채널 지침([!DNL Brands], [!DNL Personas] 또는 [!DNL Products] 등)이 있는 템플릿에서 변형을 만들 때 이러한 지침은 변형에 적용됩니다. 원하는 경우 변경할 수 있습니다.
 
 {{in-academy}}
-
-## URL에서 추가할 때의 지침
-
-[!DNL GenStudio for Performance Marketing]의 URL에서 [!DNL Brand], [!DNL Product] 또는 [!DNL Persona]을(를) 추가하도록 선택한 경우 아래 정보를 고려하십시오.
-
-**URL 기반 워크플로의 필수 구성 요소**:
-
-- Brand Manager 이상의 권한이 있는 **활성 [!DNL GenStudio for Performance Marketing] 계정**&#x200B;이(가) 있습니다.
-- **URL은 공개적으로 액세스할 수 있습니다**. 암호로 보호되거나 로그인 게이트된 페이지는 제한된 출력을 생성합니다.
-- **최상의 결과를 얻으려면 retailer, 리셀러 또는 집계 대신 브랜드의 웹 사이트 URL**(홈 페이지 또는 제품/카테고리 페이지)을 사용하십시오.
-
-**URL 형식 및 예상 출력**:
-
-| URL 유형 | 기대 사항 |
-| --- | --- |
-| 브랜드 홈페이지 | 전체 브랜드 가이드라인이 제공되며, 시스템은 광범위한 제품 및 사용자 범위를 제공합니다. |
-| 제품 범주 페이지 | 제품 및 가상 사용자는 해당 페이지에 표시된 범주에 속합니다. |
-| 캠페인 랜딩 페이지 | 페르소나 신호는 특히 유용하지만 브랜드 결과는 전체 브랜드 대신 캠페인을 반영할 수 있습니다. |
-| Retailer 또는 파트너 페이지 | 시스템은 타사 콘텐츠를 우선 사용하므로 출력이 제한됩니다. |
-| 제어된/로그인 필요 페이지 | 페이지 콘텐츠를 사용할 수 없으므로 출력이 보존됩니다. |
 
 ## 브랜드 추가
 
@@ -136,7 +116,7 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
 
 ### URL에서 브랜드 만들기
 
-**필수 구성 요소:** URL 기반 워크플로에 대한 [필수 구성 요소](#prerequisites-for-url-based-workflows)를 참조하십시오. 다양한 URL이 결과에 미치는 영향을 알아보려면 [URL 형식 및 예상 출력](#url-types-and-expected-output)을 참조하세요.
+**필수 구성 요소:** URL에서 추가할 때 [지침](#guidance-when-adding-from-a-url)을 참조하세요.
 
 **URL에서 브랜드를 만들려면:**
 
@@ -279,7 +259,7 @@ GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 �
 
 ### URL에서 [!DNL Personas] 추가 중
 
-**필수 구성 요소:** URL 기반 워크플로에 대한 [필수 구성 요소](#prerequisites-for-url-based-workflows)를 참조하십시오. 다양한 URL이 결과에 미치는 영향을 알아보려면 [URL 형식 및 예상 출력](#url-types-and-expected-output)을 참조하세요.
+**필수 구성 요소:** URL에서 추가할 때 [지침](#guidance-when-adding-from-a-url)을 참조하세요.
 
 **URL에서 가상 사용자를 추가하려면:**
 
@@ -363,7 +343,7 @@ GenStudio for Performance Marketing에 [!DNL Product]을(를) 포함하면 특�
 
 ### URL에서 제품 추가
 
-**필수 구성 요소:** URL 기반 워크플로에 대한 [필수 구성 요소](#prerequisites-for-url-based-workflows)를 참조하십시오. 다양한 URL이 결과에 미치는 영향을 알아보려면 [URL 형식 및 예상 출력](#url-types-and-expected-output)을 참조하세요.
+**필수 구성 요소:** URL에서 추가할 때 [지침](#guidance-when-adding-from-a-url)을 참조하세요.
 
 **URL에서 [!DNL Products]을(를) 추가하려면:**
 
@@ -408,3 +388,23 @@ _[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**
 1. 목록에서 할당할 대상자를 선택합니다. [!DNL Persona]을(를) 선택한 경우 선택한 [!DNL Persona]과(와) 일치하는 권장 대상이 표시됩니다.
 1. 선택한 대상자에 대해 생성된 확장된 설명 및 메시징 환경 설정을 보려면 **[!UICONTROL 대상자 세부 정보 보기]**&#x200B;를 클릭하십시오. 대상 세부 사항은 콘텐츠 생성을 알려주며, 크리에이티브가 대상 세그먼트의 특정 특성 및 선호도에 맞게 조정되도록 합니다.
    ![대상 세부 정보 창](./audience-details.png){width=450}
+
+## URL에서 추가할 때의 지침
+
+[!DNL GenStudio for Performance Marketing]의 URL에서 [!DNL Brand], [!DNL Product] 또는 [!DNL Persona]을(를) 추가하도록 선택한 경우 아래 정보를 고려하십시오.
+
+**URL 기반 워크플로의 필수 구성 요소**:
+
+- Brand Manager 이상의 권한이 있는 **활성 [!DNL GenStudio for Performance Marketing] 계정**&#x200B;이(가) 있습니다.
+- **URL은 공개적으로 액세스할 수 있습니다**. 암호로 보호되거나 로그인 게이트된 페이지는 제한된 출력을 생성합니다.
+- **최상의 결과를 얻으려면 retailer, 리셀러 또는 집계 대신 브랜드의 웹 사이트 URL**(홈 페이지 또는 제품/카테고리 페이지)을 사용하십시오.
+
+**URL 형식 및 예상 출력**:
+
+| URL 유형 | 기대 사항 |
+| --- | --- |
+| 브랜드 홈페이지 | 전체 브랜드 가이드라인이 제공되며, 시스템은 광범위한 제품 및 사용자 범위를 제공합니다. |
+| 제품 범주 페이지 | 제품 및 가상 사용자는 해당 페이지에 표시된 범주에 속합니다. |
+| 캠페인 랜딩 페이지 | 페르소나 신호는 특히 유용하지만 브랜드 결과는 전체 브랜드 대신 캠페인을 반영할 수 있습니다. |
+| Retailer 또는 파트너 페이지 | 시스템은 타사 콘텐츠를 우선 사용하므로 출력이 제한됩니다. |
+| 제어된/로그인 필요 페이지 | 페이지 콘텐츠를 사용할 수 없으므로 출력이 보존됩니다. |
