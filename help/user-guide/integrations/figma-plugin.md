@@ -5,11 +5,18 @@ feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
 TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
-subfeature_v2: id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2:
+  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 6b964da5bf0d0d10508a43f17f68faf1114270c1
 workflow-type: tm+mt
 source-wordcount: 1835
@@ -193,9 +200,9 @@ GenStudio for Performance Marketing AI를 사용하여 광고 카피 변형을 �
 Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x200B;(으)로 내보낼 수 있습니다.
 
 1. 다음 중 하나를 수행하여 그림 캔버스에서 내보낼 콘텐츠를 선택합니다.
-   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**를 클릭합니다.
+   * 캔버스에서 생성 섹션을 선택한 다음 플러그인 패널에서 **[!UICONTROL 모두 내보내기 표시]**&#x200B;를 클릭합니다.
      ![생성 섹션 선택](./select-generation-section.png){width="20%" zoomable="yes"}
-   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**를 클릭합니다.
+   * 캔버스에서 개별 세대를 선택한 다음 플러그 인 패널에서 **[!UICONTROL 내보낼 표시]**&#x200B;를 클릭합니다.
      ![개별 생성 선택](./select-generation.png){width="20%" zoomable="yes"}
 1. 사이드바 메뉴에서 내보내기 항목을 선택합니다.
    ![Meta 광고에 대해 [내보내기 표시] 단추가 표시됨](./mark-for-export.png){width="60%" zoomable="yes"}
@@ -241,7 +248,7 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 1. 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 내보내기]**&#x200B;를 클릭하여 변환된 파일을 선택한 위치로 내보내거나
-   * 변환된 파일을 GenStudio Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio Photoshop으로 전송]**을 클릭합니다.
+   * 변환된 파일을 GenStudio Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을 클릭합니다.
      ![GenStudio Photoshop으로 전송 단추](./transfer-to-ps-button.png){width="40%"}
 1. **[!UICONTROL 파일 키 필요]** 대화 상자가 나타나면 플러그 인에 변환을 완료하려면 Figma 파일 URL이 필요합니다. 문서의 URL을 추가합니다.
 
@@ -255,10 +262,10 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 1. 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 플러그 인에서]**&#x200B;을(를) 클릭하여 캐시된 파일 목록에서 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을(를) 사용하여 변환된 파일을 선택하거나
-   * **[!UICONTROL JSON 업로드]**를 클릭하여 업로드할 JSON 파일을 찾아 선택합니다.
+   * **[!UICONTROL JSON 업로드]**&#x200B;를 클릭하여 업로드할 JSON 파일을 찾아 선택합니다.
      ![JSON 업로드 단추](./upload-json.png){width="40%"}
 1. GenStudio Photoshop은 JSON 문서의 정보를 열려 있는 Photoshop 문서로 변환합니다.
-1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다. 새 파일이 Photoshop에서 열리고 사용할 준비가 되었습니다. 또는 **[!UICONTROL 다른 이름으로 저장...]**을 클릭하여 파일을 저장할 위치를 선택하십시오.
+1. **[!UICONTROL 완료]**&#x200B;를 클릭합니다. 새 파일이 Photoshop에서 열리고 사용할 준비가 되었습니다. 또는 **[!UICONTROL 다른 이름으로 저장...]**&#x200B;을 클릭하여 파일을 저장할 위치를 선택하십시오.
    ![완료 단추 대화 상자](./import-done-button.png){width="40%"}
 
 ## 생성 기록
