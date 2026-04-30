@@ -30,10 +30,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 5f02a3076ca875f9819e5da55824bbf9c5337bb4
+source-git-commit: 605ae7a178cd0ad10e302457a9717bb286e81ebb
 workflow-type: tm+mt
-source-wordcount: 724
-ht-degree: 100%
+source-wordcount: 727
+ht-degree: 89%
 
 ---
 
@@ -51,6 +51,7 @@ GenStudio for Performance Marketing [!DNL Create]은(는) Adobe GenAI의 기능�
 * [Meta 광고](meta-experiences.md)
 * [LinkedIn 광고](linkedin-experiences.md)
 * [TikTok 광고](tiktok-experiences.md)
+* [연결된 TV 광고](create-ctv.md)
 * [광고 표시](display-ad-experiences.md)
 * [배너](banner-experiences.md)
 * [이미지](generate-assets.md)
@@ -217,7 +218,7 @@ AI 생성 콘텐츠를 만들려면 프롬프트 창에 생성하려는 컨텍�
 
 ### 콘텐츠 확인
 
-GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 [브랜드 지침](/help/user-guide/guidelines/brands.md), 플랫폼 지침 및 [접근성 표준](/help/user-guide/guidelines/overview.md#compliance)에 대해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 수행합니다. [생성된 모든 컨텐츠에 대해 컨텐츠 검사](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보를 사용할 수 있으며, 이는 포괄적인 컨텐츠 검사 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
+GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표준에서 최상의 수준을 충족하도록 각 변형에 대해 [브랜드 지침](/help/user-guide/guidelines/brands.md), 플랫폼 지침 및 [접근성 표준](/help/user-guide/guidelines/overview.md#compliance)에 대해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-panel)을 수행합니다. [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md#content-check-summary) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 포괄적인 콘텐츠 확인 준수 및 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
 
 ### 검토 및 승인
 
