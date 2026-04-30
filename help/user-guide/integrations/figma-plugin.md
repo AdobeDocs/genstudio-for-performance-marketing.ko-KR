@@ -17,10 +17,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b6ee6bef6552cf0a48316c4ce788e7a22f9daf16
+source-git-commit: 6b964da5bf0d0d10508a43f17f68faf1114270c1
 workflow-type: tm+mt
-source-wordcount: 1731
-ht-degree: 90%
+source-wordcount: 1835
+ht-degree: 85%
 
 ---
 
@@ -80,20 +80,49 @@ Instagram 또는 Facebook 스토리:
 
 플러그인은 헤드라인, 본문 또는 이미지와 같은 템플릿의 다양한 요소를 이해해야 합니다.
 
+**Meta 필드 역할 포함**:
+
+* 이미지
+* 이미지 텍스트
+* CTA
+* 본문
+* 제목
+* 웹 사이트 URL
+* 링크 표시
+* 수동 필드
+
+아래에서 이러한 필드 역할 중 일부가 매핑되는 방식을 확인하십시오.
+
+| ![필드 역할이 표시된 Facebook 게시물](./facebook-post.png){width="50%" align="center"}<br> | ![필드 역할이 표시된 Facebook 스토리](./facebook-story.png){width="60%" align="center"}<br> |
+|:---:|:---:|
+| ![필드 역할이 표시된 Instagram 게시물](./instagram-post.png){width="50%" align="center"}<br> | ![필드 역할이 표시된 Instagram 스토리](./instagram-story.png){width="60%" align="center"}<br> |
+
+**LinkedIn 필드 역할에**&#x200B;이(가) 포함됩니다.
+
+* 이미지
+* 소개 텍스트
+* 이미지 텍스트
+* 제목
+* CTA
+* 웹 사이트 URL
+* 수동 필드
+
+아래에서 이러한 필드 역할 중 일부가 매핑되는 방식을 확인하십시오.
+
+![필드 역할이 표시된 LinkedIn 게시물](./linkedin-ad.png){width="20%" align="center"}
+
+플러그인은 생성된 콘텐츠에 사용할 이러한 매핑을 기억합니다. 필드 역할은 여러 템플릿 요소에 매핑될 수 있습니다. 수동 필드는 텍스트 편집 가능성을 유지하려는 요소에 대한 것이지만 생성을 위해 표시되지 않습니다.
+
+>[!IMPORTANT]
+>
+> **템플릿에 있는 하나 이상의 이미지 요소에 `image` 필드 역할을 할당하여**&#x200B;이미지를 매핑해야 합니다.
+
 요소 역할을 할당하려면
 
 1. 템플릿에서 요소(텍스트, 이미지 등)를 선택합니다.
 1. 드롭다운 메뉴를 사용하여 역할을 할당합니다.
 
->[!IMPORTANT]
->
-> 이미지를 매핑해야 합니다. `image` 필드 역할을 템플릿에 있는 하나 이상의 이미지 요소에 할당하십시오.
-
-플러그인은 생성된 콘텐츠에 사용할 이러한 매핑을 기억합니다. 필드 역할은 여러 템플릿 요소에 매핑될 수 있습니다.
-
 ![필드 역할 매핑](./field-role-mapping.png){width="60%"}
-
-### 필드 매핑 예외
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
