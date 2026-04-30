@@ -17,7 +17,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 6b964da5bf0d0d10508a43f17f68faf1114270c1
+source-git-commit: 1dbfb6115c9340f9c14cef75d5144a303314fa71
 workflow-type: tm+mt
 source-wordcount: 1835
 ht-degree: 85%
@@ -93,9 +93,9 @@ Instagram 또는 Facebook 스토리:
 
 아래에서 이러한 필드 역할 중 일부가 매핑되는 방식을 확인하십시오.
 
-| ![필드 역할이 표시된 Facebook 게시물](./facebook-post.png){width="50%" align="center"}<br> | ![필드 역할이 표시된 Facebook 스토리](./facebook-story.png){width="60%" align="center"}<br> |
+| ![필드 역할이 표시된 Facebook 게시물](./facebook-post.png){width="60%" align="center" zoomable="yes"}<br> | ![필드 역할이 표시된 Facebook 스토리](./facebook-story.png){width="70%" align="center" zoomable="yes"}<br> |
 |:---:|:---:|
-| ![필드 역할이 표시된 Instagram 게시물](./instagram-post.png){width="50%" align="center"}<br> | ![필드 역할이 표시된 Instagram 스토리](./instagram-story.png){width="60%" align="center"}<br> |
+| ![필드 역할이 표시된 Instagram 게시물](./instagram-post.png){width="60%" align="center" zoomable="yes"}<br> | ![필드 역할이 표시된 Instagram 스토리](./instagram-story.png){width="70%" align="center" zoomable="yes"}<br> |
 
 **LinkedIn 필드 역할에**&#x200B;이(가) 포함됩니다.
 
@@ -109,7 +109,7 @@ Instagram 또는 Facebook 스토리:
 
 아래에서 이러한 필드 역할 중 일부가 매핑되는 방식을 확인하십시오.
 
-![필드 역할이 표시된 LinkedIn 게시물](./linkedin-ad.png){width="20%" align="center"}
+![필드 역할이 표시된 LinkedIn 게시물](./linkedin-ad.png){width="30%" align="center" zoomable="yes"}
 
 플러그인은 생성된 콘텐츠에 사용할 이러한 매핑을 기억합니다. 필드 역할은 여러 템플릿 요소에 매핑될 수 있습니다. 수동 필드는 텍스트 편집 가능성을 유지하려는 요소에 대한 것이지만 생성을 위해 표시되지 않습니다.
 
@@ -122,7 +122,7 @@ Instagram 또는 Facebook 스토리:
 1. 템플릿에서 요소(텍스트, 이미지 등)를 선택합니다.
 1. 드롭다운 메뉴를 사용하여 역할을 할당합니다.
 
-![필드 역할 매핑](./field-role-mapping.png){width="60%"}
+![필드 역할 매핑](./field-role-mapping.png){width="60%" zoomable="yes"}
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
