@@ -4,19 +4,13 @@ description: GenStudio for Performance Marketing용 App Builder 앱 또는 추�
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 TQID: https://experienceleague.adobe.com/7Z4Fb-jPi4FHrTeOgHxxO4fl982sqri-7uEDoylFF-s
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bfaa655b-e017-428d-80d0-09de2183b296
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: da3860b0-d637-47df-bef0-273751180266
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bfaa655b-e017-428d-80d0-09de2183b296id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266
+source-git-commit: 3a50cdb378d024370808680ec9b606c789429dc2
 workflow-type: tm+mt
-source-wordcount: 447
+source-wordcount: 501
 ht-degree: 0%
 
 ---
@@ -53,7 +47,7 @@ aio app run
 
 >[!NOTE]
 >
->빌드 및 배포를 강제로 적용하면 기존 배포가 덮어쓰기됩니다. **먼저 테스트 환경에서** 앱을 철저히 테스트하십시오.
+>빌드 및 배포를 강제로 적용하면 기존 배포가 덮어쓰기됩니다. 먼저 테스트 환경에서 **앱을 철저히 테스트하세요**.
 
 ```bash
 aio app build --force-build
@@ -111,6 +105,10 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 선택한 확장을 실행하여 생성된 컨텐츠의 유효성을 검사합니다.
 
 ![유효한 유효성 검사](./validation-valid.png){width="600" zoomable="yes"}
+
+오류가 있는 경우 확장을 사용하여 경험 사본을 프로그래밍 방식으로 업데이트할 수 있습니다. **[!UICONTROL 복사]** 단추를 클릭하면 제안된 텍스트가 클립보드에 복사됩니다. **[!UICONTROL 적용]** 단추를 클릭하면 생성된 경험의 특정 텍스트 상자에 텍스트가 적용됩니다.
+
+![복사 및 적용 단추를 표시하는 유효성 검사 오류](./validation-copy-apply.png){width="600" zoomable="yes"}
 
 ### DAM 확장 찾기
 
