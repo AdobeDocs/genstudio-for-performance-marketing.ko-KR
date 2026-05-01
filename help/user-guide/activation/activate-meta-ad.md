@@ -17,9 +17,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
 workflow-type: tm+mt
-source-wordcount: 1931
+source-wordcount: 1980
 ht-degree: 1%
 
 ---
@@ -53,9 +53,9 @@ GenStudio 시스템 관리자 및 편집자는 광고 경험을 활성화할 수
 
 ## 2단계: Meta 계정에 연결
 
-조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 Meta 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio과 Meta과 같은 외부 마케팅 도구 간에 데이터를 흐르게 하여 활성화 프로세스를 활성화할 수 있습니다.
+조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 Meta 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio과 Meta과 같은 외부 마케팅 도구 간에 데이터를 흐르게 하여 활성화 프로세스를 활성화할 수 있습니다. [Meta 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.
 
-[Meta 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.
+Instagram 계정을 선택하려면 Meta Business Manager에서 사용할 Instagram 계정이 온보딩 중에 선택한 [동일한 광고 계정](/help/user-guide/connectors/meta-ads.md#connect-an-instagram-account)에 연결되어 있는지 확인하십시오. 이 연결이 누락된 경우 활성화 중에 Instagram 계정이 [!DNL GenStudio for Performance Marketing] _Instagram 계정_ 드롭다운 메뉴에 나타나지 않을 수 있습니다.
 
 동기화가 완료되면 추가된 계정을 볼 수 있습니다. 대량의 데이터를 동기화하는 데 시간이 더 오래 걸립니다.
 

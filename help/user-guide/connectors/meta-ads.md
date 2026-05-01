@@ -27,9 +27,9 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
 workflow-type: tm+mt
-source-wordcount: 750
+source-wordcount: 875
 ht-degree: 0%
 
 ---
@@ -89,6 +89,23 @@ ht-degree: 0%
 
 **[!UICONTROL 계정 추가]**&#x200B;를 사용하여 목록에 계정을 더 추가하십시오. 동일한 Meta 비즈니스 프로필에 연결된 계정을 추가할 때 인증 흐름이 약간 달라질 수 있습니다. 연결 프로세스 중에 새 Meta 광고 계정만 선택합니다.
 
+## Instagram 계정 연결
+
+>[!IMPORTANT]
+>
+>Meta 광고를 활성화하기 전에 Meta Business Manager에서 사용할 Instagram 계정이 온보딩 중에 선택한 것과 동일한 광고 계정에 연결되어 있는지 확인하십시오. 이 연결이 누락된 경우 활성화 중에 Instagram 계정이 [!DNL GenStudio for Performance Marketing] _Instagram 계정_ 드롭다운 메뉴에 나타나지 않을 수 있습니다.
+
+**Meta 비즈니스 관리자에서 Instagram 계정 연결을 확인하거나 업데이트하려면**:
+
+1. **[!UICONTROL 설정]**(으)로 이동합니다.
+1. _계정_&#x200B;에서 **[!UICONTROL Instagram 계정]**&#x200B;을 선택합니다.
+1. 사용할 Instagram 계정을 선택합니다.
+1. **[!UICONTROL 연결된 자산]**&#x200B;을 클릭합니다.
+1. _광고 계정_&#x200B;에서 온보딩 중에 사용된 광고 계정이 나열되어 있는지 확인하십시오.
+1. 목록에 없으면 **[!UICONTROL 자산 연결]**&#x200B;을 클릭하고 올바른 광고 계정을 추가하십시오.
+
+광고 계정이 연결되면 [!DNL GenStudio for Performance Marketing]&#x200B;(으)로 돌아가서 활성화 흐름을 계속하십시오.
+
 ## 연결 우수 사례
 
 오류를 방지하려면 연결을 설정할 때 다음 모범 사례를 고려하십시오.
@@ -140,5 +157,3 @@ ht-degree: 0%
 1. 첫 번째 연결 시도 중에는 Instagram 계정을 선택하지 마십시오.
 1. 다른 자산을 추가하기 전에 연결이 성공했는지 확인하십시오.
 1. 페이지 연결이 안정적이면 Instagram 계정을 별도로 추가합니다.
-
-
