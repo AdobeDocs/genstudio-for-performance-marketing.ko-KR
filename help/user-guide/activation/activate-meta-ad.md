@@ -4,22 +4,14 @@ description: Meta 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
 TQID: https://experienceleague.adobe.com/hDR0ngNiGnCXCCOgNhVG8gX4kHGrNvfybPbuMLwYk7U
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: d87258a7-722c-4afd-b632-adddc447c7aaid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
 workflow-type: tm+mt
-source-wordcount: 1931
+source-wordcount: 1980
 ht-degree: 1%
 
 ---
@@ -53,9 +45,9 @@ GenStudio 시스템 관리자 및 편집자는 광고 경험을 활성화할 수
 
 ## 2단계: Meta 계정에 연결
 
-조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 Meta 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio과 Meta과 같은 외부 마케팅 도구 간에 데이터를 흐르게 하여 활성화 프로세스를 활성화할 수 있습니다.
+조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 Meta 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio과 Meta과 같은 외부 마케팅 도구 간에 데이터를 흐르게 하여 활성화 프로세스를 활성화할 수 있습니다. [Meta 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.
 
-[Meta 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.
+Instagram 계정을 선택하려면 Meta Business Manager에서 사용할 Instagram 계정이 온보딩 중에 선택한 [동일한 광고 계정](/help/user-guide/connectors/meta-ads.md#connect-an-instagram-account)에 연결되어 있는지 확인하십시오. 이 연결이 누락된 경우 활성화 중에 Instagram 계정이 [!DNL GenStudio for Performance Marketing] _Instagram 계정_ 드롭다운 메뉴에 나타나지 않을 수 있습니다.
 
 동기화가 완료되면 추가된 계정을 볼 수 있습니다. 대량의 데이터를 동기화하는 데 시간이 더 오래 걸립니다.
 
@@ -65,7 +57,7 @@ GenStudio 시스템 관리자 및 편집자는 광고 경험을 활성화할 수
 
 * **바로[!DNL Content]**&#x200B;에서 활성화합니다. 사전 정의된 설정을 사용하여 승인된 경험을 선택하는 것은 단일 채널에 대한 활성화를 시작하는 가장 간단한 방법입니다.
 
-* **광고 경험을 [!DNL Activate] > _경험 설정_**&#x200B;에서 조합합니다. [!DNL Content]에서 시각적 자산을 선택하고, 텍스트 요소를 추가하고, 종횡비를 선택하여 경험을 만들 수 있습니다. 이 접근 방식은 단계가 더 많지만 크리에이티브 경험을 제작할 때 더 많은 유연성을 제공합니다.
+* **광고 경험을 [!DNL Activate] > _경험 설정_**에서 조합합니다. [!DNL Content]에서 시각적 자산을 선택하고, 텍스트 요소를 추가하고, 종횡비를 선택하여 경험을 만들 수 있습니다. 이 접근 방식은 단계가 더 많지만 크리에이티브 경험을 제작할 때 더 많은 유연성을 제공합니다.
 
 ### 콘텐츠에서 승인된 경험 활성화
 
@@ -120,7 +112,7 @@ _미디어_ 섹션을 사용하여 경험에 포함할 하나 이상의 이미�
 
 1. 선택한 자산을 광고 경험에 포함하려면 **[!UICONTROL 사용]**&#x200B;을 클릭하세요. _경험 설정_ 창에 _미디어_ 영역의 기본 종횡비에 자산이 포함됩니다. _미리 보기_ 패널은 이 종횡비를 지원하는 광고 배치의 에셋을 미리 봅니다.
 
-업로드에 성공하지 못하면 _[!DNL Content]_&#x200B;의 에셋에 대한 링크가 포함된 정보 오류 메시지가 열립니다.
+업로드에 성공하지 못하면 _[!DNL Content]_의 에셋에 대한 링크가 포함된 정보 오류 메시지가 열립니다.
 
 **외부 자산을 업로드하려면**:
 
@@ -136,7 +128,7 @@ Microsoft OneDrive 또는 Dropbox에서 [!DNL Content] 갤러리 외부에 있�
 
 1. (선택 사항) 장치에서 에셋을 업로드하려면 **[!UICONTROL 찾아보기]**&#x200B;를 클릭한 다음 _파일 찾아보기_ 또는 _폴더 찾아보기_&#x200B;를 선택하여 업로드할 에셋을 식별합니다.
 
-1. _세부 정보 추가_ 영역에서 업로드한 자산에 자세한 정보를 추가하여 _[!DNL Content]_&#x200B;에서 검색 및 필터링을 용이하게 합니다. 이러한 세부 사항은 메타데이터로 저장됩니다.
+1. _세부 정보 추가_ 영역에서 업로드한 자산에 자세한 정보를 추가하여 _[!DNL Content]_에서 검색 및 필터링을 용이하게 합니다. 이러한 세부 사항은 메타데이터로 저장됩니다.
 
 1. 에셋을 업로드하고 세부 정보를 할당하면 오른쪽 하단의 **[!UICONTROL Assets 추가]**&#x200B;를 클릭합니다.
 
