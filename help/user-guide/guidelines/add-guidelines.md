@@ -26,9 +26,9 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 899a575f664d3aba0fe913fd625f8e5353ee854d
+source-git-commit: 8ec5d89113f24b91b4d963124050eaf4bf1bf368
 workflow-type: tm+mt
-source-wordcount: 3019
+source-wordcount: 3023
 ht-degree: 0%
 
 ---
@@ -199,7 +199,7 @@ _[!DNL Brands]_&#x200B;홈에서 이미 만든 브랜드를 관리하거나 게�
 
 담당자를 추가하려면 [담당자를 업로드](#upload-a-persona), [담당자를 수동으로 만들기](#manually-add-persona) 또는 [URL에서 담당자를 추가](#adding-personas-from-url)하세요. 파일을 업로드하거나 담당자를 수동으로 추가하는 경우 지침을 선택하고 담당자의 세부 정보를 입력합니다.
 
-왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다.
+왼쪽 탐색 영역에서 **[!DNL More]**&#x200B;을(를) 클릭한 다음 _공유_ 목록에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다.
 
 GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
@@ -282,12 +282,12 @@ _[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**
 
 제품을 추가하려면 다음 작업을 수행하십시오.
 
-1. 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다.
+1. 왼쪽 탐색 영역에서 **[!DNL More]**&#x200B;을(를) 클릭한 다음 _공유_ 목록에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다.
    GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){width="650" zoomable="yes"}
 1. _[!DNL Products]_&#x200B;패널에서&#x200B;**[!UICONTROL 제품 추가]**&#x200B;를 선택합니다.
 1. [제품 업로드](#upload-a-product), [수동으로 제품 만들기](#manually-add-a-product) 또는 [URL에서 제품 추가](#adding-products-from-url)를 선택합니다. 파일을 업로드하거나 제품을 수동으로 추가할 때 지침을 선택하고 제품 세부 정보를 입력합니다.
 
-![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} 추가
+![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes" align="center"} 추가
 
 GenStudio for Performance Marketing에 [!DNL Product]을(를) 포함하면 특정 제품에 대해 만든 콘텐츠를 더 잘 조정할 수 있습니다.
 
