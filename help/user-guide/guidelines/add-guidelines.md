@@ -26,9 +26,9 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a8b4c6b395908dc6aada4c5be9fcc53d9776da50
+source-git-commit: 899a575f664d3aba0fe913fd625f8e5353ee854d
 workflow-type: tm+mt
-source-wordcount: 2499
+source-wordcount: 3019
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 ## 브랜드 추가
 
-[!DNL Brand]을(를) 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-a-brand)하거나 [수동으로 브랜드 만들기](#manually-add-brand)하십시오. [향후 콘텐츠 생성에서 사용할 수 있도록  [!DNL Brand]](#publish-brand)을(를) [!DNL Content]에 게시합니다.
+[!DNL Brand]을(를) 추가하려면 [브랜드 가이드를 업로드](#upload-a-brand), [수동으로 브랜드 만들기](#manually-add-brand) 또는 [URL에서 브랜드 만들기](#creating-a-brand-from-url)하세요. 파일을 업로드하거나 브랜드를 수동으로 추가할 때 지침을 선택하고 브랜드 세부 정보를 입력합니다. [향후 콘텐츠 생성에서 사용할 수 있도록  [!DNL Brand]](#publish-brand)을(를) [!DNL Content]에 게시합니다.
 
 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다.
 
@@ -113,6 +113,19 @@ GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){wi
 만든 [!DNL Brands]을(를) 보려면 _[!UICONTROL 브랜드]_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!UICONTROL 브랜드]_ 홈으로 다시 이동합니다.
 
 정보에 액세스할 수 있도록 [!DNL Brand]을(를) [게시](#publish-brand)하지 않아도 됩니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketing의 [!DNL Brand] 정보를 사용하려면 게시해야 합니다. 만든 [!DNL Brand]은(는) 게시될 때까지 초안 양식에서 사용할 수 있습니다.
+
+### URL에서 브랜드 만들기
+
+**필수 구성 요소:** URL에서 추가할 때 [지침](#guidance-when-adding-from-a-url)을 참조하세요.
+
+**URL에서 브랜드를 만들려면:**
+
+1. GenStudio에서 **[!DNL Brands]**(으)로 이동한 다음 **[!UICONTROL +브랜드 추가]** 단추를 클릭합니다.
+1. _브랜드를 추가하는 방법 선택_&#x200B;하라는 메시지가 표시되면 **[!UICONTROL URL을 통해]**&#x200B;를 선택하십시오.
+1. 제공된 필드에 브랜드 URL을 입력합니다.
+1. 시스템은 페이지를 읽고 브랜드 지침을 자동으로 생성합니다. 이 프로세스는 일반적으로 1분 미만의 시간이 소요됩니다.
+1. 생성된 브랜드 지침 카드를 검토하고 필요에 따라 필드를 편집합니다.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. 이제 브랜드를 콘텐츠 생성에 사용할 수 있습니다.
 
 ### 브랜드 썸네일 변경
 
@@ -184,7 +197,7 @@ _[!DNL Brands]_&#x200B;홈에서 이미 만든 브랜드를 관리하거나 게�
 
 ## [!DNL Personas] 추가
 
-담당자를 추가하려면 지침을 선택하고 담당자의 세부 정보를 입력하여 [담당자를 업로드](#upload-a-persona) 또는 [담당자를 수동으로 생성](#manually-add-persona)하십시오.
+담당자를 추가하려면 [담당자를 업로드](#upload-a-persona), [담당자를 수동으로 만들기](#manually-add-persona) 또는 [URL에서 담당자를 추가](#adding-personas-from-url)하세요. 파일을 업로드하거나 담당자를 수동으로 추가하는 경우 지침을 선택하고 담당자의 세부 정보를 입력합니다.
 
 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다.
 
@@ -244,6 +257,19 @@ GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 �
 
    만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_&#x200B;홈으로 다시 이동합니다.
 
+### URL에서 [!DNL Personas] 추가 중
+
+**필수 구성 요소:** URL에서 추가할 때 [지침](#guidance-when-adding-from-a-url)을 참조하세요.
+
+**URL에서 가상 사용자를 추가하려면:**
+
+1. GenStudio에서 **[!DNL Personas]**(으)로 이동한 다음 **[!UICONTROL +사용자 추가]** 단추를 클릭합니다.
+1. _사용자 추가 방법 선택_&#x200B;을 묻는 메시지가 표시되면 **[!UICONTROL URL을 통해]**&#x200B;을(를) 선택하십시오.
+1. 제공된 필드에 브랜드 URL을 입력합니다.
+1. 페이지에서 표시된 대상 세그먼트 목록을 검토합니다. 적용되지 않는 세그먼트를 제거하고 필요에 따라 이름을 변경한 다음 누락된 세그먼트를 추가합니다.
+1. 목록을 확인합니다. 시스템에서 확인된 각 세그먼트에 대해 전체 페르소나 카드를 생성하기 시작합니다.
+1. 완료 시 개인 카드가 라이브러리에 표시됩니다. 콘텐츠 생성에 사용하기 전에 각 담당자를 검토하고 편집합니다.
+
 ### [!DNL Personas] 관리
 
 _[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나&#x200B;**담당자를**&#x200B;목록에서 삭제할 수 있습니다.
@@ -258,8 +284,8 @@ _[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**
 
 1. 왼쪽 탐색 영역에서 _공유_ 목록에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다.
    GenStudio for Performance Marketing의 ![지침](/help/assets/guidelines.png){width="650" zoomable="yes"}
-1. _[!DNL Products]_&#x200B;패널에서&#x200B;**제품 추가**&#x200B;를 선택합니다.
-1. 지침을 선택하고 제품 세부 정보를 입력하여 [제품을 업로드](#upload-a-product)하거나 [제품을 수동으로 생성](#manually-add-product)하도록 선택합니다.
+1. _[!DNL Products]_&#x200B;패널에서&#x200B;**[!UICONTROL 제품 추가]**&#x200B;를 선택합니다.
+1. [제품 업로드](#upload-a-product), [수동으로 제품 만들기](#manually-add-a-product) 또는 [URL에서 제품 추가](#adding-products-from-url)를 선택합니다. 파일을 업로드하거나 제품을 수동으로 추가할 때 지침을 선택하고 제품 세부 정보를 입력합니다.
 
 ![[!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} 추가
 
@@ -315,6 +341,19 @@ GenStudio for Performance Marketing에 [!DNL Product]을(를) 포함하면 특�
 
    만든 [!DNL Products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_&#x200B;홈으로 다시 이동합니다.
 
+### URL에서 제품 추가
+
+**필수 구성 요소:** URL에서 추가할 때 [지침](#guidance-when-adding-from-a-url)을 참조하세요.
+
+**URL에서 [!DNL Products]을(를) 추가하려면:**
+
+1. GenStudio에서 **[!DNL Products]**(으)로 이동한 다음 **[!UICONTROL +제품 추가]** 단추를 클릭합니다.
+1. _제품을 추가할 방법을 선택하십시오_. 메시지가 표시되면 **[!UICONTROL URL을 통해]**&#x200B;를 선택하십시오.
+1. URL을 입력합니다. 광범위한 제품 목록을 보려면 브랜드의 홈페이지를 사용하고, 결과의 범위를 지정하려면 카테고리 페이지를 사용하십시오.
+1. 페이지에서 표시된 제품 목록을 검토합니다. 속하지 않는 항목을 제거하고 필요한 경우 이름을 변경한 다음 누락된 제품을 추가합니다.
+1. 목록을 확인합니다. 확인된 각 제품에 대한 전체 제품 세부 정보 생성이 시작됩니다.
+1. 제품이 라이브러리에 표시됩니다. 콘텐츠 생성에서 사용하기 전에 각 제품을 검토하고 편집합니다.
+
 ### [!DNL Products] 관리
 
 _[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**&#x200B;할 수 있습니다.
@@ -349,3 +388,23 @@ _[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**
 1. 목록에서 할당할 대상자를 선택합니다. [!DNL Persona]을(를) 선택한 경우 선택한 [!DNL Persona]과(와) 일치하는 권장 대상이 표시됩니다.
 1. 선택한 대상자에 대해 생성된 확장된 설명 및 메시징 환경 설정을 보려면 **[!UICONTROL 대상자 세부 정보 보기]**&#x200B;를 클릭하십시오. 대상 세부 사항은 콘텐츠 생성을 알려주며, 크리에이티브가 대상 세그먼트의 특정 특성 및 선호도에 맞게 조정되도록 합니다.
    ![대상 세부 정보 창](./audience-details.png){width=450}
+
+## URL에서 추가할 때의 지침
+
+[!DNL GenStudio for Performance Marketing]의 URL에서 [!DNL Brand], [!DNL Product] 또는 [!DNL Persona]을(를) 추가하도록 선택한 경우 아래 정보를 고려하십시오.
+
+**URL 기반 워크플로의 필수 구성 요소**:
+
+- Brand Manager 이상의 권한이 있는 **활성 [!DNL GenStudio for Performance Marketing] 계정**&#x200B;이(가) 있습니다.
+- **URL은 공개적으로 액세스할 수 있습니다**. 암호로 보호되거나 로그인 게이트된 페이지는 제한된 출력을 생성합니다.
+- **최상의 결과를 얻으려면 retailer, 리셀러 또는 집계 대신 브랜드의 웹 사이트 URL**(홈 페이지 또는 제품/카테고리 페이지)을 사용하십시오.
+
+**URL 형식 및 예상 출력**:
+
+| URL 유형 | 기대 사항 |
+| --- | --- |
+| 브랜드 홈페이지 | 전체 브랜드 가이드라인이 제공되며, 시스템은 광범위한 제품 및 사용자 범위를 제공합니다. |
+| 제품 범주 페이지 | 제품 및 가상 사용자는 해당 페이지에 표시된 범주에 속합니다. |
+| 캠페인 랜딩 페이지 | 페르소나 신호는 특히 유용하지만 브랜드 결과는 전체 브랜드 대신 캠페인을 반영할 수 있습니다. |
+| Retailer 또는 파트너 페이지 | 시스템은 타사 콘텐츠를 우선 사용하므로 출력이 제한됩니다. |
+| 제어된/로그인 필요 페이지 | 페이지 콘텐츠를 사용할 수 없으므로 출력이 보존됩니다. |
