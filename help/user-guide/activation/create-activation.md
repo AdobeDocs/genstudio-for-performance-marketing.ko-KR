@@ -18,10 +18,10 @@ role_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 2694ca42a231d75df755936f80b398d554f42842
 workflow-type: tm+mt
-source-wordcount: 574
-ht-degree: 0%
+source-wordcount: 575
+ht-degree: 1%
 
 ---
 
@@ -64,3 +64,4 @@ GenStudio for Performance Marketing 경험은 유료 광고 채널 또는 이메
 * [Google 캠페인 관리자 360](activate-cm360-ad.md)
 * [LinkedIn](activate-linkedin-ad.md)
 * [Meta](activate-meta-ad.md)
+* [ChatGPT](../create/create-chatgpt-ad.md#activate-a-chatgpt-ad)
