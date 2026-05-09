@@ -5,10 +5,10 @@ user-guide-description: 성과 마케팅을 위한 Adobe GenStudio의 기능을 
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: a4141df9674b12e27393fa5795ffc079f975cd12
+source-git-commit: da699f7dc5bd4f0994af4a912017dd2503afed69
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 90%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 
@@ -51,6 +51,7 @@ ht-degree: 90%
    + [템플릿에서 로고 교체 설정](create/logo-swap-setup.md)
    + [전자 메일 환경 만들기](create/create-email-experience.md)
    + [Meta 광고 경험 만들기](create/create-meta-ad.md)
+   + [ChatGPT 광고 경험 만들기](create/create-chatgpt-ad.md)
    + [LinkedIn 경험 만들기](create/create-linkedin.md)
    + [디스플레이 광고 경험 만들기](create/create-display-ad.md)
    + [배너 경험 만들기](create/create-banner-experience.md)
