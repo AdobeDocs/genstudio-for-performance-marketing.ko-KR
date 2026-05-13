@@ -1,6 +1,6 @@
 ---
-title: 광고 및 광고 배치 개요
-description: Adobe GenStudio for Performance Marketing의 광고 및 광고 배치 성과에 대한 고객 참여, 예산 및 지출에 대한 개요를 참조하십시오.
+title: 게시된 경험 세부 사항
+description: Adobe GenStudio for Performance Marketing에서 게시된 경험 및 배치 성과에 대한 고객 참여, 예산 및 지출에 대한 개요를 참조하십시오.
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
@@ -24,45 +24,21 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: acdd8a2f6b066a7b4849e92c94127011dc6daed5
+source-git-commit: d61c45100a8ec4973e87948315f5500e023a29eb
 workflow-type: tm+mt
-source-wordcount: 1469
+source-wordcount: 1320
 ht-degree: 1%
 
 ---
 
-# 광고 태그 및 광고 배치 개요
 
-[!DNL Insights] _[!UICONTROL 광고 태그]_ 보기에는 연결된 채널 광고 계정에 대한 광고 목록이 표시됩니다. _ad_&#x200B;은(는) 마케팅 캠페인의 일부로 특정 대상자에게 배포하기 위한 시각적 및 대화형 콘텐츠가 포함된 홍보 자산입니다.
+# 게시된 경험 세부 정보 {#ad-details}
 
-{{connect-insights}}
+게시된 경험을 선택하고 각 경험과 연결된 성능 지표, 텍스트 특성 및 배치를 봅니다. _[!UICONTROL 게시된 경험 세부 정보]_&#x200B;에는 `click-through rate`, `cost per action` 및 `spend` 경험에 대한 지표(경험에 사용된 예산 금액)가 포함되어 있습니다. 경험에는 피드 또는 배너와 같은 여러 배치가 있을 수 있으므로 각 배치에 대한 동일한 지표의 분류를 볼 수 있습니다. **[!UICONTROL 배치별 성능]** 아래의 왼쪽 및 오른쪽 화살표를 사용하여 배치 지표를 순환합니다.
 
-_[!UICONTROL 광고 태그]_ 테이블은 [!UICONTROL 광고 이름]을 사용하여 구성됩니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열을 전환합니다.
+![지표와 배치로 게시된 경험 세부 정보](/help/assets/insights-ad-details.png){zoomable="yes"}
 
-![광고 태그 통찰력 성능 지표](./ad-tags-tab.png)
-
-_[!UICONTROL 광고 태그]_ 갤러리 보기에는 광고 미리 보기의 콜라주와 지표(예: 클릭스루 비율)가 표시됩니다. 갤러리 오른쪽 위에 있는 설정(cog) 아이콘을 클릭하여 **[!UICONTROL 카드 설정]**&#x200B;을 열고 볼 수 있는 세 가지 지표 중 하나를 전환합니다.
-
-- CPA(작업당 비용)
-- CTR(클릭스루 비율)
-- CPC(클릭당 비용)
-- 지출
-
-{{filter-table}}
-
-## 광고 세부 정보
-
-광고를 선택하고 각 광고와 연결된 성능 지표, 텍스트 속성 및 배치를 봅니다. _[!UICONTROL 광고 세부 정보 페이지]_&#x200B;에는 광고 `click-through rate`, `cost per action` 및 `spend`에 대한 지표(예산 중 광고에 사용된 금액)가 포함되어 있습니다. 광고에는 피드 또는 배너와 같은 여러 배치가 있을 수 있으므로 각 광고 배치에 대한 동일한 지표의 분류를 볼 수 있습니다. **[!UICONTROL 광고 배치별 성능]** 아래의 왼쪽 및 오른쪽 화살표를 사용하여 배치 지표를 순환합니다.
-
-![지표 및 광고 배치 관련 광고 세부 정보](/help/assets/insights-ad-details.png){zoomable="yes"}
-
-### 광고 속성
-
-광고 미리 보기 아래에는 광고와 관련된 속성 목록이 있습니다.
-
-{{$include /help/_includes/generated-attributes.md}}
-
-### 광고 형식
+## 광고 형식
 
 광고 형식은 캠페인 목표에 맞게 조정하고, 타겟 대상자를 참여시키고, 성과 지표를 추적하는 데 사용되는 다양한 크리에이티브 요소 및 레이아웃을 나타냅니다.
 
@@ -76,7 +52,7 @@ GenStudio for Performance Marketing의 [!DNL Insights]은(는) 현재 사용 가
 | DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | 유료 미디어 채널은 크리에이티브 자산을 검색할 수 있는 액세스 권한을 제공하지 않으므로 광고 유형을 정확하게 분류하기가 어렵습니다. |
 | 이노비드 | N/A | 유료 미디어 채널은 크리에이티브 자산을 검색할 수 있는 액세스 권한을 제공하지 않으므로 광고 유형을 정확하게 분류하기가 어렵습니다. |
 
-### 광고 배치
+## 광고 배치
 
 광고 배치는 캠페인 내에서 광고가 표시되는 특정 위치 또는 플랫폼을 의미합니다. 이러한 배치는 대상자가 콘텐츠와 상호 작용하는 방법 및 위치를 결정합니다. 광고 배치는 대상자 범위를 넓혀 가시성, 참여 및 전반적인 캠페인 효과를 극대화하는 데 도움이 됩니다.
 
@@ -124,4 +100,3 @@ _[!UICONTROL 광고 세부 정보 페이지]_ 보기에서 상위 3개의 지표
 | **[!UICONTROL CPC &#x200B;]**<br>_클릭당 비용_ | 단일 광고 배치에서 각 클릭과 관련된 평균 비용입니다.<p>**계산**: 총 `spent`을(를) `clicks`(으)로 나눈 값<p>이 지표는 클릭을 생성할 때 광고 배치의 비용 효율성을 평가하는 데 도움이 됩니다. | 낮은 CPC는 광고 배치가 더 낮은 비용으로 클릭을 발생시키고 있음을 나타내며, 이는 투자 수익률을 극대화하는 데 도움이 될 수 있습니다. |
 | **[!UICONTROL 지출]** | 단일 광고 배치에 사용한 금액으로서, 전체 광고에 사용한 총 금액의 일부를 나타냅니다. 이 지표는 각 광고 배치에 대한 예산 할당 및 지출 효율성을 추적하는 데 도움이 됩니다. | 지출 모니터링은 리소스가 다양한 배치에서 효과적으로 사용되는지 확인하는 데 도움이 될 수 있습니다. |
 | **속성** | 이 광고 배치에 있는 고유한 기능 목록입니다. | 속성은 대상에게 가장 큰 공감을 주는 크리에이티브 요소를 식별하는 데 도움이 됩니다. [범주](/help/user-guide/insights/attributes.md#categories)을 참조하세요. |
-

@@ -24,7 +24,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
 workflow-type: tm+mt
 source-wordcount: 812
 ht-degree: 0%
@@ -45,7 +45,7 @@ _[!UICONTROL 특성]_ 테이블은 [!UICONTROL 특성] 이름을 사용하여 �
 
 ## 속성 세부 사항
 
-특성은 색상, 컴포지션, 시각적 요소 및 기타 속성과 같은 고유한 세부 정보로 [ads](ads.md#ad-details) 및 [media](media.md#media-details)을(를) 식별하는 데 도움이 됩니다.
+특성은 색상, 컴포지션, 시각적 요소 및 기타 속성과 같은 고유한 세부 정보로 [ads](published-experiences.md#ad-details) 및 [media](media.md#media-details)을(를) 식별하는 데 도움이 됩니다.
 
 속성 세부 사항 보기에서 선택한 속성을 사용하는 광고를 확인할 수 있습니다. 세부 사항에는 총 속성 성능 및 각 광고와 관련된 성능 지표 분류가 포함됩니다.
 

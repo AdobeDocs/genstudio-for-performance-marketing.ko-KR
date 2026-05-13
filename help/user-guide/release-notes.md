@@ -39,7 +39,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f7f72c23c8bc7a52040af2c897b94d107a7c95bf
+source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
 workflow-type: tm+mt
 source-wordcount: 4727
 ht-degree: 0%
@@ -151,7 +151,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Meta 캠페인에 대한 작업 유형별 CPA
 
-* Meta 광고 캠페인에 대한 유연한 전환 추적을 사용하여 [CPA(작업당 비용)를 분석](/help/user-guide/insights/ads.md)합니다.
+* Meta 광고 캠페인에 대한 유연한 전환 추적을 사용하여 [CPA(작업당 비용)를 분석](/help/user-guide/insights/published-experiences.md)합니다.
 * 하나의 고정된 지표 대신 구매, 장바구니에 추가 이벤트, 리드, 비디오 보기 또는 사용자 지정 전환과 같은 여러 작업 유형 중에서 선택하여 [!DNL Insights]의 캠페인, 광고, 자산 및 특성에 대한 CPA를 계산하고 봅니다.
 
 ### 수정 사항 및 개선 사항
@@ -276,7 +276,7 @@ Adobe GenStudio for Performance Marketing은 이제 두 가지 강력한 변형�
 
 ### 호환 가능한 에셋 필터
 
-[!DNL Insights] 모듈의 새 필터는 광고 미리 보기에서 [지원되지 않는 이미지 및 비디오 에셋](/help/user-guide/insights/ads.md#ad-formats)을 자동으로 숨겨 시각적 복잡성과 끊어진 타일을 제거합니다. 이러한 향상된 기능을 통해 사용자는 실제로 사용할 수 있고 사용할 준비가 된 미디어만 볼 수 있으므로 보다 깨끗하고 안정적인 경험을 만들 수 있습니다. 필터는 기존 호환성 광고 필터와 함께 작동합니다.
+[!DNL Insights] 모듈의 새 필터는 광고 미리 보기에서 [지원되지 않는 이미지 및 비디오 에셋](/help/user-guide/insights/published-experiences.md#ad-formats)을 자동으로 숨겨 시각적 복잡성과 끊어진 타일을 제거합니다. 이러한 향상된 기능을 통해 사용자는 실제로 사용할 수 있고 사용할 준비가 된 미디어만 볼 수 있으므로 보다 깨끗하고 안정적인 경험을 만들 수 있습니다. 필터는 기존 호환성 광고 필터와 함께 작동합니다.
 
 ### Meta용 다중 자산 활성화
 

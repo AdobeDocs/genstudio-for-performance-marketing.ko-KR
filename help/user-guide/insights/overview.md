@@ -25,9 +25,9 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d3d3bd0d0790ecfe5a9c0e796b74fcf97672f1d2
+source-git-commit: 96438790ee2d211cee8ab076b13f8d404b0a2700
 workflow-type: tm+mt
-source-wordcount: 959
+source-wordcount: 1002
 ht-degree: 0%
 
 ---
@@ -96,6 +96,10 @@ Meta, LinkedIn 및 TikTok은 캠페인, 광고, 미디어 및 속성에 대한 �
 
 [[!DNL Insights] _[!UICONTROL 캠페인&#x200B;]_&#x200B;보기](campaigns.md)는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. GenStudio for Performance Marketing에서 통계 데이터를 받기 시작할 수 있도록 [채널 계정을 연결](/help/user-guide/connectors/connect-channel.md)하세요.
 
+### 게시된 경험
+
+[[!DNL Insights] _[!UICONTROL 게시된 경험 세부 정보&#x200B;]_&#x200B;보기](published-experiences.md)는 경험의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 게시된 경험] 보기를 사용하면 지정된 날짜 범위 내의 배치에 따라 경험의 지표를 분석할 수 있습니다._[!UICONTROL &#x200B;경험 이름&#x200B;]_&#x200B;을(를) 클릭하면 경험 성능 지표, 배치별 성능 및 특성을 볼 수 있습니다.
+
 ### 미디어
 
 [[!DNL Insights] _[!UICONTROL 미디어&#x200B;]_&#x200B;보기](media.md)는 크리에이티브 콘텐츠의 성능을 분석하는 데 도움이 되도록 설계되었습니다. 클릭이나 노출과 같이 선택한 지표를 개선하는 데 기여하는 미디어 속성을 식별할 수 있습니다.
@@ -114,4 +118,4 @@ Meta, LinkedIn 및 TikTok은 캠페인, 광고, 미디어 및 속성에 대한 �
 
 ### 광고 태그
 
-[[!DNL Insights] _[!UICONTROL 광고&#x200B;]_&#x200B;보기](ads.md)는 광고의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 광고] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 광고의 지표를 분석할 수 있습니다._[!UICONTROL &#x200B;광고 이름&#x200B;]_&#x200B;을 클릭하면 광고 성능 지표, 광고 배치별 성능 및 특성을 볼 수 있습니다.
+[[!DNL Insights] _[!UICONTROL 광고 태그&#x200B;]_&#x200B;보기](ad-tags.md)는 연결된 채널 광고 계정에 대한 광고 목록을 표시합니다._ ad _은(는) 마케팅 캠페인의 일부로 특정 대상자에게 배포하기 위한 시각적 및 대화형 콘텐츠가 포함된 홍보 자산입니다.
