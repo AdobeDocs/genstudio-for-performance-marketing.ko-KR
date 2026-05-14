@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 이 통합의 기능
 
->[!VIDEO](https://video.tv.adobe.com/v/3491079?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491086?captions=kor&learn=on)
 
 LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번들을 로드하여 `<dialog>`에서 렌더링하므로 사용자는 [!DNL GenStudio for Performance Marketing]에서 경험을 선택할 수 있습니다.
 
