@@ -4,19 +4,13 @@ description: GenStudio 앱 및 추가 기능에 대한 Experience Selector Micro
 feature: Extensibility, Extensions, Experiences
 exl-id: 918d3772-406b-4e16-bddc-0d5b160978d3
 TQID: https://experienceleague.adobe.com/0KCx1agovbj3-ShbAZ6JiHnHchMI47F9g4mvE4NPpvc
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bfaa655b-e017-428d-80d0-09de2183b296
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bfaa655b-e017-428d-80d0-09de2183b296
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 8caee588140b91f81a8c77f7da4b930674f46865
 workflow-type: tm+mt
-source-wordcount: 601
+source-wordcount: 620
 ht-degree: 4%
 
 ---
@@ -32,6 +26,8 @@ GenStudio Experience Selector MFE를 통해 다음과 같은 작업을 수행할
 - 단일 및 다중 선택 모드 모두 지원
 - SUSI(Sign-Up Sign-In) 통합을 통해 인증 처리
 - 다양한 프레임워크에서 일관된 UI 제공
+
+LWC 및 선택적 이메일 템플릿을 사용하여 Salesforce Lightning에 이 MFE를 포함하려면 Salesforce의 [경험 선택기 MFE](experience-selector-salesforce.md)를 참조하십시오.
 
 ## 통합 옵션
 
