@@ -71,11 +71,11 @@ LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번
 구성 요소를 추가하려면:
 
 1. **[!UICONTROL 설치]**&#x200B;에서 **[!UICONTROL 앱 관리자]**&#x200B;를 엽니다.
-1. **[!UICONTROL 새 Lightning 앱]**을 만들거나 확장하려는 기존 앱을 엽니다.
+1. **[!UICONTROL 새 Lightning 앱]**&#x200B;을 만들거나 확장하려는 기존 앱을 엽니다.
    ![새로운 번개 앱 모달](./mfe-new-lighting-app.png){width="80%" zoomable="yes"}
-1. 앱을 열고 **[!UICONTROL 편집]**을 선택합니다.
+1. 앱을 열고 **[!UICONTROL 편집]**&#x200B;을 선택합니다.
    ![Lightning 앱 편집 모달](./mfe-lightning-edit.png){width="80%" zoomable="yes"}
-1. **[!UICONTROL 새 페이지]**를 만들거나 기존 Lightning 페이지를 편집하세요.
+1. **[!UICONTROL 새 페이지]**&#x200B;를 만들거나 기존 Lightning 페이지를 편집하세요.
    ![새 페이지 모달](./mfe-lightning-new-page.png){width="60%" zoomable="yes"}
 1. **[!UICONTROL Lightning App Builder]**&#x200B;에서 **sfgsmfe** 구성 요소를 레이아웃으로 끕니다.
 1. **[!UICONTROL 저장]**, **[!UICONTROL 활성화]**&#x200B;하고, 원하는 사용자가 열 수 있도록 페이지를 올바른 Lightning 앱, 프로필 및 앱 가시성에 할당합니다.
