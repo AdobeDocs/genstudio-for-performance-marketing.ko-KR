@@ -4,9 +4,9 @@ description: Adobe Express 에셋을 통합할 수 있는 GenStudio for Performa
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 05bc285ff614c8d3e15beab3411c7666b01d1155
+source-git-commit: de08604b8968e6ae49cabd6632eb40516983d841
 workflow-type: tm+mt
-source-wordcount: '1701'
+source-wordcount: '1713'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 [!DNL GenStudio for Performance Marketing]은(는) [!DNL Adobe Express]에서 만들고 디자인된 템플릿을 사용할 수 있습니다. [!DNL Adobe Express]에서 브랜드 자산을 가져와 강력한 도구를 사용하여 매력적인 마케팅 캠페인 및 [!DNL Experiences]에 통합합니다.
 
-이 안내서에서는 [!DNL Adobe Express]의 서식 파일에 대한 요구 사항 및 기능을 설명합니다.
+이 안내서에서는 [!DNL Adobe Express]의 서식 파일에 대한 요구 사항 및 기능을 설명합니다. 추가 팁과 모범 사례는 [템플릿 사용 모범 사례](/help/user-guide/templates/best-practices-for-templates.md#express-to-genstudio-template-best-practices)를 참조하세요.
 
 ## [!DNL Adobe Express]의 템플릿 정보
 
-[!DNL Adobe Express]에서 응용 프로그램에 제공된 기존 시작 템플릿[&#128279;](https://helpx.adobe.com/kr/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5)을 사용하거나 다음과 같이 [유용한 브랜드 제한을 포함할 수 있는 사용자 지정 템플릿](https://helpx.adobe.com/kr/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html)을 사용하여 새 문서를 만들 수 있습니다.
+[!DNL Adobe Express]에서 응용 프로그램에 제공된 기존 시작 템플릿](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5)을 사용하거나 다음과 같이 [유용한 브랜드 제한을 포함할 수 있는 사용자 지정 템플릿](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html)을 사용하여 [새 문서를 만들 수 있습니다.
 
-- 변경할 수 없는 [잠긴 요소](https://helpx.adobe.com/kr/express/web/invite-collaborate/object-locking.html)
+- 변경할 수 없는 [잠긴 요소](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html)
 - 필요한 경우 사용자가 요소의 잠금을 해제하는 방법을 제어하는 잠금 제한
 
-[!DNL Adobe Express]의 템플릿에 설정된 잠금 설정이 [!DNL GenStudio for Performance Marketing]에도 적용됩니다. [지침 [!DNL Adobe Express] 을 사용하여 브랜드 제한을 가진 사용자 지정 템플릿을 만듭니다](https://helpx.adobe.com/kr/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
+[!DNL Adobe Express]의 템플릿에 설정된 잠금 설정이 [!DNL GenStudio for Performance Marketing]에도 적용됩니다. [지침 [!DNL Adobe Express] 을 사용하여 브랜드 제한을 가진 사용자 지정 템플릿을 만듭니다](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
 
 빠른 템플릿에서 사용자 정의 글꼴을 사용하려면 관리자는 먼저 빠른 라이선스 권한의 일부로 포함된 Admin Console에서 사용자 정의 글꼴 적격 오퍼에 동의해야 합니다.
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 ## [!DNL Adobe Express]개 서식 파일이 있는 변형 및 [!DNL Experiences] 정보
 
-[!DNL Express] 템플릿은 [다른 변형을 관리](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text)할 때 익숙한 기능과 동일한 기능을 많이 제공합니다. 그러나 [!DNL Express]의 콘텐츠에 대한 워크플로를 간소화할 수 있는 몇 가지 강력한 추가 기능이 있습니다. 이 섹션에서는 [!DNL Adobe Express] 구현에만 적용되는 기능에 대해 설명합니다.
+[!DNL Express] 템플릿은 [다른 변형을 관리](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text)할 때 익숙한 기능과 동일한 기능을 많이 제공합니다. 그러나 [!DNL Express]의 콘텐츠에 대한 워크플로를 간소화할 수 있는 몇 가지 강력한 추가 기능이 있습니다. 이 섹션에서는 [!DNL Adobe Express] 구현에만 적용되는 기능에 대해 설명합니다.
 
 ### 여러 크기 자동 생성
 
-[에셋에 대해  [!DNL Express]](https://helpx.adobe.com/kr/express/web/arrange-layers-and-pages/add-pages.html)에 여러 페이지를 만들면 해당 페이지는 해당 에셋에서 만든 템플릿으로 이월됩니다. 빠른 페이지는 각각 [!DNL GenStudio for Performance Marketing]에서 다른 크기의 크리에이티브 콘텐츠로 생성됩니다.
+[에셋에 대해  [!DNL Express]](https://helpx.adobe.com/express/web/arrange-layers-and-pages/add-pages.html)에 여러 페이지를 만들면 해당 페이지는 해당 에셋에서 만든 템플릿으로 이월됩니다. 빠른 페이지는 각각 [!DNL GenStudio for Performance Marketing]에서 다른 크기의 크리에이티브 콘텐츠로 생성됩니다.
 
 [!DNL Express]의 에셋에 대해 크기가 지정된 콘텐츠가 여러 개 있는 경우 한 번에 모든 크기에 대해 변형을 생성할 수 있습니다.
 
@@ -192,7 +192,7 @@ ht-degree: 0%
 
 ### 템플릿 잠금 제한 사항
 
-템플릿에는 [!DNL Express]에서 이월되고 일부 기능을 변경하는 방법을 제어하는 [잠긴 요소](https://helpx.adobe.com/kr/express/web/invite-collaborate/object-locking.html)가 포함될 수 있습니다. 이러한 설정은 템플릿에 적용되며, 템플릿에서 변경할 수도 있습니다.
+템플릿에는 [!DNL Express]에서 이월되고 일부 기능을 변경하는 방법을 제어하는 [잠긴 요소](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html)가 포함될 수 있습니다. 이러한 설정은 템플릿에 적용되며, 템플릿에서 변경할 수도 있습니다.
 
 1. 템플릿에서 잠긴 요소를 선택합니다.
 1. 선택한 요소의 왼쪽 상단에 있는 잠금 아이콘을 클릭합니다.
@@ -229,7 +229,7 @@ ht-degree: 0%
    - 차원 재설정
      ![확장 옵션 창](./images/image-expand-options.png){width=50%}
 1. 생성을 만들려면 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 선택할 변형이 프레임 하단에 나타납니다.
-1. 최상의 변형을 선택하고 **[!UICONTROL 유지]**&#x200B;를 클릭합니다.
+1. 최상의 변형을 선택하고 **[!UICONTROL 유지]**를 클릭합니다.
    ![생성된 변형](./images/image-expand-keep.png){width=50%}
 
 ![최종 확장된 이미지](./images/expand-after.png){width=60%}
@@ -242,5 +242,5 @@ _콘텐츠 검사_ 패널을 사용하여 일관된 브랜드 ID, ADA 접근성 
 
 ## 검토 및 승인
 
-변형을 편집하고 조정한 후 [검토 및 승인 워크플로](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/approve/overview)를 사용하여 콘텐츠를 승인하고 게시하십시오.
+변형을 편집하고 조정한 후 [검토 및 승인 워크플로](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/approve/overview)를 사용하여 콘텐츠를 승인하고 게시하십시오.
 
