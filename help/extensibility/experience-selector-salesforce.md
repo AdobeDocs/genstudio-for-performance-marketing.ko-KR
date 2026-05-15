@@ -2,9 +2,9 @@
 title: Salesforce의 Experience Selector MFE
 description: CSP, Adobe 인증, Apex 이메일 템플릿 및 유효성 검사를 포함하여 Salesforce Lightning에서 Experience Selector MFE를 배포하고 구성하는 방법에 대해 알아봅니다.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: 4cac970f46ab08bcec2f23fd882c552af088c4ea
+source-git-commit: 99a2b657560d20642b7b92aefb976ba2373ebc7f
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번
 
 * **미리 보기 및 디코딩:** 선택한 페이로드를 JSON으로 표시하고, HTML을 디코딩하고, LWC 내에서 정리된 HTML 미리 보기를 표시합니다.
 * **전자 메일 템플릿(선택 사항):** Salesforce의 **[!UICONTROL 전자 메일 템플릿 만들기]** 흐름에서 Apex(`EmailTemplateController.createEmailTemplate`)를 호출하여 `EmailTemplate` 레코드(HTML, 제목 및 폴더)를 삽입할 수 있습니다.
-* **런타임 로드:** GenStudio 스크립트는 일반적인 구현의 Salesforce 정적 리소스가 아닌 `experience.adobe.com`에 Adobe의 호스팅된 URL에서 로드됩니다.
+
+[!DNL GenStudio for Performance Marketing]에 대한 Experience Selector 스크립트는 일반적인 구현의 Salesforce 정적 리소스가 아닌 `experience.adobe.com`에 Adobe의 호스팅된 URL에서 로드됩니다.
 
 ## 사전 요구 사항
 
@@ -42,7 +43,7 @@ LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번
 
 ## 패키지 배포(개발자)
 
-통합은 Salesforce DX 스타일 레이아웃을 따릅니다. 기본 패키지 디렉터리는 일반적으로 Salesforce DX 프로젝트에서 `force-app`입니다.
+프로젝트에서 Salesforce DX 레이아웃을 사용합니다. 기본 패키지 디렉터리는 `force-app`입니다.
 
 1. 프로젝트 루트에서 타겟 조직에 소스를 배포합니다.
 
@@ -52,12 +53,10 @@ LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번
 
 2. 오류 없이 배포가 완료되는지 확인합니다.
 
-프로젝트의 일반적인 메타데이터에는 다음이 포함됩니다.
+* `force-app/main/default/lwc/sfgsmfe` — LWC 번들(HTML, JS, CSS, meta).
+* `force-app/main/default/classes/EmailTemplateController.cls` — 템플릿 생성을 위한 Apex.
 
-* 선택기 UI 및 스크립트 로드를 호스팅하는 이름이 `sfgsmfe`인 LWC 번들(HTML, JavaScript, CSS 및 meta XML)입니다.
-* 해당 선택적 흐름을 사용할 때 전자 메일 템플릿을 만드는 Apex 클래스(예: `EmailTemplateController`)입니다.
-
-프로젝트에서 정적 리소스를 정의할 수도 있습니다. LWC 로더가 `standalone.js`에 대해 Adobe CDN URL을 사용하는 경우 구현을 변경하지 않는 한 해당 로드 경로에 이러한 리소스가 필요하지 않습니다.
+리포지토리에 정적 리소스(`reactApp`, `sfgsmfe_react`)가 있을 수도 있습니다. `sfgsmfe.js`의 현재 [!DNL GenStudio for Performance Marketing] 로더가 `standalone.js`에 대해 Adobe CDN URL을 사용합니다. 구현을 변경하지 않는 한 해당 로드 경로에 이러한 정적 리소스가 필요하지 않습니다.
 
 ## 번개 페이지에 구성 요소 추가(관리자)
 
@@ -66,7 +65,7 @@ LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번
 * 라이트닝 앱 페이지
 * 홈 페이지
 * 페이지 기록
-* 탭(맞춤형 탭에서 연 번개 페이지에 구성 요소를 배치하여)
+* 탭(사용자 정의 탭의 번개 페이지 사용)
 
 구성 요소를 추가하려면:
 
@@ -92,7 +91,8 @@ LWC는 Adobe의 UMD 번들에 `src` 지점이 있는 `<script>` 태그를 삽입
 
 1. 브라우저 개발자 도구를 엽니다.
 1. 차단된 요청 또는 CSP 위반에 대해서는 **[!UICONTROL Console]** 및 **[!UICONTROL Network]** 탭을 확인하십시오.
-1. Lightning에 대한 현재 Salesforce 설명서에 따라 `https://experience.adobe.com`에 대한 **[!UICONTROL CSP 신뢰할 수 있는 사이트]**(및 Salesforce 릴리스에 대한 모든 관련 설정)를 추가하거나 조정하십시오.
+1. Lightning에 대한 현재 Salesforce 설명서에 따라 `https://experience.adobe.com`에 대한 **[!UICONTROL 신뢰할 수 있는 URL]**(및 Salesforce 릴리스에 대한 모든 관련 설정)을 추가하거나 조정하십시오.
+   ![Salesforce CSP 신뢰할 수 있는 사이트](./sf-trusted-urls.png){width="80%" zoomable="yes"}
 
 ## 통합 값 구성(개발자/구현)
 
@@ -125,13 +125,13 @@ LWC는 Adobe의 UMD 번들에 `src` 지점이 있는 `<script>` 태그를 삽입
 
 ## 유효성 검사 목록
 
-배포 및 구성 후 이 목록 사용:
+통합에 대한 확실한 유효성 검사를 위해 배포 및 구성 후 이 목록에서 항목을 확인합니다.
 
-* [ ] 배포가 오류 없이 완료됩니다.
-* [ ] 사용자는 `sfgsmfe`이(가) 포함된 번개 페이지를 열 수 있습니다.
-* [ ] 구성 요소에 로드 오류가 표시되지 않습니다. 네트워크 탭에서 `standalone.js`에 대한 HTTP 200을 반환합니다.
-* [ ] **[!UICONTROL GenStudio 환경을 선택하십시오]** 선택기가 열리고 선택 콜백이 실행됩니다.
-* [ 해당 흐름을 사용하면 ] **[!UICONTROL 전자 메일 서식 파일 만들기]**&#x200B;에 성공하고 서식 파일은 **[!UICONTROL 설치]**&#x200B;의 구성된 폴더에 나타납니다.
+1. 배포가 오류 없이 완료됨.
+1. 사용자는 `sfgsmfe`이(가) 포함된 번개 페이지를 열고 경험 선택기 UI를 볼 수 있습니다.
+1. 구성 요소에 로드 오류가 표시되지 않습니다. 네트워크 탭에서 `standalone.js`에 대한 HTTP 200을 반환합니다.
+1. **[!UICONTROL GenStudio 환경을 선택하십시오]** 선택기를 열고 선택 콜백이 실행됩니다.
+1. 해당 흐름을 사용하면 **[!UICONTROL 전자 메일 템플릿 만들기]**&#x200B;에 성공하고 **[!UICONTROL 설치]**&#x200B;의 구성된 폴더에 템플릿이 나타납니다.
 
 ## 참조 -
 
