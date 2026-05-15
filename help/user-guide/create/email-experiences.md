@@ -21,9 +21,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 853b63dbc04410c09a0b44c05f3655c06e5dfbcb
+source-git-commit: e41ca23a135e2cacfcc029c04992bbff1b515bd6
 workflow-type: tm+mt
-source-wordcount: 581
+source-wordcount: 580
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 >
 >콘텐츠 조각 교환은 오늘 캔버스에서 **이메일** 경험에 사용할 수 있습니다. **Horizon** 채널 지원이 곧 제공됩니다.
 
-엔터프라이즈 이메일 컨텐츠는 템플릿을 위해 구체화하는 컨텐츠와 함께 새로 생성된 사본 및 승인된 모듈식 블록(예: 면책조항, 안전 언어, 오퍼 및 규제 대상 청구)이 모두 필요한 경우가 많습니다. [!DNL Adobe Experience Manager], [!DNL Marketo Engage], [!DNL Adobe Journey Optimizer] 및 [!DNL Adobe Campaign]에 모듈식 콘텐츠를 저장하는 팀은 [!DNL GenStudio for Performance Marketing]을(를) 종료하지 않고 전자 메일 경험에서 사용할 해당 콘텐츠를 찾아서 교환할 수 있습니다. 이 기능은 다음 경우에 유용합니다.
+엔터프라이즈 이메일 컨텐츠는 템플릿을 위해 구체화하는 컨텐츠와 함께 새로 생성된 사본 및 승인된 모듈식 블록(예: 면책조항, 안전 언어, 오퍼 및 규제 대상 청구)이 모두 필요한 경우가 많습니다. [!DNL Adobe Experience Manager]에 모듈식 콘텐츠를 저장하는 팀은 [!DNL GenStudio for Performance Marketing]을(를) 종료하지 않고 전자 메일 경험에서 사용할 해당 콘텐츠를 찾아서 교환할 수 있습니다. 이 기능은 다음 경우에 유용합니다.
 
 * **규정 준수 인식 콘텐츠:** AI는 크리에이티브 슬롯을 채울 수 있으며 규정 준수 승인 조각은 주입 가능한 슬롯을 대체합니다. 내보내기를 통해 잠긴 법적 영역은 변경되지 않습니다.
 * **재사용 가능한 승인된 콘텐츠 구성 요소:** 승인된 헤드라인, 지역 면책조항 또는 제품 설명은 작성자가 복사하여 붙여 넣는 해결 방법 없이 변형으로 가져오는 동안 [!DNL Adobe Experience Manager]의 기록 시스템으로 남아 있을 수 있습니다.
