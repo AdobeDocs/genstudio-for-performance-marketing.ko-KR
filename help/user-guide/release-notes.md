@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
+source-git-commit: d8bce70c1e5cd80df2a8b6789de6ee3acda4b643
 workflow-type: tm+mt
-source-wordcount: 4727
+source-wordcount: 4991
 ht-degree: 0%
 
 ---
@@ -50,7 +50,35 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.04.16 {#latest}
+## 2026.05.15 {#latest}
+
+### Horizon 캔버스에서 공동 편집
+
+Horizon 캔버스에 유료 미디어 초안은 더 이상 단독 연습이 아닙니다. 이제 소유자가 **[!UICONTROL 편집기]** 또는 **[!UICONTROL 뷰어]** 역할을 사용하여 전자 메일로 공동 작업자를 초대할 수 있으므로 모든 사용자가 도구 간에 바운스된 내보내기 대신 동일한 사용 초안에서 작업합니다.
+
+캔버스에서 [!UICONTROL 공유] 단추를 사용하여 편집자는 아트보드 및 필드 업데이트(제목, CTA 및 설명 포함)를 실시간으로 볼 수 있습니다.
+
+### [!DNL Create] [!DNL Content] 페이지에서 카드 레이아웃을 새로 고쳤습니다.
+
+[!DNL Content] 내부의 [!DNL Create] 진입점이 새로 고침된 카드 레이아웃을 데뷔합니다.
+
+### AEM 캔버스의 이메일 경험에서 HTML 콘텐츠 조각 스왑
+
+이제 HTML 캔버스에서 [이메일 경험](/help/user-guide/create/email-experiences.md)은(는) 사전 승인된 모듈식 콘텐츠에 대해 **AEM 콘텐츠 조각**&#x200B;과(와) 콘텐츠 교환을 제공합니다. 사이드 채널에서는 붙여넣을 수 없습니다.
+
+GenStudio for Performance Marketing을 종료하지 않고 AEM에 이미 게시된 조직의 전달을 사용합니다.
+
+### URL에서 [!DNL Brands], [!DNL Products] 및 [!DNL Personas] 추가
+
+[!DNL GenStudio for Performance Marketing]은(는) 게시된 **[!DNL Brand]**, **[!DNL Product]** 및 **[!DNL Persona]** 신호를 URL에서 직접 수집하여 수동으로 입력하는 시간을 축소하고 출력물은 브랜드에서 실제로 온라인으로 게시하는 내용에 접지되도록 합니다. [공개 URL에서 지침 추가](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url)는 마지막으로 마케터가 개요를 열기 전에 웹을 조사하는 방법을 미러링합니다.
+
+브랜드 지침은 단일 패스로 제공되며, 제품 및 가상 사용자는 지능형 짧은 목록에서 시작되므로 시스템에서 기록을 강화하기 전에 해당 항목을 선별할 수 있습니다. AI 지원 검색은 사이트가 얇거나 게이트가 있는 경우 고의적으로 보수적이어서 모멘텀을 차단하지 않고 규제 대상 팀을 보호한다.
+
+**[!UICONTROL Brand Manager]** 이상이 필요한 조직은 이러한 보호 기능을 자동으로 적용합니다. 공개적으로 접근 가능한 브랜드 도메인은 지역 또는 포트폴리오에 걸쳐 프로그램을 확장할 때 가장 풍부한 지침을 계속 제공합니다.
+
+## 이전 릴리스 노트
+
++++2026.04.16 릴리스 정보
 
 ### [!DNL Create]의 컨텍스트 인식 권장 사항
 
@@ -68,7 +96,7 @@ ht-degree: 0%
 
 **DOM 기반 HTML5 zip 파일을 업로드하여 [!DNL Create]에서 표시 템플릿을 개발**&#x200B;하고, HTML5 광고 변형을 만들고, 추가 종횡비에 맞게 크리에이티브 크기를 조정할 수 있습니다. 완료된 경험은 [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) 및 [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md)에 활성화할 수 있습니다.
 
-## 이전 릴리스 노트
++++
 
 +++2026.03.15 릴리스 정보
 

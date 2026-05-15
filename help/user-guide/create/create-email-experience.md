@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: ecda1f61abaafe858629fc4700f61d89e2ab9e3e
 workflow-type: tm+mt
-source-wordcount: 1098
+source-wordcount: 1132
 ht-degree: 0%
 
 ---
@@ -106,6 +106,7 @@ ht-degree: 0%
 
 * **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
 * **전자 메일을 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다
+* **전자 메일 변형에서 [승인된 콘텐츠 조각을 사용](/help/user-guide/create/email-experiences.md#content-fragment-swap)**&#x200B;하려면 [!DNL GenStudio for Performance Marketing]이(가) 하나의 캔버스에서 생성 필드, 주입 가능한 콘텐츠 조각 필드 및 잠긴 필드를 결합하는 방법을 알아보세요. 관리자는 [콘텐츠 조각 확장 찾기](/help/extensibility/deploy-app.md#find-content-fragment-extension)에 설명된 대로 조각 소스를 구성합니다.
 * **Call to action을 변경 또는 선택하려면[&#128279;](/help/user-guide/create/manage-variants.md#revise-call-to-action)** call-to-action 단추를 클릭하고 _[!UICONTROL 구문 변경]_ 또는 _[!UICONTROL 링크 추가]_&#x200B;를 선택하십시오.
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
