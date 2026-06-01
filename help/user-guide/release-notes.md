@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d8bce70c1e5cd80df2a8b6789de6ee3acda4b643
+source-git-commit: a080850e354d2306a2947a2295c22fd0ddf38480
 workflow-type: tm+mt
-source-wordcount: 4991
+source-wordcount: 5011
 ht-degree: 0%
 
 ---
@@ -75,6 +75,10 @@ GenStudio for Performance Marketing을 종료하지 않고 AEM에 이미 게시�
 브랜드 지침은 단일 패스로 제공되며, 제품 및 가상 사용자는 지능형 짧은 목록에서 시작되므로 시스템에서 기록을 강화하기 전에 해당 항목을 선별할 수 있습니다. AI 지원 검색은 사이트가 얇거나 게이트가 있는 경우 고의적으로 보수적이어서 모멘텀을 차단하지 않고 규제 대상 팀을 보호한다.
 
 **[!UICONTROL Brand Manager]** 이상이 필요한 조직은 이러한 보호 기능을 자동으로 적용합니다. 공개적으로 접근 가능한 브랜드 도메인은 지역 또는 포트폴리오에 걸쳐 프로그램을 확장할 때 가장 풍부한 지침을 계속 제공합니다.
+
+### 이제 [!DNL Create], [!DNL Content] 및 [!DNL Activate]에서 ChatGPT 광고를 사용할 수 있습니다.
+
+대화형 AI는 새로운 유료 미디어 영역이므로 이제 [!DNL GenStudio for Performance Marketing]에서 ChatGPT를 끝까지 제공합니다. [ChatGPT 광고 경험 만들기](/help/user-guide/create/create-chatgpt-ad.md)(브랜드 내 복사 변형 포함), 브랜드 및 채널 검사를 실행하고, 승인을 통해 작업을 라우팅하고, 재사용 및 활성화를 위해 승인된 경험을 [!DNL Content]에 게시합니다.
 
 ## 이전 릴리스 노트
 
