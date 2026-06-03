@@ -14,7 +14,7 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 600579af1957bd8ee6816eb35038ec0f1d03b854
+source-git-commit: 084f67d1897858ad8c2eb73b94d5881129df5655
 workflow-type: tm+mt
 source-wordcount: 655
 ht-degree: 4%
@@ -25,7 +25,7 @@ ht-degree: 4%
 
 경험 선택기는 GenStudio 경험을 선택할 수 있는 `ExperienceSelectorDialog` 구성 요소를 제공하는 MFE(Micro Frontend)입니다. 독립 실행형 JavaScript 번들에서 `renderExperienceSelectorWithSUSI` 함수를 가져와서 응용 프로그램에서 구성 요소를 사용하십시오. 이 함수는 배포된 최신 Micro Frontend를 자동으로 로드하고 기본 구성 요소 인터페이스를 제공합니다.
 
->[!TIP]
+>[!NOTE]
 >
 >**API 서비스 사용 가능** GenStudio API는 경험 관리를 위한 RESTful API를 제공합니다.
 >
