@@ -4,16 +4,13 @@ description: Adobe GenStudio for Performance Marketing UI SDK의 기능을 살�
 feature: Extensibility, Compliance
 exl-id: 4eca9e83-a109-431e-bfaa-9a6f7682e56f
 TQID: https://experienceleague.adobe.com/GzRwmsFDOMHJxY-2u4xMSRwGGhqEq-IDK4sQvggZgjs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 10f44078f4c1b5865006311f9b32eab479986722
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 9889a98f95d9555ed68c7fa4d093096bea93b6fe
 workflow-type: tm+mt
-source-wordcount: 193
-ht-degree: 5%
+source-wordcount: 228
+ht-degree: 4%
 
 ---
 
@@ -26,3 +23,9 @@ GenStudio for Performance Marketing은 Adobe Experience Cloud 제품이며 해�
 Adobe Journey Optimizer을 사용하는 조직은 GenStudio에서 전자 메일 환경을 만들 때 AJO 템플릿을 사용하기 위해 Adobe Exchange에서 [GenStudio용 Journey Optimizer](journey-optimizer-for-genstudio.md) 앱을 설치할 수 있습니다.
 
 [!DNL Marketo Engage]을(를) 사용하는 조직은 GenStudio에서 전자 메일 환경을 만들 때 Marketo 템플릿을 사용하기 위해 Adobe Exchange에서 [GenStudio용 Marketo](marketo-for-genstudio.md)을(를) 설치할 수 있습니다.
+
+>[!NOTE]
+>
+>**API 서비스 사용 가능** GenStudio API는 경험 관리를 위한 RESTful API를 제공합니다.
+>
+>GenStudio API를 사용하여 경험을 관리하려면 [GenStudio API 설명서](https://developer.adobe.com/genstudio-api/)를 참조하세요.
