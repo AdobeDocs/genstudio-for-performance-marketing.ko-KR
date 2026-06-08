@@ -17,10 +17,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 1dbfb6115c9340f9c14cef75d5144a303314fa71
+source-git-commit: 8867ca0d3cdc7d6e52a4947b4836c02d2ac58f03
 workflow-type: tm+mt
-source-wordcount: 1835
-ht-degree: 85%
+source-wordcount: 1797
+ht-degree: 77%
 
 ---
 
@@ -245,21 +245,22 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 
 1. Figma에서 Firefly Enterprise 및 GenStudio 플러그인을 열고 플러그인 UI에서 **[!UICONTROL 내보내기]** 탭을 클릭합니다.
 1. 캔버스에서 내보낼 프레임을 선택합니다. 단일 프레임이나 여러 프레임을 선택할 수 있습니다.
-1. 다음 중 하나를 수행하십시오.
+1. 선택한 프레임을 마이그레이션하려면 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 내보내기]**&#x200B;를 클릭하여 변환된 파일을 선택한 위치로 내보내거나
-   * 변환된 파일을 GenStudio Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을 클릭합니다.
+   * 변환된 파일을 Photoshop Photoshop에서 즉시 사용할 수 있도록 캐시하려면 **[!UICONTROL GenStudio으로 전송]**&#x200B;을 클릭합니다.
      ![GenStudio Photoshop으로 전송 단추](./transfer-to-ps-button.png){width="40%"}
-1. **[!UICONTROL 파일 키 필요]** 대화 상자가 나타나면 플러그 인에 변환을 완료하려면 Figma 파일 URL이 필요합니다. 문서의 URL을 추가합니다.
+1. 그런 다음 Figure 파일 링크를 공유합니다. 변환을 완료하려면 플러그인에 Figure 파일 URL이 필요합니다. 문서의 URL을 추가합니다.
 
    1. 그림에서 캔버스의 오른쪽 위 모서리에 있는 **[!UICONTROL 공유]**&#x200B;를 클릭합니다.
    1. **[!UICONTROL 이 파일 공유]**&#x200B;에서 **[!UICONTROL 링크 복사]**&#x200B;를 클릭합니다.
-   1. 복사한 링크를 플러그 인 대화 상자의 **[!UICONTROL 그림 파일 URL]** 필드에 붙여 넣습니다.
-
-1. **[!UICONTROL 제출을 클릭합니다]**. 플러그인은 선택한 프레임을 Figure에서 읽고 파일 데이터의 중간 형식인 JSON 문서로 변환합니다.
-   ![파일 키 필요 대화 상자](./file-key-required.png){width="35%"}
-1. Photoshop에서 GenStudio Photoshop을 열고 **[!UICONTROL 가져오기]** 탭을 클릭합니다.
-1. 다음 중 하나를 수행하십시오.
+   1. 복사한 링크를 [!DNL GenStudio for Performance Marketing] 플러그 인 대화 상자의 **[!UICONTROL 그림 파일 링크]** 필드에 붙여 넣으십시오. 각 파일에 대해 이 작업을 수행해야 합니다.
+      ![파일 키 필요 대화 상자](./file-key-required.png){width="35%"}
+   1. **[!UICONTROL 제출을 클릭합니다]**. 플러그인은 선택한 프레임을 Figure에서 읽고 파일 데이터의 중간 형식인 JSON 문서로 변환합니다.
+1. 파일의 내용과 메타데이터를 읽을 수 있는 액세스 권한을 묻는 팝업이 나타납니다. 이 작업은 모든 파일에 대해 한 번만 수행하면 됩니다. **[!UICONTROL 액세스 허용]**&#x200B;을 클릭합니다.
+   ![파일의 내용과 메타데이터를 읽을 수 있는 액세스 허용](./figma-access-request.png){width="35%"}
+1. Photoshop에서 [!DNL GenStudio Photoshop]을(를) 열고 **[!UICONTROL 가져오기]** 탭을 클릭합니다.
+1. 변환된 파일을 선택하려면 다음 단계 중 하나를 수행하십시오.
 
    * **[!UICONTROL 플러그 인에서]**&#x200B;을(를) 클릭하여 캐시된 파일 목록에서 **[!UICONTROL GenStudio Photoshop으로 전송]**&#x200B;을(를) 사용하여 변환된 파일을 선택하거나
    * **[!UICONTROL JSON 업로드]**&#x200B;를 클릭하여 업로드할 JSON 파일을 찾아 선택합니다.
