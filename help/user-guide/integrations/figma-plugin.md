@@ -17,9 +17,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 8867ca0d3cdc7d6e52a4947b4836c02d2ac58f03
+source-git-commit: d2e2de8b867264daaa05908dd1d2dc56e3feb071
 workflow-type: tm+mt
-source-wordcount: 1797
+source-wordcount: 1775
 ht-degree: 77%
 
 ---
@@ -256,8 +256,8 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
    1. **[!UICONTROL 이 파일 공유]**&#x200B;에서 **[!UICONTROL 링크 복사]**&#x200B;를 클릭합니다.
    1. 복사한 링크를 [!DNL GenStudio for Performance Marketing] 플러그 인 대화 상자의 **[!UICONTROL 그림 파일 링크]** 필드에 붙여 넣으십시오. 각 파일에 대해 이 작업을 수행해야 합니다.
       ![파일 키 필요 대화 상자](./file-key-required.png){width="35%"}
-   1. **[!UICONTROL 제출을 클릭합니다]**. 플러그인은 선택한 프레임을 Figure에서 읽고 파일 데이터의 중간 형식인 JSON 문서로 변환합니다.
-1. 파일의 내용과 메타데이터를 읽을 수 있는 액세스 권한을 묻는 팝업이 나타납니다. 이 작업은 모든 파일에 대해 한 번만 수행하면 됩니다. **[!UICONTROL 액세스 허용]**&#x200B;을 클릭합니다.
+   1. **[!UICONTROL 제출을 클릭합니다]**.
+1. 파일의 내용과 메타데이터를 읽을 수 있는 액세스 권한을 묻는 팝업이 나타납니다. 이 작업은 모든 파일에 대해 한 번만 수행하면 됩니다. **[!UICONTROL 액세스 허용]**&#x200B;을 클릭합니다. 플러그인은 선택한 프레임을 FigureMa에서 읽고 파일 데이터의 중간 형식인 JSON 문서로 변환합니다.
    ![파일의 내용과 메타데이터를 읽을 수 있는 액세스 허용](./figma-access-request.png){width="35%"}
 1. Photoshop에서 [!DNL GenStudio Photoshop]을(를) 열고 **[!UICONTROL 가져오기]** 탭을 클릭합니다.
 1. 변환된 파일을 선택하려면 다음 단계 중 하나를 수행하십시오.
