@@ -39,7 +39,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a080850e354d2306a2947a2295c22fd0ddf38480
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 5011
 ht-degree: 0%
@@ -687,6 +687,6 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 **[!DNL Insights]**&#x200B;은(는) 콘텐츠 성능에 대한 실시간 평가를 제공하여 마케터가 전략을 최적화하고 데이터 중심의 결정을 내릴 수 있도록 지원합니다.
 
-GenStudio for Performance Marketing은 Adobe Express 및 Adobe AEM Assets을 포함한 다른 Adobe Experience Cloud 제품과 통합됩니다.
+GenStudio for Performance Marketing은 Adobe Express 및 Adobe AEM Assets을 포함한 다른 Adobe CX 엔터프라이즈 제품과 통합됩니다.
 
 +++

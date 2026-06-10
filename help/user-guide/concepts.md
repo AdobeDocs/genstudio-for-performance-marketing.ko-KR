@@ -30,7 +30,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 242ab858144fd152fd55645143f869fddf7b6fe0
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 754
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 # 개념
 
-GenStudio for Performance Marketing은 Adobe의 컨텐츠 supply chain을 구현하여 마케팅 캠페인을 간소화하는 독립 실행형 엔터프라이즈 제품입니다. 규모에 맞게 개인화되고 브랜드 승인을 받은 콘텐츠를 구축하고, 효과를 모니터링하며, 끊임없이 변화하는 시장에 신속하게 적응하는 것은 어려운 일입니다. GenStudio for Performance Marketing은 엔터프라이즈 마케팅 팀의 성능 승수로 생성 AI를 활용하는 하나의 애플리케이션에 Creative Cloud과 Experience Cloud을 통합합니다.
+GenStudio for Performance Marketing은 Adobe의 컨텐츠 supply chain을 구현하여 마케팅 캠페인을 간소화하는 독립 실행형 엔터프라이즈 제품입니다. 규모에 맞게 개인화되고 브랜드 승인을 받은 콘텐츠를 구축하고, 효과를 모니터링하며, 끊임없이 변화하는 시장에 신속하게 적응하는 것은 어려운 일입니다. GenStudio for Performance Marketing은 엔터프라이즈 마케팅 팀의 성능 승수로 생성 AI를 활용하는 하나의 애플리케이션에 Creative Cloud과 CX Enterprise를 통합합니다.
 
 GenStudio for Performance Marketing을 사용하여 다음과 같은 작업을 수행할 수 있습니다.
 

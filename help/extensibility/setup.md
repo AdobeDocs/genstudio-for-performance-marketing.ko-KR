@@ -12,7 +12,7 @@ feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 338
 ht-degree: 5%
@@ -29,7 +29,7 @@ GenStudio for Performance Marketing 추가 기능 프레임워크는 조직에�
 
 이 안내서에서는 GenStudio for Performance Marketing 핵심 AI 기반 콘텐츠 생성 기능을 사용자 정의하고 개선하기 위한 추가 기능을 만드는 프로세스에 대해 설명합니다.
 
-GenStudio for Performance Marketing용 확장 가능한 앱 개발자는 표준 Adobe Experience Cloud 앱 개발 도구 세트 프레임워크를 사용하여 사용자 지정 앱 또는 추가 기능을 개발 및 배포합니다. [Adobe App Builder](https://developer.adobe.com/app-builder/)은(는) 이 개발 도구 세트의 중심입니다.
+GenStudio for Performance Marketing용 확장 가능한 앱 개발자는 표준 Adobe CX 엔터프라이즈 앱 개발 도구 세트 프레임워크를 사용하여 사용자 정의 앱 또는 추가 기능을 개발 및 배포합니다. [Adobe App Builder](https://developer.adobe.com/app-builder/)은(는) 이 개발 도구 세트의 중심입니다.
 
 추가 기능 만들기에는 다음과 같은 높은 수준의 작업이 포함됩니다.
 
