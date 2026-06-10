@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Adobe Exchange에서 앱 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3483287?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483306?captions=kor&learn=on)
 
 1. [Adobe Exchange](https://exchange.adobe.com)을 열고 **[!UICONTROL CX Enterprise]**(으)로 이동합니다.
 1. [GenStudio용 Journey Optimizer](https://exchange.adobe.com/apps/ec/abpopqqr1q/journey-optimizer-for-genstudio) 목록을 엽니다.
