@@ -1,25 +1,17 @@
 ---
 title: 활성화 개요
-description: Adobe Experience Cloud 및 서드파티 애플리케이션을 사용하여 콘텐츠를 활성화하는 방법을 알아봅니다.
+description: Adobe CX Enterprise 및 타사 애플리케이션을 사용하여 콘텐츠를 활성화하는 방법을 알아봅니다.
 level: Beginner
 feature: Ad Activation
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 TQID: https://experienceleague.adobe.com/-Nal0YqjTzKw4g2SM3IuMf0a13e87CWdTqBZPd0dBkU
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2:
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: d87258a7-722c-4afd-b632-adddc447c7aaid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 474
 ht-degree: 0%
@@ -28,7 +20,7 @@ ht-degree: 0%
 
 # Adobe GenStudio for Performance Marketing 활성화
 
-GenStudio for Performance Marketing [!DNL Activate]은(는) 유료 광고 채널을 선택하기 위한 활성화를 위해 광고 경험을 준비할 수 있는 중앙 위치를 제공합니다. _활성화_&#x200B;은(는) 광고 경험, 에셋 및 텍스트를 특정 유료 채널에 배치하기 위해 고유하게 맞춤화된 광고 경험으로 준비하는 프로세스입니다. 활성화는 채널에서 최종 검토 및 배포할 준비가 된 비활성 상태의 지정된 채널에 크리에이티브 경험을 제공합니다. 그런 다음 광고 경험을 의도한 시장에 배포할 수 있습니다.
+GenStudio for Performance Marketing [!DNL Activate]은(는) 유료 광고 채널을 선택하기 위한 활성화를 위해 광고 경험을 준비할 수 있는 중앙 위치를 제공합니다. _활성화_&#x200B;는 광고 경험, 에셋 및 텍스트를 특정 유료 채널에 배치하기 위해 고유하게 맞춤화된 광고 경험으로 준비하는 프로세스입니다. 활성화는 채널에서 최종 검토 및 배포할 준비가 된 비활성 상태의 지정된 채널에 크리에이티브 경험을 제공합니다. 그런 다음 광고 경험을 의도한 시장에 배포할 수 있습니다.
 
 콘텐츠 편집자와 시스템 관리자는 에셋이 GenStudio for Performance Marketing에서 생성되거나 업로드된 경험을 게시할 수 있습니다.
 
@@ -42,7 +34,7 @@ GenStudio for Performance Marketing [!DNL Activate]은(는) 유료 광고 채널
 
 * [활성화 만들기](create-activation.md). 유료 채널로 푸시하기 전에 시각적 자산을 선택하고, 텍스트를 할당하고, 메타데이터를 정의하여 광고 경험을 구축할 수 있습니다.
 
-* [활성화 관리](manage-activations.md). _[!DNL Activate]_&#x200B;는 활성화된 모든 경험에 대한 개요를 제공합니다. 개별 활성화의 세부 정보를 볼 수도 있습니다.
+* [활성화 관리](manage-activations.md). _[!DNL Activate]_에서는 활성화된 모든 경험에 대한 개요를 제공합니다. 개별 활성화의 세부 정보를 볼 수도 있습니다.
 
 ## 기능 활성화
 

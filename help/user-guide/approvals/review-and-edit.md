@@ -4,16 +4,11 @@ description: Adobe GenStudio for Performance Marketing을 사용하여 콘텐츠
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
 TQID: https://experienceleague.adobe.com/YAUeZkKC0UzOt1fCKgFfXLxGEi2896IpcRTdfwG8KXA
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e4bd5f48-22a4-465d-a046-5ffb52e27856
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 694
 ht-degree: 0%
@@ -36,7 +31,7 @@ ht-degree: 0%
 
 * **승인 요청의 초안 링크에서 바로 검토할 초안에 액세스**. 승인 요청 이메일이나 제품 내 알림에서 초안 링크를 클릭합니다. 캔버스가 열리고 에셋 또는 경험이 표시됩니다. 오른쪽에 _승인_ 패널이 표시됩니다.
 
-* **승인 요청 목록에서 검토할 초안에 액세스**. 여러 콘텐츠 초안을 검토하라는 메시지가 표시되면 알림 이메일에 **[!UICONTROL 모든 알림 보기]** 버튼이 포함됩니다. 승인 요청 및 다른 Adobe Experience Cloud 제품에서 활성화한 알림을 포함하여 수신한 모든 알림을 표시하는 페이지로 이동하려면 이 버튼을 클릭합니다.
+* **승인 요청 목록에서 검토할 초안에 액세스**. 여러 콘텐츠 초안을 검토하라는 메시지가 표시되면 알림 이메일에 **[!UICONTROL 모든 알림 보기]** 버튼이 포함됩니다. 이 버튼을 클릭하면 승인 요청 및 다른 Adobe CX 엔터프라이즈 제품에서 활성화한 알림을 포함하여 수신한 모든 알림을 표시하는 페이지로 이동합니다.
 
 ## 검토를 위해 콘텐츠에 액세스
 
@@ -74,7 +69,7 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
 ## Workfront Proof으로 콘텐츠 검토
 
-[!DNL Proofing Viewer]은(는) 증명에 주석을 달고 변경 내용을 추적할 수 있는 [강력한 마크업 도구](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1)를 제공합니다. 두 버전의 증명을 비교할 수도 있습니다.
+[!DNL Proofing Viewer]은(는) 증명에 주석을 달고 변경 내용을 추적할 수 있는 [강력한 마크업 도구](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1)를 제공합니다. 두 버전의 증명을 비교할 수도 있습니다.
 
 **콘텐츠를 검토하려면**:
 
@@ -94,7 +89,7 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
 ### 교정쇄 비교
 
-[!DNL Proofing Viewer]에서 [증명 버전을 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)할 수 있습니다.
+[!DNL Proofing Viewer]에서 [증명 버전을 비교](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)할 수 있습니다.
 
 **증명을 비교하려면**:
 
@@ -104,4 +99,4 @@ _승인_ 패널에서 제안된 변경 사항을 나열하거나 초안에 대�
 
    증명이 나란히 표시되고 새 버전이 왼쪽에 표시됩니다.
 
-Workfront Proof은 자동 비교 도구를 포함하여 증명을 비교하기 위한 여러 도구를 제공합니다. [비교 도구 사용](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools)을 참조하세요.
+Workfront Proof은 자동 비교 도구를 포함하여 증명을 비교하기 위한 여러 도구를 제공합니다. [비교 도구 사용](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools)을 참조하세요.

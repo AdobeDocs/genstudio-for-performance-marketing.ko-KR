@@ -2,7 +2,7 @@
 title: GenStudio용 Marketo
 description: 조직에서 GenStudio for Performance Marketing의 Marketo 템플릿을 사용할 수 있도록 GenStudio Adobe Exchange 앱을 설치하고 구성합니다.
 feature: Extensibility
-source-git-commit: c9bfee479a433a1303a66a66917b0bbe60f24a74
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ## Adobe Exchange에서 앱 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3483318?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
 
-1. [Adobe Exchange](https://exchange.adobe.com)을 열고 **[!UICONTROL Experience Cloud]**(으)로 이동합니다.
+1. [Adobe Exchange](https://exchange.adobe.com)을 열고 **[!UICONTROL CX Enterprise]**(으)로 이동합니다.
 1. [GenStudio용 Marketo](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio) 목록을 엽니다.
    ![Adobe Exchange에서 GenStudio용 Marketo 목록](/help/extensibility/marketo-adobe-exchange.png){width="75%"}
 1. 조직에 대한 앱을 요청하려면 **[!UICONTROL 무료]**&#x200B;를 선택하세요.
@@ -52,7 +52,7 @@ ht-degree: 0%
 ### LaunchPoint 서비스 만들기 또는 선택
 
 1. **[!UICONTROL 관리자]**&#x200B;의 **[!UICONTROL 통합]**&#x200B;에서 **[!UICONTROL LaunchPoint]**&#x200B;를 엽니다.
-1. 새 서비스를 만들거나 기존 사용자 지정 서비스를 사용하려면 **[!UICONTROL 만들기]**&#x200B;를 클릭하십시오.
+1. 새 서비스를 만들거나 기존 사용자 지정 서비스를 사용하려면 **[!UICONTROL 만들기]**를 클릭하십시오.
    ![LaunchPoint 사용자 지정 서비스](/help/extensibility/marketo-launchpoint-custom-service.png){width="80%"}
 1. 서비스에 대해 **[!UICONTROL 세부 정보 보기]**&#x200B;를 클릭하고 **[!UICONTROL 클라이언트 ID]** 및 **[!UICONTROL 클라이언트 암호]**&#x200B;를 복사합니다. Adobe Exchange **[!UICONTROL 구성]**&#x200B;에 입력하게 됩니다.
 
