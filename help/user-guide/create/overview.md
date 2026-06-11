@@ -30,10 +30,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: da699f7dc5bd4f0994af4a912017dd2503afed69
+source-git-commit: 5aa02e34bb69b8d6254c9a38dc7cd752eadfcad0
 workflow-type: tm+mt
-source-wordcount: 729
-ht-degree: 88%
+source-wordcount: 794
+ht-degree: 81%
 
 ---
 
@@ -234,6 +234,18 @@ GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표
 초안은 자동으로 저장되고 [!DNL Create] 홈의 _최근 항목_ 섹션에 표시됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
 
 갤러리 보기(격자) 아이콘을 클릭하면 _최근 항목_&#x200B;이 격자 또는 표 보기로 표시됩니다.
+
+### 공동 편집
+
+이제 초안 작성자는 공동 작업자와 초안을 공유하고 역할을 할당하며 콘텐츠를 실시간으로 함께 제작할 수 있습니다. 이 기능은 단순한 검토 및 승인 이상의 몇 가지 중요한 워크플로우 이점을 제공합니다.
+
+* 다시 만들거나 내보낼 필요 없이 빠른 알림을 통해 **기존 초안에 대한 간편한 공동 작업**
+
+* 이후에 파일을 새로 고치거나 병합하지 않고 팀 구성원 간에 **실시간 공동 편집**&#x200B;을 실시간 사용합니다.
+
+* R&amp;A 흐름이 시작되기 전에 관심 있는 관련자가 캔버스를 볼 수 있도록 **읽기 전용 액세스**.
+
+[초안과 공동 편집을 사용하는 방법](collaborative-editing.md)을 알아보세요.
 
 ### 변형 관리
 
