@@ -5,35 +5,16 @@ level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
 TQID: https://experienceleague.adobe.com/Qgnbf7BVqsRFk5SmkQHkvwK-GAaUtLFfAVXb1HYLSw4
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: da699f7dc5bd4f0994af4a912017dd2503afed69
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: be495d08-ecd1-455f-951e-c22de504e667id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 5aa02e34bb69b8d6254c9a38dc7cd752eadfcad0
 workflow-type: tm+mt
-source-wordcount: 729
-ht-degree: 88%
+source-wordcount: 794
+ht-degree: 81%
 
 ---
 
@@ -234,6 +215,18 @@ GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표
 초안은 자동으로 저장되고 [!DNL Create] 홈의 _최근 항목_ 섹션에 표시됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
 
 갤러리 보기(격자) 아이콘을 클릭하면 _최근 항목_&#x200B;이 격자 또는 표 보기로 표시됩니다.
+
+### 공동 편집
+
+이제 초안 작성자는 공동 작업자와 초안을 공유하고 역할을 할당하며 콘텐츠를 실시간으로 함께 제작할 수 있습니다. 이 기능은 단순한 검토 및 승인 이상의 몇 가지 중요한 워크플로우 이점을 제공합니다.
+
+* 다시 만들거나 내보낼 필요 없이 빠른 알림을 통해 **기존 초안에 대한 간편한 공동 작업**
+
+* 이후에 파일을 새로 고치거나 병합하지 않고 팀 구성원 간에 **실시간 공동 편집**&#x200B;을 실시간 사용합니다.
+
+* R&amp;A 흐름이 시작되기 전에 관심 있는 관련자가 캔버스를 볼 수 있도록 **읽기 전용 액세스**.
+
+[초안과 공동 편집을 사용하는 방법](collaborative-editing.md)을 알아보세요.
 
 ### 변형 관리
 
