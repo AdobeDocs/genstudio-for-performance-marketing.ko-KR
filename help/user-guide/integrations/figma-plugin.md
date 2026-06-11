@@ -17,10 +17,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d2e2de8b867264daaa05908dd1d2dc56e3feb071
+source-git-commit: 2c5e5166bfe9d4b1c6cb56495613ff5cf20fab34
 workflow-type: tm+mt
-source-wordcount: 1775
-ht-degree: 77%
+source-wordcount: 1793
+ht-degree: 76%
 
 ---
 
@@ -219,6 +219,9 @@ Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x2
 
 Figma 플러그인을 사용하여 Figma 프레임, 여러 프레임 또는 전체 문서를 Photoshop 형식으로 변환하고 [GenStudio Photoshop](photoshop-plugin.md)에서 사용하도록 내보낼 수 있습니다. 현재 변환 중에는 가시성, 글꼴 크기 및 기본 레이어 속성과 같은 주요 속성만 지원됩니다. 취소선, 위 첨자, 아래 첨자, 백분율 불투명도, 그라디언트 및 유사한 고급 속성과 같은 기능은 아직 지원되지 않습니다.
 
+<!-- GS-34076: Demo video placement is hardcoded in the tool UI; keep this video above "The plugin supports the following Figma layer types for conversion." -->
+>[!VIDEO](https://video.tv.adobe.com/v/3492271?learn=on)
+
 플러그인은 변환을 위해 다음 Figure 레이어 유형을 지원합니다.
 
 * **프레임**
@@ -245,6 +248,11 @@ PSD으로 변환하면 지원되는 레이어는 다음과 같이 Photoshop에 �
 
 1. Figma에서 Firefly Enterprise 및 GenStudio 플러그인을 열고 플러그인 UI에서 **[!UICONTROL 내보내기]** 탭을 클릭합니다.
 1. 캔버스에서 내보낼 프레임을 선택합니다. 단일 프레임이나 여러 프레임을 선택할 수 있습니다.
+
+   >[!NOTE]
+   >
+   > 프레임은 변환하는 동안 섹션 내에 있을 수 없습니다. 단면 노드 내에 중첩되지 않은 프레임을 선택합니다.
+
 1. 선택한 프레임을 마이그레이션하려면 다음 중 하나를 수행하십시오.
 
    * **[!UICONTROL 내보내기]**&#x200B;를 클릭하여 변환된 파일을 선택한 위치로 내보내거나
