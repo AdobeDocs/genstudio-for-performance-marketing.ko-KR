@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
+source-git-commit: 8e00ddcb542ae0b8965f2ea7135d184c14b51fa3
 workflow-type: tm+mt
-source-wordcount: 5016
+source-wordcount: 5284
 ht-degree: 0%
 
 ---
@@ -50,7 +50,39 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.05.15 {#latest}
+## 2026.06.11 {#latest}
+
+**새로운 기능**
+
+### [!DNL Create] 및 [!DNL Activate]의 YouTube Shorts
+
+이제 [!DNL GenStudio for Performance Marketing]에서 짧은 형식의 비디오가 관리되는 채널입니다. 처음부터 브랜드, 제품 및 성향 보호 기능이 적용된 [!DNL Create] 워크플로에서 On-Brand YouTube Shorts을 만들고 활성화합니다.
+
+활성화는 수동 전달 없이 루프를 닫습니다. 즉, Shorts을 Google Ads Demand Gen 캠페인에 푸시하거나 팀이 DV360을 통해 YouTube 광고를 로드할 때 YouTube에 나열되지 않은 비디오로 업로드합니다.
+
+### CM360 비디오 활성화
+
+[!DNL GenStudio for Performance Marketing]에서 만들어진 비디오 디스플레이 광고가 더 이상 CM360 활성화 게이트에서 중지되지 않습니다. 디스플레이 채널에서 관리되는 비디오 경험을 선택하고, 활성화 워크플로에서 미리 보고, 이미지 및 HTML5 형식과 함께 [Google Campaign Manager 360에 크리에이티브를 직접 게시](/help/user-guide/activation/activate-cm360-ad.md)합니다.
+
+### [!DNL Activate]의 Meta 앱 프로모션 캠페인
+
+이제 모바일 앱 마케터는 앱 설치 및 앱 이벤트를 대상으로 하는 광고 세트를 포함하여 앱 홍보 목표를 사용하여 [Meta 캠페인에 대한 경험을 활성화](/help/user-guide/activation/activate-meta-ad.md)할 수 있습니다. 이전에는 비앱 캠페인 목표만 지원되었습니다.
+
+### Horizon 캔버스에서 번역
+
+이제 즉시 사용 가능한 번역이 Horizon 캔버스의 유료 미디어 경험으로 확장되므로 지역 팀은 외부 도구로 복사본을 내보내지 않고 승인된 Meta, LinkedIn 및 Display 초안을 지역화할 수 있습니다.
+
+더 광범위한 번역 워크플로를 보려면 [경험 번역 및 현지화](/help/user-guide/create/translate-experiences.md)를 참조하십시오.
+
+### 이메일 템플릿의 pod당 여러 이미지
+
+이제 [!DNL Create]의 전자 메일 템플릿은 단일 Pod에 두 개 이상의 이미지를 전달할 수 있으므로 디자이너는 추가 섹션에 걸쳐 콘텐츠를 분할하지 않고도 더 풍부한 영웅 레이아웃, 제품 갤러리 및 다중 에셋 storytelling을 위한 공간을 확보할 수 있습니다.
+
+추가 이미지 필드로 템플릿을 업로드하거나 작성한 다음 pod 구조를 준수하는 브랜드 내 변형을 생성합니다. 전자 메일 워크플로의 전체 내용은 [전자 메일 환경](/help/user-guide/create/email-experiences.md)을(를) 참조하십시오.
+
+## 이전 릴리스 노트
+
++++2026.05.15 릴리스 정보
 
 ### Horizon 캔버스에서 공동 편집
 
@@ -80,7 +112,7 @@ GenStudio for Performance Marketing을 종료하지 않고 AEM에 이미 게시�
 
 대화형 AI는 새로운 유료 미디어 영역이므로 이제 [!DNL GenStudio for Performance Marketing]에서 ChatGPT를 끝까지 제공합니다. [ChatGPT 광고 경험 만들기](/help/user-guide/create/create-chatgpt-ad.md)(브랜드 내 복사 변형 포함), 브랜드 및 채널 검사를 실행하고, 승인을 통해 작업을 라우팅하고, 재사용 및 활성화를 위해 승인된 경험을 [!DNL Content]에 게시합니다.
 
-## 이전 릴리스 노트
++++
 
 +++2026.04.16 릴리스 정보
 
