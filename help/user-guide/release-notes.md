@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
 workflow-type: tm+mt
-source-wordcount: 5011
+source-wordcount: 5016
 ht-degree: 0%
 
 ---
@@ -163,7 +163,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### 유료 미디어 및 이메일에 대한 기본 번역
 
-* 승인된 유료 미디어 및 이메일 경험을 GenStudio for Performance Marketing 내에서 40개 이상의 언어로 즉시 번역합니다.
+* 승인된 유료 미디어 및 이메일 경험을 GenStudio for Performance Marketing 내에서 40개 이상의 언어로 즉시 번역합니다. [경험 번역 및 지역화](/help/user-guide/create/translate-experiences.md)를 참조하세요.
 * 팀은 Azure Open AI 번역 서비스를 사용하여 콘텐츠를 동시에 여러 타겟 언어로 대량 번역할 수 있습니다.
 
 ### 경험을 위한 PDF 내보내기

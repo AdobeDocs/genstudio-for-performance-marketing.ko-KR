@@ -30,10 +30,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 5aa02e34bb69b8d6254c9a38dc7cd752eadfcad0
+source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
 workflow-type: tm+mt
-source-wordcount: 794
-ht-degree: 81%
+source-wordcount: 820
+ht-degree: 79%
 
 ---
 
@@ -234,6 +234,10 @@ GenStudio for Performance Marketing은 [!DNL Brand], 플랫폼 및 접근성 표
 초안은 자동으로 저장되고 [!DNL Create] 홈의 _최근 항목_ 섹션에 표시됩니다. 이 섹션의 각 초안은 _초안_ 또는 _승인됨_&#x200B;과 같은 상태를 표시합니다.
 
 갤러리 보기(격자) 아이콘을 클릭하면 _최근 항목_&#x200B;이 격자 또는 표 보기로 표시됩니다.
+
+### 번역 및 현지화
+
+[!DNL Create] 랜딩 페이지 또는 [!DNL Content]에서 승인된 이메일 및 유료 미디어 경험을 여러 언어로 번역할 수 있습니다. [경험 번역 및 지역화](/help/user-guide/create/translate-experiences.md)를 참조하세요.
 
 ### 공동 편집
 

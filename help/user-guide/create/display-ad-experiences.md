@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 126
 ht-degree: 1%
 
 ---
@@ -35,6 +35,8 @@ Adobe GenStudio for Performance Marketing을 사용하면 생성 AI를 사용하
 디스플레이 광고 경험을 생성할 때 캔버스에 4개의 변형이 만들어져 표시됩니다.
 
 지원되는 차원, 인식된 필드 이름 등에 대한 정보는 [광고 템플릿 표시 지침](/help/user-guide/templates/display-template.md)을 참조하십시오.
+
+HTML 캔버스에서 승인된 디스플레이 광고 경험을 여러 언어로 번역할 수 있습니다. [경험 번역 및 지역화](/help/user-guide/create/translate-experiences.md)를 참조하세요.
 
 디스플레이 광고 경험의 편집 가능한 섹션에는 다음이 포함됩니다.
 

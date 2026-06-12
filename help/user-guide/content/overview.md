@@ -17,9 +17,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 338
+source-wordcount: 357
 ht-degree: 1%
 
 ---
@@ -100,3 +100,8 @@ GenStudio for Performance Marketing [!DNL Content]을(를) 사용하면 승인�
 ### 템플릿 작업
 
 템플릿은 생성 프로세스의 속도를 높여 여러 채널에서 일관된 콘텐츠를 생성할 수 있도록 합니다. 미리 구성된 레이아웃 및 디자인 요소를 사용하여 만들기 프로세스의 시작점으로 사용할 사용자 지정 템플릿을 업로드합니다. [템플릿 작업](../templates/use-templates.md)에서 기본 템플릿 요소 및 절차에 대해 알아봅니다. [템플릿 사용자 지정](../templates/customize-template.md) 항목을 사용하여 템플릿 빌드에 대해 자세히 알아봅니다.
+
+### 승인된 경험 번역
+
+[!DNL Content] _[!UICONTROL 경험]_ 갤러리 또는 [!DNL Create] 랜딩 페이지에서 승인된 전자 메일 및 유료 미디어 경험을 여러 언어로 직접 번역할 수 있습니다. [콘텐츠에서 번역](../create/translate-experiences.md#translate-from-content) 또는 [만들기에서 번역](../create/translate-experiences.md#translate-from-create)을 참조하세요.
+

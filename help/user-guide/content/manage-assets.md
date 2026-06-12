@@ -21,10 +21,10 @@ role_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 1518
-ht-degree: 0%
+source-wordcount: 1546
+ht-degree: 1%
 
 ---
 
@@ -56,7 +56,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마�
 
 1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL Assets]**&#x200B;섹션을 선택합니다.
 
-1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets` 는 기본 저장소입니다.
+1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets`이(가) 기본 리포지토리입니다.
 
    >[!IMPORTANT]
    >
@@ -153,6 +153,10 @@ AEM 저장소는 에셋 만료와 같은 특정 라이선스 요구 사항을 �
 1. 자산 보기에서 오른쪽 상단의 **[!UICONTROL 삭제]**(휴지통)을 클릭합니다.
 
 1. _자산 삭제_ 팝업에서 자산을 확인하고 **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
+
+## 경험 번역
+
+_[!UICONTROL 경험]_ 갤러리 또는 경험 세부 정보 보기에서 승인된 경험을 하나 이상의 언어로 번역할 수 있습니다. [경험 번역 및 지역화](/help/user-guide/create/translate-experiences.md#translate-from-content)를 참조하세요.
 
 ## 경험 내보내기
 

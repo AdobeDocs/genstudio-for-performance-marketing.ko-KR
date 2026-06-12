@@ -21,9 +21,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e41ca23a135e2cacfcc029c04992bbff1b515bd6
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 580
+source-wordcount: 600
 ht-degree: 0%
 
 ---
@@ -108,3 +108,5 @@ Content creators and marketers can produce brand-consistent email experiences in
 ![콘텐츠 조각 UI 창](./cf-pane.png){width="500" zoomable="yes"}
 
 조직은 사용 가능한 콘텐츠 조각 소스 및 저장소를 선택합니다. 관리자가 소스를 구성하는 방법 및 작성자가 캔버스에서 **[!UICONTROL 교체]**&#x200B;로 복사본을 교환하는 방법은 [콘텐츠 조각 확장 찾기](/help/extensibility/deploy-app.md#find-content-fragment-extension)를 참조하십시오.
+
+HTML 캔버스에서 승인된 이메일 경험을 여러 언어로 번역할 수도 있습니다. [경험 번역 및 지역화](/help/user-guide/create/translate-experiences.md)를 참조하세요.
