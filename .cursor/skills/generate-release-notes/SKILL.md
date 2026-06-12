@@ -31,7 +31,7 @@ ht-degree: 0%
 
 이 순서대로 작업하십시오. 체크리스트를 복사하고 여러 단계 편집에 대한 진행 상황을 추적합니다.
 
-0. [ ] **Jira** 및 **Confluence** MCP를 사용할 수 있는 경우 먼저 [소비-릴리스 소스](../consume-release-sources/SKILL.md)를 실행하여 작업 티켓, 의식 위키(GA 및 Beta 기능 그룹) 및 KT 페이지를 수집합니다. MCP를 사용할 수 없는 경우 붙여넣은 KT/wiki 콘텐츠 및 [reference.md](reference.md#internal-sources-kt-and-release-wikis) 필드 매핑을 사용하십시오.
+&#x200B;0. [ ] **Jira** 및 **Confluence** MCP를 사용할 수 있는 경우 먼저 [소비-릴리스 소스](../consume-release-sources/SKILL.md)를 실행하여 작업 티켓, 의식 위키(GA 및 Beta 기능 그룹) 및 KT 페이지를 수집합니다. MCP를 사용할 수 없는 경우 붙여넣은 KT/wiki 콘텐츠 및 [reference.md](reference.md#internal-sources-kt-and-release-wikis) 필드 매핑을 사용하십시오.
 1. [ ] `help/user-guide/release-notes.md`을(를) 열고 현재 `## YYYY.MM {#latest}` 블록을 읽습니다. 2단계의 보관 단계를 수행하지 않는 한 **이전 릴리스 노트**&#x200B;를 **읽기 전용** 컨텍스트로 처리합니다.
 2. [ ] **새** 월별 릴리스를 추가하는 경우: 최신 버전을 보관합니다([이전 최신 버전 보관](#archive-previous-latest) 참조).
 3. [ ] 상위 `## YYYY.MM {#latest}` 섹션(**최신 달 릴리스 목록 맨 위)에**&#x200B;만 추가하거나 편집합니다.
