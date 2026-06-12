@@ -5,43 +5,14 @@ recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
-  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
-  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: b286a442-6f0d-405a-adea-abb4a98e2d7bid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: be495d08-ecd1-455f-951e-c22de504e667id: d1558755-1618-43a0-bf5d-134ebe62e93bid: d87258a7-722c-4afd-b632-adddc447c7aaid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: ee4b6e5f-5b7a-421b-9859-0f964841a866id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 8e00ddcb542ae0b8965f2ea7135d184c14b51fa3
 workflow-type: tm+mt
-source-wordcount: 5016
+source-wordcount: 5284
 ht-degree: 0%
 
 ---
@@ -50,7 +21,39 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.05.15 {#latest}
+## 2026.06.11 {#latest}
+
+**새로운 기능**
+
+### [!DNL Create] 및 [!DNL Activate]의 YouTube Shorts
+
+이제 [!DNL GenStudio for Performance Marketing]에서 짧은 형식의 비디오가 관리되는 채널입니다. 처음부터 브랜드, 제품 및 성향 보호 기능이 적용된 [!DNL Create] 워크플로에서 On-Brand YouTube Shorts을 만들고 활성화합니다.
+
+활성화는 수동 전달 없이 루프를 닫습니다. 즉, Shorts을 Google Ads Demand Gen 캠페인에 푸시하거나 팀이 DV360을 통해 YouTube 광고를 로드할 때 YouTube에 나열되지 않은 비디오로 업로드합니다.
+
+### CM360 비디오 활성화
+
+[!DNL GenStudio for Performance Marketing]에서 만들어진 비디오 디스플레이 광고가 더 이상 CM360 활성화 게이트에서 중지되지 않습니다. 디스플레이 채널에서 관리되는 비디오 경험을 선택하고, 활성화 워크플로에서 미리 보고, 이미지 및 HTML5 형식과 함께 [Google Campaign Manager 360에 크리에이티브를 직접 게시](/help/user-guide/activation/activate-cm360-ad.md)합니다.
+
+### [!DNL Activate]의 Meta 앱 프로모션 캠페인
+
+이제 모바일 앱 마케터는 앱 설치 및 앱 이벤트를 대상으로 하는 광고 세트를 포함하여 앱 홍보 목표를 사용하여 [Meta 캠페인에 대한 경험을 활성화](/help/user-guide/activation/activate-meta-ad.md)할 수 있습니다. 이전에는 비앱 캠페인 목표만 지원되었습니다.
+
+### Horizon 캔버스에서 번역
+
+이제 즉시 사용 가능한 번역이 Horizon 캔버스의 유료 미디어 경험으로 확장되므로 지역 팀은 외부 도구로 복사본을 내보내지 않고 승인된 Meta, LinkedIn 및 Display 초안을 지역화할 수 있습니다.
+
+더 광범위한 번역 워크플로를 보려면 [경험 번역 및 현지화](/help/user-guide/create/translate-experiences.md)를 참조하십시오.
+
+### 이메일 템플릿의 pod당 여러 이미지
+
+이제 [!DNL Create]의 전자 메일 템플릿은 단일 Pod에 두 개 이상의 이미지를 전달할 수 있으므로 디자이너는 추가 섹션에 걸쳐 콘텐츠를 분할하지 않고도 더 풍부한 영웅 레이아웃, 제품 갤러리 및 다중 에셋 storytelling을 위한 공간을 확보할 수 있습니다.
+
+추가 이미지 필드로 템플릿을 업로드하거나 작성한 다음 pod 구조를 준수하는 브랜드 내 변형을 생성합니다. 전자 메일 워크플로의 전체 내용은 [전자 메일 환경](/help/user-guide/create/email-experiences.md)을(를) 참조하십시오.
+
+## 이전 릴리스 노트
+
++++2026.05.15 릴리스 정보
 
 ### Horizon 캔버스에서 공동 편집
 
@@ -80,7 +83,7 @@ GenStudio for Performance Marketing을 종료하지 않고 AEM에 이미 게시�
 
 대화형 AI는 새로운 유료 미디어 영역이므로 이제 [!DNL GenStudio for Performance Marketing]에서 ChatGPT를 끝까지 제공합니다. [ChatGPT 광고 경험 만들기](/help/user-guide/create/create-chatgpt-ad.md)(브랜드 내 복사 변형 포함), 브랜드 및 채널 검사를 실행하고, 승인을 통해 작업을 라우팅하고, 재사용 및 활성화를 위해 승인된 경험을 [!DNL Content]에 게시합니다.
 
-## 이전 릴리스 노트
++++
 
 +++2026.04.16 릴리스 정보
 
@@ -174,7 +177,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[&#128279;](/help/user-guide/create/generate-assets.md)에서 훈련된 사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md)에서 훈련된 [사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -440,7 +443,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
