@@ -5,21 +5,14 @@ level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
 TQID: https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 338
+source-wordcount: 357
 ht-degree: 1%
 
 ---
@@ -100,3 +93,8 @@ GenStudio for Performance Marketing [!DNL Content]을(를) 사용하면 승인�
 ### 템플릿 작업
 
 템플릿은 생성 프로세스의 속도를 높여 여러 채널에서 일관된 콘텐츠를 생성할 수 있도록 합니다. 미리 구성된 레이아웃 및 디자인 요소를 사용하여 만들기 프로세스의 시작점으로 사용할 사용자 지정 템플릿을 업로드합니다. [템플릿 작업](../templates/use-templates.md)에서 기본 템플릿 요소 및 절차에 대해 알아봅니다. [템플릿 사용자 지정](../templates/customize-template.md) 항목을 사용하여 템플릿 빌드에 대해 자세히 알아봅니다.
+
+### 승인된 경험 번역
+
+[!DNL Content] _[!UICONTROL 경험]_ 갤러리 또는 [!DNL Create] 랜딩 페이지에서 승인된 전자 메일 및 유료 미디어 경험을 여러 언어로 직접 번역할 수 있습니다. [콘텐츠에서 번역](../create/translate-experiences.md#translate-from-content) 또는 [만들기에서 번역](../create/translate-experiences.md#translate-from-create)을 참조하세요.
+
