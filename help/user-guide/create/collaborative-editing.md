@@ -4,10 +4,10 @@ description: Horizon 캔버스에서 실시간으로 유료 미디어 초안을 
 feature: Create Canvas
 role: User
 level: Beginner
-source-git-commit: 80f96e0db22ab9215660991f0833da719bdc6393
+source-git-commit: 519c4d0273c996dbebcc28ee90a6b31006581305
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 4%
+source-wordcount: '469'
+ht-degree: 5%
 
 ---
 
@@ -30,11 +30,11 @@ Horizon 캔버스에서 공동 작업을 편집하면 다음과 같은 기능이
 
 초대된 모든 공동 작업자는 초안을 열고 볼 수 있습니다. 다음 표에는 역할별 편집 및 워크플로우 작업이 나열되어 있습니다.
 
-| 역할 | 아트보드 요소 편집 | Chrome 필드 편집 | 초안 공유 | 검토 및 승인 시작 | 게시 | 참고 |
-| --- | --- | --- | --- | --- | --- | --- |
-| **[!UICONTROL 소유자]** | 예 | 예 | 예 | 예 | 예 | 문서 작성자만 |
-| **[!UICONTROL 편집기]** | 예 | 예 | 예 | 예 | 예 | 사용자가 **[!UICONTROL 편집기]**(으)로 명시적으로 초대됨 |
-| **[!UICONTROL 뷰어]** | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 사용자가 **[!UICONTROL 뷰어]**(으)로 초대됨 |
+| 역할 | 아트보드 요소 편집 | Chrome 필드 편집 | 초안 공유 | 초안 삭제 | 검토 및 승인 시작 | 게시 | 참고 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **[!UICONTROL 소유자]** | 예 | 예 | 예 | 예 | 예 | 예 | 문서 작성자만 |
+| **[!UICONTROL 편집기]** | 예 | 예 | 예 | 아니요 | 예 | 예 | 사용자가 **[!UICONTROL 편집기]**(으)로 명시적으로 초대됨 |
+| **[!UICONTROL 뷰어]** | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 사용자가 **[!UICONTROL 뷰어]**(으)로 초대됨 |
 
 ## 사전 요구 사항
 
