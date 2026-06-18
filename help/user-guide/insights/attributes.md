@@ -5,35 +5,22 @@ level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
 TQID: https://experienceleague.adobe.com/FW4WpVLALtYYI2mGT3i3IH5KYuYnZ5h2pbnm9gKcrVE
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
-subfeature_v2:
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 4cac970f46ab08bcec2f23fd882c552af088c4ea
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5520579-b31f-4df7-9281-f0d9f91e2edcid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: 020002de6749d03d1d41227aaab1bade7da5559d
 workflow-type: tm+mt
-source-wordcount: 812
+source-wordcount: 834
 ht-degree: 0%
 
 ---
 
 # 속성 개요
 
-[!DNL Insights] _[!UICONTROL 특성]_ 보기에는 선택한 채널 계정의 광고 캠페인에 사용된 특성 목록이 표시됩니다.
+[!DNL Insights] _[!UICONTROL 특성]_ 보기에는 선택한 채널 계정의 광고 캠페인에 사용된 특성 목록이 표시됩니다. 최신 버전의 속성은 V4입니다. V4에 대한 릴리스 정보는 릴리스 정보에서 [콘텐츠 인텔리전스 기능 V4](/help/user-guide/release-notes.md#content-intelligence-featurization-v4)을 참조하십시오.
 
 {{connect-insights}}
 
@@ -81,8 +68,8 @@ GenStudio for Performance Marketing은 Adobe의 AI 및 머신 러닝 기능을 �
 | 비디오 **[!UICONTROL #]** | 이 특성이 있는 비디오 수입니다. | 속성 테이블의 카운트는 속성 세부 사항 보기의 카운트와 다를 수 있습니다. 이러한 불일치는 Meta 및 GenStudio과 같은 채널 소스가 약간 다른 요약 계산을 사용하는 경우 발생할 수 있습니다. |
 | **[!UICONTROL 노출 횟수]** | 상호 작용이나 보기에 관계없이 이 특성을 가진 이미지 또는 비디오가 채널에 로드될 때마다 카운트됩니다. | 노출 수가 높으면 넓은 가시성을 나타낼 수 있지만, 실제 성능 insight의 경우 다른 참여 지표와 관련하여 고려해 보십시오. |
 | **[!UICONTROL 클릭수]** | 사용자가 이 특성을 사용하여 이미지 또는 비디오와 상호 작용하는 횟수입니다. | 클릭 수가 높으면 콘텐츠에 대한 높은 관심과 참여를 나타내므로 효과적인 적절한 대상자에게 도달할 수 있습니다. |
-| **[!UICONTROL CTR &#x200B;]**<br>_클릭스루 비율_ | 이 특성이 있는 이미지 또는 비디오를 클릭하는 노출 비율(%)입니다.<br>**계산**: `clicks`을(를) `impressions`(으)로 나누기 | 클릭스루 비율이 높으면 컨텐츠가 메시징 및 디자인에서 대상자와 관련성이 높고 동기부여가 되며 대상자의 관심사를 효과적으로 타깃팅하고 있음을 나타냅니다. |
-| **[!UICONTROL CPM &#x200B;]**<br>_천 단위당 비용_ | 이 특성을 가진 이미지 또는 비디오의 광고 노출 1,000건당 비용입니다.<br>**계산**: 총 `spent`을(를) 도달 횟수로 나눈 후 1,000을 곱합니다. | 낮은 값은 특히 높은 클릭스루 속도와 쌍을 이룰 때 비용 효과적인 가시성을 나타낼 수 있다. |
-| **[!UICONTROL CPA &#x200B;]**<br>_작업당 비용_ | 구매 또는 구독과 같은 특정 고객 작업을 수행하는 데 소요된 평균 비용입니다.<br>**계산**: 총 금액 `spent`을(를) 완료된 고객 작업 수로 나눈 값입니다. | 중요한 고객 작업을 발생시키는 속성을 식별하는 데 도움이 됩니다. |
-| **[!UICONTROL CPC &#x200B;]**<br>_클릭당 비용_ | 이 특성을 가진 이미지 또는 비디오의 각 클릭에 연결된 평균 비용입니다.<br>**계산**: `spent`을(를) `clicks`(으)로 나눈 금액 | 평균 비용이 낮아지면 특히 전환율 상승과 비교할 때 비용 효율적인 광고 지출이 나타날 수 있습니다. |
+| **[!UICONTROL CTR ]**<br>_클릭스루 비율_ | 이 특성이 있는 이미지 또는 비디오를 클릭하는 노출 비율(%)입니다.<br>**계산**: `clicks`을(를) `impressions`(으)로 나누기 | 클릭스루 비율이 높으면 컨텐츠가 메시징 및 디자인에서 대상자와 관련성이 높고 동기부여가 되며 대상자의 관심사를 효과적으로 타깃팅하고 있음을 나타냅니다. |
+| **[!UICONTROL CPM ]**<br>_천 단위당 비용_ | 이 특성을 가진 이미지 또는 비디오의 광고 노출 1,000건당 비용입니다.<br>**계산**: 총 `spent`을(를) 도달 횟수로 나눈 후 1,000을 곱합니다. | 낮은 값은 특히 높은 클릭스루 속도와 쌍을 이룰 때 비용 효과적인 가시성을 나타낼 수 있다. |
+| **[!UICONTROL CPA ]**<br>_작업당 비용_ | 구매 또는 구독과 같은 특정 고객 작업을 수행하는 데 소요된 평균 비용입니다.<br>**계산**: 총 금액 `spent`을(를) 완료된 고객 작업 수로 나눈 값입니다. | 중요한 고객 작업을 발생시키는 속성을 식별하는 데 도움이 됩니다. |
+| **[!UICONTROL CPC ]**<br>_클릭당 비용_ | 이 특성을 가진 이미지 또는 비디오의 각 클릭에 연결된 평균 비용입니다.<br>**계산**: `spent`을(를) `clicks`(으)로 나눈 금액 | 평균 비용이 낮아지면 특히 전환율 상승과 비교할 때 비용 효율적인 광고 지출이 나타날 수 있습니다. |
 | **[!UICONTROL 지출]** | 지정된 기간 동안의 속성과 관련된 예산에서 소비된 금액입니다. | 단기간에 높은 지출액은 빠른 사용량을 나타낼 수 있으며, 이는 자원의 조기 고갈을 초래할 수 있다. 주요 성과 지표에 대한 지출 금액을 추적하여 전체 투자 수익률을 모니터링합니다. |
