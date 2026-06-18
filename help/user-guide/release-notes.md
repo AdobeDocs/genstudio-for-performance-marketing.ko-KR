@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b739e84a2345c8bceceff150aa0aa51ba960b0e7
+source-git-commit: 3f40cc7affba7d49430e3a0e6cf01f76ac31a02a
 workflow-type: tm+mt
-source-wordcount: 5284
+source-wordcount: 5467
 ht-degree: 0%
 
 ---
@@ -152,6 +152,26 @@ GenStudio for Performance Marketing을 종료하지 않고 AEM에 이미 게시�
 ### GenStudio for Performance Marketing의 TikTok 콘텐츠
 
 이제 GenStudio for Performance Marketing에서 TikTok 인피드 비디오 광고를 만들고, 승인하고, 활성화할 수 있습니다. [!DNL Create] 워크플로에서 광고를 쉽게 생성한 다음 경험을 [!DNL Content]에 게시합니다. TikTok용 [!DNL Insights]을(를) 사용하여 성능을 모니터링하고 다음 창의적 새로 고침을 알립니다.
+
+### Content Intelligence 기능 V4
+
+기능 V4는 V3에서 포괄적인 업그레이드를 나타내며, 이미지, 텍스트 및 비디오 콘텐츠 유형에 걸쳐 많은 새로운 광고 관련 기능과 함께 광고 우선 디자인을 도입합니다.
+
+V4의 이점은 다음과 같습니다.
+
+* **Advertising-First Design**: 포괄적인 CTA/오퍼/로고 분석 세트(18가지 기능 결합)를 사용하여 광고 분석을 위해 특별히 제작되었습니다.
+* **세분화된 분류 체계**: 이미지/텍스트/비디오에서 명확한 분류와 일관된 기능 정의를 통해 전체 기능이 249% 증가했습니다.
+* **프로덕션 품질 평가**: 기술 품질 평가, 모바일 최적화 및 프로덕션 유형 분류(CLC/Studio/UGC)를 위한 13가지 비디오 품질 기능입니다.
+* **의미 체계 이해 향상**: Brand Personas, Human Wants, Cognitive Triggers 및 포괄적인 엔티티 인식을 포함한 새로운 기능.
+* **크로스 채널 일관성**: 크로스 채널 광고 분석을 사용하도록 콘텐츠 유형 간에 통합된 기능입니다.
+* **모바일 최적화**: 종횡비, 배치 맞춤 및 모바일 기반 감지를 위한 전용 기능입니다.
+
+**주요 기능 추가:**
+
+* Advertising Suite(20개 이상의 기능): CTA/오퍼/로고 분석, 공동 브랜딩, 인플루언서 감지
+* Campaign 및 제품 컨텍스트(7개 기능): 제품, 캠페인 목표/테마, 타겟 대상자, 국가, 지역
+* 비디오 품질 지표(13개 기능): 기술 품질, 프로덕션 분류, 모바일 최적화
+* 엔티티 인식(9개 기능): 인플루언서, 이벤트, 행사 장소, 브랜드/제품 언급, 인기 미디어
 
 +++
 

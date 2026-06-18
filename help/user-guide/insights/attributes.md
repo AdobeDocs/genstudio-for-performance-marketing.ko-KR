@@ -24,16 +24,16 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 4cac970f46ab08bcec2f23fd882c552af088c4ea
+source-git-commit: 020002de6749d03d1d41227aaab1bade7da5559d
 workflow-type: tm+mt
-source-wordcount: 812
+source-wordcount: 834
 ht-degree: 0%
 
 ---
 
 # 속성 개요
 
-[!DNL Insights] _[!UICONTROL 특성]_ 보기에는 선택한 채널 계정의 광고 캠페인에 사용된 특성 목록이 표시됩니다.
+[!DNL Insights] _[!UICONTROL 특성]_ 보기에는 선택한 채널 계정의 광고 캠페인에 사용된 특성 목록이 표시됩니다. 최신 버전의 속성은 V4입니다. V4에 대한 릴리스 정보는 릴리스 정보에서 [콘텐츠 인텔리전스 기능 V4](/help/user-guide/release-notes.md#content-intelligence-featurization-v4)을 참조하십시오.
 
 {{connect-insights}}
 
