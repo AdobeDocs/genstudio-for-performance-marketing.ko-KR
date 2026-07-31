@@ -5,43 +5,14 @@ recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
-  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
-  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f40cc7affba7d49430e3a0e6cf01f76ac31a02a
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: b286a442-6f0d-405a-adea-abb4a98e2d7bid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: be495d08-ecd1-455f-951e-c22de504e667id: d1558755-1618-43a0-bf5d-134ebe62e93bid: d87258a7-722c-4afd-b632-adddc447c7aaid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: ee4b6e5f-5b7a-421b-9859-0f964841a866id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 24297d57c6dc54c7be22321af9e5079da53f0c60
 workflow-type: tm+mt
-source-wordcount: 5467
+source-wordcount: 5535
 ht-degree: 0%
 
 ---
@@ -79,6 +50,10 @@ ht-degree: 0%
 이제 [!DNL Create]의 전자 메일 템플릿은 단일 Pod에 두 개 이상의 이미지를 전달할 수 있으므로 디자이너는 추가 섹션에 걸쳐 콘텐츠를 분할하지 않고도 더 풍부한 영웅 레이아웃, 제품 갤러리 및 다중 에셋 storytelling을 위한 공간을 확보할 수 있습니다.
 
 추가 이미지 필드로 템플릿을 업로드하거나 작성한 다음 pod 구조를 준수하는 브랜드 내 변형을 생성합니다. 전자 메일 워크플로의 전체 내용은 [전자 메일 환경](/help/user-guide/create/email-experiences.md)을(를) 참조하십시오.
+
+### 빠른 템플릿을 위한 텍스트 흐름 지원
+
+[!DNL Create]에서 이제 Horizon Canvas의 두 텍스트 상자를 연결하여 하나의 구문이 두 텍스트 상자 모두에 걸쳐 연결되도록 하는 Adobe Express 기능인 텍스트 흐름을 인식합니다. 생성된 복사본은 연결된 상자를 하나의 연결된 구문으로 채우므로 두 상자에 걸쳐 메시지가 분할되는 광고 디자인은 수동으로 복사하거나 위치를 변경하지 않고 최종적으로 생성을 위해 템플릿화될 수 있습니다. [연결된 텍스트 흐름 상자](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes)에 대해 자세히 알아보세요.
 
 ## 이전 릴리스 노트
 
@@ -226,7 +201,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[&#128279;](/help/user-guide/create/generate-assets.md)에서 훈련된 사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md)에서 훈련된 [사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -260,9 +235,9 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 ### LinkedIn, Meta 및 TikTok에 대한 확장된 통찰력
 
 * 이제 GenStudio Insights에는 LinkedIn Ads 성과 보고가 포함되어 있어 마케터는 플랫폼 내에서 직접 캠페인과 광고의 성과를 보고 분석할 수 있습니다.
-   * LinkedIn 광고
-   * Meta 광고
-   * TikTok 광고
+  * LinkedIn 광고
+  * Meta 광고
+  * TikTok 광고
 
 ### Amazon Ads 활성화
 
@@ -285,10 +260,10 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 * GenStudio for Performance Marketing은 이제 확장성 프레임워크를 통해 서드파티 이메일 디자인 시스템과의 원활한 통합을 지원합니다. 주요 기능은 다음을 포함합니다.
 
-   * 콘텐츠를 만드는 동안 서드파티 이메일 디자인 시스템에서 템플릿을 자동으로 가져오기
-   * 가져온 템플릿과 함께 템플릿 메타데이터 가져오기
-   * 서드파티 시스템에 직접 연결하여 신뢰할 수 있는 단일 소스 유지
-   * 사용자 정의 통합 구축을 위해 제공된 SDK 및 샘플 앱
+  * 콘텐츠를 만드는 동안 서드파티 이메일 디자인 시스템에서 템플릿을 자동으로 가져오기
+  * 가져온 템플릿과 함께 템플릿 메타데이터 가져오기
+  * 서드파티 시스템에 직접 연결하여 신뢰할 수 있는 단일 소스 유지
+  * 사용자 정의 통합 구축을 위해 제공된 SDK 및 샘플 앱
 
 +++
 
@@ -433,7 +408,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 ### 수정 사항 및 개선 사항
 
 * 개별 변형의 이미지에 [대체(alt) 텍스트를 추가](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)하는 기능을 사용하도록 설정했습니다.
-* [새로운 Meta 종횡비](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
+* [새로운 Meta 종횡비](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)이 추가되었습니다.
 * 이제 내보내기 또는 다운로드를 위해 두 개 이상의 경험을 선택할 수 있습니다. [경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 참조하십시오.
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -492,7 +467,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
