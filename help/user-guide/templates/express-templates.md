@@ -4,9 +4,9 @@ description: Adobe Express 에셋을 통합할 수 있는 GenStudio for Performa
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: de08604b8968e6ae49cabd6632eb40516983d841
+source-git-commit: 96249838f5ec957edc22eadf51ec828f54002adf
 workflow-type: tm+mt
-source-wordcount: '1713'
+source-wordcount: '1870'
 ht-degree: 0%
 
 ---
@@ -126,6 +126,14 @@ ht-degree: 0%
 1. 새 텍스트를 입력합니다.
 1. 텍스트 서식을 지정하려면 을 클릭하거나 텍스트 상자 요소를 입력합니다. 서식 지정 옵션이 팝업 모음에 나타납니다. Shift 키를 누르면 텍스트를 볼 막대가 숨겨집니다.
 1. 변경 사항을 저장하려면 텍스트 필드 바깥쪽을 클릭합니다.
+
+### 연결된 텍스트 흐름 상자 사용
+
+[!DNL Adobe Express]은(는) 템플릿 작성자가 두 개의 텍스트 상자를 연결하여 두 상자 모두에 하나의 구가 흐르도록 하는 텍스트 흐름을 지원합니다. 예를 들어 헤드라인은 한 상자에서 시작하여 다른 상자에서 끝나거나, 구의 일부가 나머지 부분과 다른 스타일을 사용할 수 있습니다. 텍스트 흐름이 있는 템플릿을 [!DNL GenStudio for Performance Marketing]&#x200B;(으)로 가져오면 캔버스에서 해당 연결을 인식하고 적용합니다. [Adobe Express의 텍스트 흐름](https://helpx.adobe.com/kr/express/web/create-and-edit-documents-and-webpages/create-and-edit-documents/text-flow-faq.html)에서 연결된 텍스트 상자를 만드는 방법에 대해 자세히 알아보세요.
+
+추가 설정이 필요 없이 다른 필드를 생성하는 것과 동일한 방식으로 연결된 텍스트 상자에 대한 사본을 생성합니다. 연결된 상자는 생성, 편집 및 변형 검토 전체에서 연결된 단일 구문으로 작동하므로 상자 간에 텍스트를 분할, 복사 또는 위치를 변경할 필요가 없습니다.
+
+생성된 복사본이 너무 길어서 연결된 상자에 맞지 않으면 마지막 상자의 아래쪽에 오버플로를 나타내는 빨간색 선이 표시되어 [!DNL Adobe Express]에서 사용된 것과 같은 표시기와 일치합니다. 복사본의 길이를 줄이거나 필드를 재생성하여 오버플로를 제거합니다.
 
 ### 레이어 보기
 

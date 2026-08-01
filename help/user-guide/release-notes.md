@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f40cc7affba7d49430e3a0e6cf01f76ac31a02a
+source-git-commit: b886e9e46f386a6b81e7430fd462b662403b9bcb
 workflow-type: tm+mt
-source-wordcount: 5467
+source-wordcount: 5723
 ht-degree: 0%
 
 ---
@@ -50,9 +50,25 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.06.11 {#latest}
+## 2026.07.16 {#latest}
 
 **새로운 기능:**
+
+### Horizon 캔버스에서 일괄 편집
+
+이제 Horizon 캔버스는 여러 크기 또는 여러 페이지 템플릿의 크기 및 페이지에 관련 텍스트 및 이미지 필드를 연결하므로 마지막 마일 편집은 한 번만 수행하면 됩니다. RTE 패널에서 **[!UICONTROL 적용 대상]** 범위(이 크기, 모든 크기 또는 모든 개념)를 선택하면 편집이 자동으로 전파되며, 필요한 경우 필드 태깅을 수동으로 조정하는 옵션이 제공됩니다.
+
+### 디스플레이 광고를 트레이드 데스크에 바로 활성화
+
+마케터는 이제 승인된 디스플레이 크리에이티브를 [!DNL GenStudio for Performance Marketing]에서 기존 The Trade Desk 캠페인으로 바로 게시할 수 있습니다. API 토큰으로 계정을 연결하고, [!DNL Activate] 또는 [!DNL Content]에서 정품 인증을 시작하고, 딥링크로 정품 인증 상태를 다시 The Trade Desk에 연결합니다.
+
+### Horizon 캔버스에서 컨텐츠 조각 교체
+
+이제 Horizon 캔버스의 텍스트 블록을 AEM 콘텐츠 조각 라이브러리에서 바로 가져온 사전 승인된 재사용 가능한 콘텐츠 조각으로 교환할 수 있습니다. 콘텐츠 조각 스왑은 벌크 편집과 함께 작동하므로 스왑을 단일 크기에 적용하거나 모든 크기와 개념을 한 번에 전파하여 규제 대상 복제본을 수동으로 다시 입력하지 않고도 승인된 것으로 유지할 수 있습니다.
+
+## 이전 릴리스 노트
+
++++2026.06.11 릴리스 정보
 
 ### [!DNL Create] 및 [!DNL Activate]의 YouTube Shorts
 
@@ -80,7 +96,11 @@ ht-degree: 0%
 
 추가 이미지 필드로 템플릿을 업로드하거나 작성한 다음 pod 구조를 준수하는 브랜드 내 변형을 생성합니다. 전자 메일 워크플로의 전체 내용은 [전자 메일 환경](/help/user-guide/create/email-experiences.md)을(를) 참조하십시오.
 
-## 이전 릴리스 노트
+### 빠른 템플릿을 위한 텍스트 흐름 지원
+
+[!DNL Create]에서 이제 Horizon Canvas의 두 텍스트 상자를 연결하여 하나의 구문이 두 텍스트 상자 모두에 걸쳐 연결되도록 하는 Adobe Express 기능인 텍스트 흐름을 인식합니다. 생성된 복사본은 연결된 상자를 하나의 연결된 구문으로 채우므로 두 상자에 걸쳐 메시지가 분할되는 광고 디자인은 수동으로 복사하거나 위치를 변경하지 않고 최종적으로 생성을 위해 템플릿화될 수 있습니다. [연결된 텍스트 흐름 상자](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes)에 대해 자세히 알아보세요.
+
++++
 
 +++2026.05.15 릴리스 정보
 
@@ -260,9 +280,9 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 ### LinkedIn, Meta 및 TikTok에 대한 확장된 통찰력
 
 * 이제 GenStudio Insights에는 LinkedIn Ads 성과 보고가 포함되어 있어 마케터는 플랫폼 내에서 직접 캠페인과 광고의 성과를 보고 분석할 수 있습니다.
-   * LinkedIn 광고
-   * Meta 광고
-   * TikTok 광고
+  * LinkedIn 광고
+  * Meta 광고
+  * TikTok 광고
 
 ### Amazon Ads 활성화
 
@@ -285,10 +305,10 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 * GenStudio for Performance Marketing은 이제 확장성 프레임워크를 통해 서드파티 이메일 디자인 시스템과의 원활한 통합을 지원합니다. 주요 기능은 다음을 포함합니다.
 
-   * 콘텐츠를 만드는 동안 서드파티 이메일 디자인 시스템에서 템플릿을 자동으로 가져오기
-   * 가져온 템플릿과 함께 템플릿 메타데이터 가져오기
-   * 서드파티 시스템에 직접 연결하여 신뢰할 수 있는 단일 소스 유지
-   * 사용자 정의 통합 구축을 위해 제공된 SDK 및 샘플 앱
+  * 콘텐츠를 만드는 동안 서드파티 이메일 디자인 시스템에서 템플릿을 자동으로 가져오기
+  * 가져온 템플릿과 함께 템플릿 메타데이터 가져오기
+  * 서드파티 시스템에 직접 연결하여 신뢰할 수 있는 단일 소스 유지
+  * 사용자 정의 통합 구축을 위해 제공된 SDK 및 샘플 앱
 
 +++
 
@@ -433,7 +453,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 ### 수정 사항 및 개선 사항
 
 * 개별 변형의 이미지에 [대체(alt) 텍스트를 추가](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)하는 기능을 사용하도록 설정했습니다.
-* [새로운 Meta 종횡비](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)가 추가되었습니다.
+* [새로운 Meta 종횡비](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —가로 1.19:1(1080픽셀 너비)이 추가되었습니다.
 * 이제 내보내기 또는 다운로드를 위해 두 개 이상의 경험을 선택할 수 있습니다. [경험 내보내기](/help/user-guide/content/manage-assets.md#export-experiences)를 참조하십시오.
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
