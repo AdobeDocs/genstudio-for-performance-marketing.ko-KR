@@ -5,43 +5,14 @@ recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
-  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
-  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 24297d57c6dc54c7be22321af9e5079da53f0c60
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: b286a442-6f0d-405a-adea-abb4a98e2d7bid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: be495d08-ecd1-455f-951e-c22de504e667id: d1558755-1618-43a0-bf5d-134ebe62e93bid: d87258a7-722c-4afd-b632-adddc447c7aaid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: ee4b6e5f-5b7a-421b-9859-0f964841a866id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: ba8bbc541c2be32c1b221c1630440a71f3de0ad6
 workflow-type: tm+mt
-source-wordcount: 5535
+source-wordcount: 5720
 ht-degree: 0%
 
 ---
@@ -50,9 +21,25 @@ ht-degree: 0%
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.06.11 {#latest}
+## 2026.07.16 {#latest}
 
 **새로운 기능:**
+
+### Horizon 캔버스에서 일괄 편집
+
+[!DNL Create]은(는) 이제 여러 크기 또는 여러 페이지 템플릿의 크기 및 페이지에 걸쳐 관련 텍스트 및 이미지 필드를 연결하므로 마지막 마일 편집은 한 번만 수행하면 됩니다. RTE 패널에서 **[!UICONTROL 적용 대상]** 범위(이 크기, 모든 크기 또는 모든 개념)를 선택하면 편집이 자동으로 전파되며, 필요한 경우 필드 태깅을 수동으로 조정하는 옵션이 제공됩니다.
+
+### 디스플레이 광고를 트레이드 데스크에 바로 활성화
+
+마케터는 이제 승인된 디스플레이 크리에이티브를 [!DNL GenStudio for Performance Marketing]에서 기존 The Trade Desk 캠페인으로 바로 게시할 수 있습니다. API 토큰으로 계정을 연결하고, [!DNL Activate] 또는 [!DNL Content]에서 정품 인증을 시작하고, 딥링크로 정품 인증 상태를 다시 The Trade Desk에 연결합니다.
+
+### Horizon 캔버스에서 컨텐츠 조각 교체
+
+이제 [!DNL Create]에서 Horizon 캔버스의 텍스트 블록을 AEM 콘텐츠 조각 라이브러리에서 바로 가져온 사전 승인 및 재사용 가능한 콘텐츠 조각으로 바꿀 수 있습니다. 콘텐츠 조각 스왑은 벌크 편집과 함께 작동하므로 스왑을 단일 크기에 적용하거나 모든 크기와 개념을 한 번에 전파하여 규제 대상 복제본을 수동으로 다시 입력하지 않고도 승인된 것으로 유지할 수 있습니다.
+
+## 이전 릴리스 노트
+
++++2026.06.11 릴리스 정보
 
 ### [!DNL Create] 및 [!DNL Activate]의 YouTube Shorts
 
@@ -84,7 +71,7 @@ ht-degree: 0%
 
 [!DNL Create]에서 이제 Horizon Canvas의 두 텍스트 상자를 연결하여 하나의 구문이 두 텍스트 상자 모두에 걸쳐 연결되도록 하는 Adobe Express 기능인 텍스트 흐름을 인식합니다. 생성된 복사본은 연결된 상자를 하나의 연결된 구문으로 채우므로 두 상자에 걸쳐 메시지가 분할되는 광고 디자인은 수동으로 복사하거나 위치를 변경하지 않고 최종적으로 생성을 위해 템플릿화될 수 있습니다. [연결된 텍스트 흐름 상자](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes)에 대해 자세히 알아보세요.
 
-## 이전 릴리스 노트
++++
 
 +++2026.05.15 릴리스 정보
 
@@ -230,7 +217,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[&#128279;](/help/user-guide/create/generate-assets.md)에서 훈련된 사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md)에서 훈련된 [사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -496,7 +483,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
