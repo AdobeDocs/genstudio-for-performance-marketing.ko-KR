@@ -1,8 +1,8 @@
 ---
 source-git-commit: edbeb7f0d08e2215a23f15cfeff77a5217cd264b
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 2%
+source-wordcount: '155'
+ht-degree: 5%
 
 ---
 # 캠페인 세부 정보

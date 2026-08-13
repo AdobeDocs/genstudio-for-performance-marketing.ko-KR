@@ -7,26 +7,12 @@ level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
 TQID: https://experienceleague.adobe.com/RPeJQ02q9HXBSpn-uFqjzLCYbbzv5eNnFBXkFn9j5JI
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: ecda1f61abaafe858629fc4700f61d89e2ab9e3e
 workflow-type: tm+mt
 source-wordcount: 1132
@@ -46,7 +32,7 @@ ht-degree: 0%
 
 **전자 메일 서식 파일을 선택하려면**:
 
-1. _[!DNL Create]_&#x200B;에서&#x200B;**[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. _[!DNL Create]_에서&#x200B;**[!UICONTROL 전자 메일]**을 클릭하세요.
 1. 특정 전자 메일 서식 파일을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 전자 메일 서식 파일을 클릭하여 선택하고 **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -105,13 +91,13 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **전자 메일을 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다
+* **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 클릭하고 필요에 따라 편집합니다[
 * **전자 메일 변형에서 [승인된 콘텐츠 조각을 사용](/help/user-guide/create/email-experiences.md#content-fragment-swap)**&#x200B;하려면 [!DNL GenStudio for Performance Marketing]이(가) 하나의 캔버스에서 생성 필드, 주입 가능한 콘텐츠 조각 필드 및 잠긴 필드를 결합하는 방법을 알아보세요. 관리자는 [콘텐츠 조각 확장 찾기](/help/extensibility/deploy-app.md#find-content-fragment-extension)에 설명된 대로 조각 소스를 구성합니다.
-* **Call to action을 변경 또는 선택하려면[&#128279;](/help/user-guide/create/manage-variants.md#revise-call-to-action)** call-to-action 단추를 클릭하고 _[!UICONTROL 구문 변경]_ 또는 _[!UICONTROL 링크 추가]_&#x200B;를 선택하십시오.
+* **Call to action을 변경 또는 선택하려면](/help/user-guide/create/manage-variants.md#revise-call-to-action)** call-to-action 단추를 클릭하고 _[!UICONTROL 구문 변경]_ 또는 _[!UICONTROL 링크 추가]_&#x200B;를 선택하십시오.[
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
-* **변형의 이미지에 링크를 추가하려면[&#128279;](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.
+* **변형의 이미지에 링크를 추가하려면](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.[
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.

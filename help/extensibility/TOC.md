@@ -17,18 +17,18 @@ ht-degree: 47%
 
 + [확장성 안내서](home.md)
 + 시작하기 {#get-started}
-   + [환경 설정](setup.md)
+  + [환경 설정](setup.md)
 + 앱 개발 {#apps}
-   + [App Builder 프로젝트 만들기](create-project.md)
-   + [App Builder 앱 개발](create-app.md)
-   + [앱 배포](deploy-app.md)
-   + [앱 배포](distribute-app.md)
-   + [경험 선택기 MFE](experience-selector.md)
+  + [App Builder 프로젝트 만들기](create-project.md)
+  + [App Builder 앱 개발](create-app.md)
+  + [앱 배포](deploy-app.md)
+  + [앱 배포](distribute-app.md)
+  + [경험 선택기 MFE](experience-selector.md)
 + 자사 확장 {#first-party}
-   + [GenStudio용 Journey Optimizer](journey-optimizer-for-genstudio.md)
-   + [GenStudio용 Marketo](marketo-for-genstudio.md)
+  + [GenStudio용 Journey Optimizer](journey-optimizer-for-genstudio.md)
+  + [GenStudio용 Marketo](marketo-for-genstudio.md)
 + 3P 확장 {#third-party-extensions}
-   + [Salesforce의 Experience Selector MFE](experience-selector-salesforce.md)
+  + [Salesforce의 Experience Selector MFE](experience-selector-salesforce.md)
 
 <!--
   + UI Extensions {#ui}

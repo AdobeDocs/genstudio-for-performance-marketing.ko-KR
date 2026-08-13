@@ -4,22 +4,14 @@ description: Innovid 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: ebb2aa9e-8efb-45b0-9ba2-7b27b8888708
 TQID: https://experienceleague.adobe.com/VTzk2CDlTqawM1ckdHPVzs2ES-y0Ui0mkOLnVD88bJk
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2:
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 489
+source-wordcount: 490
 ht-degree: 0%
 
 ---
@@ -51,7 +43,7 @@ Innovid를 사용하면 마케터가 다른 계정 내에서 캠페인과 광고
 1. 콘텐츠 갤러리의 검색 및 필터 도구를 사용하여 활성화하려는 경험을 식별합니다. **[!UICONTROL 사용]**&#x200B;을 클릭합니다. 또는 Innovid 제품 카드에서 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭하여 활성화에서 환경을 선택할 수 있습니다.
 1. 활성화를 계속하기 전에 플랫폼을 선택하라는 메시지가 표시됩니다. *Innovid*&#x200B;을(를) 선택하십시오. 이 경험에 대한 Innovid 경험 설정 페이지가 열립니다. 경험의 세부 사항으로 미리 채워지므로 수정할 수 없습니다. 
 1. (선택 사항) **[!UICONTROL 경험 추가]**&#x200B;를 클릭하여 이 활성화 그룹에 경험을 추가합니다.
-1. **[!UICONTROL 다음]**&#x200B;을 클릭하여 Innovid 플랫폼 설정을 확인합니다. **[!UICONTROL 플랫폼 설정]** 보기가 열립니다. 이 보기는 구성된 Innovid 계정에서 파생된 옵션을 표시합니다.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭하여 Innovid 플랫폼 설정을 확인합니다. **[!UICONTROL Platform 설치]** 보기가 열립니다.이 보기는 구성된 Innovid 계정에서 파생된 옵션을 보여 줍니다.
 
 ## 4단계: Innovid 플랫폼 설정 확인
 

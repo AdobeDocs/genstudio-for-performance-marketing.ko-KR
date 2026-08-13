@@ -4,25 +4,14 @@ description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜�
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 TQID: https://experienceleague.adobe.com/mZ70azBCwP8KshE6iX7hwGvEWawBkU36aDejZbAkRAY
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: f54ee13b-9545-4d68-9842-a12026e60aafid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
-source-wordcount: 1525
+source-wordcount: 1526
 ht-degree: 2%
 
 ---
@@ -65,10 +54,10 @@ GenStudio for Performance Marketing에 브랜드 지침을 추가한 후 [관리
 
 | 지침 범주 | 설명 | 모범 사례 |
 | ------------------| :---------- | :---------- |
-| [!UICONTROL 음색] | 서면 커뮤니케이션을 통해 표현된 브랜드의 성격 | 브랜드의 감정과 어조를 명확하게 전달하기 위해 수사적 단어를 사용한다. <br>_예_: &quot;정품&quot;, &quot;재생 가능&quot;<br><br>간결하고(3-6개 지침) 주요 브랜드 음성 특성에 집중하십시오.<br><br>일관된 브랜드 정체성을 구축하려면 커뮤니케이션 채널 간에 일관된 단어/구문을 선택하십시오. |
-| [!UICONTROL 브랜드 값] | 브랜드 문화, 고객 경험 및 비즈니스 전략을 이끄는 원칙 | 브랜드의 임무, 비전 및 고객 요구 사항을 전달하려면 수사적 단어를 사용하십시오. <br>_예_: &quot;신뢰성&quot;, &quot;영감을 주는&quot;, &quot;점진적&quot;<br><br>간결하게(3-6개 지침) 핵심 브랜드 가치/테마에 집중하십시오. |
-| [!UICONTROL 편집 지침] | 브랜드 메시지를 작성하기 위한 모범 사례를 정의하는 커뮤니케이션 지침 | 긍정적인 구문(5-10 지침)을 사용하여 강력한 기반을 구축하십시오.<br>_예_: &quot;전문 용어를 사용하지 않음&quot; 대신 &quot;간단하고 접근 가능한 언어를 사용&quot;<br><br>명확하고 실행 가능한 지침을 제공하십시오. <br>_예_: &quot;간결하게&quot; 대신 &quot;20단어 미만으로 문장 유지&quot;<br><br>특정 구문 환경 설정을 사용하는 등 브랜드 스타일을 반영합니다. <br>_예_: &quot;콜론 대신 em 대시 사용&quot;, &quot;문장 대/소문자 사용&quot;<br><br>출력에서 일관성을 유지하는 정확한 지침을 작성하십시오. |
-| [!UICONTROL 편집 제한] | 브랜드 메시징에서 피해야 할 사항을 정의하는 커뮤니케이션 지침 | 직접 음수 구문(5-10 지침)을 사용하여 피해야 할 내용을 지정합니다. <br>_예_: &quot;사용하지 마십시오...&quot;<br><br>명확하고 실행 가능한 지침을 제공합니다. <br>_예제_: &quot;수사적 질문 피하기&quot; |
+| [!UICONTROL 음색] | 서면 커뮤니케이션을 통해 표현된 브랜드의 성격 | 브랜드의 감정과 어조를 명확하게 전달하기 위해 수사적 단어를 사용한다. <br>_예_: &quot;정품&quot;, &quot;재생&quot;<br><br>간결하고(3-6개 지침) 주요 브랜드 음성 특성에 집중하세요.<br><br>일관된 브랜드 정체성을 구축하려면 통신 채널 간에 일관된 단어/구문을 선택하십시오. |
+| [!UICONTROL 브랜드 값] | 브랜드 문화, 고객 경험 및 비즈니스 전략을 이끄는 원칙 | 브랜드의 임무, 비전 및 고객 요구 사항을 전달하려면 수사적 단어를 사용하십시오. <br>_예_: &quot;신뢰성&quot;, &quot;영감을 주는&quot;, &quot;점진적&quot;<br><br>간결하게(3-6개 지침) 만들고 핵심 브랜드 가치/테마에 집중하십시오. |
+| [!UICONTROL 편집 지침] | 브랜드 메시지를 작성하기 위한 모범 사례를 정의하는 커뮤니케이션 지침 | 긍정적인 구문(5-10 지침)을 사용하여 강력한 기반을 구축하십시오.<br>_예_: &quot;전문 용어를 사용하지 않음&quot; 대신 &quot;간단하고 접근 가능한 언어를 사용&quot;<br><br>명확하고 실행 가능한 지침을 제공하십시오. <br>_예_: &quot;간결하게&quot; 하는 대신 &quot;20단어 미만으로 문장을 유지합니다.&quot;<br><br>특정 구문 환경 설정을 사용하는 등 브랜드 스타일을 반영합니다. <br>_예_: &quot;콜론 대신 em 대시를 사용&quot;, &quot;문장 대/소문자를 사용&quot;<br><br>출력에서 일관성을 유지하는 정확한 지침을 작성하십시오. |
+| [!UICONTROL 편집 제한] | 브랜드 메시징에서 피해야 할 사항을 정의하는 커뮤니케이션 지침 | 직접 음수 구문(5-10 지침)을 사용하여 피해야 할 내용을 지정합니다. <br>_예_: &quot;사용하지 마십시오...&quot;<br><br>명확하고 실행 가능한 지침을 제공합니다. <br>_예_: &quot;수사적 질문 방지&quot; |
 
 ### 이미지 지침
 

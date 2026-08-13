@@ -6,7 +6,7 @@ role: Developer, User
 feature: Media Templates
 source-git-commit: 96249838f5ec957edc22eadf51ec828f54002adf
 workflow-type: tm+mt
-source-wordcount: '1870'
+source-wordcount: '1899'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ## [!DNL Adobe Express]의 템플릿 정보
 
-[!DNL Adobe Express]에서 응용 프로그램에 제공된 기존 시작 템플릿[&#128279;](https://helpx.adobe.com/kr/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5)을 사용하거나 다음과 같이 [유용한 브랜드 제한을 포함할 수 있는 사용자 지정 템플릿](https://helpx.adobe.com/kr/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html)을 사용하여 새 문서를 만들 수 있습니다.
+[!DNL Adobe Express]에서 응용 프로그램에 제공된 기존 시작 템플릿](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5)을 사용하거나 다음과 같이 [유용한 브랜드 제한을 포함할 수 있는 사용자 지정 템플릿](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html)을 사용하여 [새 문서를 만들 수 있습니다.
 
-- 변경할 수 없는 [잠긴 요소](https://helpx.adobe.com/kr/express/web/invite-collaborate/object-locking.html)
+- 변경할 수 없는 [잠긴 요소](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html)
 - 필요한 경우 사용자가 요소의 잠금을 해제하는 방법을 제어하는 잠금 제한
 
-[!DNL Adobe Express]의 템플릿에 설정된 잠금 설정이 [!DNL GenStudio for Performance Marketing]에도 적용됩니다. [지침 [!DNL Adobe Express] 을 사용하여 브랜드 제한을 가진 사용자 지정 템플릿을 만듭니다](https://helpx.adobe.com/kr/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
+[!DNL Adobe Express]의 템플릿에 설정된 잠금 설정이 [!DNL GenStudio for Performance Marketing]에도 적용됩니다. [지침 [!DNL Adobe Express] 을 사용하여 브랜드 제한을 가진 사용자 지정 템플릿을 만듭니다](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
 
 빠른 템플릿에서 사용자 정의 글꼴을 사용하려면 관리자는 먼저 빠른 라이선스 권한의 일부로 포함된 Admin Console에서 사용자 정의 글꼴 적격 오퍼에 동의해야 합니다.
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 ## [!DNL Adobe Express]개 서식 파일이 있는 변형 및 [!DNL Experiences] 정보
 
-[!DNL Express] 템플릿은 [다른 변형을 관리](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text)할 때 익숙한 기능과 동일한 기능을 많이 제공합니다. 그러나 [!DNL Express]의 콘텐츠에 대한 워크플로를 간소화할 수 있는 몇 가지 강력한 추가 기능이 있습니다. 이 섹션에서는 [!DNL Adobe Express] 구현에만 적용되는 기능에 대해 설명합니다.
+[!DNL Express] 템플릿은 [다른 변형을 관리](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text)할 때 익숙한 기능과 동일한 기능을 많이 제공합니다. 그러나 [!DNL Express]의 콘텐츠에 대한 워크플로를 간소화할 수 있는 몇 가지 강력한 추가 기능이 있습니다. 이 섹션에서는 [!DNL Adobe Express] 구현에만 적용되는 기능에 대해 설명합니다.
 
 ### 여러 크기 자동 생성
 
-[에셋에 대해  [!DNL Express]](https://helpx.adobe.com/kr/express/web/arrange-layers-and-pages/add-pages.html)에 여러 페이지를 만들면 해당 페이지는 해당 에셋에서 만든 템플릿으로 이월됩니다. 빠른 페이지는 각각 [!DNL GenStudio for Performance Marketing]에서 다른 크기의 크리에이티브 콘텐츠로 생성됩니다.
+[에셋에 대해  [!DNL Express]](https://helpx.adobe.com/express/web/arrange-layers-and-pages/add-pages.html)에 여러 페이지를 만들면 해당 페이지는 해당 에셋에서 만든 템플릿으로 이월됩니다. 빠른 페이지는 각각 [!DNL GenStudio for Performance Marketing]에서 다른 크기의 크리에이티브 콘텐츠로 생성됩니다.
 
 [!DNL Express]의 에셋에 대해 크기가 지정된 콘텐츠가 여러 개 있는 경우 한 번에 모든 크기에 대해 변형을 생성할 수 있습니다.
 
@@ -129,7 +129,7 @@ ht-degree: 0%
 
 ### 연결된 텍스트 흐름 상자 사용
 
-[!DNL Adobe Express]은(는) 템플릿 작성자가 두 개의 텍스트 상자를 연결하여 두 상자 모두에 하나의 구가 흐르도록 하는 텍스트 흐름을 지원합니다. 예를 들어 헤드라인은 한 상자에서 시작하여 다른 상자에서 끝나거나, 구의 일부가 나머지 부분과 다른 스타일을 사용할 수 있습니다. 텍스트 흐름이 있는 템플릿을 [!DNL GenStudio for Performance Marketing]&#x200B;(으)로 가져오면 캔버스에서 해당 연결을 인식하고 적용합니다. [Adobe Express의 텍스트 흐름](https://helpx.adobe.com/kr/express/web/create-and-edit-documents-and-webpages/create-and-edit-documents/text-flow-faq.html)에서 연결된 텍스트 상자를 만드는 방법에 대해 자세히 알아보세요.
+[!DNL Adobe Express]은(는) 템플릿 작성자가 두 개의 텍스트 상자를 연결하여 두 상자 모두에 하나의 구가 흐르도록 하는 텍스트 흐름을 지원합니다. 예를 들어 헤드라인은 한 상자에서 시작하여 다른 상자에서 끝나거나, 구의 일부가 나머지 부분과 다른 스타일을 사용할 수 있습니다. 텍스트 흐름이 있는 템플릿을 [!DNL GenStudio for Performance Marketing]&#x200B;(으)로 가져오면 캔버스에서 해당 연결을 인식하고 적용합니다. [Adobe Express의 텍스트 흐름](https://helpx.adobe.com/express/web/create-and-edit-documents-and-webpages/create-and-edit-documents/text-flow-faq.html)에서 연결된 텍스트 상자를 만드는 방법에 대해 자세히 알아보세요.
 
 추가 설정이 필요 없이 다른 필드를 생성하는 것과 동일한 방식으로 연결된 텍스트 상자에 대한 사본을 생성합니다. 연결된 상자는 생성, 편집 및 변형 검토 전체에서 연결된 단일 구문으로 작동하므로 상자 간에 텍스트를 분할, 복사 또는 위치를 변경할 필요가 없습니다.
 
@@ -200,7 +200,7 @@ ht-degree: 0%
 
 ### 템플릿 잠금 제한 사항
 
-템플릿에는 [!DNL Express]에서 이월되고 일부 기능을 변경하는 방법을 제어하는 [잠긴 요소](https://helpx.adobe.com/kr/express/web/invite-collaborate/object-locking.html)가 포함될 수 있습니다. 이러한 설정은 템플릿에 적용되며, 템플릿에서 변경할 수도 있습니다.
+템플릿에는 [!DNL Express]에서 이월되고 일부 기능을 변경하는 방법을 제어하는 [잠긴 요소](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html)가 포함될 수 있습니다. 이러한 설정은 템플릿에 적용되며, 템플릿에서 변경할 수도 있습니다.
 
 1. 템플릿에서 잠긴 요소를 선택합니다.
 1. 선택한 요소의 왼쪽 상단에 있는 잠금 아이콘을 클릭합니다.
@@ -237,7 +237,7 @@ ht-degree: 0%
    - 차원 재설정
      ![확장 옵션 창](./images/image-expand-options.png){width=50%}
 1. 생성을 만들려면 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 선택할 변형이 프레임 하단에 나타납니다.
-1. 최상의 변형을 선택하고 **[!UICONTROL 유지]**&#x200B;를 클릭합니다.
+1. 최상의 변형을 선택하고 **[!UICONTROL 유지]**를 클릭합니다.
    ![생성된 변형](./images/image-expand-keep.png){width=50%}
 
 ![최종 확장된 이미지](./images/expand-after.png){width=60%}
@@ -250,5 +250,5 @@ _콘텐츠 검사_ 패널을 사용하여 일관된 브랜드 ID, ADA 접근성 
 
 ## 검토 및 승인
 
-변형을 편집하고 조정한 후 [검토 및 승인 워크플로](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/approve/overview)를 사용하여 콘텐츠를 승인하고 게시하십시오.
+변형을 편집하고 조정한 후 [검토 및 승인 워크플로](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/approve/overview)를 사용하여 콘텐츠를 승인하고 게시하십시오.
 

@@ -38,7 +38,7 @@ HTML 캔버스에서 즉시 사용 가능한 번역은 다음을 지원합니다
 
 ![랜딩 페이지 만들기](./translate-create-workflow.png){width="600" zoomable="yes"}에서 복사본 번역 및 현지화
 
-[!DNL Create]&#x200B;**에서 번역하려면**:
+[!DNL Create]**에서 번역하려면**:
 
 1. [!DNL Create]에서 _콘텐츠 만들기_ 섹션으로 스크롤합니다.
 1. **[!UICONTROL 복사본 번역 및 지역화]**&#x200B;를 클릭합니다.

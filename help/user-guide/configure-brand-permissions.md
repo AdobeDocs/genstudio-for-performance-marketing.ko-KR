@@ -5,18 +5,11 @@ level: Intermediate
 feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
 TQID: https://experienceleague.adobe.com/13RaDoLWSm8KjpzgsMkxAUOULez15KTUj6xF3QSb3vE
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 742
@@ -28,13 +21,13 @@ ht-degree: 4%
 
 기본적으로 GenStudio 시스템 관리자는 [!DNL Brands]을(를) 만들고 편집할 수 있습니다. 콘텐츠 편집기 및 공동 작업자 역할에는 편집 및 작성 권한이 있지만, 시스템 관리 권한이 필요하지 않을 수 있습니다.
 
-콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. _기업 및 팀 관리 가이드_&#x200B;의 [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html#Overview)을(를) 참조하십시오.
+콘텐츠 편집기 및 공동 작업자에게 이러한 [!DNL Brand] 관련 권한을 부여하려면 Adobe 시스템 관리자가 Adobe Admin Console에서 몇 가지 추가 구성 작업을 수행해야 합니다. _기업 및 팀 관리 가이드_&#x200B;의 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview)을(를) 참조하십시오.
 
 사용자 및 사용자 그룹 추가는 Admin Console을 통해 관리되는 권한이 있는 모든 Adobe 제품에 공통되는 기본 작업입니다. 사용자 관리 및 사용자 및 사용자 그룹 추가 절차에 대한 개요는 _Enterprise 및 Teams 관리 가이드_&#x200B;의 [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html)를 참조하십시오.
 
 이 비디오 연습을 시청하거나 아래 단계를 따르십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475004?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
 
 ## 1단계: 사용자 그룹 만들기
 
@@ -108,7 +101,7 @@ _프로젝트_&#x200B;은(는) 선택한 사용자가 자산을 저장할 수 �
 
 1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다. _프로젝트에 초대_ 팝업이 열립니다.
 
-_Enterprise 및 Teams 관리 가이드_&#x200B;에서 [프로젝트 관리](https://helpx.adobe.com/kr/enterprise/using/projects-in-business-storage.html)를 참조하십시오.
+_Enterprise 및 Teams 관리 가이드_&#x200B;에서 [프로젝트 관리](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html)를 참조하십시오.
 
 ## 5단계: 사용자 그룹을 프로젝트에 초대
 

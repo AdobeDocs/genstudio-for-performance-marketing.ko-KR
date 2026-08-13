@@ -4,25 +4,14 @@ description: GenStudio for Performance Marketing의 기본 제공 브랜드 유�
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
 TQID: https://experienceleague.adobe.com/0avyL5lvm9hWdlxGE0RwPhP0dX2bA91GNnlKLG1oqEY
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: f54ee13b-9545-4d68-9842-a12026e60aafid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 786
+source-wordcount: 787
 ht-degree: 0%
 
 ---
@@ -91,7 +80,7 @@ _콘텐츠 검사_ 패널에서 수행할 지침 및 접근성 표준 검사를 
 
    >[!NOTE]
    >
-   >_콘텐츠 확인_ 패널에 언급된 _브랜드 음성_ 지침은 개별 섹션이 아닌 전체 변형에 적용됩니다. 전체 콘텐츠 변형은 제안된 개선 사항을 위해 강조 표시됩니다.
+   _콘텐츠 확인_ 패널에 언급된 _브랜드 음성_ 지침은 개별 섹션이 아닌 전체 변형에 적용됩니다. 전체 콘텐츠 변형은 제안된 개선 사항을 위해 강조 표시됩니다.
 
 1. 현재 준수하지 않는 지침을 수정하려면 클릭하십시오.
 1. _제목_, _색상_, _브랜드 음성_ 등의 사용 가능한 섹션에서 검토해야 하는 각 검사를 확장하고 검사하려면 클릭하십시오.
@@ -111,7 +100,7 @@ GenStudio for Performance Marketing에는 고객이 자체 접근성 모범 사�
 이 기능에는 다음과 같은 콘텐츠 검사가 포함됩니다.
 
 * 이미지는 `<alt>` 특성을 제공합니다.
-* 생성된 텍스트의 배경에 대한 대비는 4.5:1입니다.
+* 생성된 텍스트는 배경에 대해 4.5:1 대비가 있습니다.
 * 관용어와 전문어를 포함하여 일반적이지 않거나 제한된 방식으로 사용되는 단어나 구문은 피합니다.
 * 확장된 양식 또는 약어의 의미를 사용할 수 있습니다.
 * 낮은 중등 교육 수준에서 콘텐츠를 읽을 수 있습니다.

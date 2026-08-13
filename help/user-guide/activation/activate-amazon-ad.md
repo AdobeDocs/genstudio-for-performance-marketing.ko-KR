@@ -4,18 +4,13 @@ description: Amazon 광고 경험을 활성화하는 방법을 알아봅니다.
 feature: Ad Activation
 exl-id: 539cb43c-a9d8-4473-8a7d-e81967111741
 TQID: https://experienceleague.adobe.com/4L4JHcYLSsoQ50QbCW7Mof52h5jpz3z8n0UL8CaqLA8
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2:
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 508
 ht-degree: 0%
 
 ---
@@ -58,7 +53,7 @@ Amazon Ads를 사용하면 마케터가 다른 계정 내에서 캠페인 및 �
 
 ## 4단계: Amazon Ads 플랫폼 설정 확인
 
-1. 계정 드롭다운 메뉴에서 계정을 선택합니다. Amazon Ads 계정 설정에 따라 사용 가능한 계정이 결정됩니다. 활성화가 완료되면 Amazon Ads에서 사용자의 크리에이티브 환경이 이 계정의 크리에이티브 라이브러리로 전달됩니다.
+1. 계정 드롭다운 메뉴에서 계정을 선택합니다. Amazon Ads 계정 설정에 따라 사용 가능한 계정이 결정됩니다.활성화가 완료되면 크리에이티브 경험이 Amazon Ads에서 이 계정의 크리에이티브 라이브러리로 전달됩니다.
 
 1. Creative 이름 필드에 이름을 추가합니다. Amazon Ads는 이 이름으로 경험을 식별합니다.
 

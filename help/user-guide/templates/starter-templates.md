@@ -7,18 +7,14 @@ badgeBeta: label="Beta" tooltip="이 기능은 현재 Beta에 있으므로 일�
 recommendations: noDisplay, noCatalog
 exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
 TQID: https://experienceleague.adobe.com/wM0dD2t751PHH9UkmPpZDzwv-1L90UW5vdcKXDeIBHE
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 404
-ht-degree: 3%
+source-wordcount: 415
+ht-degree: 5%
 
 ---
 
@@ -42,7 +38,7 @@ _시작 템플릿_&#x200B;은(는) GenStudio for Performance Marketing을 빠르
 
 ### LinkedIn 광고 템플릿
 
-모든 종횡비는 정적 이미지에 대해 지원됩니다. 비디오의 경우 LinkedIn 스토리에 9:16을(를) 사용하고 비디오가 짧은 세로 형식에 맞게 최적화되었는지 확인하십시오.
+모든 종횡비는 정적 이미지에 대해 지원됩니다. 비디오의 경우 LinkedIn Stories에 9:16을 사용하고 비디오가 짧은 세로 형식에 최적화되어 있는지 확인하십시오.
 
 | 종횡비 | 방향 | 지침 |
 |--------------|--------------|------------------------------------------------------------------------------------------------|

@@ -4,14 +4,12 @@ description: GenStudio for Performance Marketing용 앱 또는 추가 기능을 
 feature: Extensibility
 exl-id: 4935356b-08df-402c-b1a2-b89627afc188
 TQID: https://experienceleague.adobe.com/6SHsqsafwqCWS3dspM65BTVAqZ09WwW2IxF-PIecINE
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 303
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +19,7 @@ ht-degree: 0%
 
 이 항목에서는 개인 배포에 대해 설명합니다. 비공개 배포에서는 추가 기능 배포를 IMS 조직에서 식별한 해당 조직으로 제한합니다.
 
-공개 배포 를 사용하면 추가 기능을 Adobe Exchange에서 앱으로 사용할 수 있습니다. [_App Builder_ 개발자 설명서의 공개 배포](https://developer.adobe.com/app-builder/docs/guides/distribution/public/)에서는 Adobe 조직에서 앱을 사용할 수 있도록 설정하는 방법에 대해 설명합니다.
+공개 배포 를 사용하면 추가 기능을 Adobe Exchange에서 앱으로 사용할 수 있습니다. _App Builder_ 개발자 설명서의 [공개 배포](https://developer.adobe.com/app-builder/docs/guides/distribution/public/)에서는 Adobe 조직에서 앱을 사용할 수 있도록 설정하는 방법에 대해 설명합니다.
 
 >[!BEGINSHADEBOX]
 

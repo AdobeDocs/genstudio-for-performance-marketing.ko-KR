@@ -4,18 +4,13 @@ description: 더 많은 대상자에게 도달하고 최적의 경험을 제공�
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
 TQID: https://experienceleague.adobe.com/b56YHJsOAunGenV-F3u7Y2mo56f6CnnX4qPXyzczPJY
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: 371
 ht-degree: 0%
 
 ---
@@ -49,7 +44,7 @@ GenStudio for Performance Marketing에서 다양한 경험을 위해 콘텐츠�
 
 텍스트와 배경 간의 적절한 대비를 제공합니다. 어두운 배경에는 어두운 텍스트를, 밝은 배경에는 밝은 텍스트를 생성하는 글꼴 색상을 사용하지 마십시오. 최적의 비율에 대한 대비 지침을 고려하십시오.
 
-- 텍스트 및 텍스트 이미지: 대비 비율 최소 4.5:1
+- 텍스트 및 이미지 텍스트: 대비 비율 최소 4.5:1
 - 큰 텍스트 및 큰 텍스트 이미지: 대비 비율 최소 3:1
 
 ## 링크 목적(링크만)
