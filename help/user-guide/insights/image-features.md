@@ -5,12 +5,22 @@ level: Intermediate
 feature: Reporting and Insights, Image Attributes, Generative AI
 exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
 TQID: https://experienceleague.adobe.com/dFi5aYBN8Mr3cYF9tHcAEh2ncDiQdCZiQIPrksmSmdw
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 1178
@@ -34,7 +44,7 @@ _이미지 스타일_&#x200B;을(를) 확인하는 것은 다른 이미지 특�
 
 **특정 특성 범주의 이미지를 보려면**:
 
-1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 특성]**보기를 선택하십시오.
+1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 특성]**&#x200B;보기를 선택하십시오.
 
 1. **[!UICONTROL 이미지]**&#x200B;를 선택하여 테이블 보기를 변경합니다.
 
