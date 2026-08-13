@@ -110,9 +110,9 @@ _[!DNL Image variants]_&#x200B;을(를) 만들려면 [!DNL Content]에 저장된
 
    _Powered by Adobe Express_ 창이 나타납니다.
 
-1. [이미지 자르기](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), [개체 제거](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), 효과 적용 등의 이미지 편집을 수행합니다.
+1. [이미지 자르기](https://helpx.adobe.com/kr/express/create-and-edit-images/edit-images/crop-images.html), [개체 제거](https://helpx.adobe.com/kr/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), 효과 적용 등의 이미지 편집을 수행합니다.
 
-   Adobe Express을 사용하여 GenStudio for Performance Marketing에서 이미지를 수정하는 방법에 대해 알아보려면 [Adobe Express 설명서](https://helpx.adobe.com/express/user-guide.html)를 참조하십시오.
+   Adobe Express을 사용하여 GenStudio for Performance Marketing에서 이미지를 수정하는 방법에 대해 알아보려면 [Adobe Express 설명서](https://helpx.adobe.com/kr/express/user-guide.html)를 참조하십시오.
 
 1. _[!UICONTROL 변경 내용 적용]_&#x200B;을 클릭하여 편집 내용을 저장합니다.
 1. 원하는 대로 개별 이미지 변형을 계속 편집하고 변경 사항을 적용하여 진행률을 저장합니다.
