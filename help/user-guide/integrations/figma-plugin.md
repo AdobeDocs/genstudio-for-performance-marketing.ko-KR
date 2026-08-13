@@ -42,7 +42,7 @@ GenStudio for Performance Marketing Figma 플러그인은 Figma 애플리케이�
 * 생성된 [!DNL Experiences]을(를) GenStudio for Performance Marketing으로 내보냅니다.
 * 그림 캔버스에서 선택한 요소에 맞게 조정하는 플러그인 옵션을 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478816?captions=kor&learn=on)
 
 ## 템플릿 만들기
 
@@ -220,7 +220,7 @@ Figma에서 변형을 GenStudio for Performance Marketing [!DNL Experiences]&#x2
 Figma 플러그인을 사용하여 Figma 프레임, 여러 프레임 또는 전체 문서를 Photoshop 형식으로 변환하고 [GenStudio Photoshop](photoshop-plugin.md)에서 사용하도록 내보낼 수 있습니다. 현재 변환 중에는 가시성, 글꼴 크기 및 기본 레이어 속성과 같은 주요 속성만 지원됩니다. 취소선, 위 첨자, 아래 첨자, 백분율 불투명도, 그라디언트 및 유사한 고급 속성과 같은 기능은 아직 지원되지 않습니다.
 
 <!-- GS-34076: Demo video placement is hardcoded in the tool UI; keep this video above "The plugin supports the following Figma layer types for conversion." -->
->[!VIDEO](https://video.tv.adobe.com/v/3492271?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492276?captions=kor&learn=on)
 
 플러그인은 변환을 위해 다음 Figure 레이어 유형을 지원합니다.
 
