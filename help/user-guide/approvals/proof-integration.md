@@ -15,7 +15,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 910
+source-wordcount: 912
 ht-degree: 1%
 
 ---
@@ -48,14 +48,14 @@ Workfront Proof [!DNL Proofing Viewer]은(는) 증명을 보고, 댓글을 달�
 
 | 기능        | GenStudio for Performance Marketing                                                                 | Workfront Proof                                                                 |
 |-------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **초안/증명 수명 주기**        | 초안 콘텐츠는 게시 후 만료됩니다. | 타임스탬프가 지정된 영구 로그가 있는 다단계 역할 기반 승인 체인입니다.<br> 모든 버전은 무기한으로 유지됩니다. |
+| **초안/증명 수명 주기**        | 초안 콘텐츠는 게시 후 만료됩니다. | 타임스탬프가 지정된 영구 로그가 있는 다단계의 역할 기반 승인 체인입니다.<br> 모든 버전이 무기한으로 유지됩니다. |
 | **댓글**                | 주석은 초안 ID에 연결되어 있으며 게시 후 삭제됩니다.                                           | 지속적인 주석 및 주석은 감사 및 규정 준수를 위해 유지됩니다.     |
-| **버전**           | 초안은 고유한 인스턴스로 처리됩니다.<br>나란히 비교하지 않습니다.                                      | 병렬 및 오버레이 비교 도구를 사용하여 전체 버전을 제어할 수 있습니다.        |
+| **버전**           | 초안은 고유한 인스턴스로 처리됩니다.<br>병렬 비교가 없습니다.                                      | 병렬 및 오버레이 비교 도구를 사용하여 전체 버전을 제어할 수 있습니다.        |
 | **프로젝트 관리** | 기본 캠페인 관리. | 사용자 정의, 템플릿, 보고 및 상세 감사를 포함한 전체 캠페인 라이프사이클 관리. |
 
 ### 라이선스 및 사용자 역할
 
-라이센스는 제품 내에서 사용자 권한 집합을 식별합니다. Workfront Proof은 GenStudio for Performance Marketing보다 더 많은 라이선스 유형 또는 사용자 역할을 제공합니다. [증명 역할 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)에서는 Workfront Proof 검토 및 승인 워크플로와 연결된 사용자 역할을 도입합니다.
+라이센스는 제품 내에서 사용자 권한 집합을 식별합니다. Workfront Proof은 GenStudio for Performance Marketing보다 더 많은 라이선스 유형 또는 사용자 역할을 제공합니다. [증명 역할 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)에서 Workfront Proof 검토 및 승인 워크플로와 연결된 사용자 역할을 소개합니다.
 
 | GenStudio for Performance Marketing 라이선스       | Workfront 라이선스                 | 설명                                                                                                                                                      |
 |---------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -94,4 +94,4 @@ Workfront Proof 승인 템플릿은 증명 승인 워크플로를 간소화할 �
 ## 알림 및 미리 알림
 
 검토에 새 증명을 사용할 수 있거나 진행 중인 검토 상태가 변경된 경우 검토자와 승인자가 이메일 알림을 받습니다.
-[증명 알림 및 알림 메시지](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders)에는 증명에 대한 개인화된 링크, 승인 프로세스를 통한 증명 및 진행 상황에 대한 세부 정보 및 버전 관리 정보가 포함되어 있습니다.
+[증명 알림 및 미리 알림](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders)에는 증명에 대한 개인 맞춤화된 링크, 승인 프로세스를 통한 증명 및 진행 상황에 대한 세부 정보 및 버전 관리 정보가 포함되어 있습니다.

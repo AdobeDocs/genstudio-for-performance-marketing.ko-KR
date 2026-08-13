@@ -19,7 +19,7 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
 workflow-type: tm+mt
-source-wordcount: 1980
+source-wordcount: 1981
 ht-degree: 1%
 
 ---
@@ -106,7 +106,7 @@ Instagram 계정을 선택하려면 Meta Business Manager에서 사용할 Instag
 
 _미디어_ 섹션을 사용하여 경험에 포함할 하나 이상의 이미지 자산을 선택하십시오. 광고 배치는 지원되는 이미지 종횡비와 연결되며, _배치_ 드롭다운 메뉴에 옵션으로 나열됩니다. 이 메뉴는 종횡비로 구성된 Facebook 게시물 또는 Instagram 스토리에 대해 지원되는 광고 배치를 표시합니다.
 
-업로드한 자산은 [!DNL Content]에 저장됩니다. _미디어_ 영역에는 기본적으로 1:1 종횡비로 이미지가 표시됩니다. 대체 종횡비는 유료 광고 채널에서 지원하는 값만 포함합니다. 세로 및 가로 방향으로 그룹화됩니다. GenStudio for Performance Marketing은 활성화된 경험당 최대 6개의 종횡비를 포함할 수 있습니다.
+업로드한 자산은 [!DNL Content]에 저장됩니다. _Media_ 영역에는 기본적으로 1:1 종횡비의 이미지가 표시됩니다. 대체 종횡비는 유료 광고 채널에서 지원하는 값만 포함합니다. 세로 및 가로 방향으로 그룹화됩니다. GenStudio for Performance Marketing은 활성화된 경험당 최대 6개의 종횡비를 포함할 수 있습니다.
 
 **콘텐츠에서 에셋을 업로드하려면**:
 

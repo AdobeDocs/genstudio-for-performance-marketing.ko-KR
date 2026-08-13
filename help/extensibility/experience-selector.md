@@ -133,9 +133,9 @@ import { renderExperienceSelectorWithSUSI } from 'https://experience.adobe.com/s
 
 - [두 개의 **바닐라 JavaScript 구현**](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
 
-   - [이 **바닐라 ESM** 버전은 ES6 모듈과 최신 JavaScript을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
+  - [이 **바닐라 ESM** 버전은 ES6 모듈과 최신 JavaScript을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
 
-   - [이 **바닐라 UMD** 버전은 스크립트 태그를 통해 로드된 UMD 번들을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
+  - [이 **바닐라 UMD** 버전은 스크립트 태그를 통해 로드된 UMD 번들을 사용합니다](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
 
 ## 인증 흐름
 

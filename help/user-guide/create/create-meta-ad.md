@@ -125,8 +125,8 @@ Meta 광고를 생성할 때 Facebook 또는 Instagram 광고 중 선택할 수 
 **생성된 변형을 수정하려면**:
 
 * **Meta 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **Meta 광고를 수동으로 편집하려면** 제목란과 같은 광고 섹션을 클릭합니다.
-필요에 따라 헤더 또는 본문 사본을 편집하십시오.[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)
+* **Meta 광고를 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)** 제목란과 같은 광고 섹션을 클릭합니다.
+필요에 따라 헤더 또는 본문 사본을 편집하십시오.
 * **call to action을 변경하거나 선택하려면** call-to-action 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _Link_&#x200B;에서 call-to-action 텍스트의 URL을 입력하십시오.
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 온라인 이미지 텍스트나 인라인 링크를 클릭한 다음 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->

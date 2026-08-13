@@ -19,7 +19,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 489
+source-wordcount: 490
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Innovid를 사용하면 마케터가 다른 계정 내에서 캠페인과 광고
 1. 콘텐츠 갤러리의 검색 및 필터 도구를 사용하여 활성화하려는 경험을 식별합니다. **[!UICONTROL 사용]**&#x200B;을 클릭합니다. 또는 Innovid 제품 카드에서 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭하여 활성화에서 환경을 선택할 수 있습니다.
 1. 활성화를 계속하기 전에 플랫폼을 선택하라는 메시지가 표시됩니다. *Innovid*&#x200B;을(를) 선택하십시오. 이 경험에 대한 Innovid 경험 설정 페이지가 열립니다. 경험의 세부 사항으로 미리 채워지므로 수정할 수 없습니다. 
 1. (선택 사항) **[!UICONTROL 경험 추가]**&#x200B;를 클릭하여 이 활성화 그룹에 경험을 추가합니다.
-1. **[!UICONTROL 다음]**&#x200B;을 클릭하여 Innovid 플랫폼 설정을 확인합니다. **[!UICONTROL 플랫폼 설정]** 보기가 열립니다. 이 보기는 구성된 Innovid 계정에서 파생된 옵션을 표시합니다.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭하여 Innovid 플랫폼 설정을 확인합니다. **[!UICONTROL Platform 설치]** 보기가 열립니다.이 보기는 구성된 Innovid 계정에서 파생된 옵션을 보여 줍니다.
 
 ## 4단계: Innovid 플랫폼 설정 확인
 

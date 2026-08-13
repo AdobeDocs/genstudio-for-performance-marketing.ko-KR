@@ -17,8 +17,8 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 404
-ht-degree: 3%
+source-wordcount: 415
+ht-degree: 5%
 
 ---
 
@@ -42,7 +42,7 @@ _시작 템플릿_&#x200B;은(는) GenStudio for Performance Marketing을 빠르
 
 ### LinkedIn 광고 템플릿
 
-모든 종횡비는 정적 이미지에 대해 지원됩니다. 비디오의 경우 LinkedIn 스토리에 9:16을(를) 사용하고 비디오가 짧은 세로 형식에 맞게 최적화되었는지 확인하십시오.
+모든 종횡비는 정적 이미지에 대해 지원됩니다. 비디오의 경우 LinkedIn Stories에 9:16을 사용하고 비디오가 짧은 세로 형식에 최적화되어 있는지 확인하십시오.
 
 | 종횡비 | 방향 | 지침 |
 |--------------|--------------|------------------------------------------------------------------------------------------------|

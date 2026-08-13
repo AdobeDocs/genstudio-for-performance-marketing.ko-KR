@@ -43,9 +43,9 @@ LinkedIn Ads 프로필 계정을 GenStudio for Performance Marketing에 연결�
 
 - LinkedIn 광고 계정에 대한 _전체 제어_:
 
-   - 관리자 계정
-   - 캠페인 관리
-   - 성능 보기
+  - 관리자 계정
+  - 캠페인 관리
+  - 성능 보기
 
 - 브라우저에서 팝업 차단기 제거
 

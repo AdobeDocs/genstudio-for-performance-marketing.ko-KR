@@ -4,7 +4,7 @@ description: 조직에서 GenStudio for Performance Marketing의 Journey Optimiz
 feature: Extensibility
 source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '964'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Journey Optimizer API에 대한 OAuth 자격 증명을 제공하는 [Adobe Devel
    ![배포된 앱 및 배포 취소를 App Builder 응용 프로그램 보기에서 사용할 수 있음](/help/extensibility/ajo-config-005.png){width="80%"}
 
 배포 후 Adobe Developer Console에는 AJO 및 Adobe Runtime API를 사용하여 GenStudio &lt;Your_Environment_Name>**용**&#x200B;Journey Optimizer라는 새 자동 생성 프로젝트가 포함됩니다. 이 프로젝트는 읽기 전용이므로 편집하거나 삭제할 수 없습니다.
-![배포 후 읽기 전용 자동 생성된 Developer Console 프로젝트](/help/extensibility/ajo-auto-project.png){width="100%"}
+![배포 후 읽기 전용 Developer Console 프로젝트 자동 생성](/help/extensibility/ajo-auto-project.png){width="100%"}
 
 ### 구성 업데이트
 

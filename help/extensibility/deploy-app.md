@@ -86,8 +86,8 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 배포한 확장 유형에 따라 UI의 다른 위치에서 새 확장을 찾을 수 있습니다. 현재 사용 가능한 확장 지점은 다음과 같습니다.
 
 * 다음을 포함하는 규정 준수 확장:
-   * [*프롬프트 확장 지점*](#find-prompt-extensions) - 고객이 LLM 생성에 추가 컨텍스트를 추가할 수 있습니다.
-   * [*유효성 검사 확장 지점*](#find-validation-extensions)&#x200B;을 통해 고객이 LLM에서 생성된 콘텐츠의 유효성을 검사할 수 있습니다. 유효성 검사는 종종 프롬프트 확장과 쌍을 이루어 확장된 프롬프트로 생성된 콘텐츠가 고객 요구 사항(예: 의료용 약물 클레임 또는 합법적)에 대해 컴플레인인지 확인합니다
+  * [*프롬프트 확장 지점*](#find-prompt-extensions) - 고객이 LLM 생성에 추가 컨텍스트를 추가할 수 있습니다.
+  * [*유효성 검사 확장 지점*](#find-validation-extensions)&#x200B;을 통해 고객이 LLM에서 생성된 콘텐츠의 유효성을 검사할 수 있습니다. 유효성 검사는 종종 프롬프트 확장과 쌍을 이루어 확장된 프롬프트로 생성된 콘텐츠가 고객 요구 사항(예: 의료용 약물 클레임 또는 합법적)에 대해 컴플레인인지 확인합니다
 * [DAM(디지털 자산 관리) 확장](#find-dam-extensions)
 * [템플릿 확장](#find-template-extensions)
 * [번역 확장](#find-translation-extensions)

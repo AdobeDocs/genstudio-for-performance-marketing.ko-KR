@@ -44,10 +44,10 @@ ht-degree: 0%
 
 - 모든 Meta 서비스에 액세스할 수 있는 Facebook/Meta 로그인
 - 다음을 포함한 Meta Business Portfolio 및 광고 계정에 대한 _모든 권한_:
-   - 캠페인 관리
-   - 성능 보기
-   - Creative Hub mockup 관리
-   - 고급 분석
+  - 캠페인 관리
+  - 성능 보기
+  - Creative Hub mockup 관리
+  - 고급 분석
 - 브라우저에서 팝업 차단기 비활성화
 - 연결을 시도하기 전에 Meta Business Manager에서 Instagram 계정 페이지 연결을 확인하십시오
 - 연결 중인 모든 자산에 대한 관리자 액세스 확인

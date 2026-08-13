@@ -24,7 +24,7 @@ topic_v2:
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 2125
+source-wordcount: 2129
 ht-degree: 0%
 
 ---
@@ -193,7 +193,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
    현재 광고에 사용되는 종횡비는 _[!UICONTROL 크기 조정]_ 창의 맨 위에 표시됩니다.
 
-   이 개정의 영향을 받는 변형의 수는 창의 오른쪽 상단 모서리에 표시됩니다. _예제_: &quot;4개 변형 중 4개&quot;
+   이 개정의 영향을 받는 변형의 수는 창의 오른쪽 상단 모서리에 표시됩니다. _예_: &quot;4개 변형 중 4개&quot;
 
 1. [사용 가능한 종횡비](/help/user-guide/templates/meta-template.md#supported-aspect-ratios)를 선택하십시오.
 
@@ -203,7 +203,7 @@ GenStudio for Performance Marketing에는 생성된 변형의 단면을 재생�
 
    [!DNL Create]은(는) 새로 선택한 종횡비를 기반으로 각 변형의 복사본을 만듭니다. 초기 종횡비의 변형을 포함한 모든 변형이 캔버스에 있습니다.
 
-   예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 _8개_&#x200B;의 총 변형을 사용할 수 있습니다.
+   예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 총 _8개_&#x200B;개의 변형을 사용할 수 있습니다.
 
 ## 이미지 교체
 

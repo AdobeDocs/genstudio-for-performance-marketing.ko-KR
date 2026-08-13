@@ -21,7 +21,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 3322f783cd49ddcb897942e5e91590d53b554bdd
 workflow-type: tm+mt
-source-wordcount: 1347
+source-wordcount: 1352
 ht-degree: 0%
 
 ---
@@ -90,9 +90,9 @@ GenStudio for Performance Marketing에서 템플릿을 사용할 때 다음 권�
 
 1. 이미지를 검사합니다.
    - Windows/Linux의 경우:
-      - F12 키를 누릅니다.
+     - F12 키를 누릅니다.
    - macOS에서:
-      - Command + Option + I를 누릅니다.
+     - Command + Option + I를 누릅니다.
 
 1. 이미지 위로 마우스를 가져갑니다.
 

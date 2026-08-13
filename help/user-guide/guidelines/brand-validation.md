@@ -22,7 +22,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 786
+source-wordcount: 787
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ GenStudio for Performance Marketing에는 고객이 자체 접근성 모범 사�
 이 기능에는 다음과 같은 콘텐츠 검사가 포함됩니다.
 
 * 이미지는 `<alt>` 특성을 제공합니다.
-* 생성된 텍스트의 배경에 대한 대비는 4.5:1입니다.
+* 생성된 텍스트는 배경에 대해 4.5:1 대비가 있습니다.
 * 관용어와 전문어를 포함하여 일반적이지 않거나 제한된 방식으로 사용되는 단어나 구문은 피합니다.
 * 확장된 양식 또는 약어의 의미를 사용할 수 있습니다.
 * 낮은 중등 교육 수준에서 콘텐츠를 읽을 수 있습니다.

@@ -23,8 +23,8 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 931
-ht-degree: 89%
+source-wordcount: 933
+ht-degree: 84%
 
 ---
 
@@ -70,7 +70,7 @@ GenStudio for Performance Marketing에 **편집기** 이상의 역할이 있는�
 ### 구성 만들기
 
 * 앱이 브랜드 내 복사 및 레이아웃을 생성할 수 있도록 [브랜드, 제품 및 가상 사용자](/help/user-guide/guidelines/overview.md)이(가) 구성되어 있습니다.
-* 하나 이상의 TikTok 템플릿이 업로드되었습니다. Adobe은 피드 내 배치에 최적화되어 있고 종횡비가 **9:16**&#x200B;이고 상단과 하단 UI에 대한 안전 영역이 있는 TikTok 세로 비디오 템플릿을 권장합니다.
+* 하나 이상의 TikTok 템플릿이 업로드되었습니다. Adobe은 피드 내 배치에 최적화되어 있고 종횡비가 **9:16**&#x200B;이고 상단 및 하단 UI에 대한 안전 영역이 있는 TikTok 세로 비디오 템플릿을 권장합니다.
 * 동영상이 [!DNL Content]에 업로드되었습니다.
 
 ## TikTok 인피드 광고 생성

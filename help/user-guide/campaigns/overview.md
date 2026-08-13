@@ -33,7 +33,7 @@ ht-degree: 0%
 
 # Adobe GenStudio for Performance Marketing 캠페인
 
-GenStudio for Performance Marketing [!DNL Campaigns]은(는) 마케팅 이니셔티브 또는 _캠페인_&#x200B;의 개발 및 배포를 가속화합니다. [!DNL Campaigns] 구성 요소에는 브랜드 준수 이미지와 텍스트를 포함하여 GenStudio for Performance Marketing의 AI 생성 워크플로우로 생성, 승인 및 관리에 필요한 에셋 및 경험이 포함됩니다.
+GenStudio for Performance Marketing [!DNL Campaigns]은(는) 마케팅 이니셔티브 또는 _캠페인_&#x200B;의 개발 및 배포를 가속화합니다. [!DNL Campaigns] 구성 요소에는 브랜드 준수 이미지와 텍스트를 포함하여 GenStudio for Performance Marketing의 AI 생성 워크플로우로 생성, 승인 및 관리에 도움이 되는 자산 및 환경이 포함되어 있습니다.
 
 [!DNL Campaigns] 워크플로에서는 다음을 제공합니다.
 

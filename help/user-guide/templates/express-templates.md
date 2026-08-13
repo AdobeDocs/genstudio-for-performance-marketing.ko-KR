@@ -6,7 +6,7 @@ role: Developer, User
 feature: Media Templates
 source-git-commit: 96249838f5ec957edc22eadf51ec828f54002adf
 workflow-type: tm+mt
-source-wordcount: '1870'
+source-wordcount: '1899'
 ht-degree: 0%
 
 ---

@@ -13,7 +13,7 @@ role_v2:
 source-git-commit: b6b93e3513804919d43a663bb899e67556a4cbcd
 workflow-type: tm+mt
 source-wordcount: 496
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -45,19 +45,19 @@ App Builder 앱의 주요 구성 요소에는 이러한 빌드 및 구성 파일
 
 * TS 앱 파일:
 
-   * `package.json`
-   * `package-lock.json`
-   * `eslint`
-   * `tsconfig`
-   * `jest test up`
+  * `package.json`
+  * `package-lock.json`
+  * `eslint`
+  * `tsconfig`
+  * `jest test up`
 
 * App Builder 구성 파일:
 
-   * `app.config.yaml`
-   * `ext.config.yaml`: 추가 기능에 대한 구성 파일입니다.
-   * `app.config.yaml`: 추가 기능에 대한 구성 파일(앱을 GenStudio for Performance Marketing 추가 기능으로 정의 포함).
-   * `.aio`
-   * `.env`: `.env` 파일을 소스 제어에 커밋하지 마십시오.
+  * `app.config.yaml`
+  * `ext.config.yaml`: 추가 기능에 대한 구성 파일입니다.
+  * `app.config.yaml`: 추가 기능에 대한 구성 파일(앱을 GenStudio for Performance Marketing 추가 기능으로 정의 포함).
+  * `.aio`
+  * `.env`: `.env` 파일을 소스 제어에 커밋하지 마십시오.
 
 ### Source 코드
 

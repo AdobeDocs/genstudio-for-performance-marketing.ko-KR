@@ -15,7 +15,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: 371
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ GenStudio for Performance Marketing에서 다양한 경험을 위해 콘텐츠�
 
 텍스트와 배경 간의 적절한 대비를 제공합니다. 어두운 배경에는 어두운 텍스트를, 밝은 배경에는 밝은 텍스트를 생성하는 글꼴 색상을 사용하지 마십시오. 최적의 비율에 대한 대비 지침을 고려하십시오.
 
-- 텍스트 및 텍스트 이미지: 대비 비율 최소 4.5:1
+- 텍스트 및 이미지 텍스트: 대비 비율 최소 4.5:1
 - 큰 텍스트 및 큰 텍스트 이미지: 대비 비율 최소 3:1
 
 ## 링크 목적(링크만)
