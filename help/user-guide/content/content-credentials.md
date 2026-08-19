@@ -17,20 +17,16 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 7aed06dbb249cfc7e0f15d792563699e63b1a390
+source-git-commit: abf48a907a72b060f684865c29b3a42f1ebdc3dc
 workflow-type: tm+mt
-source-wordcount: 723
-ht-degree: 4%
+source-wordcount: 670
+ht-degree: 5%
 
 ---
 
 # 조직용 Content Credentials
 
 브랜드 신뢰성을 입증하고 규정 준수를 유도하는 컨텐츠에 대한 변조 불가능한 자격 증명이 마케팅 워크플로우에 직접 임베드되는 방법에 대해 알아봅니다.
-
->[!WARNING]
->
-> 이 기능은 현재 베타 버전이며 액세스 권한이 부여된 조직에서만 사용할 수 있습니다. 관심이 있는 경우 Adobe 계정 팀 담당자에게 연락하거나 [이 링크를 사용하여 등록을 요청](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr)하십시오.
 
 ## Content Credentials 시작하기 {#content-credentials}
 
@@ -39,15 +35,11 @@ ht-degree: 4%
 >title="[!DNL GenStudio for Performance Marketing]의 Content Credentials"
 >abstract="브랜드 신뢰성을 입증하고 규정 준수를 유도하는 콘텐츠에 대한 변조 불가능한 자격 증명을 마케팅 워크플로에 직접 임베드할 수 있습니다."
 
-Content Credentials이 Admin Console에서 활성화되면 GenStudio for Performance Marketing 사용자는 앱에서 전역적으로 모든 자산에 대해 Content Credentials을 켤 수 있습니다. 자격 증명을 적용하는 전역 옵션이 꺼져 있는 경우 사용자는 각 개별 에셋에 대해 Content Credentials을 적용할 수 있습니다.
+GenStudio for Performance Marketing은 Content Credentials을 모든 자산에 자동으로 전역적으로 적용합니다. 설정 단계 및 자산별 설정 없음 을 켜면 됩니다. 마케팅 워크플로우 전반에 걸쳐 자격 증명이 임베드되고, 보존되고, 새로 고쳐집니다.
 
 콘텐츠가 게시되면 Content Credentials은 LinkedIn과 같은 외부 플랫폼에 표시됩니다.
 
-관리자는 Admin Console 내에서 유효한 X.509 인증서를 업로드할 책임이 있습니다. 이 단계에서는 기업의 디지털 서명이 올바르게 구성되어 지원되는 Adobe DX 애플리케이션에서 사용할 수 있도록 준비됩니다.
-
->[!NOTE]
->
->이 설정을 제어하면 향후 Admin Console으로 전환되어 애플리케이션 전반에서 Content Credentials 관리를 간소화하고 관리 감독을 강화할 수 있습니다.
+C2PA 호환 Content Credentials은 인증서 설정이 필요하지 않습니다. 브랜드 서명은 예외입니다. 조직의 자체 서명으로 콘텐츠에 서명하려면 관리자가 Admin Console 내에서 유효한 X.509 인증서를 업로드해야 합니다. 이 단계에서는 기업의 디지털 서명이 올바르게 구성되어 지원되는 Adobe DX 애플리케이션에서 사용할 수 있도록 준비됩니다.
 
 ## Content Credentials란? 
 
@@ -71,7 +63,7 @@ Content Credentials을 적용하는 것은 가져오기 및 콘텐츠 검색에�
 
 가져온 에셋에는 콘텐츠 갤러리에서 자격 증명이 표시됩니다.
 
-썸네일의 오른쪽 위 모서리에 있는 Content Credential 배지는 &quot;Brand Signed&quot; 콘텐츠를 나타냅니다.
+썸네일의 오른쪽 위 모서리에 있는 Content Credential 배지는 [!UICONTROL 브랜드 서명] 콘텐츠를 나타냅니다.
 
 ![자격 증명이 있는 가져온 자산](./images/import-discovery1.png)
 
@@ -93,7 +85,7 @@ Content Credential 배지는 캔버스 에셋 선택기에 표시됩니다.
 
 초안에서 내보내는 동안 수정된 자산은 자동으로 다시 서명되고 새 자격 증명이 원본에 연결됩니다.
 
-![내보낸 에셋의 자격 증명 데이터](./images/edit-and-transformation1.png){width="60%"}
+![내보내기 형식 옵션이 있는 다운로드 대화 상자](./images/edit-and-transformation2.png){width="60%"}
 
 ### 검토 및 승인
 
@@ -103,7 +95,7 @@ Content Credential 배지는 캔버스 에셋 선택기에 표시됩니다.
 
 변형별 자격 증명 세부 정보는 검토자가 자산을 검사할 때 표시됩니다. 사용자가 **[!UICONTROL 콘텐츠에 저장]**&#x200B;을 클릭하면 승인된 경험이 다시 서명됩니다.
 
-![승인된 자산의 자격 증명 데이터](./images/review-and-approve2.png)
+![콘텐츠에 저장 단추가 있는 승인된 콘텐츠에 대한 세부 정보 확인 대화 상자](./images/review-and-approve3.png)
 
 ### 활성화 및 내보내기
 
