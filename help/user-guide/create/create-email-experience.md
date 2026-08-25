@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: ecda1f61abaafe858629fc4700f61d89e2ab9e3e
+source-git-commit: e47c6644de51ead57f1c2e780aa287eb1de7ac87
 workflow-type: tm+mt
-source-wordcount: 1132
+source-wordcount: 1547
 ht-degree: 0%
 
 ---
@@ -111,10 +111,57 @@ ht-degree: 0%
 * **변형에서 [텍스트 서식을 적용하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)** 변형에 대한 이미지 내 텍스트를 클릭하고 **[!UICONTROL 텍스트 서식 지정]**&#x200B;을 클릭하십시오.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **변형에서 이미지를 [추가하거나 교체](/help/user-guide/create/manage-variants.md#swap-image)**&#x200B;하려면 이미지 에셋(또는 현재 이미지가 없는 경우 이미지 에셋 영역)을 클릭하고 **[!UICONTROL 콘텐츠에서 교체]** 아이콘을 클릭하십시오.
+* **변형에서 이미지를 [편집하려면](#edit-images-in-the-canvas)** 이미지 필드를 클릭하고 **[!UICONTROL 편집]**(연필 아이콘)을 클릭하여 캔버스에서 직접 이미지를 자르거나, 위치를 변경하거나, 확장합니다.
 * **변형의 이미지에 링크를 추가하려면[&#128279;](/help/user-guide/create/manage-variants.md#add-image-link)**&#x200B;이미지 자산(또는 이미지가 현재 없는 경우 이미지 자산 영역)을 클릭하고 링크 아이콘을 클릭합니다.
 * **변형의 이미지에 대한 대체 텍스트를 [추가하려면](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** 이미지 에셋을 클릭하고 _대체 텍스트_ 옵션을 사용하여 이미지당 대체 텍스트를 수동으로 추가하거나 생성하십시오.
 * **변형에 [접근성 레이블을 추가](/help/user-guide/create/manage-variants.md#add-accessibility-labels)하려면** 이미지 또는 call-to-action 링크를 클릭한 다음, 링크 또는 단추의 기능에 대해 설명하는 간단한 설명을 제공하십시오.
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+
+## 캔버스에서 이미지 편집
+
+캔버스를 종료하거나 외부 디자인 도구에 의존하지 않고 이미지를 조정합니다. 이미지를 자르거나 위치를 변경하여 피사체에 초점을 맞추거나 생성 확장 을 사용하여 이미지를 원래 경계 이상으로 확장할 수 있습니다. 편집 내용은 이메일 초안에만 적용됩니다. [!DNL Content] 및 연결된 자산 저장소의 Source 자산은 수정되지 않습니다.
+
+이메일 캔버스의 이미지 필드에서 이미지 편집에 액세스합니다. 편집된 이미지는 원래 에셋에서 변경한 이미지를 추적할 수 있도록 시각적으로 표시됩니다.
+
+### 이미지 자르기 및 위치 변경
+
+이미지를 자르면 원하는 영역만 사용합니다. 이메일의 자르기는 종횡비 제한이 없는 자유 형식이므로 표시되는 이미지 부분과 비율을 완벽하게 제어할 수 있습니다.
+
+**이미지를 자르고 위치를 변경하려면**:
+
+1. 이메일 초안에서 마우스를 이미지 필드 위로 가져간 후 클릭합니다.
+1. **[!UICONTROL 편집]**(연필 아이콘)을 클릭합니다.
+1. **[!UICONTROL 자르기]**&#x200B;를 클릭합니다.
+1. 자르기 영역을 조정하고 이미지를 원하는 위치로 드래그합니다.
+1. **[!UICONTROL 적용]**&#x200B;을 클릭하여 선택한 이미지를 자르거나 **[!UICONTROL 모든 이미지에 적용]**&#x200B;을 클릭하여 초안의 모든 이미지 필드에 자르기를 적용합니다.
+
+변경 내용을 저장하지 않고 종료하려면 **[!UICONTROL 취소]**&#x200B;를 클릭하십시오.
+
+![자르기 도구를 사용한 이미지 편집 보기가 전자 메일 캔버스의 이미지에 활성화되어 있습니다](/help/assets/edit-image-crop-email.png){width="650" zoomable="yes"}
+
+### 생성 확장을 사용하여 이미지 확장
+
+생성 확장 을 사용하여 이미지를 생성 AI로 원래 경계 이상으로 확장합니다. 이메일의 확장은 고정된 크기나 비율로 제한되지 않으므로 필요한 공간에 이미지를 맞출 수 있습니다.
+
+**이미지를 확장하려면**:
+
+1. 이메일 초안에서 마우스를 이미지 필드 위로 가져간 후 클릭합니다.
+1. **[!UICONTROL 편집]**(연필 아이콘)을 클릭합니다.
+1. **[!UICONTROL 확장]**&#x200B;을 클릭합니다.
+
+   확장된 캔버스에서 이미지가 _[!UICONTROL 이미지 편집]_ 보기로 열리고 [!DNL GenStudio for Performance Marketing]에서 확장 옵션이 생성됩니다.
+
+1. 이미지를 이동하여 확장된 영역 내에 배치합니다.
+1. 생성된 옵션을 선택하거나 **[!UICONTROL 자세히]**(더하기 아이콘)을 클릭하여 더 많은 옵션을 봅니다.
+1. **[!UICONTROL 적용]**&#x200B;을 클릭하여 선택한 이미지에 결과를 적용하거나 **[!UICONTROL 모든 이미지에 적용]**&#x200B;을 클릭하여 초안의 모든 이미지 필드에 결과를 적용합니다.
+
+변경 내용을 저장하지 않고 종료하려면 **[!UICONTROL 취소]**&#x200B;를 클릭하십시오.
+
+>[!NOTE]
+>
+>생성 확장 출력 크기는 제한되지 않으므로 매우 큰 확장에 대해 품질이 달라질 수 있습니다. 결과가 요구 사항에 맞지 않으면 추가 옵션을 생성하려면 **[!UICONTROL 자세히]**&#x200B;를 클릭하십시오.
+
+![생성된 확장 결과를 선택하고 이미지 편집 보기에 적용할 준비가 되었습니다](/help/assets/generative-expand-email.png){width="650" zoomable="yes"}
 
 ## 생성 피드백 제출
 
