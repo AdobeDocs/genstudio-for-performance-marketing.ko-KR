@@ -17,9 +17,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: abf48a907a72b060f684865c29b3a42f1ebdc3dc
+source-git-commit: 5fe8dccdcf24d26706b7d3621acc1715fd9eb164
 workflow-type: tm+mt
-source-wordcount: 670
+source-wordcount: 750
 ht-degree: 5%
 
 ---
@@ -105,6 +105,13 @@ Content Credential 배지는 캔버스 에셋 선택기에 표시됩니다.
 
 내보낸 파일에는 C2PA 호환 자격 증명이 포함됩니다.
 
+내보낸 자산도 계보를 유지합니다. 포함된 자격 증명은 내보내기가 파생된 자산을 기록하므로 원래 가져온 자산을 편집하여 내보낸 경험을 추적할 수 있습니다. 이 계보는 파일 내에서 이동하기 때문에 에셋이 GenStudio for Performance Marketing을 떠난 후에도 검사 가능한 상태로 유지됩니다.
+
 지원되는 모든 형식(JPEG, PNG, MP4)에서 자격 증명 무결성이 유지됩니다.
 
 ![내보낸 에셋의 자격 증명 데이터](./images/activate-export2.png)
+
+## 관련 정보
+
+* [컨텐츠 투명도](https://experienceleague.adobe.com/ko/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency)
+* Adobe의 [Content Credentials](https://helpx.adobe.com/kr/creative-cloud/help/content-credentials.html)
