@@ -19,7 +19,7 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3322f783cd49ddcb897942e5e91590d53b554bdd
+source-git-commit: 0ff827501580099c4fc08fa8f59dddcf0fb14f12
 workflow-type: tm+mt
 source-wordcount: 1352
 ht-degree: 0%
@@ -126,6 +126,8 @@ GenStudio for Performance Marketing에서 템플릿을 사용할 때 다음 권�
 - [Meta 광고](/help/user-guide/templates/meta-template.md)
 
 ## Express to GenStudio 템플릿 모범 사례
+
+>[!VIDEO](https://video.tv.adobe.com/v/3502403?learn=on&enablevpops)
 
 다음 팁을 통해 [!DNL Adobe Express]의 디자인을 [!DNL GenStudio for Performance Marketing]의 템플릿으로 변환할 때 신뢰할 수 있는 결과를 얻을 수 있습니다.
 
