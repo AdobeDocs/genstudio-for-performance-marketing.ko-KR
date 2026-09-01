@@ -6,22 +6,13 @@ level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
 TQID: https://experienceleague.adobe.com/ESQljlBQv9vk7Zz-SU-hMNkY2zFy6qawEfkonjXaCkQ
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+source-git-commit: b92dff810b9f780d2f7c2f737787bcb07fec6a61
 workflow-type: tm+mt
 source-wordcount: 758
 ht-degree: 0%
@@ -35,6 +26,8 @@ Adobe GenStudio for Performance Marketing에서 효과적으로 작업하려면 
 GenStudio for Performance Marketing은 에셋을 수정할 수 있는 기회가 있을 때마다 생성 AI 프롬프트를 제공합니다. 효과적인 프롬프트의 구성 요소에는 구성된 지침을 통해 제공되지 않는 설명 언어, 예 및 정보가 포함되어야 합니다.
 
 가장 좋은 방법은 [지침](/help/user-guide/guidelines/overview.md)을(를) 사용하여 GenStudio for Performance Marketing에 브랜드 정보를 제공하는 것입니다. 그러면 생성 AI를 완전히 활용하여 브랜드에 맞게 조정된 콘텐츠 경험을 만들 수 있습니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3502672?learn=on)
 
 ## 기술 언어
 
@@ -63,7 +56,7 @@ GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/over
 
 >[!NOTE]
 >
->프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 컨텐츠 생성 시 이러한 기능을 자동으로 활용합니다.
+프롬프트 서랍의 _매개 변수_&#x200B;에 지침이 추가되어 있으면 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. GenStudio for Performance Marketing은 컨텐츠 생성 시 이러한 기능을 자동으로 활용합니다.
 
 ### 지침
 
@@ -71,7 +64,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 
 >[!TIP]
 >
->GenStudio for Performance Marketing에서 [!DNL Brand] 지침을 사용하는 방법과 시기를 제어합니다. 브랜드 지침을 구성하고 관리하는 방법은 [지침](/help/user-guide/guidelines/overview.md)을 참조하세요.
+GenStudio for Performance Marketing에서 [!DNL Brand] 지침을 사용하는 방법과 시기를 제어합니다. 브랜드 지침을 구성하고 관리하는 방법은 [지침](/help/user-guide/guidelines/overview.md)을 참조하세요.
 
 ### 구조화된 프롬프트
 
