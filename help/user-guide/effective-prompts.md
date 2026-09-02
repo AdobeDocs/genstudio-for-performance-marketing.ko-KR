@@ -21,7 +21,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: b92dff810b9f780d2f7c2f737787bcb07fec6a61
 workflow-type: tm+mt
 source-wordcount: 758
 ht-degree: 0%
@@ -35,6 +35,8 @@ Adobe GenStudio for Performance Marketing에서 효과적으로 작업하려면 
 GenStudio for Performance Marketing은 에셋을 수정할 수 있는 기회가 있을 때마다 생성 AI 프롬프트를 제공합니다. 효과적인 프롬프트의 구성 요소에는 구성된 지침을 통해 제공되지 않는 설명 언어, 예 및 정보가 포함되어야 합니다.
 
 가장 좋은 방법은 [지침](/help/user-guide/guidelines/overview.md)을(를) 사용하여 GenStudio for Performance Marketing에 브랜드 정보를 제공하는 것입니다. 그러면 생성 AI를 완전히 활용하여 브랜드에 맞게 조정된 콘텐츠 경험을 만들 수 있습니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3502672?learn=on)
 
 ## 기술 언어
 
