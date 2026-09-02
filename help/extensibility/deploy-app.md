@@ -4,16 +4,10 @@ description: GenStudio for Performance Marketing용 App Builder 앱 또는 추�
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 TQID: https://experienceleague.adobe.com/7Z4Fb-jPi4FHrTeOgHxxO4fl982sqri-7uEDoylFF-s
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bfaa655b-e017-428d-80d0-09de2183b296
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: da3860b0-d637-47df-bef0-273751180266
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bfaa655b-e017-428d-80d0-09de2183b296id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: ca8bfb11a301697c92e97bad41ea3ba8aa359847
 workflow-type: tm+mt
 source-wordcount: 622
@@ -147,7 +141,7 @@ GenStudio 기본 번역을 사용하는 대신 번역 확장 포인트를 사용
 **콘텐츠 조각 확장을 사용하여 텍스트를 바꾸려면**:
 
 1. 캔버스에서 생성된 이메일 변형의 편집 가능한 텍스트 필드를 클릭합니다.
-1. **[!UICONTROL 교체]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 교체]**를 클릭합니다.
    ![텍스트 바꾸기](./subject-line-swap.png){width="400" zoomable="yes"}
 1. 서드파티 저장소를 선택합니다. 조직은 표시되는 저장소와 저장소 UI의 동작 방법을 제어합니다.
 1. 필드에 대한 대체 텍스트로 사용할 클레임을 선택합니다.

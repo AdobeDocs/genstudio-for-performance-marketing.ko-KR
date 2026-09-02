@@ -121,11 +121,11 @@ ChatGPT 활성화에서는 Meta 및 Google Campaign Manager 360과 동일한 [[!
 
 [!DNL Content] 또는 [!DNL Activate]부터 시작할 수 있습니다.
 
-[!DNL Content]&#x200B;**의**
+[!DNL Content]**의**
 
 * **게시된** ChatGPT 경험을 하나 이상 선택하십시오.
 
-[!DNL Activate]&#x200B;**의**
+[!DNL Activate]**의**
 
 * **ChatGPT** 카드를 열고 **[!UICONTROL + 신규]**&#x200B;를 클릭합니다.
 

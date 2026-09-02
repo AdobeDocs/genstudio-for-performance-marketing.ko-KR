@@ -4,17 +4,11 @@ description: LinkedIn 광고 경험을 활성화하는 방법을 알아봅니다
 feature: Ad Activation
 exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50
 TQID: https://experienceleague.adobe.com/1mcxWePqYd8tYp3e1D2UTSeBHSvPj4WrqeSyiUCxD8c
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2:
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 863
@@ -106,7 +100,7 @@ _검토_ 페이지에서는 게시하기 전에 활성화를 검토할 수 있�
 
 **환경을 검토하고 게시하려면**:
 
-1. (선택 사항) 편집할 경험 또는 플랫폼 세부 정보 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭합니다.
+1. (선택 사항) 편집할 경험 또는 플랫폼 세부 정보 옆에 있는 **[!UICONTROL 섹션 편집]**을 클릭합니다.
 선택한 섹션에 따라 _경험 설정_ 또는 _플랫폼 설정_ 보기가 열립니다.
 
 1. (선택 사항) 세부 정보를 편집한 다음 **[!UICONTROL 다음]**&#x200B;을 클릭하여 _검토_ 보기로 돌아갑니다.
