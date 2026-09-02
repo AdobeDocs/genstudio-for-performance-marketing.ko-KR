@@ -7,9 +7,13 @@ feature: Content Management
 recommendations: noDisplay
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
 TQID: https://experienceleague.adobe.com/FJ6G7qlBlkrsGk1H7SHhlkqHUHYYGKkTqklTeGDxJho
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 387
@@ -37,7 +41,7 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 >[!IMPORTANT]
 >
-관리자는 [!DNL AEM Assets Content Hub] 리포지토리가 GenStudio for Performance Marketing과 동일한 조직 내에 있는지 확인해야 합니다.
+>관리자는 [!DNL AEM Assets Content Hub] 리포지토리가 GenStudio for Performance Marketing과 동일한 조직 내에 있는지 확인해야 합니다.
 
 ## 2단계: GenStudio 사용자 온보드
 
@@ -54,7 +58,7 @@ _Experience Manager_ 설명서의 [AEM as a Cloud Service에서 자산 승인](h
 
 ## 4단계: 자산 가시성 구성
 
-_[!DNL AEM Assets Content Hub]_구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
+_[!DNL AEM Assets Content Hub]_&#x200B;구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
 
 _Content Hub_ 설명서에서 [AEM as a Cloud Service 사용자 인터페이스 구성](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)을 참조하십시오.
 

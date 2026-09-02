@@ -4,10 +4,15 @@ description: Adobe GenStudio for Performance Marketing으로 활성화된 경험
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
 TQID: https://experienceleague.adobe.com/ird0IiW8L5Axjj2FmEjlUcD1sPaNCNfxj9XNqGfQWiI
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 361
@@ -29,7 +34,7 @@ ht-degree: 1%
 
 | 속성 | 값 |
 |------------------|---------------------------------------------------------------------------------------------|
-| 경험 이름 | GenStudio for Performance Marketing의 경험 이름<br>이 이름은 _[!DNL Content]_의 경험을 식별합니다 |
+| 경험 이름 | GenStudio for Performance Marketing의 경험 이름<br>이 이름은 _[!DNL Content]_&#x200B;의 경험을 식별합니다 |
 | 광고 이름 | 광고 채널의 광고 이름 |
 | 게시 날짜 | 광고 경험이 성공적으로 게시된 날짜<br>월-일-년 형식을 사용합니다. |
 | 게시자 | 경험을 활성화한 GenStudio for Performance Marketing 사용자의 이름 |

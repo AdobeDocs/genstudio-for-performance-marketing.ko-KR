@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## [!DNL Adobe Express]의 템플릿 정보
 
-[!DNL Adobe Express]에서 응용 프로그램에 제공된 기존 시작 템플릿](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5)을 사용하거나 다음과 같이 [유용한 브랜드 제한을 포함할 수 있는 사용자 지정 템플릿](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html)을 사용하여 [새 문서를 만들 수 있습니다.
+[!DNL Adobe Express]에서 응용 프로그램에 제공된 기존 시작 템플릿[&#128279;](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5)을 사용하거나 다음과 같이 [유용한 브랜드 제한을 포함할 수 있는 사용자 지정 템플릿](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html)을 사용하여 새 문서를 만들 수 있습니다.
 
 - 변경할 수 없는 [잠긴 요소](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html)
 - 필요한 경우 사용자가 요소의 잠금을 해제하는 방법을 제어하는 잠금 제한
@@ -237,7 +237,7 @@ ht-degree: 0%
    - 차원 재설정
      ![확장 옵션 창](./images/image-expand-options.png){width=50%}
 1. 생성을 만들려면 **[!UICONTROL 확장]**&#x200B;을 클릭합니다. 선택할 변형이 프레임 하단에 나타납니다.
-1. 최상의 변형을 선택하고 **[!UICONTROL 유지]**를 클릭합니다.
+1. 최상의 변형을 선택하고 **[!UICONTROL 유지]**&#x200B;를 클릭합니다.
    ![생성된 변형](./images/image-expand-keep.png){width=50%}
 
 ![최종 확장된 이미지](./images/expand-after.png){width=60%}

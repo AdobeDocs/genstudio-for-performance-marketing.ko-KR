@@ -4,11 +4,20 @@ description: GenStudio for Performance Marketing [!DNL Products] 제품의 모�
 feature: Product Personalization, Variant Generation, Generative AI
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
 TQID: https://experienceleague.adobe.com/M8grcr4Wo2he7XtOjDC5W5VVri90R6Z0InJfdS6c9yY
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2: id: afc6e550-6640-4eb4-a143-75ec86d23a66id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: afc6e550-6640-4eb4-a143-75ec86d23a66
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 534
@@ -25,7 +34,7 @@ GenStudio for Performance Marketing의 [!DNL Products]은(는) 제품 사양, �
 **제품을 보거나 수정하려면**:
 
 1. 왼쪽 탐색 영역에서 **[!UICONTROL 제품]**&#x200B;을 클릭합니다.
-1. [개별 세부 정보를 보거나 제품을 수정하려면](add-guidelines.md#manage-products)_[!DNL Products]_동작 메뉴를 클릭하고&#x200B;**[!UICONTROL 열기]**를 선택합니다.
+1. [개별 세부 정보를 보거나 제품을 수정하려면](add-guidelines.md#manage-products)_[!DNL Products]_&#x200B;동작 메뉴를 클릭하고&#x200B;**[!UICONTROL 열기]**&#x200B;를 선택합니다.
 1. 지침 범주 텍스트 필드를 클릭하여 제품 지침을 수정합니다.
 
 GenStudio for Performance Marketing에서 제품을 추가하거나 수정하는 방법은 [지침 추가](add-guidelines.md)를 참조하세요.
