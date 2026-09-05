@@ -34,7 +34,7 @@ ht-degree: 1%
 
 # GenStudio for Performance Marketing 지침
 
->[!VIDEO](https://video.tv.adobe.com/v/3502922?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502936?captions=kor&learn=on)
 
 GenStudio for Performance Marketing 지침을 업로드하거나 GenStudio for Performance Marketing에 수동으로 추가하여 사용자가 브랜드 정체성의 본질을 파악하는 브랜드 지침을 설정할 수 있습니다.
 
