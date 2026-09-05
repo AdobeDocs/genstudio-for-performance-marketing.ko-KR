@@ -36,7 +36,7 @@ GenStudio for Performance Marketing은 에셋을 수정할 수 있는 기회가 
 
 가장 좋은 방법은 [지침](/help/user-guide/guidelines/overview.md)을(를) 사용하여 GenStudio for Performance Marketing에 브랜드 정보를 제공하는 것입니다. 그러면 생성 AI를 완전히 활용하여 브랜드에 맞게 조정된 콘텐츠 경험을 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502672?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502678?captions=kor&learn=on)
 
 ## 기술 언어
 
