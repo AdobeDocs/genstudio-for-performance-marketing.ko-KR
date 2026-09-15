@@ -22,7 +22,7 @@ Meta 캐러셀 광고는 각각 고유한 이미지 또는 비디오, 헤드라�
 
 템플릿을 선택하고 캔버스를 연 후 프롬프트 서랍에서 슬라이드 형식을 선택합니다.
 
-1. _[!DNL Create your ads]_패널에서_[!UICONTROL &#x200B;매개 변수&#x200B;]_를 확장합니다.
+1. _[!DNL Create your ads]_&#x200B;패널에서&#x200B;_[!UICONTROL &#x200B;매개 변수&#x200B;]_&#x200B;를 확장합니다.
 1. **[!UICONTROL 형식]** 드롭다운 메뉴에서 **[!UICONTROL 광고 회전]**&#x200B;을(를) 선택합니다.
 
    ![형식 드롭다운이 회전 광고 및 카드 목록으로 설정된 광고 패널 만들기](./carousel-format-cards.png){width="70%" zoomable="yes"}
