@@ -6,13 +6,11 @@ feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
 nudge: true
-source-git-commit: ea05f9614304388b2e8a5d0c87d5bac47b4164b4
+source-git-commit: 1b407c1c66a2426b21cbbf423774ebdff16a7dec
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 84%
-
+source-wordcount: '287'
+ht-degree: 82%
 ---
-
 
 # Adobe GenStudio for Performance Marketing 안내서 {#user-guide}
 
@@ -54,6 +52,7 @@ ht-degree: 84%
   + [템플릿에서 로고 교체 설정](create/logo-swap-setup.md)
   + [전자 메일 환경 만들기](create/create-email-experience.md)
   + [Meta 광고 경험 만들기](create/create-meta-ad.md)
+  + [Meta 광고 경험 만들기 - 광고 회전](create/create-meta-carousel-ad.md)
   + [ChatGPT 광고 경험 만들기](create/create-chatgpt-ad.md)
   + [LinkedIn 경험 만들기](create/create-linkedin.md)
   + [디스플레이 광고 경험 만들기](create/create-display-ad.md)
