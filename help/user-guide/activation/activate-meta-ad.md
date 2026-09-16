@@ -6,228 +6,67 @@ exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
 TQID: https://experienceleague.adobe.com/hDR0ngNiGnCXCCOgNhVG8gX4kHGrNvfybPbuMLwYk7U
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
 subfeature_v2:
   - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
+    internal-label: Metadata
+source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
 workflow-type: tm+mt
-source-wordcount: 1981
-ht-degree: 1%
-
+source-wordcount: '382'
+ht-degree: 0%
 ---
-
 # Meta 광고 활성화
 
 Adobe GenStudio for Performance Marketing은 Instagram 및 Facebook에 대한 Meta 광고 경험 활성화를 지원합니다.
 
-GenStudio for Performance Marketing에서 [Meta 경험을 만들고](/help/user-guide/create/create-meta-ad.md)활성화하도록 선택하거나 [!DNL Activate]의 승인된 자산에서 새 경험을 만들 수 있습니다.
+**지원되는 형식**: 이미지, 비디오, 회전 메뉴.
 
-Meta 광고를 활성화하면 다른 유료 채널을 활성화하는 데 필요한 [동일한 일반 단계](create-activation.md)를 따릅니다. 활성화 프로세스는 Meta의 특정 요구 사항에 대한 광고 경험 준비를 지원합니다. GenStudio for Performance Marketing에서 Meta 환경을 활성화한 후 최종 게시하기 전에 [Meta 광고 관리자](https://adsmanager.facebook.com/)를 사용하여 특정 Meta 광고 배치에 대한 환경을 미세 조정하십시오.
+GenStudio for Performance Marketing에서 [Meta 경험을 만들기](/help/user-guide/create/create-meta-ad.md)한 다음 활성화하도록 선택하십시오.
+
+Meta 광고를 활성화하면 다른 유료 광고 채널로의 활성화에 필요한 [동일한 일반 단계](create-activation.md)를 따릅니다. 이 페이지에서는 Meta 관련 사전 요구 사항 및 설정 필드를 다룹니다. GenStudio for Performance Marketing에서 Meta 환경을 활성화한 후 [Meta Ads Manager](https://adsmanager.facebook.com/)를 사용하여 환경을 검토하고 광고를 시작합니다.
+
+일부 다른 채널과 달리 Meta 광고는 단일 광고 내에 여러 종횡비를 포함할 수 있습니다. 경험에 종횡비가 여러 개인 경우 [!DNL Activate]은(는) 종횡비에 한 행이 아닌 한 행만 생성합니다.
 
 GenStudio 시스템 관리자 및 편집자는 광고 경험을 활성화할 수 있습니다.
 
-## 1단계: Meta 계정 설정
-
-활성화를 시작하기 전에 [Meta에 로그인](https://adsmanager.facebook.com/)하여 Meta Ads Manager 계정에 액세스하십시오.
-
->[!BEGINSHADEBOX]
-
-**필수 구성 요소**:
+## 사전 요구 사항
 
 연결된 Meta 광고 계정에 Meta 광고 플랫폼의 이러한 구성 요소에서 광고를 관리할 수 있는 모든 권한이 있는지 확인합니다.
 
+* Meta 광고 계정
 * Facebook 페이지
 * Meta campaign
 * Meta 광고 세트
 * Instagram 프로필(선택 사항)
 
->[!ENDSHADEBOX]
+대상 Meta 캠페인 및 광고 세트는 Meta Ads Manager에 이미 있어야 합니다. GenStudio for Performance Marketing은 현재 캠페인이나 광고 세트를 생성하지 않습니다.
 
-## 2단계: Meta 계정에 연결
+## Meta 계정 연결
 
-조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 Meta 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio과 Meta과 같은 외부 마케팅 도구 간에 데이터를 흐르게 하여 활성화 프로세스를 활성화할 수 있습니다. [Meta 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.
+조직에서 경험을 활성화하려면 먼저 GenStudio 시스템 관리자가 Meta 계정을 GenStudio for Performance Marketing에 연결해야 합니다. 이 연결을 통해 GenStudio for Performance Marketing과 Meta 간에 데이터를 전송하여 활성화 프로세스를 사용할 수 있습니다. [Meta 광고에 연결](/help/user-guide/connectors/meta-ads.md)을 참조하세요.
 
-Instagram 계정을 선택하려면 Meta Business Manager에서 사용할 Instagram 계정이 온보딩 중에 선택한 [동일한 광고 계정](/help/user-guide/connectors/meta-ads.md#connect-an-instagram-account)에 연결되어 있는지 확인하십시오. 이 연결이 누락된 경우 활성화 중에 Instagram 계정이 [!DNL GenStudio for Performance Marketing] _Instagram 계정_ 드롭다운 메뉴에 나타나지 않을 수 있습니다.
+Instagram 계정을 선택하려면 Meta Business Manager에서 사용할 Instagram 계정이 온보딩 중에 선택한 [동일한 광고 계정](/help/user-guide/connectors/meta-ads.md#connect-an-instagram-account)에 연결되어 있는지 확인하십시오. 이 연결이 누락된 경우 활성화 중에 Instagram 계정이 **[!UICONTROL Instagram 프로필]** 드롭다운 메뉴에 나타나지 않을 수 있습니다.
 
 동기화가 완료되면 추가된 계정을 볼 수 있습니다. 대량의 데이터를 동기화하는 데 시간이 더 오래 걸립니다.
 
-## 3단계: 활성화를 위한 환경 준비
+## Meta 설정 필드
 
-다음 두 가지 방법으로 활성화를 시작할 수 있습니다.
+승인된 자산, 헤드라인 및 본문 복사본이 잠겨 있으며 [!DNL Content]에서 이미 검토 및 승인을 받았으므로 활성화 중에 편집할 수 없습니다. 다음을 편집할 수 있습니다.
 
-* **바로[!DNL Content]**&#x200B;에서 활성화합니다. 사전 정의된 설정을 사용하여 승인된 경험을 선택하는 것은 단일 채널에 대한 활성화를 시작하는 가장 간단한 방법입니다.
-
-* **광고 경험을 [!DNL Activate] > _경험 설정_**&#x200B;에서 조합합니다. [!DNL Content]에서 시각적 자산을 선택하고, 텍스트 요소를 추가하고, 종횡비를 선택하여 경험을 만들 수 있습니다. 이 접근 방식은 단계가 더 많지만 크리에이티브 경험을 제작할 때 더 많은 유연성을 제공합니다.
-
-### 콘텐츠에서 승인된 경험 활성화
-
-두 개 이상의 경험을 선택하여 단일 유료 채널로 활성화할 수 있습니다. 활성화를 계속하기 전에 플랫폼을 선택하라는 메시지가 표시될 수 있습니다.
-
-그룹으로 활성화할 경험을 두 개 이상 선택한 경우 왼쪽 사이드바를 사용하여 선택한 경험의 세부 정보에 _경험 설정_ 보기에 초점을 맞추십시오.
-
-1. [!DNL Content] 갤러리의 검색 및 필터 도구를 사용하여 활성화할 환경을 식별한 다음 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
-
-   이 경험에 대한 Meta 광고 _경험 설정_ 페이지가 열립니다. 선택한 경험의 세부 정보로 미리 채워집니다. **[!UICONTROL Call-to-action]**, **[!UICONTROL 웹 사이트 URL]** 및 **[!UICONTROL 링크 표시]** 필드를 편집할 수 있습니다. 활성화하려는 경험을 두 개 이상 선택하면 _경험 설정_ 보기에 선택한 모든 경험의 썸네일을 표시하는 왼쪽 사이드바가 포함됩니다. 이 왼쪽 사이드바를 사용하여 선택한 경험의 세부 정보에 _경험 설정_ 보기에 초점을 맞추십시오.
-
-1. **[!UICONTROL 캠페인]** 드롭다운 메뉴에서 캠페인을 선택합니다.
-
-   여러 경험을 사용하여 작업하는 경우 각 경험의 준비를 완료할 때까지 왼쪽 사이드바에서 경험을 통해 전환합니다.
-
-1. **[!UICONTROL 다음]**&#x200B;을 클릭하여 Meta 광고 설정을 확인합니다.
-
-1. 각 경험에 이름을 지정합니다. 활성화한 후 이 이름을 사용하여 _활성화된 경험_ 테이블에서 이 경험을 검색할 수 있습니다.
-
-### 경험 구성 요소 결합
-
-[!DNL Content]에서 승인된 경험을 직접 활성화하지 않도록 선택하는 경우 에셋을 선택하고, 종횡비 및 초안 텍스트 요소를 할당할 수 있습니다.
-
-**활성화를 위한 환경을 준비하려면**:
-
-1. [!DNL Activate]에서 선택한 유료 채널을 나타내는 아이콘의 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭합니다. _경험 설정_ 보기가 열립니다.
-
-   _경험 설정_ 페이지는 광고 활성화를 준비하기 위한 중앙 위치를 제공합니다. 광고 준비에는 다음 세 가지 작업이 포함됩니다.
-
-1. 경험에 이름을 지정합니다. 활성화한 후 이 이름을 사용하여 _활성화된 경험_ 테이블에서 이 경험을 검색할 수 있습니다.
-1. 미디어 자산을 선택합니다. [!DNL Content]의 자산을 사용하거나 외부 자산(예: OneDrive 또는 Dropbox)을 업로드할 수 있습니다.
-1. [텍스트 추가](#add-ad-text).
-1. [메타데이터 추가](#assign-metadata).
-
-   _미리 보기 패널_&#x200B;은(는) 특정 광고 배치 컨텍스트에서 텍스트 및 에셋에 대한 대화형 보기를 지원합니다. 지원되는 광고 배치 간을 전환하려면 _배치 선택_ 드롭다운 메뉴를 사용하십시오. 미리보기는 특정 배치에 대한 광고 요소에 대한 결정을 마무리할 수 있는 기회를 제공합니다. _미리 보기_ 패널에서 배치를 선택하면 광고 보기에만 영향을 줍니다. _미리 보기_ 패널의 배치 선택이 저장되지 않았습니다.
-
-### 미디어 자산 선택
-
-_미디어_ 섹션을 사용하여 경험에 포함할 하나 이상의 이미지 자산을 선택하십시오. 광고 배치는 지원되는 이미지 종횡비와 연결되며, _배치_ 드롭다운 메뉴에 옵션으로 나열됩니다. 이 메뉴는 종횡비로 구성된 Facebook 게시물 또는 Instagram 스토리에 대해 지원되는 광고 배치를 표시합니다.
-
-업로드한 자산은 [!DNL Content]에 저장됩니다. _Media_ 영역에는 기본적으로 1:1 종횡비의 이미지가 표시됩니다. 대체 종횡비는 유료 광고 채널에서 지원하는 값만 포함합니다. 세로 및 가로 방향으로 그룹화됩니다. GenStudio for Performance Marketing은 활성화된 경험당 최대 6개의 종횡비를 포함할 수 있습니다.
-
-**콘텐츠에서 에셋을 업로드하려면**:
-
-[!DNL Content]은(는) 조직의 승인된 에셋 및 경험에 대한 중앙 보기를 제공합니다. **[!UICONTROL 검색]**(돋보기) 및 _필터_ 메뉴 옵션을 사용하여 [[!DNL Content] 갤러리](/help/user-guide/content/manage-assets.md)에 표시된 자산 인벤토리에 집중할 수 있습니다.
-
-1. [!DNL Activate]에서 채널 카드의 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭합니다. _경험 설정_ 보기가 열립니다.
-
-1. **[!UICONTROL 선택]**&#x200B;을 클릭한 다음 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 선택합니다. _콘텐츠 선택_ 보기가 열리고 검색하거나 필터링한 이미지 에셋의 갤러리가 표시됩니다.
-
-1. [!DNL Content] 갤러리의 검색 및 필터 도구를 사용하여 업로드할 자산을 하나 이상 선택하십시오.
-
-1. 선택한 자산을 광고 경험에 포함하려면 **[!UICONTROL 사용]**&#x200B;을 클릭하세요. _경험 설정_ 창에 _미디어_ 영역의 기본 종횡비에 자산이 포함됩니다. _미리 보기_ 패널은 이 종횡비를 지원하는 광고 배치의 에셋을 미리 봅니다.
-
-업로드에 성공하지 못하면 _[!DNL Content]_&#x200B;의 에셋에 대한 링크가 포함된 정보 오류 메시지가 열립니다.
-
-**외부 자산을 업로드하려면**:
-
-Microsoft OneDrive 또는 Dropbox에서 [!DNL Content] 갤러리 외부에 있는 정적 이미지를 최대 6개까지 업로드할 수 있습니다.
-
-1. [!DNL Activate]에서 Meta 타일의 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭합니다. _경험 설정_ 창이 열립니다.
-
-1. _미디어_ 섹션에서 **[!UICONTROL 선택]**&#x200B;을 클릭합니다. 드롭다운 메뉴에 _콘텐츠에서 선택_ 또는 _업로드_&#x200B;에 대한 옵션이 표시됩니다.
-
-1. **[!UICONTROL 업로드]**&#x200B;를 클릭합니다. _종횡비 추가_ 창이 열립니다.
-
-1. 이미지 파일을 이미지 업로드 영역으로 끌어다 놓아 지원되는 종횡비의 이미지를 선택합니다. 또는 장치에서 에셋을 검색할 수 있습니다.
-
-1. (선택 사항) 장치에서 에셋을 업로드하려면 **[!UICONTROL 찾아보기]**&#x200B;를 클릭한 다음 _파일 찾아보기_ 또는 _폴더 찾아보기_&#x200B;를 선택하여 업로드할 에셋을 식별합니다.
-
-1. _세부 정보 추가_ 영역에서 업로드한 자산에 자세한 정보를 추가하여 _[!DNL Content]_&#x200B;에서 검색 및 필터링을 용이하게 합니다. 이러한 세부 사항은 메타데이터로 저장됩니다.
-
-1. 에셋을 업로드하고 세부 정보를 할당하면 오른쪽 하단의 **[!UICONTROL Assets 추가]**&#x200B;를 클릭합니다.
-
-### 광고 텍스트 추가
-
-_Meta 광고 활성화_ 페이지의 _텍스트_ 섹션을 사용하여 필수 텍스트 필드에 매력적인 브랜드 준수 텍스트를 추가하십시오. 텍스트에는 광고 및 call-to-action 텍스트에 대한 기본(본문) 텍스트가 포함됩니다. _기본 텍스트_, _헤드라인_ 및 _설명_ 필드를 편집할 수 없습니다. _Call-to-action_, _링크 표시_ 및 _웹 사이트 URL_ 필드를 편집할 수 있습니다.
-
-| 필드 | 필수 여부 | 문자 제한(최대) |
-|-----------------|---------------------------|---------------------------------|
-| 광고 이름 | 예 | 500 |
-| 기본 텍스트 | 예 | 500 |
-| 제목 | 예 | 255 |
-| 설명 | 아니오 | 125 |
-| Call to action | 예 | 드롭다운 메뉴 옵션만 |
-| URL 표시 | 아니오 | 1000 |
-| 웹 사이트 URL | 예 | 1000 |
-| 이미지 | 필요한 항목 하나 이상 |                                 |
-
-GenStudio for Performance Marketing에는 Meta이 아닌 _기본 텍스트_ 및 _헤드라인_&#x200B;이 필요합니다.
-
-### 메타데이터 할당
-
-경험 세부 사항은 메타데이터로 저장되고 경험을 검색할 때 사용자를 지원합니다. 이러한 세부 정보를 통해 [!DNL Content]에서 경험의 가시성이 향상됩니다. 이러한 선택적 사용자 정의 세부 정보를 사용하여 경험의 목적과 컨텍스트 또는 이를 배포하는 캠페인을 식별합니다.
-
-| 세부 사항 | 설명 |
-|------------|-------------|
-| 캠페인 | 광고 경험이 속한 모든 GenStudio for Performance Marketing 캠페인 |
-| 브랜드 | 사용자가 브랜드 정체성의 본질을 캡처하는 브랜드 지침을 설정할 수 있도록 해주는 지침(사용자 정의 또는 기본값). |
-| 제품 | 조직과 연계되고 GenStudio for Performance Marketing에서 식별된 제품 |
-| 페르소나 | 조직과 연결되고 GenStudio for Performance Marketing에서 식별된 사용자 |
-| 일정 | 광고 경험이 활성화된 분기, 시즌, 연도 또는 기타 조직에서 정의한 시간 단위입니다 |
-| 지역 | 경험이 시작되는 지리적 지역 |
-| 언어 | 광고 경험이 사용되는 언어 |
-| 키워드 | 광고 경험의 검색 및 분류를 용이하게 하는 사용자 정의 키워드 |
-
-환경을 조합하거나 선택한 후 **[!UICONTROL 다음]**&#x200B;을 클릭하여 Meta 설정을 확인합니다.
-
-## 4단계: Meta 계정 설정 확인
-
-광고 경험을 준비한 후에는 Meta 계정 정보를 확인해야 합니다. _Meta 광고 설정_ 보기는 구성된 Meta 계정에서 파생된 옵션으로 채워집니다.
-
-| 세부 사항 | 설명 |
-|------------|-------------|
-| 계정 | GenStudio for Performance Marketing에 연결된 Meta 계정 |
-| Facebook 페이지 | 경험이 게시되는 Facebook 페이지 |
-| Instagram 계정 | GenStudio for Performance Marketing에 연결된 Instagram 계정 |
-| 캠페인 | 광고 경험이 속한 Meta 캠페인 |
-| 광고 집합 | Meta 광고는 활성화된 광고 경험이 속한 를 설정합니다. 설정은 광고의 최종 배치를 결정합니다. |
-
-### 새 광고 세트 만들기
-
-플랫폼 설정 중에 기존 광고 세트를 복제하여 플랫폼 설정 중에 새 광고 세트를 만들 수 있습니다. Meta 광고 세트는 특정 광고의 시간, 채널 세부 정보 및 대상을 정의합니다. Meta 캠페인에는 여러 광고 세트가 포함될 수 있지만 광고 세트는 하나의 캠페인에만 연결됩니다.
-
-**새 광고 집합을 만들려면**:
-
-1. _Meta 캠페인_ 드롭다운 메뉴에서 캠페인을 선택합니다.
-
-   선택한 캠페인은 _광고 세트_ 드롭다운 메뉴에서 옵션으로 사용할 수 있는 광고 세트를 결정합니다.
-
-1. **[!UICONTROL + 새 광고 집합 만들기]**&#x200B;를 클릭합니다.
-
-   새 광고 세트가 만들어지는 Meta 캠페인을 식별하는 _새 광고 세트 만들기_ 팝업이 열립니다.
-
-1. _구성 사용 위치_ 드롭다운 메뉴에서 복제할 광고 세트를 선택합니다.
-
-   GenStudio for Performance Marketing은 선택한 광고 집합 이름에 `- Copy`을(를) 추가하여 기본 광고 집합 이름을 할당합니다.
-
-1. (선택 사항이지만 권장됨) **[!UICONTROL 새 광고 집합 이름]** 필드에 고유한 광고 이름을 입력하여 기본값을 바꿉니다.
-
-1. **[!UICONTROL 광고 집합 만들기]**&#x200B;를 클릭합니다.
-
-   새 광고 집합을 미리 선택한 _플랫폼 설정_ 보기로 돌아갔습니다. Meta Ads Manager의 광고 세트에 대한 링크를 포함하는 성공 메시지가 표시됩니다. 이 광고 세트는 향후 활성화할 수 있습니다.
-
->[!NOTE]
->
->광고 세트를 만들었지만 광고 세트 이름을 저장할 수 없는 경우 광고 세트는 기본 이름(_원래 광고 세트 이름 - 복사본_)으로 Meta Ads Manager에 저장됩니다.
-
-### 추적 ID
-
-추적 ID(광고 이름)는 경험 성능에 연결된 지표를 수집하기 위한 메커니즘을 제공합니다. 이 필드에 광고 이름을 입력합니다.
-
-광고 경험을 미리 보고 활성화를 완료하려면 오른쪽 상단의 **[!UICONTROL 다음]**&#x200B;을 클릭하세요.
-
-## 5단계: 광고 미리보기 및 활성화
-
-_검토_ 페이지에는 광고 경험이 _경험 설정_&#x200B;에 조합되어 표시되고 경험을 보고 편집할 수 있는 마지막 기회가 제공됩니다. 변경하려면 _경험 설정_ 레이블 옆에 있는 **[!UICONTROL 섹션 편집]**&#x200B;을 클릭하세요. 오른쪽 상단의 **[!UICONTROL 뒤로]**&#x200B;를 클릭하여 _경험 설정_ 페이지로 돌아갈 수도 있습니다.
-
-### 6단계: 광고 경험 활성화 완료
-
-1. **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
-
-   전체 Meta 광고 경험과 관련 메타데이터는 선택한 Meta Ads Manager 광고 세트에 직접 푸시됩니다. 경험은 비활성 상태에서 Meta Ads Manager로 전달됩니다. Meta Ads Manager에서 광고 경험 및 Meta 캠페인을 배포하는 최종 단계를 관리할 수 있습니다.
-
-1. [Meta Ads Manager에 로그인](https://adsmanager.facebook.com/)하여 광고 경험을 검토하고 특정 Meta 채널로의 게시를 완료합니다.
+* **텍스트 필드**: 설명, Call-to-action, 대상 URL, URL 매개 변수, 추적 ID(Meta 광고 이름으로 사용됨)
+* **플랫폼 설정 필드**: 광고 계정, Facebook 페이지, Instagram 프로필, Meta 캠페인, Meta 광고 집합

@@ -7,35 +7,43 @@ exl-id: 5bc624c2-d064-4190-8761-ed05d0629d1f
 TQID: https://experienceleague.adobe.com/-D3DGxTpZ-0J-grE5-jKPrptf4C1Z-OE1t0DCoqhRLQ
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Security
+source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
 workflow-type: tm+mt
-source-wordcount: 466
+source-wordcount: '530'
 ht-degree: 1%
-
 ---
-
 # 활성화 최적화
 
 유료 광고 채널에 대한 광고 경험을 활성화하려면 다음 두 가지 주요 단계가 필요합니다.
 
-* 활성화를 위한 경험 준비
+* 활성화 테이블의 각 행에 대한 광고 및 플랫폼 설정 세부 정보 구성
 
-* 지정된 유료 채널 광고 관리자에게 경험 게시
+* 지정된 유료 광고 채널의 광고 관리자에 활성화 게시
 
-광고 경험을 만들고 활성화할 때 따라야 할 모범 사례는 타겟 채널에 전달하는 동안 발생할 수 있는 잠재적인 합병증이나 오류를 최소화하는 데 도움이 될 수 있습니다.
+광고 경험을 구성하고 활성화할 때의 다음 모범 사례를 통해 타겟 채널에 전달하는 동안 발생할 수 있는 잠재적인 합병증이나 오류를 최소화하는 데 도움이 될 수 있습니다.
 
 ## 모범 사례
 
 다음은 방지할 수 있는 몇 가지 일반적인 모범 사례와 오류입니다.
+
+* **각 행에 고유한 추적 ID를 사용합니다**
+
+  [!DNL Activate]은(는) 중복 추적 ID를 [!UICONTROL 주의가 필요합니다]&#x200B;(으)로 플래그를 지정하며 영향을 받는 형식 및 플랫폼 테이블의 각 행에 고유한 추적 ID가 있을 때까지 게시할 수 없습니다. 여러 행에서 추적 ID를 대량 편집하는 경우 선택한 모든 행에 동일한 값을 적용하려고 했는지 확인하십시오.
 
 * **유효한 전체 대상 URL을 사용**
 
@@ -43,7 +51,7 @@ ht-degree: 1%
 
 * **응용 프로그램에서 토큰 만료를 올바르게 처리하는지 확인**
 
-  응용 프로그램은 필요에 따라 새 토큰을 요청해야 합니다. 필요에 따라 다시 로그인하거나 세션을 새로 고침하여 다시 인증하고 새 액세스 토큰을 얻습니다. 샘플 오류: _액세스 토큰을 확인하는 동안 오류가 발생했습니다. 사용자가 암호를 변경했거나 보안상의 이유로 Facebook이 세션을 변경했기 때문에 세션이 무효화되었습니다. (190)_
+  응용 프로그램은 필요에 따라 새 토큰을 요청해야 합니다. 다시 로그인하거나 세션을 새로 고침하여 다시 인증하고 새 액세스 토큰을 얻습니다. 샘플 오류: _액세스 토큰을 확인하는 동안 오류가 발생했습니다. 사용자가 암호를 변경했거나 보안상의 이유로 Facebook이 세션을 변경했기 때문에 세션이 무효화되었습니다. (190)_
 
 * **광고 집합을 검토하고 언제든지 하나의 광고만 활성화되었는지 확인**
 
