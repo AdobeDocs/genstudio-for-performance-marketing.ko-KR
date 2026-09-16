@@ -46,7 +46,7 @@ ht-degree: 1%
 
 단일 활성화 표에는 여러 유료 광고 채널과 광고 형식에 대한 경험이 한 번에 포함될 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503543?captions=kor&learn=on)
 
 ## 채널 계정 연결
 
