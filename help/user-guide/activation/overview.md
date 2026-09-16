@@ -44,7 +44,7 @@ GenStudio for Performance Marketing [!DNL Activate]에서 Meta 또는 LinkedIn�
 
 [!DNL Activate]을(를) 사용하여 대상 유료 광고 채널에 대한 광고 경험을 준비합니다. 단일 활성화 테이블에서 여러 유료 광고 채널 간에 [경험을 대량으로 활성화](create-activation.md)합니다. 그런 다음 [활성화를 관리](manage-activations.md)하여 활성화된 모든 경험의 상태와 세부 정보를 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503543?captions=kor&learn=on)
 
 ### 콘텐츠에서 승인된 경험 활성화
 
