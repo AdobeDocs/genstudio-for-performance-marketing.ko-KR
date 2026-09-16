@@ -7,52 +7,89 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
 subfeature_v2:
   - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+    internal-label: Email experiences
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
   - id: b03d2162-d906-40a0-9cbd-001391e22d4a
+    internal-label: Content performance
   - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
+    internal-label: Campaign brief
   - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+    internal-label: Ad performance
   - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
   - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
   - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
   - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
   - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+    internal-label: Create prompt
   - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
   - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
+    internal-label: Meta experiences
   - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+    internal-label: Display ad experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 86c5e5236bf256694858ae5b0ca1f6930cf35033
+    internal-label: Insights
+source-git-commit: 5d651c7ec00aff866ce1f3698521b5baf48b3385
 workflow-type: tm+mt
-source-wordcount: 5751
+source-wordcount: '5824'
 ht-degree: 0%
-
 ---
-
 # GenStudio for Performance Marketing 릴리스 노트
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.07.16 {#latest}
+## 2026.09.15 {#latest}
 
 **새로운 기능:**
+
+### 일괄 활성화
+
+이제 [!DNL Activate]에서 일괄 활성화를 지원합니다. [!DNL Content]에서 승인된 여러 경험을 선택하고 Meta, LinkedIn, Google Campaign Manager 360, Amazon Ads, Innovid, TikTok, YouTube, ChatGPT 및 The Trade Desk를 비롯한 여러 유료 광고 채널 간에 단일 활성화 테이블에 게시합니다. 인라인 또는 대량으로 공유 필드를 편집한 다음, 광고당 상태 추적과 함께 모든 광고를 게시하고 실패한 모든 광고에 대해 자동으로 다시 시도합니다.
+
+[활성화 워크플로](/help/user-guide/activation/create-activation.md)에서 자세히 알아보세요.
+
+## 이전 릴리스 노트
+
++++2026.07.16 릴리스 정보
 
 ### Horizon 캔버스에서 일괄 편집
 
@@ -66,7 +103,7 @@ ht-degree: 0%
 
 이제 Horizon 캔버스의 텍스트 블록을 AEM 콘텐츠 조각 라이브러리에서 바로 가져온 사전 승인된 재사용 가능한 콘텐츠 조각으로 교환할 수 있습니다. 콘텐츠 조각 스왑은 벌크 편집과 함께 작동하므로 스왑을 단일 크기에 적용하거나 모든 크기와 개념을 한 번에 전파하여 규제 대상 복제본을 수동으로 다시 입력하지 않고도 승인된 것으로 유지할 수 있습니다.
 
-## 이전 릴리스 노트
++++
 
 +++2026.06.11 릴리스 정보
 
@@ -246,7 +283,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[&#128279;](/help/user-guide/create/generate-assets.md)에서 훈련된 사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md)에서 훈련된 [사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -512,7 +549,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
