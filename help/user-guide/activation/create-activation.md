@@ -6,62 +6,123 @@ exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
 TQID: https://experienceleague.adobe.com/HSwFeL1qCzgFao2Ii64Hx-kaADRnd3dxaswFMzJ7nfA
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
   - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2694ca42a231d75df755936f80b398d554f42842
+    internal-label: Insights
+source-git-commit: 6cb428b368f75e0b646cfa4e6536a4728fdf40e2
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '1158'
 ht-degree: 1%
-
 ---
-
 # 활성화 워크플로
 
-[!DNL Activate]은(는) Meta 또는 Google Campaign Manager 360 광고 경험과 같은 채널별 형식의 광고 경험 활성화를 지원합니다.
+[!DNL Activate]이(가) 유료 광고 채널에 게시된 경험을 활성화합니다. GenStudio for Performance Marketing 경험은 유료 광고 채널의 특정 대상을 위해 준비된 광고와 같은 마케팅 캠페인 구성 요소입니다. 활성화 경험에는 세 가지 주요 구성 요소가 포함되어 있습니다.
 
-GenStudio for Performance Marketing 경험은 유료 광고 채널 또는 이메일에서 특정 대상에 대한 광고 경험으로 준비된 광고와 같은 마케팅 캠페인 구성 요소입니다. 활성화 경험에는 세 가지 주요 구성 요소가 포함되어 있습니다.
+* **미디어 자산**: 광고 경험에 포함된 이미지 또는 비디오입니다. 지원되는 파일 형식 및 종횡비는 채널 및 형식에 따라 다릅니다.
 
-* **미디어 자산**: 미디어 자산은 광고 환경에 포함된 이미지(GIF, PNG, JPEG)입니다. 활성화는 현재 정적 이미지를 지원합니다.
+* **텍스트**: 헤드라인, 본문, call-to-action 요소 등 광고에 포함된 모든 형식의 복사본입니다.
 
-  광고 경험에 대한 이미지 자산을 선택하려면 적절한 종횡비를 선택해야 합니다. 종횡비는 이미지의 폭과 높이 간의 비례 관계를 정의하며, 광고 배치의 효과에 매우 중요합니다. 유료 미디어 채널은 플랫폼에서의 각 광고 배치에 대해 유효한 종횡비를 신중하게 지정합니다. 활성화에 이미지 자산을 추가할 때 경험에 대한 최종 광고 배치를 기반으로 종횡비를 선택해야 합니다. 파일 유형은 JPEG, PNG 및 GIF으로 제한됩니다.
+* **메타데이터**: 성능 분석, 필터링 및 추적을 향상시키는 사용자 정의 특성입니다. 메타데이터는 일반적으로 최종 광고 대상자에게 표시되지 않습니다.
 
-* **텍스트**: 텍스트는 헤드라인, 본문, call-to-action 요소 등 광고에 포함된 모든 형식의 복사본으로 구성됩니다.
+활성화하기 전에 [!DNL Content]에서 이러한 구성 요소를 준비하고 승인합니다. [!DNL Activate]은(는) 승인된 에셋, 헤드라인 또는 본문 복사본을 만들거나 편집하지 않습니다. 각 채널에 필요한 설정만 적용한 다음 경험을 게시합니다.
 
-* **메타데이터**: 콘텐츠에 할당할 수 있는 사용자 정의 특성입니다. 메타데이터는 성능 분석, 필터링 및 추적을 향상시킵니다. 일반적으로 사용자는 볼 수 없습니다.
+단일 활성화 표에는 여러 유료 광고 채널과 광고 형식에 대한 경험이 한 번에 포함될 수 있습니다.
 
-활성화 만들기에는 지정된 채널 배치 및 마케팅 캠페인을 위해 이러한 각 광고 구성 요소를 구체화하는 작업이 포함됩니다. GenStudio for Performance Marketing은 하나의 유료 채널을 통한 하나의 경험 활성화를 지원합니다.
+>[!VIDEO](https://video.tv.adobe.com/v/3503543?captions=kor&learn=on)
 
-## 워크플로 단계
+## 채널 계정 연결
 
-고유한 배치 요구 사항이 각 유료 채널을 정의하지만, 모든 광고 활성화는 동일한 높은 수준의 단계를 공유합니다. 유료 채널에 대한 경험을 활성화하면 세 가지 핵심 단계가 있습니다.
+해당 채널에 경험을 활성화하려면 먼저 GenStudio 시스템 관리자 또는 편집기가 각 유료 광고 채널에 대한 광고 계정을 연결해야 합니다. 이 프로세스의 단계를 보려면 [유료 미디어 계정 연결](/help/user-guide/connectors/connect-channel.md)을 참조하십시오.
 
-1. **대상 채널에 GenStudio for Performance Marketing 연결**. GenStudio 시스템 관리자는 경험을 활성화하기 전에 채널 계정을 연결해야 합니다.
+## 활성화 시작
 
-1. **활성화를 위한 환경 준비**. 다음 두 가지 방법으로 활성화를 위한 경험을 준비할 수 있습니다.
+다음 두 진입점 중 하나에서 활성화를 시작합니다.
 
-   * [!DNL Content]에서 바로 사전 정의된 설정으로 승인된 경험을 활성화합니다. 하나 이상의 광고 경험을 단일 채널로 활성화하는 간소화된 방법입니다. [!DNL Content] 갤러리에서 경험을 선택하면 자산을 편집하거나 광고 경험에 추가할 수 없습니다. [!DNL Content]에서 Meta 및 Google Campaign Manager 360 광고 경험에 대한 활성화를 사용할 수 있습니다.
+* **시작:[!DNL Content]**: 경험으로 필터링하고 게시된 경험을 한 개 이상 선택한 다음 맨 위의 작업 표시줄에서 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
+* [!DNL Activate]&#x200B;**에서**: [!DNL Activate] 랜딩 페이지에서 **[!UICONTROL + 새 활성화]**&#x200B;를 클릭합니다. 그러면 활성화할 경험을 선택할 수 있는 경험 갤러리가 열립니다.
 
-   * [!DNL Content]에서 시각적 자산을 선택하고, 텍스트 요소를 추가하고, 종횡비를 선택하여 광고 경험을 조합합니다. 이 방법에는 더 많은 단계가 포함되지만 보다 창의적인 유연성을 제공합니다. 준비에는 특정 광고 배치에 적절한 종횡비로 미디어 에셋을 선택하고 call-to-action 요소 및 본문 사본에 텍스트를 할당하는 작업이 포함됩니다. 활성화 후 경험을 검색하는 데 도움이 되는 유용한 메타데이터를 추가할 수 있습니다. 각 광고 채널 배치는 배치에 포함된 시각적 에셋에 대해 유효한 종횡비를 지정합니다.
+두 경우 모두 경험 이름으로 검색하거나, 여러 채널로 필터링하여 원하는 경험을 찾습니다.
 
-1. **경험을 검토하고 대상 채널에 게시합니다**. 활성화를 완료하기 전에 경험 설정 중에 _미리 보기_ 패널을 사용하여 광고 배치 및 텍스트 요소 선택을 평가합니다. 최종 게시 전 검토는 대상 채널의 광고 관리 앱에서 수행됩니다. 예를 들어 GenStudio for Performance Marketing에서 Meta 광고 경험을 활성화한 후 Meta Ads Manager에 로그인하고 광고 경험을 검토한 다음 게시하기 전에 특정 속성을 선택해야 합니다.
+선택 항목에 디스플레이 형식 경험이 포함된 경우 사용할 디스플레이 플랫폼(Google Campaign Manager 360, Innovid, Amazon Ads 또는 The Trade Desk)을 지정합니다. **[!UICONTROL 활성화 시작]**&#x200B;을 클릭합니다. Meta, LinkedIn, TikTok, YouTube 및 ChatGPT와 같은 다른 형식의 경우 [!DNL Activate]은(는) 경험의 채널에서 플랫폼을 유추하고 이 단계를 건너뜁니다.
 
-광고 경험이 대상 유료 미디어 채널에서 라이브되면 [!DNL Insights]에서 해당 성능 데이터를 추적하고 분석할 수 있습니다.
+[!DNL Activate]은(는) 선택한 모든 경험을 나열하는 활성화 테이블을 생성합니다. 테이블은 광고 형식 및 채널별로 하위 테이블로 구성됩니다(예: Meta 단일 이미지 또는 LinkedIn 단일 이미지). 각 행은 하나의 광고를 나타냅니다. LinkedIn, TikTok 및 디스플레이 채널과 같은 대부분의 채널의 경우 종횡비가 여러 개인 경험이 종횡비당 하나의 행을 생성합니다. 필요하지 않은 행은 모두 삭제합니다. Meta은 예외입니다. Meta 광고는 단일 광고 내에 여러 종횡비를 포함할 수 있으므로 다중 종횡비 Meta 경험은 여전히 하나의 행만 생성합니다.
+
+활성화 테이블이 열리면 자동으로 초안으로 저장됩니다. 게시하기 전에 언제든지 초안을 떠났다가 다시 시작할 수 있습니다.
+
+이미 연 활성화 테이블에 경험을 추가하려면 테이블의 오른쪽 상단에서 **[!UICONTROL 경험 추가]**&#x200B;를 클릭합니다. [!DNL Activate]이(가) 기존 표에 추가하는 추가 경험을 선택할 수 있도록 경험 갤러리가 다시 열립니다.
+
+**[!UICONTROL 경험을 더 추가]**&#x200B;하면 같은 테이블에 있는 두 개 이상의 디스플레이 플랫폼을 활성화할 수도 있습니다. 디스플레이 형식 경험에서는 먼저 단일 디스플레이 플랫폼을 선택해야 하지만 **[!UICONTROL 경험 추가]**&#x200B;를 클릭하고 더 많은 디스플레이 형식 경험을 선택한 다음 표에 있는 것과 다른 디스플레이 플랫폼을 선택할 수 있습니다. 예를 들어 이미 Innovid 광고가 포함된 테이블에 The Trade Desk 광고를 추가할 수 있습니다.
+
+## 광고 및 플랫폼 설정 세부 정보 구성
+
+승인된 자산, 헤드라인 및 본문 복사본이 잠겨 있으며 [!DNL Content]에서 이미 검토 및 승인을 받았으므로 활성화 테이블에서 편집할 수 없습니다. 나머지 필드는 편집할 수 있으며 채널별로 다릅니다.
+
+>[!NOTE]
+>
+>[!DNL Content]이(가) **channel**&#x200B;에서 Meta 또는 LinkedIn 같은 대상을 호출합니다. [!DNL Activate]이(가) 동일한 대상을 **플랫폼**&#x200B;로 호출합니다(예: **[!UICONTROL 플랫폼 설정]** 및 **편집 가능한 플랫폼 설정 필드** 아래 열에서). 두 용어는 같은 것을 가리킵니다.
+
+채널의 필드를 미리 조회할 필요가 없습니다. [!DNL Activate]에는 선택한 채널 및 형식과 관련된 열만 표시됩니다. 아래 표를 채널당 편집 가능한 내용에 대한 참조로 사용하십시오.
+
+채널별 **편집 가능한 필드**
+
+| 채널 | 지원되는 형식 | 잠긴 사본 | 편집 가능한 텍스트 필드 | 편집 가능한 플랫폼 설정 필드 |
+|---|---|---|---|---|
+| Meta | 이미지, 비디오, 회전 메뉴 | 제목, 본문 | 설명, Call-to-action, 대상 URL, URL 매개 변수, 추적 ID | 광고 계정, Facebook 페이지, Instagram 프로필, Meta 캠페인, Meta 광고 세트 |
+| LinkedIn | 단일 이미지, 단일 비디오 | 헤드라인, 소개 텍스트 | 설명, Call-to-action, 대상 URL, URL 매개 변수, 추적 ID | 광고 계정, 캠페인, 광고 세트 |
+| Google Campaign Manager 360 | 정적 디스플레이, 비디오 디스플레이, HTML5 Zip 디스플레이 | 해당 없음 | 추적 ID | 광고주 |
+| Amazon 광고 | 정적 디스플레이 | 해당 없음 | 추적 ID | 계정 |
+| 이노비드 | 정적 디스플레이, HTML5 Zip 디스플레이 | 해당 없음 | 추적 ID | 계정, Creative 라이브러리, 개념 이름 |
+| TikTok | 인피드 비디오 광고 | 기본 텍스트 | Call-to-action, 대상 URL, 추적 ID | 광고 계정, 캠페인, 광고 그룹 |
+| YouTube | Google Ads Demand Gen 캠페인의 Shorts | 설명 | Call-to-action, 비즈니스 이름, 대상 URL, URL 매개 변수, 추적 ID | 계정, 캠페인, 광고 그룹, 로고 |
+| ChatGPT | 채팅 카드 | 제목, 본문 | 대상 URL, 추적 ID | OpenAI 광고 계정, OpenAI 캠페인, OpenAI 광고 그룹 |
+| 트레이드 데스크 | 정적 디스플레이 | 해당 없음 | 추적 ID | 계정, 캠페인 |
+
+**추적 ID**&#x200B;은(는) 광고 행에 할당하는 고유 레이블입니다. 광고 또는 크리에이티브 이름으로 대상 플랫폼에 전달되므로 이를 사용하여 보고 및 문제 해결을 위해 해당 광고를 식별할 수 있습니다.
+
+행별로 인라인으로 필드를 편집하거나 동일한 형식 테이블 내에서 여러 행을 선택하고 도구 모음에서 **[!UICONTROL 세부 정보 편집]**&#x200B;을 클릭하면 해당 필드가 한 번에 대량 편집됩니다. 광고 형식 그룹에 대한 플랫폼 설정 필드를 구성하려면 **[!UICONTROL 플랫폼 설정 관리]**&#x200B;를 클릭하고 결과 대화 상자에서 필드를 편집합니다.
+
+**[!UICONTROL 추적 ID]** 필드 사이를 보다 빠르게 이동하려면 다음 키보드 단축키를 사용하십시오.
+
+* 선택한 **[!UICONTROL 추적 ID]**&#x200B;에 대한 편집 필드를 열려면 **Enter**&#x200B;를 누르십시오.
+* **위쪽** 또는 **아래쪽** 화살표 키를 눌러 해당 열의 이전 또는 다음 **[!UICONTROL 추적 ID]** 필드로 이동합니다.
+* 편집을 저장하려면 **Enter**&#x200B;를 다시 누르십시오.
+
+## 경험을 검토하고 해당 광고 채널에 게시합니다.
+
+모든 행에 [!UICONTROL 활성화 준비]가 표시되는지 확인합니다. [!DNL Activate] 플래그 누락되었거나 잘못된 필드, 호환되지 않는 작업 호출 및 중복 추적 ID가 [!UICONTROL 주의가 필요합니다]. 모든 행이 준비되면 **[!UICONTROL 플랫폼으로 보내기]**&#x200B;를 클릭하고 게시 대화 상자에서 확인하십시오.
+
+[!DNL Activate]은(는) 각 광고의 상태를 거의 실시간으로 보고합니다. [보류 중], [게시 중] 또는 [실패 중]. 광고가 실패하면 해당 상태 위로 마우스를 가져가 플랫폼의 오류를 확인합니다. 각 광고를 개별적으로 다시 시도하지 않고 **[!UICONTROL 다시 시도]**&#x200B;를 클릭하여 테이블의 실패한 모든 광고를 한 번에 다시 시도할 수 있습니다. 게시된 행은 재제출에서 잠기며 대상 플랫폼의 기본 광고 관리자에 광고에 대한 딥링크를 포함합니다. 최종 게시 전 검토 및 광고 시작은 대상 채널의 자체 광고 관리자에서 수행됩니다. [!DNL Activate]은(는) 항상 비활성 상태의 광고를 제공합니다.
+
+활성화 표가 [!DNL Activate] 랜딩 페이지에 나타납니다.
 
 ## 지원되는 채널
 
-각 유료 미디어 채널에는 고유한 활성화 워크플로가 있습니다. 활성화 지침에 대한 유료 채널 선택:
+각 유료 광고 채널에는 채널별 설정 필드와 사전 요구 사항이 있습니다. 활성화 지침에 대한 유료 광고 채널 선택:
 
-* [Google 캠페인 관리자 360](activate-cm360-ad.md)
-* [LinkedIn](activate-linkedin-ad.md)
 * [Meta](activate-meta-ad.md)
-* [ChatGPT](../create/create-chatgpt-ad.md#activate-a-chatgpt-ad)
+* [LinkedIn](activate-linkedin-ad.md)
+* [Google 캠페인 관리자 360](activate-cm360-ad.md)
+* [Amazon 광고](activate-amazon-ad.md)
+* [Innovid](activate-innovid-ad.md)
+* [TikTok](activate-tiktok-ad.md)
+* [YouTube](activate-youtube-ad.md)
+* [ChatGPT](activate-chatgpt-ad.md)
+* [무역 담당](activate-trade-desk-ad.md)
