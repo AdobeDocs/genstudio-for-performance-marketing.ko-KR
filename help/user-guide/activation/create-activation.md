@@ -27,9 +27,9 @@ topic_v2:
     internal-label: Metadata
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 6cb428b368f75e0b646cfa4e6536a4728fdf40e2
+source-git-commit: 0844f7407c4b3a3f8eafe248f498ef7fcd51555d
 workflow-type: tm+mt
-source-wordcount: '1158'
+source-wordcount: '1238'
 ht-degree: 1%
 ---
 # 활성화 워크플로
@@ -46,7 +46,7 @@ ht-degree: 1%
 
 단일 활성화 표에는 여러 유료 광고 채널과 광고 형식에 대한 경험이 한 번에 포함될 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503543?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 
 ## 채널 계정 연결
 
@@ -57,7 +57,9 @@ ht-degree: 1%
 다음 두 진입점 중 하나에서 활성화를 시작합니다.
 
 * **시작:[!DNL Content]**: 경험으로 필터링하고 게시된 경험을 한 개 이상 선택한 다음 맨 위의 작업 표시줄에서 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
-* [!DNL Activate]&#x200B;**에서**: [!DNL Activate] 랜딩 페이지에서 **[!UICONTROL + 새 활성화]**&#x200B;를 클릭합니다. 그러면 활성화할 경험을 선택할 수 있는 경험 갤러리가 열립니다.
+* [!DNL Activate]**에서**: [!DNL Activate] 랜딩 페이지에서 **[!UICONTROL + 새 활성화]**&#x200B;를 클릭합니다. 그러면 활성화할 경험을 선택할 수 있는 경험 갤러리가 열립니다.
+
+![콘텐츠에서 게시된 경험을 선택하고 [활성화]를 클릭하여 활성화를 시작합니다](./images/content-select-activate.png)
 
 두 경우 모두 경험 이름으로 검색하거나, 여러 채널로 필터링하여 원하는 경험을 찾습니다.
 
@@ -99,17 +101,27 @@ ht-degree: 1%
 
 행별로 인라인으로 필드를 편집하거나 동일한 형식 테이블 내에서 여러 행을 선택하고 도구 모음에서 **[!UICONTROL 세부 정보 편집]**&#x200B;을 클릭하면 해당 필드가 한 번에 대량 편집됩니다. 광고 형식 그룹에 대한 플랫폼 설정 필드를 구성하려면 **[!UICONTROL 플랫폼 설정 관리]**&#x200B;를 클릭하고 결과 대화 상자에서 필드를 편집합니다.
 
+![세부 정보 또는 플랫폼 설정을 일괄 편집하려면 활성화 테이블에서 여러 광고 선택](./images/bulk-edit-action-bar.png)
+
+![Meta 광고 계정, 캠페인 및 광고 집합을 선택하는 플랫폼 설정 관리 대화 상자](./images/manage-platform-settings.png)
+
 **[!UICONTROL 추적 ID]** 필드 사이를 보다 빠르게 이동하려면 다음 키보드 단축키를 사용하십시오.
 
 * 선택한 **[!UICONTROL 추적 ID]**&#x200B;에 대한 편집 필드를 열려면 **Enter**&#x200B;를 누르십시오.
 * **위쪽** 또는 **아래쪽** 화살표 키를 눌러 해당 열의 이전 또는 다음 **[!UICONTROL 추적 ID]** 필드로 이동합니다.
 * 편집을 저장하려면 **Enter**&#x200B;를 다시 누르십시오.
 
+![활성화 테이블에서 추적 ID 필드 인라인 편집](./images/tracking-id-edit.png)
+
 ## 경험을 검토하고 해당 광고 채널에 게시합니다.
 
 모든 행에 [!UICONTROL 활성화 준비]가 표시되는지 확인합니다. [!DNL Activate] 플래그 누락되었거나 잘못된 필드, 호환되지 않는 작업 호출 및 중복 추적 ID가 [!UICONTROL 주의가 필요합니다]. 모든 행이 준비되면 **[!UICONTROL 플랫폼으로 보내기]**&#x200B;를 클릭하고 게시 대화 상자에서 확인하십시오.
 
+![모든 행에 활성화 준비 완료, 플랫폼으로 보내기 기능이 표시되는 활성화 테이블](./images/ready-to-activate.png)
+
 [!DNL Activate]은(는) 각 광고의 상태를 거의 실시간으로 보고합니다. [보류 중], [게시 중] 또는 [실패 중]. 광고가 실패하면 해당 상태 위로 마우스를 가져가 플랫폼의 오류를 확인합니다. 각 광고를 개별적으로 다시 시도하지 않고 **[!UICONTROL 다시 시도]**&#x200B;를 클릭하여 테이블의 실패한 모든 광고를 한 번에 다시 시도할 수 있습니다. 게시된 행은 재제출에서 잠기며 대상 플랫폼의 기본 광고 관리자에 광고에 대한 딥링크를 포함합니다. 최종 게시 전 검토 및 광고 시작은 대상 채널의 자체 광고 관리자에서 수행됩니다. [!DNL Activate]은(는) 항상 비활성 상태의 광고를 제공합니다.
+
+![게시 후 보류 중 및 플랫폼으로 전송됨 상태의 혼합을 보여 주는 활성화 테이블](./images/activation-status-pending.png)
 
 활성화 표가 [!DNL Activate] 랜딩 페이지에 나타납니다.
 
