@@ -36,8 +36,8 @@ Claude는 Pro, Max, Team 또는 Enterprise 플랜이 필요합니다. 동일한 
 1. Adobe ID으로 로그인합니다.
 1. [!DNL GenStudio for Performance Marketing]에 액세스할 수 있는 IMS 조직을 선택하십시오.
 
-> [!NOTE]
-> 팀 또는 엔터프라이즈 플랜에서 조직 소유자는 먼저 커넥터를 추가해야 할 수 있습니다. 커넥터를 이미 사용할 수 있는 경우 대신 **[!UICONTROL 연결]**&#x200B;을 선택하십시오.
+&#x200B;> [!NOTE]
+&#x200B;> 팀 또는 엔터프라이즈 플랜에서 조직 소유자는 먼저 커넥터를 추가해야 할 수 있습니다. 커넥터를 이미 사용할 수 있는 경우 대신 **[!UICONTROL 연결]**&#x200B;을 선택하십시오.
 
 ## ChatGPT 연결
 
@@ -52,7 +52,7 @@ ChatGPT를 사용하려면 Plus, Pro, Business, Enterprise 또는 Education 계�
 1. Adobe ID으로 로그인합니다.
 1. [!DNL GenStudio for Performance Marketing]에 액세스할 수 있는 IMS 조직을 선택하십시오.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > ChatGPT는 개발자 및 커넥터 설정의 위치를 변경할 수 있습니다. 이러한 레이블이 계정과 다른 경우, 원격 MCP 커넥터 추가에 대한 현재 OpenAI 지침을 따르십시오.
 
 ## Codex 연결
@@ -106,8 +106,8 @@ Microsoft은 Copilot에서 사용자 지정 MCP 연결의 설정 플로우를 �
 
 도우미는 사용 가능한 성능 데이터를 반환하거나 요청과 일치하는 데이터가 없는 이유를 설명합니다.
 
-> [!TIP]
-> 인증에 실패하면 다시 연결하고 올바른 IMS 조직을 선택했는지 확인합니다. 도구가 나타나지 않으면 계정에 [!DNL GenStudio for Performance Marketing]에 대한 액세스 권한이 있는지 확인하십시오.
+&#x200B;> [!TIP]
+&#x200B;> 인증에 실패하면 다시 연결하고 올바른 IMS 조직을 선택했는지 확인합니다. 도구가 나타나지 않으면 계정에 [!DNL GenStudio for Performance Marketing]에 대한 액세스 권한이 있는지 확인하십시오.
 
 ## 관련 기능
 
