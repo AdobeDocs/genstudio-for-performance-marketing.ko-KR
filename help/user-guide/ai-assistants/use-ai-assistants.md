@@ -2,7 +2,7 @@
 title: AI Assistant 사용
 description: '[!DNL GenStudio for Performance Marketing]에 연결된 AI 도우미를 사용하여 성능 데이터를 쿼리하고, 초안을 만들고, 승인된 광고를 게시하는 방법에 대해 알아봅니다.'
 role: User
-source-git-commit: 6fb7ddb7549ea6bcd66b6139fbde9ebe12ddaa22
+source-git-commit: 3d22af77d3893233e497a22f7b00c1faf0070cff
 workflow-type: tm+mt
 source-wordcount: '805'
 ht-degree: 0%
@@ -89,8 +89,9 @@ AI 도우미가 요청을 올바른 도구로 라우팅할 수 있도록 `In Gen
 - &quot;이 템플릿에서 변경할 수 있는 사항&quot;
 - &quot;이 템플릿으로 Meta 광고를 만듭니다. Summer Sale 과 call to action Shop Now 라는 제목을 사용하십시오. 다음은 크리에이티브 개요입니다. [캠페인, 색조 및 오퍼에 대해 설명].&quot;
 
-&#x200B;> [!TIP]
-> 초안을 만들면 Creative Cloud에서 실제 문서가 만들어집니다. 미리 보기가 아닙니다. 크리에이티브 브리프를 준비하고 요청하기 전에 복사하십시오.
+>[!TIP]
+>
+>초안을 만들면 Creative Cloud에서 실제 문서가 만들어집니다. 미리 보기가 아닙니다. 크리에이티브 브리프를 준비하고 요청하기 전에 복사하십시오.
 
 ## 초안 검토 및 공유
 
@@ -109,8 +110,9 @@ AI 도우미가 요청을 올바른 도구로 라우팅할 수 있도록 `In Gen
 - &quot;내 Meta 광고 계정 및 캠페인에 대해 이 경험을 설정합니다.&quot;
 - &quot;이 경험을 LinkedIn에 게시합니다.&quot;
 
-&#x200B;> [!IMPORTANT]
-> 게시를 수행하면 라이브 광고 배치가 만들어지고 광고 비용이 발생할 수 있습니다. 도우미를 통해 되돌릴 수 없습니다. 게시하기 전에 타겟 계정, 캠페인 및 경험을 확인하십시오. 요청을 반복하면 다른 광고가 만들어집니다.
+>[!IMPORTANT]
+>
+>게시를 수행하면 라이브 광고 배치가 만들어지고 광고 비용이 발생할 수 있습니다. 도우미를 통해 되돌릴 수 없습니다. 게시하기 전에 타겟 계정, 캠페인 및 경험을 확인하십시오. 요청을 반복하면 다른 광고가 만들어집니다.
 
 ## 비어 있거나 사용할 수 없는 결과 해석
 

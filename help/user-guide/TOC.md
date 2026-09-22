@@ -6,7 +6,7 @@ feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
 nudge: true
-source-git-commit: 6fb7ddb7549ea6bcd66b6139fbde9ebe12ddaa22
+source-git-commit: e577c7b1e55c629fb3ab7155eb012963884731cd
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 77%
@@ -23,7 +23,7 @@ ht-degree: 77%
   + [구성 [!DNL Brand] 권한](configure-brand-permissions.md)
   + [사용자 역할](user-roles.md)
   + [유효 프롬프트](effective-prompts.md)
-+ AI 도우미
++ AI 도우미 {#ai-assistants}
   + [AI 지원 개요](ai-assistants/overview.md)
   + [AI 길잡이 연결](ai-assistants/connect-ai-assistants.md)
   + [AI 지원 사용](ai-assistants/use-ai-assistants.md)
