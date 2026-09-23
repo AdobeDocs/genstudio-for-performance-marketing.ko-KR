@@ -22,9 +22,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
+source-git-commit: db0cebfe795569d9913757d190db853097a00405
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '570'
 ht-degree: 1%
 ---
 # 활성화 최적화
@@ -43,7 +43,7 @@ ht-degree: 1%
 
 * **각 행에 고유한 추적 ID를 사용합니다**
 
-  [!DNL Activate]은(는) 중복 추적 ID를 [!UICONTROL 주의가 필요합니다]&#x200B;(으)로 플래그를 지정하며 영향을 받는 형식 및 플랫폼 테이블의 각 행에 고유한 추적 ID가 있을 때까지 게시할 수 없습니다. 여러 행에서 추적 ID를 대량 편집하는 경우 선택한 모든 행에 동일한 값을 적용하려고 했는지 확인하십시오.
+  [!DNL Activate]은(는) 중복 추적 ID를 [!UICONTROL 주의가 필요합니다]&#x200B;(으)로 플래그를 지정하며 영향을 받는 형식 및 플랫폼 테이블의 각 행에 고유한 추적 ID가 있을 때까지 게시할 수 없습니다. 각 **[!UICONTROL 추적 ID]** 필드는 경험 이름으로 미리 채워져 있으므로 여러 광고 형식 또는 플랫폼에서 경험을 공유하는 행은 같은 값으로 시작합니다. 대량 편집으로 도입된 중복 항목뿐만 아니라 이러한 중복을 확인하고 해결합니다. 여러 행에서 추적 ID를 대량 편집하는 경우 선택한 모든 행에 동일한 값을 적용하려고 했는지 확인하십시오.
 
 * **유효한 전체 대상 URL을 사용**
 

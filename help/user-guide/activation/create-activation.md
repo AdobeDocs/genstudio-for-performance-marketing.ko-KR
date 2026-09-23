@@ -27,9 +27,9 @@ topic_v2:
     internal-label: Metadata
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: c8d964aa325aee782c175abf3fce880fb17ae6ca
+source-git-commit: db0cebfe795569d9913757d190db853097a00405
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1233'
 ht-degree: 1%
 ---
 # 활성화 워크플로
@@ -108,7 +108,7 @@ ht-degree: 1%
 
 ![Meta 광고 계정, 캠페인 및 광고 집합을 선택하는 플랫폼 설정 관리 대화 상자](./images/manage-platform-settings.png)
 
-**[!UICONTROL 추적 ID]** 필드는 처음에 비어 있습니다. 추적 ID는 광고 플랫폼의 광고 이름 또는 크리에이티브 이름과 동일하며 광고 플랫폼에서는 이 ID를 광고의 식별 이름으로 사용합니다. 이 필드를 사용하여 보고 및 문제 해결을 위한 광고를 식별합니다. **[!UICONTROL 추적 ID]** 필드에 사용할 값을 입력하십시오.
+각 **[!UICONTROL 추적 ID]** 필드는 경험 이름으로 미리 채워집니다. 광고 플랫폼에서는 보고 및 문제 해결을 위해 이 값을 광고 이름 또는 광고 이름으로 사용합니다. 다른 것을 사용하려면 값을 적절히 편집하십시오.
 
 ![활성화 테이블에서 추적 ID 필드 인라인 편집](./images/tracking-id-edit.png)
 
