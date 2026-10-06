@@ -54,7 +54,7 @@ GenStudio for Performance Marketing에서 템플릿을 사용할 때 다음 권�
 1. 최적의 환경을 위해 [접근성 표준](accessibility-for-templates.md)으로 디자인
 1. [채널별 템플릿 지침 준수](#follow-channel-specific-template-guidelines)
 1. [빠른 템플릿](/help/user-guide/templates/express-templates.md)을 사용하는 경우 [GenStudio으로 빠른 템플릿 모범 사례](#express-to-genstudio-template-best-practices)의 특정 팁을 고려하십시오.
->>
+&#x200B;>>
 [템플릿 작업](use-templates.md)에서 템플릿 요소 및 프로시저의 기본 사항에 대해 알아봅니다. 다음 캠페인에서 사용할 특정 지침을 보려면 [템플릿 사용자 지정](customize-template.md)에 대해 자세히 알아보십시오.
 
 ## 올바른 템플릿 요소 사용
