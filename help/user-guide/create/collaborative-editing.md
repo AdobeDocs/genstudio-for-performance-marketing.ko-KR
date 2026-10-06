@@ -4,13 +4,26 @@ description: Horizon 캔버스에서 실시간으로 유료 미디어 초안을 
 feature: Create Canvas
 role: User
 level: Beginner
-source-git-commit: 519c4d0273c996dbebcc28ee90a6b31006581305
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
-
 ---
-
 # 공동 편집
 
 공동 편집 기능을 통해 초안 작성자는 호라이즌 캔버스에 있는 유료 미디어 초안을 공동 작업자와 공유하고 역할을 할당하며 실시간으로 공동 작업할 수 있습니다.

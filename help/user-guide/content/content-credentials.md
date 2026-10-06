@@ -4,26 +4,36 @@ description: GenStudio for Performance Marketing에서 Content Credentials을 �
 level: Intermediate
 feature: Content Management, Content Attributes
 exl-id: 9fc1e428-7fa7-4f00-84ba-51c9318766f4
-TQID: https://experienceleague.adobe.com/ATpH1AXBAhr5tJDVkgx0ZaK20YYBmP7NQF0BUCtGiGw
+TQID: 'https://experienceleague.adobe.com/ATpH1AXBAhr5tJDVkgx0ZaK20YYBmP7NQF0BUCtGiGw'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+    internal-label: Content attributes
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 5fe8dccdcf24d26706b7d3621acc1715fd9eb164
+    internal-label: Metadata
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 750
+source-wordcount: '750'
 ht-degree: 5%
-
 ---
-
 # 조직용 Content Credentials
 
 브랜드 신뢰성을 입증하고 규정 준수를 유도하는 컨텐츠에 대한 변조 불가능한 자격 증명이 마케팅 워크플로우에 직접 임베드되는 방법에 대해 알아봅니다.
@@ -43,7 +53,7 @@ C2PA 호환 Content Credentials은 인증서 설정이 필요하지 않습니다
 
 ## Content Credentials란? 
 
-Content Credentials은 콘텐츠 제작 방법과 크리에이터에 대한 ID 정보에 대한 세부 정보가 포함된 지속적이고 업계 표준 유형의 메타데이터입니다. Content Credentials은 지원 플랫폼에 콘텐츠를 온라인으로 게시할 때 또는 [Adobe의 검사 도구](https://contentauthenticity.adobe.com/inspect) 또는 [Adobe Content Authenticity Chrome 브라우저 확장](https://helpx.adobe.com/kr/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html)과 같은 도구를 사용하여 볼 수 있습니다.  
+Content Credentials은 콘텐츠 제작 방법과 크리에이터에 대한 ID 정보에 대한 세부 정보가 포함된 지속적이고 업계 표준 유형의 메타데이터입니다. Content Credentials은 지원 플랫폼에 콘텐츠를 온라인으로 게시할 때 또는 [Adobe의 검사 도구](https://contentauthenticity.adobe.com/inspect) 또는 [Adobe Content Authenticity Chrome 브라우저 확장](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html)과 같은 도구를 사용하여 볼 수 있습니다.  
 
 Content Credentials을 적용하면 콘텐츠 제작 방식에 대한 투명도를 높이고 사용자가 콘텐츠에 직접 연결할 수 있습니다.
 
@@ -113,5 +123,5 @@ Content Credential 배지는 캔버스 에셋 선택기에 표시됩니다.
 
 ## 관련 정보
 
-* [컨텐츠 투명도](https://experienceleague.adobe.com/ko/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency)
+* [컨텐츠 투명도](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency)
 * Adobe의 [Content Credentials](https://helpx.adobe.com/kr/creative-cloud/help/content-credentials.html)

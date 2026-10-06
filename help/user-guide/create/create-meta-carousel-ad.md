@@ -2,7 +2,13 @@
 title: Meta 광고 경험 만들기 - 광고 회전
 description: '[!DNL GenStudio for Performance Marketing]에서 다중 카드 Meta 캐러셀 광고 경험을 만들고, 카드를 관리하고, 브랜드 내 개념을 생성하는 방법을 알아봅니다.'
 role: User
-source-git-commit: 1b407c1c66a2426b21cbbf423774ebdff16a7dec
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '739'
 ht-degree: 1%
@@ -22,7 +28,7 @@ Meta 캐러셀 광고는 각각 고유한 이미지 또는 비디오, 헤드라�
 
 템플릿을 선택하고 캔버스를 연 후 프롬프트 서랍에서 슬라이드 형식을 선택합니다.
 
-1. _[!DNL Create your ads]_&#x200B;패널에서&#x200B;_[!UICONTROL &#x200B;매개 변수&#x200B;]_&#x200B;를 확장합니다.
+1. _[!DNL Create your ads]_패널에서_[!UICONTROL &#x200B;매개 변수&#x200B;]_를 확장합니다.
 1. **[!UICONTROL 형식]** 드롭다운 메뉴에서 **[!UICONTROL 광고 회전]**&#x200B;을(를) 선택합니다.
 
    ![형식 드롭다운이 회전 광고 및 카드 목록으로 설정된 광고 패널 만들기](./carousel-format-cards.png){width="70%" zoomable="yes"}

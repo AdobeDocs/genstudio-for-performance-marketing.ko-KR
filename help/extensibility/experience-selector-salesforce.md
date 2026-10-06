@@ -2,13 +2,29 @@
 title: Salesforce의 Experience Selector MFE
 description: CSP, Adobe 인증, Apex 이메일 템플릿 및 유효성 검사를 포함하여 Salesforce Lightning에서 Experience Selector MFE를 배포하고 구성하는 방법에 대해 알아봅니다.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: 99a2b657560d20642b7b92aefb976ba2373ebc7f
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: bfaa655b-e017-428d-80d0-09de2183b296
+    internal-label: Extensions
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
-
 ---
-
 # Salesforce의 Experience Selector MFE
 
 이 항목에서는 고객 및 구현자가 Salesforce 조직에서 [!DNL GenStudio for Performance Marketing] Experience Selector MFE(마이크로 프론트엔드)를 배포하고 실행하는 방법을 설명합니다. 관리자 단계(코드 없음), 개발자 단계(배포 및 구성) 및 CSP(콘텐츠 보안 정책)와 같은 보안 관련 설정을 다룹니다.
@@ -17,7 +33,7 @@ ht-degree: 0%
 
 ## 이 통합의 기능
 
->[!VIDEO](https://video.tv.adobe.com/v/3491086?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491079?learn=on)
 
 LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번들을 로드하여 `<dialog>`에서 렌더링하므로 사용자는 [!DNL GenStudio for Performance Marketing]에서 경험을 선택할 수 있습니다.
 
@@ -70,11 +86,11 @@ LWC(Lightning Web Component) `sfgsmfe`은(는) Adobe의 경험 선택기 UMD 번
 구성 요소를 추가하려면:
 
 1. **[!UICONTROL 설치]**&#x200B;에서 **[!UICONTROL 앱 관리자]**&#x200B;를 엽니다.
-1. **[!UICONTROL 새 Lightning 앱]**&#x200B;을 만들거나 확장하려는 기존 앱을 엽니다.
+1. **[!UICONTROL 새 Lightning 앱]**을 만들거나 확장하려는 기존 앱을 엽니다.
    ![새로운 번개 앱 모달](./mfe-new-lighting-app.png){width="80%" zoomable="yes"}
-1. 앱을 열고 **[!UICONTROL 편집]**&#x200B;을 선택합니다.
+1. 앱을 열고 **[!UICONTROL 편집]**을 선택합니다.
    ![Lightning 앱 편집 모달](./mfe-lightning-edit.png){width="80%" zoomable="yes"}
-1. **[!UICONTROL 새 페이지]**&#x200B;를 만들거나 기존 Lightning 페이지를 편집하세요.
+1. **[!UICONTROL 새 페이지]**를 만들거나 기존 Lightning 페이지를 편집하세요.
    ![새 페이지 모달](./mfe-lightning-new-page.png){width="60%" zoomable="yes"}
 1. **[!UICONTROL Lightning App Builder]**&#x200B;에서 **sfgsmfe** 구성 요소를 레이아웃으로 끕니다.
 1. **[!UICONTROL 저장]**, **[!UICONTROL 활성화]**&#x200B;하고, 원하는 사용자가 열 수 있도록 페이지를 올바른 Lightning 앱, 프로필 및 앱 가시성에 할당합니다.

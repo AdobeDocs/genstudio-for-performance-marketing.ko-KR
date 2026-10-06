@@ -1,26 +1,36 @@
 ---
-title: ' [!DNL AEM Assets Content Hub] 저장소에 연결'
-description: Adobe GenStudio for Performance Marketing을 Adobe Experience Manager(AEM) [!DNL Content Hub] 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
+title: '[!DNL AEM Assets Content Hub] 저장소에 연결'
+description: Adobe GenStudio for Performance Marketing을 Adobe Experience Manager(AEM) [!DNL Content Hub] 리포지토리에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
 level: Experienced
 role: Admin, Developer
 feature: Content Management
 recommendations: noDisplay
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
-TQID: https://experienceleague.adobe.com/FJ6G7qlBlkrsGk1H7SHhlkqHUHYYGKkTqklTeGDxJho
+TQID: 'https://experienceleague.adobe.com/FJ6G7qlBlkrsGk1H7SHhlkqHUHYYGKkTqklTeGDxJho'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 387
+source-wordcount: '388'
 ht-degree: 3%
-
 ---
-
 # [!DNL AEM Assets Content Hub] 저장소에 연결
 
 Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라 GenStudio for Performance Marketing에서 액세스할 수 있도록 설정할 수 있습니다.
@@ -47,20 +57,20 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 [!DNL Admin Console]에서 [!DNL AEM Assets Content Hub] 제품 프로필에 GenStudio for Performance Marketing 사용자 또는 사용자 그룹을 추가합니다. 콘텐츠 검토자에게 [!DNL AEM Assets Content Hub] 리포지토리와 동일한 조직에 대한 액세스 권한이 없는 경우 콘텐츠를 검토하고 승인하는 데 문제가 발생할 수 있습니다.
 
-- [온보드 [!DNL Content Hub] 관리자](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [온보드 [!DNL Content Hub] 사용자](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [온보드 [!DNL Content Hub] 관리자](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [온보드 [!DNL Content Hub] 사용자](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## 3단계: 에셋 승인
 
 [!DNL AEM Assets Content Hub]에서 사용할 자산을 승인하면 GenStudio for Performance Marketing에서 사용할 수 있습니다.
 
-_Experience Manager_ 설명서의 [AEM as a Cloud Service에서 자산 승인](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)을 참조하십시오.
+_Experience Manager_ 설명서의 [AEM as a Cloud Service에서 자산 승인](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)을 참조하십시오.
 
 ## 4단계: 자산 가시성 구성
 
-_[!DNL AEM Assets Content Hub]_&#x200B;구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
+_[!DNL AEM Assets Content Hub]_구성 옵션에서 필터, 자산 세부 사항, 검색 및 브랜딩에 대한 각 구성 옵션 집합을 검토하십시오.
 
-_Content Hub_ 설명서에서 [AEM as a Cloud Service 사용자 인터페이스 구성](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)을 참조하십시오.
+_Content Hub_ 설명서에서 [AEM as a Cloud Service 사용자 인터페이스 구성](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)을 참조하십시오.
 
 ## 5단계: 연결 확인
 

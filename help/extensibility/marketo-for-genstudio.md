@@ -2,13 +2,23 @@
 title: GenStudio용 Marketo
 description: 조직에서 GenStudio for Performance Marketing의 Marketo 템플릿을 사용할 수 있도록 GenStudio Adobe Exchange 앱을 설치하고 구성합니다.
 feature: Extensibility
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # GenStudio용 Marketo
 
 동일한 [!DNL IMS] 조직에서 [!DNL Marketo Engage] 및 [!DNL GenStudio for Performance Marketing]을(를) 사용하는 조직은 [!DNL Adobe Exchange]에서 **GenStudio용 Marketo** 앱을 설치할 수 있습니다. 시스템 관리자가 앱을 승인하고 배포를 완료한 후 작성자가 [!DNL Content]에 직접 업로드된 템플릿 옆에 있는 Marketo에서 이메일 경험을 만들면서 GenStudio 템플릿을 선택할 수 있습니다.
@@ -22,7 +32,7 @@ ht-degree: 0%
 
 ## Adobe Exchange에서 앱 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3483318?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
 
 1. [Adobe Exchange](https://exchange.adobe.com)을 열고 **[!UICONTROL CX Enterprise]**(으)로 이동합니다.
 1. [GenStudio용 Marketo](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio) 목록을 엽니다.
@@ -52,7 +62,7 @@ ht-degree: 0%
 ### LaunchPoint 서비스 만들기 또는 선택
 
 1. **[!UICONTROL 관리자]**&#x200B;의 **[!UICONTROL 통합]**&#x200B;에서 **[!UICONTROL LaunchPoint]**&#x200B;를 엽니다.
-1. 새 서비스를 만들거나 기존 사용자 지정 서비스를 사용하려면 **[!UICONTROL 만들기]**&#x200B;를 클릭하십시오.
+1. 새 서비스를 만들거나 기존 사용자 지정 서비스를 사용하려면 **[!UICONTROL 만들기]**를 클릭하십시오.
    ![LaunchPoint 사용자 지정 서비스](/help/extensibility/marketo-launchpoint-custom-service.png){width="80%"}
 1. 서비스에 대해 **[!UICONTROL 세부 정보 보기]**&#x200B;를 클릭하고 **[!UICONTROL 클라이언트 ID]** 및 **[!UICONTROL 클라이언트 암호]**&#x200B;를 복사합니다. Adobe Exchange **[!UICONTROL 구성]**&#x200B;에 입력하게 됩니다.
 

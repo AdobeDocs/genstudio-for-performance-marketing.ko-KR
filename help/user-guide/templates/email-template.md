@@ -5,25 +5,35 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-TQID: https://experienceleague.adobe.com/v8DZ2ubNwArTNws12FxsJKNbGbsRB-f0IJk39Y3PgXU
+TQID: 'https://experienceleague.adobe.com/v8DZ2ubNwArTNws12FxsJKNbGbsRB-f0IJk39Y3PgXU'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 0%
-
 ---
-
 # 이메일 템플릿 지침
 
 마케팅 이메일 템플릿은 시각적으로 매력적인 반응형 이메일 캠페인을 위한 기반 역할을 합니다. 일반적으로 HTML 템플릿을 사용하면 레이아웃, 타이포그래피, 색상 및 이미지를 브랜드 지침에 맞게 제어할 수 있습니다. GenStudio for Performance Marketing에서 사용할 템플릿을 준비할 때는 스타일링에 시맨틱 HTML 및 인라인 CSS를 사용하고 스크립트나 외부 종속성을 사용하지 마십시오. 잘 구성된 HTML 템플릿은 수신자의 경험을 개선하고 전달성 및 참여율을 향상시킬 수 있습니다.

@@ -4,25 +4,36 @@ description: GenStudio for Performance Marketing 검토 및 승인 프로세스�
 level: Beginner
 feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
-TQID: https://experienceleague.adobe.com/2oFwfqVPlW24irHth-mkEx-ciO5tQgNv2hwAYmkfi-g
+TQID: 'https://experienceleague.adobe.com/2oFwfqVPlW24irHth-mkEx-ciO5tQgNv2hwAYmkfi-g'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: dae8b49d-2853-4f33-a27d-a2bad09cbeb6
+    internal-label: Content review
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+    internal-label: Metadata
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 890
+source-wordcount: '890'
 ht-degree: 0%
-
 ---
-
 # Adobe GenStudio for Performance Marketing 검토 및 승인
 
 검토 및 승인 작업 과정을 통해 크리에이티브 팀에서 법률 전문가에 이르기까지 모든 이해 당사자가 생성 AI가 제작한 브랜드 에셋을 비롯한 캠페인 에셋 및 경험을 효율적으로 검토하고 승인할 수 있습니다.
@@ -79,7 +90,7 @@ _검토자_&#x200B;이(가) 댓글을 추가할 수 있지만 콘텐츠를 승�
 
 GenStudio for Performance Marketing 제품 내 알림은 자산 상태 변경 및 `@mention`개의 댓글을 실시간으로 승인자 및 콘텐츠 편집자를 업데이트합니다. 알림은 여러 검토, 편집 및 승인 주기를 통해 신속한 반복을 지원합니다.
 
-콘텐츠 편집자 및 승인자는 Slack에서 이러한 알림을 수신하기 위해 등록할 수 있습니다. [CX Enterprise에서 서비스 가입](https://experienceleague.adobe.com/ko/docs/core-services/interface/services/customer-attributes/subscription)을 참조하십시오.
+콘텐츠 편집자 및 승인자는 Slack에서 이러한 알림을 수신하기 위해 등록할 수 있습니다. [CX Enterprise에서 서비스 구독](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/subscription)을 참조하세요.
 
 승인 참가자가 취한 작업은 자동 제품 내 알림 및 이메일 알림을 트리거합니다. 승인 프로세스를 시작하면 지정된 승인자가 이메일과 제품 내 알림을 모두 받습니다. 승인자가 `@mention`개의 댓글을 추가하거나 결정을 내릴 때마다 제품 내 및 이메일 알림이 반복됩니다. 알림에는 콘텐츠 초안에 대한 링크가 포함되어 있습니다.
 

@@ -5,24 +5,33 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
-TQID: https://experienceleague.adobe.com/HjkLWiyqK1quHoZB5lEE-qyB3zci12KlRAZC8ME-9Ao
+TQID: 'https://experienceleague.adobe.com/HjkLWiyqK1quHoZB5lEE-qyB3zci12KlRAZC8ME-9Ao'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 300
+source-wordcount: '300'
 ht-degree: 1%
-
 ---
-
 # 광고 템플릿 지침 표시
 
 디스플레이 템플릿은 시각적으로 매력적인 배너 및 디스플레이 광고를 만드는 데 사용되는 미리 디자인된 레이아웃입니다. 이미지, 텍스트 및 call to action을 통합할 수 있는 유연한 프레임워크를 제공하여 여러 광고 변형을 만들 때 일관성과 효율성을 보장합니다. GenStudio for Performance Marketing에서 사용할 템플릿을 준비할 때는 모든 에셋이 웹 표시에 최적화되고 필요한 파일 형식 및 크기를 충족하는지 확인하십시오.

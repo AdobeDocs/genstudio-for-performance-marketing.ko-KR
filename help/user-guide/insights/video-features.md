@@ -4,30 +4,46 @@ description: GenStudio for Performance Marketing에 사용되는 속성 범주�
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-TQID: https://experienceleague.adobe.com/s-8h3ODnNuRyebiDTLZGQORJzPnPOcPzQjIhWBmpk-c
+TQID: 'https://experienceleague.adobe.com/s-8h3ODnNuRyebiDTLZGQORJzPnPOcPzQjIhWBmpk-c'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+    internal-label: Content attributes
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
+  - id: f73d44c4-c328-457d-b61d-933788fc39b1
+    internal-label: Video attributes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Insights
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 683
+source-wordcount: '683'
 ht-degree: 17%
-
 ---
-
 # 비디오 기능
 
 비디오 기능은 [!DNL Insights]을(를) 사용한 분석을 위해 비디오 내의 구별되고 유용한 요소, 소리 또는 패턴을 나타냅니다. 이러한 기능은 비디오 콘텐츠를 분류하고 이해하는 데 도움이 되므로 보다 정확하고 자세한 통찰력을 얻을 수 있습니다. AI가 오디오 무드, 음악 장르, 사물 등 다양한 속성을 파악해 영상을 종합적으로 분석해 더 나은 의사결정과 전략 수립에 도움을 줄 수 있다.
@@ -40,7 +56,7 @@ GenStudio for Performance Marketing의 오디오 감지에는 다양한 속성�
 
 **비디오를 미리 보고 오디오 샘플을 들으려면**:
 
-1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 특성]**&#x200B;보기를 선택하십시오.
+1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 특성]**보기를 선택하십시오.
 
 1. **[!UICONTROL 비디오]**&#x200B;를 선택하여 테이블 보기를 변경합니다.
 

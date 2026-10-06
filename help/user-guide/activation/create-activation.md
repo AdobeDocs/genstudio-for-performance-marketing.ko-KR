@@ -3,7 +3,7 @@ title: 활성화 워크플로
 description: 광고 경험을 위한 활성화 워크플로에 대해 알아봅니다.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-TQID: https://experienceleague.adobe.com/HSwFeL1qCzgFao2Ii64Hx-kaADRnd3dxaswFMzJ7nfA
+TQID: 'https://experienceleague.adobe.com/HSwFeL1qCzgFao2Ii64Hx-kaADRnd3dxaswFMzJ7nfA'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -14,11 +14,15 @@ feature_v2:
     internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
   - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
     internal-label: Channels
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -27,7 +31,7 @@ topic_v2:
     internal-label: Metadata
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: db0cebfe795569d9913757d190db853097a00405
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '1233'
 ht-degree: 1%
@@ -46,7 +50,7 @@ ht-degree: 1%
 
 단일 활성화 표에는 여러 유료 광고 플랫폼 및 광고 형식에 대한 경험이 포함될 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503543?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 
 ## 플랫폼 계정 연결
 
@@ -60,7 +64,7 @@ ht-degree: 1%
 
   ![콘텐츠에서 게시된 경험을 선택하고 [활성화]를 클릭하여 활성화를 시작합니다](./images/content-select-activate.png)
 
-* [!DNL Activate]&#x200B;**에서**: [!DNL Activate] 랜딩 페이지에서 **[!UICONTROL + 새 활성화]**&#x200B;를 클릭합니다. 이렇게 하면 동일한 경험 갤러리가 열리고 활성화할 경험을 선택합니다.
+* [!DNL Activate]**에서**: [!DNL Activate] 랜딩 페이지에서 **[!UICONTROL + 새 활성화]**&#x200B;를 클릭합니다. 이렇게 하면 동일한 경험 갤러리가 열리고 활성화할 경험을 선택합니다.
 
 두 경우 모두 경험 이름으로 검색하거나, 여러 채널로 필터링하여 원하는 경험을 찾습니다.
 
