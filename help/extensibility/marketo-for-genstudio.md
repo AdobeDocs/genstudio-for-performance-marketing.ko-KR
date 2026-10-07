@@ -2,13 +2,23 @@
 title: GenStudio용 Marketo
 description: 조직에서 GenStudio for Performance Marketing의 Marketo 템플릿을 사용할 수 있도록 GenStudio Adobe Exchange 앱을 설치하고 구성합니다.
 feature: Extensibility
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # GenStudio용 Marketo
 
 동일한 [!DNL IMS] 조직에서 [!DNL Marketo Engage] 및 [!DNL GenStudio for Performance Marketing]을(를) 사용하는 조직은 [!DNL Adobe Exchange]에서 **GenStudio용 Marketo** 앱을 설치할 수 있습니다. 시스템 관리자가 앱을 승인하고 배포를 완료한 후 작성자가 [!DNL Content]에 직접 업로드된 템플릿 옆에 있는 Marketo에서 이메일 경험을 만들면서 GenStudio 템플릿을 선택할 수 있습니다.

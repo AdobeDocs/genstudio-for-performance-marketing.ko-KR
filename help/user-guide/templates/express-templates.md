@@ -4,13 +4,28 @@ description: Adobe Express 에셋을 통합할 수 있는 GenStudio for Performa
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 96249838f5ec957edc22eadf51ec828f54002adf
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '1899'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Express]개 템플릿 사용 중
 
 [!DNL GenStudio for Performance Marketing]은(는) [!DNL Adobe Express]에서 만들고 디자인된 템플릿을 사용할 수 있습니다. [!DNL Adobe Express]에서 브랜드 자산을 가져와 강력한 도구를 사용하여 매력적인 마케팅 캠페인 및 [!DNL Experiences]에 통합합니다.

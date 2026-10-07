@@ -1,29 +1,39 @@
 ---
-title: Adobe GenStudio for Performance Marketing 개요 [!DNL Content]
+title: Adobe GenStudio for Performance Marketing [!DNL Content] 개요
 description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋을 찾고, 편집하고, 재사용하고, 공유하는 방법에 대해 알아봅니다.
 level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-TQID: https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc
+TQID: 'https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
+    internal-label: Metadata
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 414
+source-wordcount: '414'
 ht-degree: 1%
-
 ---
-
 # Adobe GenStudio for Performance Marketing [!DNL Content]
 
 GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승인한 모든 자산, 경험 및 템플릿을 저장하고, 찾고, 공유할 수 있는 중앙 위치를 제공합니다. 컨텐츠를 편집 및 리믹스하고, 컨텐츠 사용 및 감정에 대한 insight을 얻고, 생성 AI를 사용하여 기존 자산을 새로 고치고 용도를 변경할 수 있습니다.
@@ -31,58 +41,111 @@ GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승�
 ## [!DNL Content] 사용 사례
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md#search">
+
          <img alt="돋보기" src="../../assets/icons/icon-search.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md#search-content">
+
          <strong>콘텐츠 찾기</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md">
+
          <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md">
+
          <strong>에셋 추가</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/asset-details.md#edit-in-express">
+
          <img alt="Adobe Express에서 편집" src="../../assets/icons/icon-editExpress.png">
+
       </a>
+
       <p>
+
          <a href="../content/asset-details.md#edit-in-express">
+
          <strong>Adobe Express에서 에셋 편집</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../templates/customize-template.md">
+
          <img alt="자산의 번개" src="../../assets/icons/icon-template.png">
+
       </a>
+
       <p>
+
          <a href="../templates/customize-template.md">
+
          <strong>템플릿 사용자 지정</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../templates/use-templates.md">
+
          <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate.png">
+
       </a>
+
       <p>
+
          <a href="../templates/use-templates.md#upload-a-template">
+
          <strong>템플릿 업로드</strong>
+
          </a>
+
       </p>
+
    </td>
+
 </tr>
+
 </table>
 
 ## [!DNL Content] 기능

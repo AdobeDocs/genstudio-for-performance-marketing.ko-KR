@@ -1,16 +1,29 @@
 ---
 title: 템플릿에서 로고 교체 설정
-description: ' [!DNL GenStudio for Performance Marketing]에서 로고 교환을 사용하도록 템플릿에서 브랜드 로고 자리 표시자를 구성합니다.'
+description: '[!DNL GenStudio for Performance Marketing]에서 로고 교환을 사용하도록 템플릿에서 브랜드 로고 자리 표시자를 구성합니다.'
 feature: Create Canvas
 role: User
 level: Intermediate
-source-git-commit: 98cb7ba338878495e6d7b68f3b8c620abae10127
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 2%
-
 ---
-
 # 템플릿에서 로고 교체 설정
 
 이 안내서에서는 [!DNL GenStudio for Performance Marketing]에서 [로고 교체 기능](/help/user-guide/create/logo-swap.md)을 사용하도록 설정하기 위해 템플릿에서 브랜드 로고 자리 표시자를 구성하는 방법을 설명합니다. 자리 표시자가 다양한 이미지 크기와 종횡비에 올바르게 표시되도록 하려면 이 지침을 따르십시오.

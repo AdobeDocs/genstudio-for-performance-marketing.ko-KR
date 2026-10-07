@@ -3,23 +3,33 @@ title: 컨텐츠 검토 및 편집
 description: Adobe GenStudio for Performance Marketing을 사용하여 콘텐츠를 반복적으로 검토하고 편집하는 방법에 대해 알아봅니다.
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
-TQID: https://experienceleague.adobe.com/YAUeZkKC0UzOt1fCKgFfXLxGEi2896IpcRTdfwG8KXA
+TQID: 'https://experienceleague.adobe.com/YAUeZkKC0UzOt1fCKgFfXLxGEi2896IpcRTdfwG8KXA'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: dae8b49d-2853-4f33-a27d-a2bad09cbeb6
+    internal-label: Content review
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+    internal-label: Content production
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 694
+source-wordcount: '694'
 ht-degree: 0%
-
 ---
-
 # 콘텐츠 검토 및 편집
 
 검토 및 승인 단계에는 종종 여러 관련자와 반복적인 피드백이 포함되어 콘텐츠 제작 속도가 느려질 수 있습니다. GenStudio for Performance Marketing은 콘텐츠 수정 속도를 높이는 생성 AI로 이 프로세스를 간소화하므로 크리에이터가 프롬프트 기반 편집을 사용하여 피드백에 빠르게 대응할 수 있습니다. 검토 주기가 복잡할수록 GenStudio이 제공하는 시간 절약형 이점이 커집니다.
@@ -36,7 +46,7 @@ ht-degree: 0%
 
 * **승인 요청의 초안 링크에서 바로 검토할 초안에 액세스**. 승인 요청 이메일이나 제품 내 알림에서 초안 링크를 클릭합니다. 캔버스가 열리고 에셋 또는 경험이 표시됩니다. 오른쪽에 _승인_ 패널이 표시됩니다.
 
-* **승인 요청 목록에서 검토할 초안에 액세스**. 여러 콘텐츠 초안을 검토하라는 메시지가 표시되면 알림 이메일에 **[!UICONTROL 모든 알림 보기]** 버튼이 포함됩니다. 이 버튼을 클릭하면 승인 요청 및 다른 Adobe CX 엔터프라이즈 제품에서 활성화한 알림을 포함하여 수신한 모든 알림을 표시하는 페이지로 이동합니다.
+* **승인 요청 목록에서 검토할 초안에 액세스**. 여러 콘텐츠 초안을 검토하라는 메시지가 표시되면 알림 이메일에 **[!UICONTROL 모든 알림 보기]** 버튼이 포함됩니다. 승인 요청 및 다른 Adobe CX Enterprise 제품에서 활성화한 알림을 포함하여 수신한 모든 알림을 표시하는 페이지로 이동하려면 이 버튼을 클릭합니다.
 
 ## 검토를 위해 콘텐츠에 액세스
 

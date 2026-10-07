@@ -4,13 +4,30 @@ description: Adobe GenStudio for Performance Marketing의 HTML 캔버스에서 �
 feature: Create Canvas, Content Generation
 role: User
 level: Beginner
-source-git-commit: bc59f6f5dce0c4f22228bcd06c2f5e60a4311e04
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 2%
-
 ---
-
 # 경험 번역 및 현지화
 
 Adobe [!DNL GenStudio for Performance Marketing]은(는) HTML 캔버스에서 기본 번역을 제공하므로 전역 및 지역 마케터는 외부 번역 도구 없이 승인된 경험을 여러 언어로 확장할 수 있습니다.

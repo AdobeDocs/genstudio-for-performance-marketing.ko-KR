@@ -2,7 +2,13 @@
 title: AI 지원
 description: 통찰력을 얻고 초안을 만들고 승인된 광고를 게시하기 위해 AI 도우미를 [!DNL GenStudio for Performance Marketing]에 연결하는 방법에 대해 알아봅니다.
 role: User
-source-git-commit: 6fb7ddb7549ea6bcd66b6139fbde9ebe12ddaa22
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 1%

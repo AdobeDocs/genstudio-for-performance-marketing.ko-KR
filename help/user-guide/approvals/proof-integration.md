@@ -3,23 +3,33 @@ title: 검토 및 승인과 Workfront Proof 통합
 description: Adobe GenStudio for Performance Marketing과 Workfront Proof 통합.
 feature: Content Review, Content Management
 exl-id: 149db773-4787-4cfb-b29e-c49f13abf39a
-TQID: https://experienceleague.adobe.com/G9e9Ft0l9OmSX1lCJY8syzP2-pIswt0MkCpOYlox-Zk
+TQID: 'https://experienceleague.adobe.com/G9e9Ft0l9OmSX1lCJY8syzP2-pIswt0MkCpOYlox-Zk'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: dae8b49d-2853-4f33-a27d-a2bad09cbeb6
+    internal-label: Content review
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Reporting
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 912
+source-wordcount: '911'
 ht-degree: 1%
-
 ---
-
 # GenStudio for Performance Marketing과 Workfront Proof 통합
 
 Workfront Proof과 통합하면 승인 템플릿, 다단계 워크플로, [증명 버전 비교](https://experienceleague.adobe.com/ko/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs)를 비롯한 고급 기능을 통해 GenStudio for Performance Marketing 검토 및 승인 수명 주기가 향상됩니다. 이러한 구조화된 버전 관리는 컨텐츠 검토 수명주기 전반에 걸쳐 투명성, 신뢰성 및 능률적인 협업을 보장합니다.
@@ -67,7 +77,7 @@ Adobe 시스템 관리자는 Adobe Admin Console에서 두 제품에 대한 사�
 
 >[!NOTE]
 >
->Workfront Proof은 [추가 사용자 역할](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)을 제공합니다. 일부 역할이 성과 마케팅 내부에 표시되는 것은 아닙니다. 그러나 시스템은 Workfront Proof 템플릿 내에 설정된 모든 역할을 수행합니다.
+> Workfront Proof은 [추가 사용자 역할](https://experienceleague.adobe.com/ko/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles)을 제공합니다. 일부 역할이 성과 마케팅 내부에 표시되는 것은 아닙니다. 그러나 시스템은 Workfront Proof 템플릿 내에 설정된 모든 역할을 수행합니다.
 
 ### 초안 및 증명
 

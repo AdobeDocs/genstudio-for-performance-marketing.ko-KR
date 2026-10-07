@@ -4,30 +4,41 @@ description: Adobe GenStudio for Performance Marketing에서 TikTok 인피드 �
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
-TQID: https://experienceleague.adobe.com/aK9mP2vR8xT4nW6yB1cF3hJ5kL7mN9pQ2rS4tU6vW8x
+TQID: 'https://experienceleague.adobe.com/aK9mP2vR8xT4nW6yB1cF3hJ5kL7mN9pQ2rS4tU6vW8x'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
 subfeature_v2:
   - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
   - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
   - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
   - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+    internal-label: Create prompt
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 84%
-
 ---
-
 # TikTok 경험
 
 [!DNL GenStudio for Performance Marketing]을(를) 사용하여 [[!DNL Create]](/help/user-guide/create/overview.md) 워크플로우에서 유료 미디어 경험으로 TikTok 광고를 만들 수 있습니다. 최종 검토 및 실행을 위해 콘텐츠를 TikTok Ads Manager에 전달하도록 크리에이티브 변형을 생성하고, 브랜드 및 채널 검사를 실행하고, [!DNL Content]에 게시하고, [[!DNL Activate]](/help/user-guide/activation/overview.md)을(를) 통해 활성화하십시오.

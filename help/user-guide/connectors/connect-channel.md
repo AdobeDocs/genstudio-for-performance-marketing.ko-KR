@@ -5,31 +5,46 @@ level: Intermediate
 role: Admin, Developer
 feature: Reporting and Insights, Delivery and Activation
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-TQID: https://experienceleague.adobe.com/bRZULjpCSNLeF7gVMmP1Kzm2OiWhRZwQ-X-1Z-a7IpY
+TQID: 'https://experienceleague.adobe.com/bRZULjpCSNLeF7gVMmP1Kzm2OiWhRZwQ-X-1Z-a7IpY'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
   - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
+  - id: ee346811-ac0a-4c8b-a4ad-0e52218e112c
+    internal-label: Delivery and activation
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Insights
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 275
+source-wordcount: '275'
 ht-degree: 0%
-
 ---
-
 # 유료 미디어 계정 연결
 
 _유료 미디어 계정_&#x200B;은(는) 사업자가 유료 광고 캠페인을 관리하고 실행하는 서드파티 광고 플랫폼의 계정을 의미합니다. 이러한 계정은 소셜 미디어 플랫폼 및 디스플레이 네트워크와 같은 유료 채널을 통해 제품, 서비스 또는 브랜드를 홍보하는 데 사용됩니다. 유료 미디어 계정을 GenStudio for Performance Marketing에 연결하면 데이터 교환을 간소화하고, [인사이트에서 캠페인 성과를 모니터링](/help/user-guide/insights/overview.md)할 수 있으며, [Activate로 새 광고 배치를 제공](/help/user-guide/activation/overview.md)할 수 있습니다.
