@@ -15,6 +15,10 @@ feature_v2:
     internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
 subfeature_v2:
   - id: be495d08-ecd1-455f-951e-c22de504e667
     internal-label: Content generation
@@ -34,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
+source-git-commit: 665b1c2970b0f0b322acd32187dd96c28a50b9d7
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 84%
@@ -96,7 +100,7 @@ GenStudio for Performance Marketing에 **편집기** 이상의 역할이 있는�
 1. 캔버스에서 **[!UICONTROL 브랜드]**, **[!UICONTROL 제품]**, **[!UICONTROL 사용자]** 및 **[!UICONTROL 언어]**&#x200B;를 선택합니다.
 1. [!DNL Content]에서 비디오를 선택하십시오.
 1. TikTok 헤드라인 카피에 대한 프롬프트를 입력합니다.
-1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL 생성]**을 클릭합니다.
    ![Tiktok 캔버스 컨트롤 만들기](../../assets/tiktok/tiktok-prompt.png){width="40%"}
 
 GenStudio for Performance Marketing은 4개의 광고 변형을 생성합니다.
