@@ -100,7 +100,7 @@ GenStudio for Performance Marketing에 **편집기** 이상의 역할이 있는�
 1. 캔버스에서 **[!UICONTROL 브랜드]**, **[!UICONTROL 제품]**, **[!UICONTROL 사용자]** 및 **[!UICONTROL 언어]**&#x200B;를 선택합니다.
 1. [!DNL Content]에서 비디오를 선택하십시오.
 1. TikTok 헤드라인 카피에 대한 프롬프트를 입력합니다.
-1. **[!UICONTROL 생성]**을 클릭합니다.
+1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
    ![Tiktok 캔버스 컨트롤 만들기](../../assets/tiktok/tiktok-prompt.png){width="40%"}
 
 GenStudio for Performance Marketing은 4개의 광고 변형을 생성합니다.
