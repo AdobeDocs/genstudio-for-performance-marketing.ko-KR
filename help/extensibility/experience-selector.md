@@ -205,7 +205,7 @@ MFE에서 [!DNL Experience]을(를) 선택하고 **[!UICONTROL Use]** 단추를 
         },
         "destination_url": {
             "fieldName": "destination_url",
-            "fieldValue": "https://www.adobe.com"
+            "fieldValue": "https://www.adobe.com/kr"
         },
         "description": {
             "fieldName": "description",
