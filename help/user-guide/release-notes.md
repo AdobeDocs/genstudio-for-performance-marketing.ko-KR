@@ -68,18 +68,34 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5d651c7ec00aff866ce1f3698521b5baf48b3385
+source-git-commit: 87749b66644ae6b322ccf872a9b21696d87b4b99
 workflow-type: tm+mt
-source-wordcount: '5824'
+source-wordcount: '5942'
 ht-degree: 0%
 ---
 # GenStudio for Performance Marketing 릴리스 노트
 
 이 릴리스 정보는 GenStudio for Performance Marketing 애플리케이션에 대한 최신 업데이트를 제공합니다.
 
-## 2026.09.15 {#latest}
+## 2026.10.15 {#latest}
 
 **새로운 기능:**
+
+### 음성 인쇄 및 시각적 큐를 사용하여 상태 저장 생성
+
+상태 저장 생성을 사용하면 매번 새로운 프롬프트로 다시 시작하지 않고 대화를 돌려 콘텐츠를 세분화할 수 있습니다. 세대는 이전 지침과 유지하는 변형을 기억한 다음 요청한 변경 사항만 적용합니다.
+
+LinkedIn 및 Meta과 같이 [!DNL Insights]을(를) 사용하는 채널에서 음성 인쇄를 통해 브랜드 보이스로 복사본을 유지합니다. 선택한 이미지 또는 비디오에 시각적 큐를 사용하며 웹 페이지 URL을 프롬프트에 참조 컨텍스트로 추가할 수 있습니다.
+
+[상태 저장 생성으로 콘텐츠 생성 및 세분화](/help/user-guide/create/stateful-generation.md)에서 자세히 알아보세요.
+
+### 수정 사항 및 개선 사항
+
+* 이제 벌크 활성화의 추적 ID가 경험 이름으로 자동으로 채워집니다.
+
+## 이전 릴리스 노트
+
++++2026.09.15 릴리스 정보
 
 ### 일괄 활성화
 
@@ -87,7 +103,7 @@ ht-degree: 0%
 
 [활성화 워크플로](/help/user-guide/activation/create-activation.md)에서 자세히 알아보세요.
 
-## 이전 릴리스 노트
++++
 
 +++2026.07.16 릴리스 정보
 
@@ -283,7 +299,7 @@ GenStudio for Performance Marketing은 이제 Content Credentials을 지원하�
 
 ### Firefly Image Model 4의 사용자 정의 모델
 
-* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4[&#128279;](/help/user-guide/create/generate-assets.md)에서 훈련된 사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
+* GenStudio for Performance Marketing은 이제 Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md)에서 훈련된 [사용자 지정 모델을 지원하여 향상된 사실감과 세부 정보로 향상된 브랜드 내 이미지 생성 기능을 제공합니다.
 
 ### Meta 단일 비디오 광고 활성화
 
@@ -549,7 +565,7 @@ Meta Ads에 대한 다중 종횡비 이미지 활성화를 사용하면 광고�
 * 캔버스에서 공간을 최대화하고 사용자 환경을 개선하기 위해 [콘텐츠 확인](/help/user-guide/guidelines/brand-validation.md) 및 검토 및 승인 기능을 새 오른쪽 작업 표시줄로 이동했습니다.
 * [브랜드를 업로드하거나 수동으로 추가](/help/user-guide/guidelines/add-guidelines.md#add-brands)하는 동안 흐름이 간소화되었습니다.
 * 캔버스에서 [변형 내의 이미지 자산을 추가 또는 교체](/help/user-guide/create/manage-variants.md#swap-image)하는 기능이 도입되었습니다.
-* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈[&#128279;](/help/user-guide/create/overview.md)에서 채널 범주 의 사용자 경험과 가시성을 개선했습니다.
+* 소유한 미디어, 유료 미디어 및 콘텐츠 섹션으로 구분하여 만들기 홈](/help/user-guide/create/overview.md)에서 채널 범주 [의 사용자 경험과 가시성을 개선했습니다.
 * [!DNL Insights] 테이블 및 갤러리 보기에서 필터링을 개선했습니다.
 
 +++
@@ -796,6 +812,6 @@ Beta 프로그램은 제품 개발을 구체화하고 일반 가용성 준비를
 
 **[!DNL Insights]**&#x200B;은(는) 콘텐츠 성능에 대한 실시간 평가를 제공하여 마케터가 전략을 최적화하고 데이터 중심의 결정을 내릴 수 있도록 지원합니다.
 
-GenStudio for Performance Marketing은 Adobe Express 및 Adobe AEM Assets을 포함한 다른 Adobe CX 엔터프라이즈 제품과 통합됩니다.
+GenStudio for Performance Marketing은 Adobe Express 및 Adobe AEM Assets을 포함한 다른 Adobe CX Enterprise 제품과 통합됩니다.
 
 +++
