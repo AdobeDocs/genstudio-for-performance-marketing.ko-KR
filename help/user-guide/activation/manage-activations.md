@@ -23,10 +23,10 @@ topic_v2:
     internal-label: Metadata
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
+source-git-commit: 7863995df08681a8a427277121a5fbeca131c6a9
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '326'
+ht-degree: 0%
 ---
 # 활성화 관리
 
@@ -43,6 +43,10 @@ ht-degree: 1%
 오른쪽 상단의 **[!UICONTROL 다시 시도]**&#x200B;를 클릭하여 실패한 활성화를 자동으로 다시 시도할 수 있습니다.
 
 게시된 행은 재제출에서 잠겨 있으며 대상 플랫폼의 기본 광고 관리자에서 광고에 대한 딥링크를 포함하므로 바로 이동하여 검토하거나 시작할 수 있습니다.
+
+## 광고 이름 생성
+
+조직의 명명 규칙을 사용하여 경험 정보에서 일관된 광고 이름을 생성합니다. 광고를 플랫폼에 보내기 전에 이름을 검토, 편집 또는 무시할 수 있습니다. [광고 이름 생성](generate-ad-names.md)을 참조하세요.
 
 ## 세부 사항 보기
 
